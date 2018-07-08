@@ -101136,7 +101136,7 @@ msgstr "創造洞穴"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.1
 msgid "trees..."
-msgstr "樹…"
+msgstr "樹……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.10
 msgid "Abigail's ectoplasm..."
@@ -101180,7 +101180,7 @@ msgstr "君主的悔恨……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.2
 msgid "pathos..."
-msgstr "情感…"
+msgstr "情感……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.20
 msgid "an inescapable nostalgia..."
@@ -101224,7 +101224,7 @@ msgstr "凄美的悲劇……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.3
 msgid "pines..."
-msgstr "松樹…"
+msgstr "松樹……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.30
 msgid "a hint of shadow..."
@@ -101252,35 +101252,35 @@ msgstr "原始的本能……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.36
 msgid "terrible darkness..."
-msgstr "可怕的黑暗正在上線……"
+msgstr "可怕的黑暗……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.37
 msgid "a touch of magic..."
-msgstr "一絲魔法生成中……"
+msgstr "一絲魔法……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.4
 msgid "spiders..."
-msgstr "蜘蛛…"
+msgstr "蜘蛛……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.5
 msgid "monsters..."
-msgstr "怪物…"
+msgstr "怪物……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.6
 msgid "a keen sense of despair..."
-msgstr "強烈的絕望感…"
+msgstr "強烈的絕望感……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.7
 msgid "Wilson's beard..."
-msgstr "威爾遜的鬍鬚…"
+msgstr "威爾遜的鬍鬚……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.8
 msgid "Maxwell's pocket squares..."
-msgstr "麥斯威爾的魔法書生成中……"
+msgstr "麥斯威爾的魔法書……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.9
 msgid "Wendy's pigtails..."
-msgstr "溫蒂的雙馬尾…"
+msgstr "溫蒂的雙馬尾……"
 
 #: STRINGS.UI.WORLDGEN.TITLE
 msgid "GENERATING WORLD"
@@ -101376,11 +101376,11 @@ msgstr "構造"
 
 #: STRINGS.UI.WORLDRESETDIALOG.BUTTONPROMPT1
 msgid "Hold "
-msgstr "拿住？"
+msgstr "按住"
 
 #: STRINGS.UI.WORLDRESETDIALOG.BUTTONPROMPT2
 msgid "to Reset Now"
-msgstr "立即去重置"
+msgstr "立即重置"
 
 #: STRINGS.UI.WORLDRESETDIALOG.RESET_BUTTON
 msgid "Reset Now"
@@ -101404,7 +101404,7 @@ msgstr "第%d天：無人生還"
 
 #: STRINGS.UI.WORLDRESETDIALOG.TITLE_LATEJOIN
 msgid "Day %d: Everyone else is dead. Save them!"
-msgstr "%d天：無人生還，拯救他們！"
+msgstr "第%d天：無人生還，拯救他們！"
 
 #: STRINGS.UI.WXPLOBBYPANEL.ACHIEVEMENT_UNLOCKED
 msgid "Achievement: {name}"
@@ -101480,7 +101480,7 @@ msgstr "沒有死亡"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT
 msgid "Mermified"
-msgstr "葬於魚腹"
+msgstr "葬身魚腹"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
 msgid "Gateway Activated!"
@@ -101552,7 +101552,7 @@ msgstr "強大的戰隊"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_XP_MOD
 msgid "debug test"
-msgstr "調試測試"
+msgstr "除錯測試"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_NO_PLAYER_DEATHS
 msgid "No Deaths"
@@ -101564,7 +101564,7 @@ msgstr "沒有隊友死亡"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_UNIQUE_CHARACTERS
 msgid "No Doubles Bonus"
-msgstr "無雙倍獎勵"
+msgstr "無重複獎勵"
 
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_MILESTONE_1
 msgid "Sapphire Medallion Earned"
@@ -101580,7 +101580,7 @@ msgstr "暴食者的讚賞已入手"
 
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES
 msgid "No Repeat Meals"
-msgstr "無重複的肉類"
+msgstr "無重複的菜肴"
 
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_NO_TRIBUTES_FAILED
 msgid "No Failed Offerings"
@@ -101596,7 +101596,7 @@ msgstr "無重複的生存者"
 
 #: STRINGS.UI.WXP_DETAILS.UNIQUE_CHARACTERS
 msgid "No Doubles Bonus"
-msgstr "無雙份獎賞"
+msgstr "無重複獎勵"
 
 #: STRINGS.UI.WXP_DETAILS.WEEKLY_FIRST_MATCH
 msgid "Weekly Match Bonus"
