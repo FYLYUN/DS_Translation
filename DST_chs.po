@@ -11652,7 +11652,7 @@ msgstr "伟大的神灵，请接受您卑微的仆人真诚献祭的祭品。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_ALTAR.GENERIC
 msgid "The beast grows restless when tis not fed."
-msgstr "每它无法及时得到献祭的食物时，将会变得暴躁不安。"
+msgstr "每当它没有得到献祭的食物时就会变得暴躁不安。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
 msgid "'Tis a post. Unworthy of mine attention."
@@ -11664,7 +11664,7 @@ msgstr "青藤攀爬在墙壁之上。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_ALTAR_QUEEN
 msgid "A colossal queen."
-msgstr "一位身形巨大的蜘蛛女王。"
+msgstr "一位身形巨大的女王。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_ALTAR_STATUE1
 msgid "Servant of a terrible god."
@@ -11676,7 +11676,7 @@ msgstr "这是献给神灵的祭品。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_BEEFALO
 msgid "Its days of war are past."
-msgstr "战争的日子已经过去了。"
+msgstr "它的战争已经结束了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_BERRYBUSH
 msgid "'Tis barren."
@@ -11928,7 +11928,7 @@ msgstr "入口已经关闭了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PORTAL_KEY
 msgid "'Tis the key to another world."
-msgstr "这是前往另一个世界的关键所在。"
+msgstr "这是前往另一个世界的钥匙。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_POT
 msgid "Room for more meat!"
@@ -11968,7 +11968,7 @@ msgstr "我是不会为你在英灵殿中设下灵位的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_BIKE
 msgid "A felled metal steed."
-msgstr "一个倒下的发条骑士。"
+msgstr "一个被击败的金属坐骑。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_CARRIAGE
 msgid "Twas pillaged long ago."
@@ -11980,7 +11980,7 @@ msgstr "这是一次罪恶突袭的现场。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_CHIMNEY
 msgid "It hath fallen."
-msgstr "烟囱已经跌落下去了。"
+msgstr "它已经倒下了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_CHIMNEY2
 msgid "Nothing of value remains."
@@ -12040,7 +12040,7 @@ msgstr "这是来自大自然的馈赠。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_SALT_RACK.GENERIC
 msgid "An ally to meat!"
-msgstr "使用肉食必不可少的调味材料！"
+msgstr "肉食的盟友！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_SALT_RACK.READY
 msgid "'Tis ready to be pillaged!"
@@ -31151,8 +31151,8 @@ msgid "It sheds light on nothing important."
 msgstr "它照耀着没有意义的东西。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_LAMP_SHORT
-msgid "The only light in my light is Abigail."
-msgstr "所有的光芒中，只有阿比盖尔才是我的光明。"
+msgid "The only light in my life is Abigail."
+msgstr "阿比盖尔是我生命中唯一的光芒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.QUAGMIRE_MEALINGSTONE
 msgid "I am ground down on the mealing stone of life."
@@ -83964,7 +83964,7 @@ msgstr "震耳欲聋的声音充斥在空气中没有停止的意思，\n谁敢�
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_critters
 msgid "It was once thought that the beasts of the Constant were too wild and ferocious to be tamed. As it turns out, all any critter needs to make friends is a bit of love."
-msgstr "人们曾经以为这些永恒的怪兽残忍狂野，难以驯服。然而事实证明，所有生灵都需要朋友，这是一种爱。"
+msgstr "人们曾经以为这些永恒之境的怪兽残忍狂野，难以驯服。然而事实证明，所有生灵都需要朋友，这就是爱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_deerclops_yule
 msgid "The night had seemed dead 'fore the sound broke the hush.\nThere! Something doth stir in the thick underbrush.\nTHUMP, THUMP, CLOMP, CLOMP, sound its footsteps together,\nThen you sight the clumped fur, the thin legs like black leather.\nIts eye trains on yours in a horrid red glow,\n...How swift might you flee through the knee-deep snow?"
@@ -84640,7 +84640,7 @@ msgstr "将您的头像设置为猎犬。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_icehound
 msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
-msgstr "将您的头像设置为蓝色猎犬。\n\n在麦斯威尔还是梦魇之王时，他将蓝宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
+msgstr "将您的头像设置为蓝色猎犬。\n\n在麦斯威尔还坐在噩梦王座上时，他将蓝宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
 msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Shadow Throne."
@@ -84756,7 +84756,7 @@ msgstr "将您的头像设置为兔子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redhound
 msgid "Set your profile icon to a fiery Red Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
-msgstr "将您的头像设置为红色猎犬。\n\n在麦斯威尔还是梦魇之王时，他将红宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
+msgstr "将您的头像设置为红色猎犬。\n\n在麦斯威尔还坐在噩梦王座上时，他将红宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
 msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Shadow Throne."
@@ -86732,7 +86732,7 @@ msgstr "慢拍表情"
 
 #: STRINGS.SKIN_NAMES.emote_swoon
 msgid "Swoon Emote"
-msgstr "昏厥"
+msgstr "昏厥的表情"
 
 #: STRINGS.SKIN_NAMES.emote_yawn
 msgid "Yawn Emote"
@@ -88144,7 +88144,7 @@ msgstr "节日挂饰"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_10
 msgid "Magnificent Klaus Ornament"
-msgstr "豪华克劳斯挂饰"
+msgstr "华丽的克劳斯饰品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_11
 msgid "Magnificent No-Eyed Deer Ornament"
@@ -91084,7 +91084,7 @@ msgstr "素食主义"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC
 msgid "Escape the Gorge by offering 10 meals or less"
-msgstr "献祭10道以内的美食离开暴食沼地"
+msgstr "献祭10道以内的美食逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE
 msgid "Quick Lunch"
@@ -91092,7 +91092,7 @@ msgstr "午间便饭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活远古大门并离开暴食沼地"
+msgstr "激活远古大门并逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -91100,7 +91100,7 @@ msgstr "逃脱！"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC
 msgid "Escape the Gorge having fulfilled 15 or more of the Gnaw's cravings"
-msgstr "在献祭15道以上暴食者想要的美食后离开暴食沼地"
+msgstr "在献祭15道以上暴食者想要的美食后逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE
 msgid "Gnaw's Gnosh"
@@ -101965,3 +101965,7 @@ msgstr "查佛蛋糕"
 #: STRINGS.NAMES.QUAGMIRE_FOOD_069
 msgid "Cheesecake"
 msgstr "芝士蛋糕"
+
+#: STRINGS.UI.WXP_DETAILS.QUAGMIRE_CHALLENGE
+msgid "Tournament Entry"
+msgstr "已进入锦标赛排行"
