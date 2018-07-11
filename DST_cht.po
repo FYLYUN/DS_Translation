@@ -89848,7 +89848,7 @@ msgstr "著裝"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.CRAFTABLE
 msgid "Craftable"
-msgstr "技能"
+msgstr "可製造物品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.EMOJI
 msgid "Emoticon"
@@ -89872,11 +89872,11 @@ msgstr "動物"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.PLAYERPORTRAIT
 msgid "Player Portrait"
-msgstr "玩家背景"
+msgstr "人物背景"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.PROFILEFLAIR
 msgid "Profile Icon"
-msgstr "圖標"
+msgstr "人物頭像"
 
 #: STRINGS.SMOLDERINGITEM
 msgid "Smoldering"
@@ -90380,7 +90380,7 @@ msgstr "感謝您參加暴食活動"
 
 #: STRINGS.THANKS_POPUP.LUNAR
 msgid "Thanks for playing during the\nYear of the Gobbler event"
-msgstr "感謝您參加「雞年大吉」特別活動內容。"
+msgstr "感謝您參加「雞年大吉」特別活動內容"
 
 #: STRINGS.THANKS_POPUP.VARG
 msgid "Thanks for playing during the\nYear of the Varg event"
@@ -90420,7 +90420,7 @@ msgstr "登陸"
 
 #: STRINGS.UI.ACCOUNT.LOGINWITHSTEAM
 msgid "Login With Steam"
-msgstr "登陸Steam"
+msgstr "使用Steam登陸"
 
 #: STRINGS.UI.ACCOUNT.PASSWORD
 msgid "Password"
@@ -90900,7 +90900,7 @@ msgstr "WX-78"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
 msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
-msgstr "分別使用烤箱，烹煮鍋和燒烤架烹飪並完成至少一道菜。"
+msgstr "分別使用烤箱，烹煮鍋和燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
 msgid "Bake Boss"
@@ -90924,7 +90924,7 @@ msgstr "主廚"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
-msgstr "使用大砂鍋，大烹煮鍋或大燒烤架烹飪並完成至少一道菜。"
+msgstr "使用大砂鍋，大烹煮鍋或大燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
 msgid "Big Meal"
@@ -91020,7 +91020,7 @@ msgstr "香料紛爭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
-msgstr "分別使用大砂鍋，大烹煮鍋和大燒烤架烹飪並完成至少一道菜。"
+msgstr "分別使用大砂鍋，大烹煮鍋和大燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
 msgid "Snack of All Trades"
@@ -91028,7 +91028,7 @@ msgstr "各式美食"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC
 msgid "Play a 3-player match where everyone has a turn to cook and complete at least two meals"
-msgstr "進行一次三人比賽且每個人烹飪並完成至少兩道菜。"
+msgstr "進行一次三人比賽且每個人烹飪並完成至少兩道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE
 msgid "Three Many Cooks"
@@ -91044,7 +91044,7 @@ msgstr "大殺特殺"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC
 msgid "Escape without satisfying any cravings"
-msgstr "在不滿足任何祭獻要求的情況下逃脫。"
+msgstr "在不滿足任何祭獻要求的情況下逃脫"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE
 msgid "Never Satisfied"
@@ -91076,7 +91076,7 @@ msgstr "紅色標記"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC
 msgid "Escape without any meals cooked with meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
-msgstr "逃脫過程中僅祭獻不含任何肉類材料（小肉，肉，鮭魚或蟹肉）的菜品。"
+msgstr "逃脫過程中僅祭獻不含任何肉類材料（小肉，肉，鮭魚或蟹肉）的菜品"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE
 msgid "Meaty Neglect"
@@ -99732,11 +99732,11 @@ msgstr "返回"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CHANGE_SORT
 msgid "Change Sort"
-msgstr "排序"
+msgstr "更改排序"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CHANGE_TABS
 msgid "Change Tab"
-msgstr "更改標籤"
+msgstr "切換標籤頁"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CHAR_AGE_1
 msgid "Survived "
@@ -99752,15 +99752,15 @@ msgstr "天數"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CLANONLY
 msgid "Steam Group:"
-msgstr "Steam組"
+msgstr "Steam群組"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER
 msgid "Private Group Server (Your Group)"
-msgstr "私人群組伺服器"
+msgstr "私人群組伺服器（所在群組）"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER
 msgid "Group Server (Your Group)"
-msgstr "群組伺服器"
+msgstr "群組伺服器（所在群組）"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER
 msgid "Group Server"
@@ -99960,7 +99960,7 @@ msgstr "最少活躍玩家"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MINE
 msgid "Mine"
-msgstr "公開"
+msgstr "我的"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MINOPENSLOTS
 msgid "Min Slots Open:"
@@ -100483,12 +100483,12 @@ msgid "{skin} will change the appearance of {item}."
 msgstr "{skin} 會改變 {item} 的外觀。\n"
 
 #: STRINGS.UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_POSTFIX
-msgid " from split screen"
-msgstr "從分屏"
+msgid " from split screen" --[[PREFIX + playername + POSTFIX]]
+msgstr "踢除"
 
 #: STRINGS.UI.SPLITSCREEN_REGISTRATION.KICK_PLAYER_PREFIX
 msgid "Kick "
-msgstr "踢除"
+msgstr "從分屏中把"
 
 #: STRINGS.UI.SPLITSCREEN_REGISTRATION.PLAYER_2_PRESS_START_POSTFIX
 msgid "TO JOIN"
@@ -100544,7 +100544,7 @@ msgstr "這會摧毀你當前的世界，但你的物品將會保留\n。"
 
 #: STRINGS.UI.TELEPORTNO
 msgid "Stay here."
-msgstr "別亂跑"
+msgstr "留在這裡。"
 
 #: STRINGS.UI.TELEPORTTITLE
 msgid "Journey onwards?"
@@ -100572,11 +100572,11 @@ msgstr "返回"
 
 #: STRINGS.UI.TRADESCREEN.BASE
 msgid "Head"
-msgstr "頭"
+msgstr "頭部"
 
 #: STRINGS.UI.TRADESCREEN.BODY
 msgid "Body"
-msgstr "身"
+msgstr "身體"
 
 #: STRINGS.UI.TRADESCREEN.CANCEL
 msgid "Cancel"
@@ -100616,7 +100616,7 @@ msgstr "腿"
 
 #: STRINGS.UI.TRADESCREEN.LESS_THAN_DAY
 msgid "Less Than A Day Remaining"
-msgstr "剩餘時間不到一天。"
+msgstr "剩餘時間不到一天"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.HAND.1
 msgid "Test"
@@ -100636,7 +100636,7 @@ msgstr "我不得不承認，寶箱對於我來說一直是一種嘉\n獎。"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.12
 msgid "[Chortle] You mortals have been quite enamored with the throne, haven't you?"
-msgstr "你們這些凡人一直覬覦我的王座，不是嗎？"
+msgstr "[大笑]你們這些凡人一直覬覦我的王座，不是嗎？"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.13
 msgid "[The shadow murmurs something, but you cannot comprehend the words.]"
@@ -100648,7 +100648,7 @@ msgstr "你是否曾經厭惡過這疲憊又蒼老的凡夫肉體呢\n？"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.3
 msgid "[Sigh] Immortality is such a burden."
-msgstr "[Sigh] 不朽讓我感到負擔累累。"
+msgstr "[嘆氣]不朽讓我感到負擔累累。"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.4
 msgid "You're a long way from home are you not, little mortal?"
@@ -100664,7 +100664,7 @@ msgstr "畏懼黑暗吧，卑微的凡人們！"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.7
 msgid "[Chortle] Have you met her yet?"
-msgstr "[Chortle] 你見過她了嗎？"
+msgstr "[大笑] 你見過她了嗎？"
 
 #: STRINGS.UI.TRADESCREEN.MAGICSKIN_COLLECTOR_SPEECH.IDLE.8
 msgid "Your realm is a bit frazzled around the edges, hm?"
@@ -100756,15 +100756,15 @@ msgstr "請選擇你想用於交換的物品"
 
 #: STRINGS.UI.TRADESCREEN.SERVER_ERROR_BODY
 msgid "There was an error trading your items. Please login again to refresh your account inventory."
-msgstr "發生了一個交易的錯誤。請重新刷新你的庫存\n。"
+msgstr "交易你的物品時發生了一個錯誤。請重新登陸以刷新你的庫存。"
 
 #: STRINGS.UI.TRADESCREEN.SERVER_ERROR_TITLE
 msgid "Error Trading Items"
-msgstr "錯誤"
+msgstr "交易時發生錯誤"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1
 msgid "Help a poor old trader out with a few more <rarity> items and I'll give ya a higher quality item in exchange. Guaranteed."
-msgstr "我需要更多高品質的物\n品來幫助非洲酋長，讓\n他們也能有幾個<rarity>\n的物品。我\n會給你一個更高品質的\n物品作為交換，放心吧\n。"
+msgstr "再多幾個<rarity>\n的物品，幫幫我這個可\n憐的老商人吧。我會給你\n一個更高品質的物品作\n為交換，放心吧。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2
 msgid "I'm gonna need a few more <rarity> items to make a trade. I gotta cover my overhead, ya know? But ya'll get a better item in exchange."
@@ -100792,11 +100792,11 @@ msgstr "愉快的交易。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2
 msgid "Pleasure doin' business with ya."
-msgstr "做生意挺開心的呢。"
+msgstr "能和你做生意是我的榮幸。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1
 msgid "Ya may not feel young, but I've been tradin' longer than ya been around, young pup."
-msgstr "你可能覺得自己很年長\n,但是我貿易的時間比\n你丫活的時間還長，狗\n崽子。"
+msgstr "你可能覺得自己很年長\n,但是我貿易的時間比\n你活的時間還長，小兔\n崽子。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2
 msgid "I've always been a loner, me. Tha boss mostly lets me alone, which suits me fine."
@@ -100808,7 +100808,7 @@ msgstr "只要你們願意，我可以\n在這裡站著陪你們一整\n天。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4
 msgid "My wagon's pulled by a nox. 'Es a good 'un, but 'e can't hold a candle to my old mule, Shadow."
-msgstr "我的旅行車帶來了氮氧\n化物，雖然這樣不好，\n但我別無他法~"
+msgstr "我的貨車是靠氮氧化物\n驅動的，雖然這樣不好，\n但總不能拿我的老騾子\n「幽靈」來比吧。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5
 msgid "Once, when I was but a young shaver... ah, but ya don' wanna listen to an old trader's stories."
@@ -100816,11 +100816,11 @@ msgstr "當我還是一個年輕的理\n發師的時候…哦，你不\n想聽�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6
 msgid "What's a nox? Well, I don't know as I can rightly describe it. It's kinda like an ox, but not."
-msgstr "什麼是氮氧化物（nox）\n？嗯，我不知道我\n能不能正確地描述它。\n它有點像一頭牛（ox）\n，好冷。"
+msgstr "什麼是氮氧化物（nox）\n？嗯，我不知道我\n能不能正確地描述它。\n它有點像一頭牛（ox）\n，可惜並不是。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1
 msgid "Ya can bang on that joystick all ya want but it won't do ya no good."
-msgstr "你隨時可以拉下那根操\n縱桿，不過~~~"
+msgstr "你隨時可以拉下那根操\n縱桿，不過它不會給你帶\n來什麼好處"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2
 msgid "Don't ya go breakin' tha joystick, now. Ya don' need it anyhow."
@@ -100828,11 +100828,11 @@ msgstr "不要去碰那根操縱桿！\n你不需要它。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3
 msgid "Up, down, left, right, tha joystick don' do nothin'."
-msgstr "上上下下左右左右BA\nBA。哦，我覺得你應\n該懂我在說什麼。"
+msgstr "上上下下左右左右BA\nBA。這根操縱桿啥也做\n不了。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1
 msgid "Here ya go, one very fine <item>!"
-msgstr "是的，一個非常精細的\n<item>！"
+msgstr "是的，一個非常精美的\n<item>！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.2
 msgid "Look a' that, ya won a <item>. C'mon back anytime, now."
@@ -100880,11 +100880,11 @@ msgstr "我在尋找一些特別的東\n西。如果你能給我的話\n，我�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3
 msgid "The special deals are cheaper than tha normal ones, but ya gotta give me the exact things I'm lookin' for."
-msgstr "特別優惠比正常的便宜\n，但你得給我正在尋找\n的東西。"
+msgstr "特別優惠比正常的便宜\n，但你得提供我正在尋找\n的東西。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1
 msgid "Ya got a heap 'o items? Want better items? Well, ya come to tha right place! Put 'em in that thar machine!"
-msgstr "你有一堆垃圾嗎？想要\n更好的物品嗎？快醒醒\n吧！玄不救非，氪不改\n命，懂？"
+msgstr "你手裡的東西堆積如山？\n想要更好的物品？那麼，\n你來對地方了！把它們\n放到那台機器里！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2
 msgid "Got too many items? I can help ya with that problem! Stick 'em in my machine an' trade 'em for somethin' better!"
@@ -100908,7 +100908,7 @@ msgstr "抱歉,我不能無中生有\n，你懂的。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3
 msgid "If ya find any items while you're adventuring around out there, ya can bring the ones ya don't need ta me."
-msgstr "如果你在冒險中撿到了\n啥不需要的東西，你可\n以把你它們給我。」"
+msgstr "如果你在冒險中發現了\n啥不需要的東西，你可\n以把你它們給我。」"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADE.1
 msgid "It'll be here in a jiffy."
@@ -100924,11 +100924,11 @@ msgstr "應該很快就能出現了。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.1
 msgid "All right, kid. Give tha button a push to getcher item!"
-msgstr "是的，小鬼"
+msgstr "好了，小鬼。按一下那\n個按鈕來換取東西吧！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.2
 msgid "Just push tha button to start tha trade!"
-msgstr "按下那個按鈕開始合成\n吧！"
+msgstr "按下那個按鈕開始交易\n吧！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.TRADEAVAIL.3
 msgid "If ya wanna make tha trade, just push tha green button."
@@ -100936,7 +100936,7 @@ msgstr "如果你想做這筆交易，\n就按下那個綠色按鈕吧。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.1
 msgid "Slow down there, greenhorn. Are ya sure ya wanna gimme your last one 'o those? Ya won't be able ta use it anymore if ya do."
-msgstr "慢著，菜鳥。你確定你\n要把最後一件都給我？\n如果你真這樣做，你就\n沒家當了。"
+msgstr "慢著，菜鳥。你確定你\n要把最後一件都給我？\n如果你真這樣做，你就\n無法再使用它了。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.2
 msgid "Wait jest a tick there. Tha's your last one o' those things. Ya won't be able to use it anymore if ya trade it away."
@@ -100944,7 +100944,7 @@ msgstr "稍等一下，那是你最後\n一件了。如果你把它給\n我了�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
 msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
-msgstr "你沒有別的玩意了，你\n確定要把它清除掉嗎？\n當然，你要給我我不會\n拒絕的。"
+msgstr "這些玩意你只有這麼多，\n你確定不想要它了嗎？\n當然，你要給我我不會\n拒絕的。"
 
 #: STRINGS.UI.TRADESCREEN.SOLD_OUT
 msgid "Sold Out"
@@ -100972,11 +100972,11 @@ msgstr "交易"
 
 #: STRINGS.UI.TRADESCREEN.WARNING
 msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade these items?"
-msgstr "如果你把最後一個給了我，你就沒東西穿了！\n你確定要這樣做嗎？"
+msgstr "如果你把最後一個給了我，你就穿不了它了！\n你確定要交易這些物品嗎？"
 
 #: STRINGS.UI.TRADESCREEN.WARNING_SINGLE
 msgid "You won't be able to wear an item if you give your last one away! Do you really want to trade this item?"
-msgstr "如果你把最後一個給了我，你就沒東西穿了！\n你確定要這樣做嗎？"
+msgstr "如果你把最後一個給了我，你就穿不了它了！\n你確定要交易這件物品嗎？"
 
 #: STRINGS.UI.UNLOCKMAXWELL.BODY1
 msgid "The key looks like it will fit. You can free "
@@ -100984,7 +100984,7 @@ msgstr "鑰匙看起來很合適。你自由了"
 
 #: STRINGS.UI.UNLOCKMAXWELL.BODY2
 msgid ", but I doubt %s captors will be pleased..."
-msgstr "，但我懷疑%s捕獲者將會很高興……"
+msgstr "，但我懷疑%s捕獲者會不樂意的……"
 
 #: STRINGS.UI.UNLOCKMAXWELL.NO
 msgid "No"
@@ -101016,7 +101016,7 @@ msgstr "你現在不能運行 「%s」 。"
 
 #: STRINGS.UI.USERCOMMANDS.MISSINGPARAMSFMT
 msgid "Missing parameters! Type /help %s for more info."
-msgstr "缺少參數！輸入/help%s來獲得\n更多信息。"
+msgstr "缺少參數！輸入「/help %s」來獲得\n更多信息。"
 
 #: STRINGS.UI.USERCOMMANDS.NOTALLOWEDFMT
 msgid "You don't have permission to run '%s'."
@@ -101288,91 +101288,91 @@ msgstr "世界生成中"
 
 #: STRINGS.UI.WORLDGEN.VERBS.1
 msgid "Wrangling"
-msgstr "處理"
+msgstr "正在處理"
 
 #: STRINGS.UI.WORLDGEN.VERBS.10
 msgid "Crafting"
-msgstr "製作"
+msgstr "正在製作"
 
 #: STRINGS.UI.WORLDGEN.VERBS.11
 msgid "Imbuing"
-msgstr "澆灌"
+msgstr "正在澆灌"
 
 #: STRINGS.UI.WORLDGEN.VERBS.12
 msgid "Randomizing"
-msgstr "隨機選擇"
+msgstr "正在隨機選擇"
 
 #: STRINGS.UI.WORLDGEN.VERBS.13
 msgid "Redecorating"
-msgstr "重新裝飾中"
+msgstr "正在重新裝飾"
 
 #: STRINGS.UI.WORLDGEN.VERBS.14
 msgid "Sprucing up"
-msgstr "打理中"
+msgstr "正在打理"
 
 #: STRINGS.UI.WORLDGEN.VERBS.15
 msgid "Manifesting"
-msgstr "維護中"
+msgstr "正在維護"
 
 #: STRINGS.UI.WORLDGEN.VERBS.16
 msgid "Summoning"
-msgstr "召喚中"
+msgstr "正在召喚"
 
 #: STRINGS.UI.WORLDGEN.VERBS.17
 msgid "Compiling"
-msgstr "編譯中"
+msgstr "正在編譯"
 
 #: STRINGS.UI.WORLDGEN.VERBS.18
 msgid "Building"
-msgstr "建造中"
+msgstr "正在建造"
 
 #: STRINGS.UI.WORLDGEN.VERBS.19
 msgid "Spawning"
-msgstr "生成中"
+msgstr "正在孵化"
 
 #: STRINGS.UI.WORLDGEN.VERBS.2
 msgid "Generating"
-msgstr "生成"
+msgstr "正在生成"
 
 #: STRINGS.UI.WORLDGEN.VERBS.20
 msgid "Rendering"
-msgstr "渲染中"
+msgstr "正在渲染"
 
 #: STRINGS.UI.WORLDGEN.VERBS.21
 msgid "Enchanting"
-msgstr "施法中"
+msgstr "正在施法"
 
 #: STRINGS.UI.WORLDGEN.VERBS.22
 msgid "Solving"
-msgstr "解決中"
+msgstr "正在解決"
 
 #: STRINGS.UI.WORLDGEN.VERBS.3
 msgid "Herding"
-msgstr "放養"
+msgstr "正在放養"
 
 #: STRINGS.UI.WORLDGEN.VERBS.4
 msgid "Embiggening"
-msgstr "擴大"
+msgstr "正在擴大"
 
 #: STRINGS.UI.WORLDGEN.VERBS.5
 msgid "Iterating upon"
-msgstr "遍歷"
+msgstr "正在遍歷"
 
 #: STRINGS.UI.WORLDGEN.VERBS.6
 msgid "Insinuating"
-msgstr "映射"
+msgstr "正在映射"
 
 #: STRINGS.UI.WORLDGEN.VERBS.7
 msgid "Reticulating"
-msgstr "網狀化"
+msgstr "正在網路化"
 
 #: STRINGS.UI.WORLDGEN.VERBS.8
 msgid "Inserting"
-msgstr "插入"
+msgstr "正在插入"
 
 #: STRINGS.UI.WORLDGEN.VERBS.9
 msgid "Framing"
-msgstr "構造"
+msgstr "正在構造"
 
 #: STRINGS.UI.WORLDRESETDIALOG.BUTTONPROMPT1
 msgid "Hold "
@@ -101524,7 +101524,7 @@ msgstr "每日首次遊戲獎勵"
 
 #: STRINGS.UI.WXP_DETAILS.DAILY_FIRST_WIN
 msgid "Daily Victory Bonus"
-msgstr "首勝獎勵"
+msgstr "每日首勝獎勵"
 
 #: STRINGS.UI.WXP_DETAILS.DURATION
 msgid "Time"
@@ -101536,7 +101536,7 @@ msgstr "和好友一起玩的獎勵"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_1
 msgid "Pit Pigs Defeated"
-msgstr "打敗了豬人群"
+msgstr "擊殺煉獄豬"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
 msgid "Crocommanders Defeated"
@@ -101616,7 +101616,7 @@ msgstr "主控制器斷開連接"
 
 #: STRINGS.UI.XB1_USER_DIALOG.PRESS_A_ON_NEW
 msgid "Press A on a new one to continue."
-msgstr "按A一個新的循環。"
+msgstr "在新控制器上按A繼續遊戲。"
 
 #: STRINGS.UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER
 msgid "Press A to connect as the main user."
