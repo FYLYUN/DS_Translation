@@ -96388,7 +96388,7 @@ msgstr "禁用"
 
 #: STRINGS.UI.MODSSCREEN.DISABLED_ERROR
 msgid "Crashed! Disabled."
-msgstr "崩潰！禁止。"
+msgstr "崩潰！已禁用。"
 
 #: STRINGS.UI.MODSSCREEN.DISABLED_MANUAL
 msgid "This mod is disabled."
@@ -100764,11 +100764,11 @@ msgstr "交易時發生錯誤"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.1
 msgid "Help a poor old trader out with a few more <rarity> items and I'll give ya a higher quality item in exchange. Guaranteed."
-msgstr "再多幾個<rarity>\n的物品，幫幫我這個可\n憐的老商人吧。我會給你\n一個更高品質的物品作\n為交換，放心吧。"
+msgstr "再多幾個<rarity>的物\n品，幫幫我這個可憐的\n老商人吧。我會給你一個\n更高品質的物品作為交\n換，放心吧。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.2
 msgid "I'm gonna need a few more <rarity> items to make a trade. I gotta cover my overhead, ya know? But ya'll get a better item in exchange."
-msgstr "我需要一些更為稀有的\n<rarity>來做\n生意。但你也別擔心，\n作為回報你會得到一個\n更好的物品。"
+msgstr "我需要一些更為稀有的\n<rarity>物品來做生意\n。但你也別擔心，作為\n回報你會得到一個更好\n的物品。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.3
 msgid "Tha's it, fill the machine on up with <rarity> items and ya'll get a higher quality item back out."
@@ -100776,7 +100776,7 @@ msgstr "就是它，填補了這台機\n器上的<rarity>項目同\n時將獲得
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORE.4
 msgid "Tha's tha ticket. Just bang a few more a those <rarity> items in tha machine to get a better item!"
-msgstr "就是它，終於可以填補\n一部分<rarity>\n的物品了。當然了，\n你將獲得更高質量的物\n品。"
+msgstr "就是它，終於可以填補\n一部分<rarity>的物品\n了。當然了，你將獲得\n更高質量的物品。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.1
 msgid "Ya got the rest of tha stuff I'm lookin' for? If not, come back in a few days an' there might be a new deal."
@@ -100784,7 +100784,7 @@ msgstr "有你想要的東西嗎？如\n果沒有，過幾天再來看\n看吧�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.ADDMORESPECIALS.2
 msgid "I just need tha rest of the items on tha list. Bang 'em on in tha machine an' it'll spit out a higher quality item for ya."
-msgstr "我只需要在這個列表上\n的其他物品。\n「Duang」的一聲，這台機\n器就會吐出一個更高品\n質的物品。"
+msgstr "我只需要在這個列表上\n的其他物品。「Dua\nng」的一聲，這台機\n器就會吐出一個更高品\n質的物品。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.1
 msgid "Pleased ta meecha."
@@ -100792,11 +100792,11 @@ msgstr "愉快的交易。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.HAND.2
 msgid "Pleasure doin' business with ya."
-msgstr "能和你做生意是我的榮幸。"
+msgstr "能和你做生意是我的榮\n幸。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.1
 msgid "Ya may not feel young, but I've been tradin' longer than ya been around, young pup."
-msgstr "你可能覺得自己很年長\n,但是我貿易的時間比\n你活的時間還長，小兔\n崽子。"
+msgstr "你可能覺得自己很年長\n，但是我貿易的時間比\n你活的時間還長，小兔\n崽子。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.2
 msgid "I've always been a loner, me. Tha boss mostly lets me alone, which suits me fine."
@@ -100808,7 +100808,7 @@ msgstr "只要你們願意，我可以\n在這裡站著陪你們一整\n天。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.4
 msgid "My wagon's pulled by a nox. 'Es a good 'un, but 'e can't hold a candle to my old mule, Shadow."
-msgstr "我的貨車是靠氮氧化物\n驅動的，雖然這樣不好，\n但總不能拿我的老騾子\n「幽靈」來比吧。"
+msgstr "我的貨車是靠氮氧化物\n驅動的，雖然這樣不好\n，但總不能拿我的老騾\n子「幽靈」來比吧。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.5
 msgid "Once, when I was but a young shaver... ah, but ya don' wanna listen to an old trader's stories."
@@ -100816,11 +100816,11 @@ msgstr "當我還是一個年輕的理\n發師的時候…哦，你不\n想聽�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.IDLE.6
 msgid "What's a nox? Well, I don't know as I can rightly describe it. It's kinda like an ox, but not."
-msgstr "什麼是氮氧化物（nox）\n？嗯，我不知道我\n能不能正確地描述它。\n它有點像一頭牛（ox）\n，可惜並不是。"
+msgstr "什麼是氮氧化物（no\nx）？嗯，我不知道我\n能不能正確地描述它。\n它有點像一頭牛（ox\n），可惜並不是。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.1
 msgid "Ya can bang on that joystick all ya want but it won't do ya no good."
-msgstr "你隨時可以拉下那根操\n縱桿，不過它不會給你帶\n來什麼好處"
+msgstr "你隨時可以拉下那根操\n縱桿，不過它不會給你\n帶來什麼好處。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.2
 msgid "Don't ya go breakin' tha joystick, now. Ya don' need it anyhow."
@@ -100828,7 +100828,7 @@ msgstr "不要去碰那根操縱桿！\n你不需要它。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.JOYSTICK.3
 msgid "Up, down, left, right, tha joystick don' do nothin'."
-msgstr "上上下下左右左右BA\nBA。這根操縱桿啥也做\n不了。"
+msgstr "上上下下左右左右BA\nBA。這根操縱桿啥也\n做不了。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.RESULT.1
 msgid "Here ya go, one very fine <item>!"
@@ -100880,11 +100880,11 @@ msgstr "我在尋找一些特別的東\n西。如果你能給我的話\n，我�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.SPECIALS.3
 msgid "The special deals are cheaper than tha normal ones, but ya gotta give me the exact things I'm lookin' for."
-msgstr "特別優惠比正常的便宜\n，但你得提供我正在尋找\n的東西。"
+msgstr "特別優惠比正常的便宜\n，但你得提供我正在尋\n找的東西。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.1
 msgid "Ya got a heap 'o items? Want better items? Well, ya come to tha right place! Put 'em in that thar machine!"
-msgstr "你手裡的東西堆積如山？\n想要更好的物品？那麼，\n你來對地方了！把它們\n放到那台機器里！"
+msgstr "你手裡的東西堆積如山\n？想要更好的物品？那\n麼，你來對地方了！把\n它們放到那台機器里！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START.2
 msgid "Got too many items? I can help ya with that problem! Stick 'em in my machine an' trade 'em for somethin' better!"
@@ -100904,7 +100904,7 @@ msgstr "當你獲得新的禮物的時\n候，記得再來光顧！"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.2
 msgid "Sorry, but I can't give ya something for nothing, ya know."
-msgstr "抱歉,我不能無中生有\n，你懂的。"
+msgstr "抱歉，我不能無中生有\n，你懂的。"
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.START_EMPTY.3
 msgid "If ya find any items while you're adventuring around out there, ya can bring the ones ya don't need ta me."
@@ -100944,7 +100944,7 @@ msgstr "稍等一下，那是你最後\n一件了。如果你把它給\n我了�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
 msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
-msgstr "這些玩意你只有這麼多，\n你確定不想要它了嗎？\n當然，你要給我我不會\n拒絕的。"
+msgstr "這些玩意你只有這麼多\n，你確定不想要它了嗎\n？當然，你要給我我不\n會拒絕的。"
 
 #: STRINGS.UI.TRADESCREEN.SOLD_OUT
 msgid "Sold Out"
@@ -101739,11 +101739,11 @@ msgid "Stone Soup"
 msgstr "石頭湯"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_013
-msgid "Croquettes"
+msgid "Croquette"
 msgstr "油炸餅"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_014
-msgid "Roasted Vegetables"
+msgid "Roast Vegetables"
 msgstr "烤蔬菜"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_015
@@ -101771,7 +101771,7 @@ msgid "Sliders"
 msgstr "小漢堡"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_021
-msgid "Fistfull of Jam"
+msgid "Fist Full of Jam"
 msgstr "大把果醬"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_022
@@ -101839,7 +101839,7 @@ msgid "Curry"
 msgstr "咖喱"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_038
-msgid "Spaghetti And Meatballs"
+msgid "Spaghetti and Meatball"
 msgstr "意式肉丸面"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_039
@@ -101851,7 +101851,7 @@ msgid "Poached Fish"
 msgstr "水煮魚"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_041
-msgid "Shepherds Pie"
+msgid "Shepherd's Pie"
 msgstr "牧羊人派"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_042
@@ -101883,11 +101883,11 @@ msgid "Grilled Cheese"
 msgstr "烤芝士三明治"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_049
-msgid "Cream of Mushrooms"
+msgid "Cream of Mushroom Soup"
 msgstr "奶油蘑菇湯"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_050
-msgid "Pierogies"
+msgid "Pierogi"
 msgstr "波蘭餃子"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_051
@@ -101899,8 +101899,8 @@ msgid "Cheeseburger"
 msgstr "芝士牛肉堡"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_053
-msgid "Fettuccine"
-msgstr "義大利寬面"
+msgid "Creamy Fettuccine"
+msgstr "奶油寬意麵"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_054
 msgid "Onion Soup"
@@ -101969,3 +101969,12 @@ msgstr "芝士蛋糕"
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_CHALLENGE
 msgid "Tournament Entry"
 msgstr "已進入錦標賽排行"
+
+#: STRINGS.UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_TITLE
+msgid "Bad Password"
+msgstr "密碼無效"
+
+#: STRINGS.UI.SERVERCREATIONSCREEN.INVALIDPASSWORD_BODY
+msgid "Password cannot have spaces at the beginning or at the end!"
+msgstr "密碼前後不能包含空格！"
+
