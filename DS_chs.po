@@ -75480,7 +75480,7 @@ msgstr "甘薯种子"
 
 #: STRINGS.NAMES.SWIMMINGHORROR
 msgid "Swimming Horror"
-msgstr "海洋影怪"
+msgstr "游动的恐惧"
 
 #: STRINGS.NAMES.SWORDFISH
 msgid "Swordfish"

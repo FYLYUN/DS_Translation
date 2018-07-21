@@ -260,7 +260,7 @@ msgstr "消灭"
 
 #: STRINGS.ACTIONS.FAN
 msgid "Fan"
-msgstr "风扇"
+msgstr "扇"
 
 #: STRINGS.ACTIONS.FEED
 msgid "Feed"
@@ -828,7 +828,7 @@ msgstr "困境只会使我们更加强大。"
 
 #: STRINGS.BOARLORD_ROUND2_END.4
 msgid "Now, Snortoises. Attack!"
-msgstr "现在，蒸机龟甲。进攻！"
+msgstr "现在，岩龟泰坦。进攻！"
 
 #: STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.1
 msgid "For the Forge!"
@@ -916,7 +916,7 @@ msgstr "我们不会活在暗影王座的阴影之下的！"
 
 #: STRINGS.BOARLORD_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
-msgstr "放出波瑞拉。"
+msgstr "放出猩猩战士。"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.1
 msgid "What have we here?"
@@ -8588,7 +8588,7 @@ msgstr "我要指出胜利的方式！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ASH.GENERIC
 msgid "The flames' remains."
-msgstr "火焰残海"
+msgstr "火焰的残骸。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ASH.REMAINS_EYE_BONE
 msgid "The eyebone could not pass to this world."
@@ -8720,7 +8720,7 @@ msgstr "煮熟的黑暗之翼。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEARDHAIR
 msgid "Fur of the crazies."
-msgstr "那些疯子的毛"
+msgstr "疯子的毛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEARGER
 msgid "Beast or berserker?"
@@ -8732,7 +8732,7 @@ msgstr "熊——战士！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEARGER_FUR
 msgid "It fought bravely, but its hide is now forfeit."
-msgstr "它曾英勇地战斗，现在却失去了藏身之所。"
+msgstr "它曾英勇地战斗了，但现在他的兽皮我收下了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEDROLL_FURRY
 msgid "A luxury fur bed!"
@@ -8812,7 +8812,7 @@ msgstr "它很合适我。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEFALOWOOL
 msgid "I do love woolly things."
-msgstr "真稀罕木头疙瘩。"
+msgstr "我喜欢毛制品。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEGUARD
 msgid "En guarde!"
@@ -8852,7 +8852,7 @@ msgstr "有翼战士的巢穴。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEESWAX
 msgid "The stuff of candlemakers."
-msgstr "蜡烛匠的物什。"
+msgstr "蜡烛匠的东西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BELL
 msgid "I prefer the ringing resonance of clashing blades."
@@ -9124,7 +9124,7 @@ msgstr "用来扔向敌人！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BRUSH
 msgid "Time for hair and makeup!"
-msgstr "浪费时间给毛发和化妆！"
+msgstr "该给头发和装备一点时间了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUGNET
 msgid "To snatch insects from the air."
@@ -9576,7 +9576,7 @@ msgstr "这里什么也没有。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.COONTAIL
 msgid "It is the tail of cute meat."
-msgstr "这是这块可爱肉的尾巴么。"
+msgstr "这是这块可爱的肉的尾巴么。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CORN
 msgid "A vegetable sword!"
@@ -9628,15 +9628,15 @@ msgstr "又见面了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTGRASS
 msgid "A craftwoman's most elemental resource."
-msgstr "一个来自女工匠的基本的素材。"
+msgstr "工匠的基础素材。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTLICHEN
 msgid "Even if I ate plants, I wouldn't eat THAT plant."
-msgstr "即使我吃过植物，也不会去吃“那个”植物。"
+msgstr "就算我去吃其他植物，也不会去吃“那个”植物。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTREEDS
 msgid "I cleaned all the bugs out! Then I ate them."
-msgstr "我清理干净了我身上的虫子！然后便吃了它们"
+msgstr "我可以用它清理掉烦人的蚊子！然后吃了它们。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTSTONE
 msgid "Solid stone!"
@@ -9956,7 +9956,7 @@ msgstr "它想要一顿粪便来美餐一顿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FEATHERFAN
 msgid "The luxuries of camp, on the go."
-msgstr "这个奢华的帐篷马上就建好了。"
+msgstr "野营时不常有的乐趣来源。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FEATHERHAT
 msgid "Seems a bit flashy for battle."
@@ -10004,7 +10004,7 @@ msgstr "仅仅是保护了农田而已，谈不上防御工事。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FERTILIZER
 msgid "Its stench could raise the fallen."
-msgstr "这种恶臭能加速堕落。"
+msgstr "它臭得使人倒下。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FIREBALLSTAFF
 msgid "The gods did not mean thy magic for me."
@@ -10428,7 +10428,7 @@ msgstr "花朵不能阻止长矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEALINGSALVE
 msgid "Be filled with life!"
-msgstr "充满了生活！"
+msgstr "充满了生命力！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HEALINGSTAFF
 msgid "Blessings of magicks within."
@@ -10812,7 +10812,7 @@ msgstr "发光发热吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIGHTER
 msgid "It lights the fires of mine heart!"
-msgstr "它在石心里点火！"
+msgstr "它点燃了我的心！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIGHTNINGGOAT.CHARGED
 msgid "The lightning has made you a unicorn warrior!"
@@ -10860,7 +10860,7 @@ msgstr "今天独角兽在朝我微笑！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUCY
 msgid "It's nice, but it's no spear."
-msgstr "这非常的好，但它没有矛枪。"
+msgstr "很不错，可惜不是矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUMPY_SAPLING
 msgid "It brings shame to the might of Yggdrasil."
@@ -12276,7 +12276,7 @@ msgstr "在他们生长最好的时期将他们割掉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REFLECTIVEVEST
 msgid "Ha! The sun is no warrior if it cannot penetrate this."
-msgstr "哈！如果不把它捅破的话，太阳没法帮助我们战斗！"
+msgstr "哈！如果阳光无法穿透它，那太阳就没资格被称为战士！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RELIC
 msgid "Fit for Asgard."
@@ -12644,7 +12644,7 @@ msgstr "一个用以安歇厌战之脑的地方。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SILK
 msgid "Useful for binding, and for remembering victories past."
-msgstr "捆绑，或是记忆过去的胜利都是很好用的。"
+msgstr "用来绑东西或是回忆过去的胜利都不错。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SKELETON
 msgid "Rest easy in Valhalla."
@@ -12784,7 +12784,7 @@ msgstr "打爆这些东西是对未来战争的浪费。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDERGLAND
 msgid "Ripped from the abdomen of a slain spider."
-msgstr "从一只死掉蜘蛛的腹部开始撕扯。"
+msgstr "从击杀的蜘蛛腹部扯出来的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDERHAT
 msgid "A perfect way to infiltrate the enemy camp."
@@ -12924,15 +12924,15 @@ msgstr "这是个石头脸盆！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STEELWOOL
 msgid "It could easily best regular wool in combat."
-msgstr "战斗中是最好"
+msgstr "可以迅速投入战斗的羊毛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STINGER
 msgid "The sword on the back of a bee."
-msgstr "剑在一只蜜蜂的背后。"
+msgstr "蜜蜂背上的利剑。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STRAWHAT
 msgid "A hat for cooling after a raucous battle."
-msgstr "这帽子是用来在艰苦的战斗后为你降温。"
+msgstr "这帽子是用来在艰苦的战斗后为你降温的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STUFFEDEGGPLANT
 msgid "Filling the vegetable does not make it meat."
@@ -13096,7 +13096,7 @@ msgstr "我最难以置信的敌人的巢穴！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.THULECITE
 msgid "This material possesses gargantuan strength!"
-msgstr "这种材料具有庞大的力量！"
+msgstr "这种材料具有巨大的力量！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.THULECITE_PIECES
 msgid "Looks like shiny popped corn."
@@ -13412,7 +13412,7 @@ msgstr "战场的一片区域。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CHECKERFLOOR
 msgid "Fancy floor."
-msgstr "让人惊艳的花。"
+msgstr "奇特的地板。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_DECIDUOUS
 msgid "A piece of the battlefield."
@@ -13532,7 +13532,7 @@ msgstr "做长矛正好。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.UMBRELLA
 msgid "Rain protection made from the trophy of a hunt."
-msgstr "这些雨具是用收集品做的。"
+msgstr "这些雨具是用战利品做的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.UNAGI
 msgid "No need for food to be so fancy."
@@ -14048,7 +14048,7 @@ msgstr "他出的错误是“图形”还是“日志”？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.GENERIC
 msgid "May Yggdrasil bind us as the nine worlds, %s!"
-msgstr "在世界树的见证下，我们同盟吧，%s！"
+msgstr "在世界树的见证下，我们结盟吧，%s！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.GHOST
 msgid "The worldtree watches over you, %s."
@@ -18068,7 +18068,7 @@ msgstr "这是什么邪恶的表现？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN
 msgid "Hallowe'en was always my favorite."
-msgstr "我总是很喜欢万圣节。"
+msgstr "我总是很喜欢万圣夜。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE
 msgid "It's been eons since I had a good biscuit."
@@ -18584,7 +18584,7 @@ msgstr "他可以整修一下"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE_RUBBLE
 msgid "It's been a long time since this stood properly."
-msgstr "自从这样站好之后已经过很久了。"
+msgstr "它已经保持这样很久了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_SYRUP
 msgid "Cooking syrup. Of course."
@@ -25260,7 +25260,7 @@ msgstr "我们要先开采它，然后才能利用它。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKS
 msgid "None of these look like they would skip well."
-msgstr "这些看起来都不会跳动。"
+msgstr "略过这些看起来不太明智。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKY
 msgid "Snip snap!"
@@ -25604,7 +25604,7 @@ msgstr "它看起来就像一块小地毯一样。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLE
 msgid "We'll slaughter that slurtle."
-msgstr "让我们杀光那些含糊虫！"
+msgstr "让我们杀光那些蜗龟！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLEHAT
 msgid "A solid helmet."
@@ -29004,7 +29004,7 @@ msgstr "一切都死了"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgid "This tree is spooky. I bet it likes Halloween."
-msgstr "这些树真恐怖，我打赌它很像万圣节的那些玩意儿。"
+msgstr "这些树真恐怖，我打赌它很像万圣夜的那些玩意儿。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DECIDUOUSTREE.POISON
 msgid "Extra-spooky!"
@@ -32040,7 +32040,7 @@ msgstr "显然它没帮到上一任主人。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SLURTLEHOLE
 msgid "The slurtles pop out when they outgrow it."
-msgstr "含糊虫长得太大的时候就会从里面出来"
+msgstr "蜗龟长得太大的时候就会从里面出来"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SLURTLESLIME
 msgid "It shimmers with slimy anticipation."
@@ -32048,7 +32048,7 @@ msgstr "它看起来就让人觉得黏糊糊的"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SLURTLE_SHELLPIECES
 msgid "Pieces of broken slurtle dreams."
-msgstr "含糊虫梦想的碎片"
+msgstr "蜗龟梦想的碎片"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SMALLBIRD.GENERIC
 msgid "Hello there, little one."
@@ -41516,7 +41516,7 @@ msgstr "我要在里面放这么多糖果！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CANE
 msgid "It's way easier to cover ground with this!"
-msgstr "用这东西铺满地面可就容易多了！"
+msgstr "用它来赶路就从容多了！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARROT
 msgid "Yuck. It's all vegetabley."
@@ -49316,7 +49316,7 @@ msgstr "嘿，你看起来真有趣！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KRAMPUS
 msgid "Some sort of... festive devil?"
-msgstr "一些……万圣节的魔鬼？"
+msgstr "一些……万圣夜的魔鬼？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KRAMPUS_SACK
 msgid "I could carry a whole warehouse in that thing!"
@@ -75508,7 +75508,7 @@ msgstr "玉米种子"
 
 #: STRINGS.NAMES.CRAWLINGHORROR
 msgid "Crawling Horror"
-msgstr "爬行恐惧化身"
+msgstr "爬行的恐惧"
 
 #: STRINGS.NAMES.CRAWLINGNIGHTMARE
 msgid "Crawling Nightmare"
@@ -76968,7 +76968,7 @@ msgstr "闪闪发亮的宝石"
 
 #: STRINGS.NAMES.OPALSTAFF
 msgid "Moon Caller's Staff"
-msgstr "唤月之杖"
+msgstr "唤月魔杖"
 
 #: STRINGS.NAMES.ORANGEAMULET
 msgid "The Lazy Forager"
@@ -78136,7 +78136,7 @@ msgstr "缀食者之皮"
 
 #: STRINGS.NAMES.SLURTLE
 msgid "Slurtle"
-msgstr "含糊虫"
+msgstr "蜗龟"
 
 #: STRINGS.NAMES.SLURTLEHAT
 msgid "Shelmet"
@@ -78144,11 +78144,11 @@ msgstr "背壳头盔"
 
 #: STRINGS.NAMES.SLURTLEHOLE
 msgid "Slurtle Mound"
-msgstr "含糊虫土堆"
+msgstr "蜗龟土堆"
 
 #: STRINGS.NAMES.SLURTLESLIME
 msgid "Slurtle Slime"
-msgstr "粘滑含糊虫"
+msgstr "粘液"
 
 #: STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgid "Broken Shell"
@@ -78168,7 +78168,7 @@ msgstr "小块肉干"
 
 #: STRINGS.NAMES.SNAPPER
 msgid "Crocommander"
-msgstr "鳄人"
+msgstr "鳄人指挥"
 
 #: STRINGS.NAMES.SNURTLE
 msgid "Snurtle"
@@ -78444,7 +78444,7 @@ msgstr "黏糊糊的大坑"
 
 #: STRINGS.NAMES.TERRORBEAK
 msgid "Terrorbeak"
-msgstr "尖喙恐惧化身"
+msgstr "恐怖的巨喙"
 
 #: STRINGS.NAMES.THULECITE
 msgid "Thulecite"
@@ -80152,7 +80152,7 @@ msgstr "*更快的移动速度\n\n\n*特长：\n采集"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_BUY.1
 msgid "THANK-YOU. NOW LET ELDER REST."
-msgstr "谢谢。现在让长辈休息一下吧。"
+msgstr "谢谢。现在让老夫休息一会吧。"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_BUY.2
 msgid "YES. YOU GOOD GOAT."
@@ -82572,7 +82572,7 @@ msgstr "不要穿着这花呢制作的“干草黄”色礼物迷失在花纹村
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_deerclops
 msgid "Look like an intimidating Deerclops with this Hallowed Nights costume."
-msgstr "让你在万圣节的化妆晚会上看起来像一个吓人的独眼巨鹿。"
+msgstr "让你在万圣夜的化妆晚会上看起来像一个吓人的独眼巨鹿。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_formal
 msgid "Be a knight in shining armor. Or at least look like one. (It's just a costume, not real armor.)"
@@ -82612,7 +82612,7 @@ msgstr "穿着这件炼金术士的衣服炼金真是别具一格。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus
 msgid "Dress up as a spooky Krampus for Hallowed Nights."
-msgstr "在万圣节晚会上装扮成一个吓人的坎普斯。"
+msgstr "在万圣夜晚会上装扮成一个吓人的坎普斯。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_nature
 msgid "The leaves on this tunic never wilt nor die, but neither do they grow."
@@ -82708,7 +82708,7 @@ msgstr "击晕你的敌人，让他们安静"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_mandrake
 msgid "A Hallowed Nights costume fashioned after a delightfully annoying vegetable."
-msgstr "在装扮成一株烦人的植物后终于符合了万圣节晚会的风格。"
+msgstr "在装扮成一株烦人的植物后终于符合了万圣夜晚会的风格。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_nature
 msgid "These artist's tools are mostly for show. It's not easy to get ahold of paints in the wilderness."
@@ -82764,7 +82764,7 @@ msgstr "在客厅里休息或用来体现他们地位的完美时装。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_dragonfly
 msgid "Be a terrifying Dragonfly for Hallowed Nights!"
-msgstr "在万圣节晚会上变成一只可怕的龙蝇！"
+msgstr "在万圣夜晚会上变成一只可怕的龙蝇！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_formal
 msgid "Everybody needs a little black dress. (Conveniently, it hides ash stains.)"
@@ -82808,7 +82808,7 @@ msgstr "这个结霜的外套上面有新鲜的雪的味道。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_pigguard
 msgid "Dress up like an intimidating Pig Guard for Hallowed Nights!"
-msgstr "为了万圣节晚会打扮成一头可怕的猪人守卫！"
+msgstr "为了万圣夜晚会打扮成一头可怕的猪人守卫！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_rose
 msgid "Rose cultivation is truly a most delicate science."
@@ -82836,7 +82836,7 @@ msgstr "为抵御熔炉烈火而穿的板甲。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_grassgecko
 msgid "Dress up like a cute Grass Gekko for Hallowed Nights."
-msgstr "为了万圣节晚会打扮成一只可爱的草蜥蜴。"
+msgstr "为了万圣夜晚会打扮成一只可爱的草蜥蜴。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_nature
 msgid "This delightful frock is cool and comfortable, perfect for an afternoon of gardening."
@@ -82888,7 +82888,7 @@ msgstr "适合当你在下午茶后一小时内有一场比赛预定的时候穿
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_walrus
 msgid "Dress up as an old MacTusk for Hallowed Nights!"
-msgstr "为了万圣节晚会打扮成一头海象！"
+msgstr "为了万圣夜晚会打扮成一头海象！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_formal
 msgid "A real Canadian Jacket, made for real Canadians. (Not out of real Canadians.)"
@@ -85044,7 +85044,7 @@ msgstr "独眼巨鹿套装"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_d
 msgid "Wigfrid chose to be one of her favorite foes to battle for Hallowed Nights."
-msgstr "薇格弗德决定在万圣节之夜装作她最喜爱的敌人去战斗。"
+msgstr "薇格弗德决定在万圣夜之夜装作她最喜爱的敌人去战斗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_formal
 msgid "She resembles a Visigothic princess."
@@ -86724,7 +86724,7 @@ msgstr "耸肩表情"
 
 #: STRINGS.SKIN_NAMES.emote_sleepy
 msgid "Sleepy Emote"
-msgstr "昏昏欲睡的表情"
+msgstr "昏昏欲睡表情"
 
 #: STRINGS.SKIN_NAMES.emote_slowclap
 msgid "Slow Clap Emote"
@@ -86732,11 +86732,11 @@ msgstr "慢拍表情"
 
 #: STRINGS.SKIN_NAMES.emote_swoon
 msgid "Swoon Emote"
-msgstr "昏厥的表情"
+msgstr "昏厥表情"
 
 #: STRINGS.SKIN_NAMES.emote_yawn
 msgid "Yawn Emote"
-msgstr "打哈欠的表情"
+msgstr "打哈欠表情"
 
 #: STRINGS.SKIN_NAMES.endtable_carpet
 msgid "Austere Endtable"
@@ -87968,7 +87968,7 @@ msgstr "皮弗娄牛"
 
 #: STRINGS.SKIN_NAMES.profileflair_bernie
 msgid "Bernie"
-msgstr "伯尼熊"
+msgstr "伯尼"
 
 #: STRINGS.SKIN_NAMES.profileflair_bishop
 msgid "Clockwork Bishop"
@@ -88288,7 +88288,7 @@ msgstr "玛姆茜"
 
 #: STRINGS.SKIN_NAMES.profileflair_victorian_goldcoin
 msgid "Three Marks"
-msgstr "三个红币"
+msgstr "三个标记"
 
 #: STRINGS.SKIN_NAMES.profileflair_victorian_merm
 msgid "Pipton"
@@ -88308,11 +88308,11 @@ msgstr "保险箱"
 
 #: STRINGS.SKIN_NAMES.profileflair_victorian_silvercoin
 msgid "Three Medallions"
-msgstr "三个蓝币"
+msgstr "三枚徽章"
 
 #: STRINGS.SKIN_NAMES.profileflair_victorian_topazcoin
 msgid "Three Favors"
-msgstr "三个彩币"
+msgstr "三份赞赏"
 
 #: STRINGS.SKIN_NAMES.profileflair_waffle
 msgid "Waffles!"
@@ -89600,7 +89600,7 @@ msgstr "远古藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COSTUME
 msgid "Costume Collection"
-msgstr "万圣节藏品"
+msgstr "万圣夜藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
 msgid "Formal Collection"
@@ -90456,7 +90456,7 @@ msgstr "猪口拔牙"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC
 msgid "Survive until the first wave of Scorpeons without any teammates dying"
-msgstr "在毒蝎登场前没有任何队友倒下"
+msgstr "在酸蚀蝎登场前没有任何队友倒下"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE
 msgid "Not Today"
@@ -90480,7 +90480,7 @@ msgstr "力战不死"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC
 msgid "Survive the first wave of Scorpeons without any teammates dying from acid"
-msgstr "在没有任何队友中毒身亡的情况下通过毒蝎关卡"
+msgstr "在没有任何队友中毒身亡的情况下通过酸蚀蝎关卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE
 msgid "Basic Solution"
@@ -90488,7 +90488,7 @@ msgstr "碱性溶液"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC
 msgid "Finish the Snortoise round without allowing Snortoises to perform more than 3 spin attacks"
-msgstr "在坦克龟成功使用旋转攻击次数小于3次的情况下通过坦克龟关卡"
+msgstr "在岩龟泰坦成功使用旋转攻击次数小于3次的情况下通过岩龟泰坦关卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE
 msgid "Big Wheel Kept From Turnin'"
@@ -90496,7 +90496,7 @@ msgstr "无法转动"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC
 msgid "Finish the Snortoise round without allowing Snortoises to perform any spin attacks"
-msgstr "在坦克龟无法成功使用旋转攻击的情况下通过坦克龟关卡"
+msgstr "在岩龟泰坦无法成功使用旋转攻击的情况下通过岩龟泰坦关卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE
 msgid "Unspun Hero"
@@ -90536,7 +90536,7 @@ msgstr "完美谢幕"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC
 msgid "Flip 20 or more Snortoises in a single match"
-msgstr "在一场挑战中打翻20个或更多蒸机龟甲"
+msgstr "在一场挑战中打翻20个或更多岩龟泰坦"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE
 msgid "Exit, Pursued By Viking"
@@ -90608,7 +90608,7 @@ msgstr "粉碎防御"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC
 msgid "Take under 100 damage and land 150 darts before the Scorpeon wave"
-msgstr "在蝎人攻击前射出150个吹箭并且受到的的伤害小于100"
+msgstr "在酸蚀蝎攻击前射出150个吹箭并且受到的的伤害小于100"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE
 msgid "Float Like A Butterfly"
@@ -90680,7 +90680,7 @@ msgstr "火力全开"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC
 msgid "Stop a spinning Snortoise with using a Molten Bolt attack"
-msgstr "使用炙热雷击打断蒸机龟甲的旋转攻击"
+msgstr "使用炙热雷击打断岩龟泰坦的旋转攻击"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE
 msgid "Ring of Fire"
@@ -90776,7 +90776,7 @@ msgstr "解除防御"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC
 msgid "Stop a spinning Snortoise using an Anvil Strike attack"
-msgstr "使用铁砧攻击打断蒸机龟甲的旋转攻击"
+msgstr "使用铁砧攻击打断岩龟泰坦的旋转攻击"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE
 msgid "High Striker"
@@ -90800,7 +90800,7 @@ msgstr "狸人投掷"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC
 msgid "Stop a spinning Snortoise using Lucy"
-msgstr "使用露西斧打断蒸机龟甲的旋转攻击"
+msgstr "使用露西斧打断岩龟泰坦的旋转攻击"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE
 msgid "The Chopping Block"
@@ -90824,7 +90824,7 @@ msgstr "灵活机械"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC
 msgid "Stop a spinning Snortoise with a shock"
-msgstr "使用电击打断蒸机龟甲的旋转攻击"
+msgstr "使用电击打断岩龟泰坦的旋转攻击"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE
 msgid "Circuit Breaker"
@@ -94788,7 +94788,7 @@ msgstr "荒野"
 
 #: STRINGS.UI.GAMEMODES.WILDERNESS_DESCRIPTION
 msgid "It's wild and dangerous out there!\n\n* Enter at a random location in the world.\n* No safety net. If you die: try, try again.\n* Those you encounter may or may not be friendly."
-msgstr "野性和危险存在这里！\n\n*进入世界后随机出现在某个地方。\n*如果你死了，会重新选择人物。\n*老是死的话，说明你遇到的人可能不太友好。"
+msgstr "这里狂野而危险！\n\n*进入世界后随机出现在某个地方。\n*如果你死了，会重新选择人物。\n*老是死的话，说明你遇到的人可能不太友好。"
 
 #: STRINGS.UI.GENDERSTRINGS.DEFAULT.ONE
 msgid "they"
@@ -95876,7 +95876,7 @@ msgstr "更多游戏"
 
 #: STRINGS.UI.MAINSCREEN.MOTD
 msgid "Check out the latest items in the Klei Store!"
-msgstr "如果想要参加我们的“万圣节模组挑战”，请\n点击下面的链接！"
+msgstr "如果想要参加我们的“万圣夜模组挑战”，请\n点击下面的链接！"
 
 #: STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgid "Klei Store"
@@ -98216,7 +98216,7 @@ msgstr "历史记录"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.LEVEL_ACHIEVED_FMT
 msgid "{event_title} level accomplished:"
-msgstr "{event_title} 水平已达成"
+msgstr "{event_title}等级："
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.LOADING_STUFF
 msgid "Loading Discoveries..."
@@ -98704,7 +98704,7 @@ msgstr "添加%s"
 
 #: STRINGS.UI.SANDBOXMENU.ADDLEVEL_WARNING
 msgid "This requires running multiple servers at the same time.\nIs your computer up to the task?"
-msgstr "这需要同时运行多个服务器。\n你的计算机能够完成任务吗？"
+msgstr "这需要同时运行多个服务端。\n你的计算机能够完成任务吗？"
 
 #: STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.1
 msgid "A Cold Reception"
@@ -101540,11 +101540,11 @@ msgstr "击杀炼狱猪"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
 msgid "Crocommanders Defeated"
-msgstr "击杀邪鳄人"
+msgstr "击杀鳄人指挥"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3
 msgid "Snortoises Defeated"
-msgstr "击杀坦克龟"
+msgstr "击杀岩龟泰坦"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_4
 msgid "Formidable Team"
