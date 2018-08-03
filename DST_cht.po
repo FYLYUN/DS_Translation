@@ -20780,7 +20780,7 @@ msgstr "我們沒能及時爬上鞍去！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.MOUNT.TARGETINCOMBAT
 msgid "It's too angry!"
-msgstr "好餓！"
+msgstr "它很生氣！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.PICKUP.INUSE
 msgid "Oops. Someone else is using that."
