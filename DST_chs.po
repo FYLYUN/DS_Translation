@@ -20996,7 +20996,7 @@ msgstr "那看起来可不能吃。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_EAT.PAINFUL
 msgid "Our tummy hurts."
-msgstr "我们的肚子饿了。"
+msgstr "我们肚子好疼。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_EAT.SPOILED
 msgid "Past its date."
@@ -60236,7 +60236,7 @@ msgstr "痒死我了。我觉得这玩意还活着。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSNURTLESHELL
 msgid "You can never be too safe."
-msgstr "你现在非常安全。"
+msgstr "你不可能让我感到安全。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORWOOD
 msgid "It fits me so well!"
@@ -60676,7 +60676,7 @@ msgstr "好吧，至少它永远不会变成鸟"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BISHOP
 msgid "It's been a while since my last confession."
-msgstr "从我最后一次表白到现在已经过了一阵了。"
+msgstr "距我上次忏悔已经有一段时间了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Hey now!"
@@ -60752,7 +60752,7 @@ msgstr "好吧，已经结束了"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOARDS
 msgid "So smooth. You can really see the grain."
-msgstr "这么顺利。你真的能看到粮食。"
+msgstr "真光滑，你甚至能看到纹理。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOARON
 msgid "I feel bad beatin' up such a little thing."
@@ -61196,7 +61196,7 @@ msgstr "我读不懂"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.N
 msgid "True North."
-msgstr "真正的北方。"
+msgstr "正北方。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.COMPASS.NE
 msgid "Northeast."
