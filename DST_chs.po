@@ -9144,7 +9144,7 @@ msgstr "我想吃了你。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BURNT_MARSH_BUSH
 msgid "Razed to the ground."
-msgstr "凝视地面。"
+msgstr "夷为平地。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BUSHHAT
 msgid "For the hunt."
@@ -9692,7 +9692,7 @@ msgstr "此乃林地的魔法生物！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一块草地"
+msgstr "这大概是一簇草。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DESERTHAT
 msgid "Tis no helm."
@@ -13048,7 +13048,7 @@ msgstr "一个坚固的曲柄"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_POTATO
 msgid "No decency. It's not even metal meat."
-msgstr "没有礼貌。都不是金属肉。"
+msgstr "没有礼貌。它甚至连金属肉都不是。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_RING
 msgid "It appears to be similar to the Bifrost."
@@ -13208,7 +13208,7 @@ msgstr "异教徒小姐的召唤残余物？真是个奇怪的女人。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_13
 msgid "A small, peculiar woman."
-msgstr "奇怪的小女人。"
+msgstr "一个奇怪的女性小人。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_14
 msgid "Tea is a luxury that warriors cannot afford."
@@ -13244,7 +13244,7 @@ msgstr "最终还是找到了一件可以和我的新盟友安全练习的武器
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_21
 msgid "Cooking utensils do not interest me."
-msgstr "劳资对烹饪器具不感兴趣。"
+msgstr "我对烹饪器具不感兴趣。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_22
 msgid "It won't stand up to the rigors of battle."
@@ -13324,7 +13324,7 @@ msgstr "啊武器！这个铁拳套的另一个不见了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_4
 msgid "A small, peculiar man."
-msgstr "一个奇怪的小人。"
+msgstr "一个奇怪的男性小人。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_40
 msgid "I have no use for such things."
@@ -28452,7 +28452,7 @@ msgstr "文字中存在着力量。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_GARDENING
 msgid "Imagine, a rolling field of red flowers..."
-msgstr "想象一下，一个一整片波动着的红色花朵…"
+msgstr "想象一下，一片随风波动的花海…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_SLEEP
 msgid "Does it impart an eternal slumber?"
@@ -37460,7 +37460,7 @@ msgstr "常春藤属的某些东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR_QUEEN
 msgid "Impressive in scope."
-msgstr "范围令人印象深刻。"
+msgstr "真让人大开眼界。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR_STATUE1
 msgid "Decrepit statuary."
@@ -37568,7 +37568,7 @@ msgstr "变异的葱属球茎的种子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_GOATKID
 msgid "A sweet bipedal Bovidae adolescent."
-msgstr "一个可爱的幼小的两组科动物。"
+msgstr "一只可爱的两足牛科少年。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_GOATMILK
 msgid "I shan't question its origins."
@@ -40972,7 +40972,7 @@ msgstr "它在请求爆炸。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BALLOONS_EMPTY
 msgid "I could fill them with flammable gas."
-msgstr "我可以用燃气体填充它们。"
+msgstr "我可以用易燃气体填充它们。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BANDAGE
 msgid "Eww, no!"
@@ -41908,7 +41908,7 @@ msgstr "现在不耍小聪明了，是吗？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTGRASS
 msgid "Cut grass, ready for burning. Or maybe crafting."
-msgstr "割好的芦苇，完美的燃料，要不还是拿它做东西好了？"
+msgstr "割下来的草，完美的燃料，要不还是拿它做东西好了？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CUTLICHEN
 msgid "Blah, tastes like sawdust."
@@ -43088,7 +43088,7 @@ msgstr "虽然叫“荧光果”，但好重哦。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTER
 msgid "It's my lucky lighter!"
-msgstr "这是我的幸运火把！"
+msgstr "这是我的幸运打火机！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTNINGGOAT.CHARGED
 msgid "You're crazy!"
@@ -43128,7 +43128,7 @@ msgstr "烧吧，木头，烧吧！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LOG.GENERIC
 msgid "Wood! So flammable! Hooray!"
-msgstr "林子！到处都是可以烧的玩意！爽歪歪！"
+msgstr "木头！到处都是可以烧的玩意！爽歪歪！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LUCKY_GOLDNUGGET
 msgid "I don't think I'm supposed to spend this."
@@ -43916,7 +43916,7 @@ msgstr "是不是科学走的太远了？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PURPLEGEM
 msgid "Weird!"
-msgstr "变态！"
+msgstr "怪异！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PURPLEMOONEYE
 msgid "Some sort of weird rock."
@@ -44892,7 +44892,7 @@ msgstr "干搞破坏有趣得多！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEWING_TAPE
 msgid "At least something around here can hold it together."
-msgstr "至少在这里的一些东西能使它保持在一起。"
+msgstr "至少它可以让一些东西始终保持在一起。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SHADOWDIGGER
 msgid "Eww, it's even creepier than the real one."
@@ -51484,7 +51484,7 @@ msgstr "这把长枪令我感到惊奇！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.SPEAR_WATHGRITHR
 msgid "This would never pass inspection."
-msgstr "薇阁弗德的长矛永远不能通过安检。"
+msgstr "它永远不可能通过检查。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.SPIDER.DEAD
 msgid "No sleeping on the job!"
@@ -54336,7 +54336,7 @@ msgstr "沃尔夫冈的眼皮像挂了哑铃一样沉。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOK_TENTACLES
 msgid "Wolfgang wants many foes to fight!"
-msgstr "沃尔夫冈需要许多敌人打架！"
+msgstr "沃尔夫冈想要和很多敌人打架！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOOMERANG
 msgid "Boom! A rang! Ha!"
@@ -58920,7 +58920,7 @@ msgstr "你是个好人，强壮的%s女士。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHRHAT
 msgid "Is strong helm for strong warrior!"
-msgstr "与强大的战士匹配的强大的舵！"
+msgstr "与强大的战士相符的强大的头盔！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXPAPER
 msgid "Strange paper not for make scribblemarks."
@@ -60800,7 +60800,7 @@ msgstr "满月之日最适合我读的书。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOK_TENTACLES
 msgid "They don't have tentacles in Canada."
-msgstr "它们在加拿大没有触手。"
+msgstr "它们在加拿大的时候没有触手。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BOOMERANG
 msgid "That looks hard to throw."
@@ -69868,7 +69868,7 @@ msgstr "毫无抵抗力的植物性食物"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FLOUR
 msgid "HAHA, THE WHEAT HAS BEEN CRUSHED"
-msgstr "哈哈，小麦被磨碎了"
+msgstr "哈哈，小麦被碾碎了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_FOLIAGE_COOKED
 msgid "THIS IS NOT A GOOD MEAL"
@@ -69956,7 +69956,7 @@ msgstr "一个新生的金属机器"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_MEALINGSTONE
 msgid "I AM GOOD AT CRUSHING"
-msgstr "我很擅长压碎工作"
+msgstr "我很擅长碾碎工作"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_MERMHOUSE
 msgid "IT IS BARELY STANDING"
@@ -70064,7 +70064,7 @@ msgstr "它没能像我希望的那样发挥作用"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_PORTAL_KEY
 msgid "PASSKEY FOR GATEWAY LINK"
-msgstr "网关连接的钥匙"
+msgstr "开启大门的钥匙"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT
 msgid "THIS POT HAS AN ACCEPTABLE MEMORY SIZE"
@@ -70172,7 +70172,7 @@ msgstr "对电路有害"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SALTROCK
 msgid "CAN BE GROUND INTO SALT"
-msgstr "可以被磨成食盐"
+msgstr "可以被碾成食盐"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_SALT_RACK.GENERIC
 msgid "WATER CONTACT SUCCESSFULLY AVOIDED"
@@ -84439,12 +84439,12 @@ msgid "Equip this item to change your character's background portrait."
 msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_spidermarsh
-msgid "Equip this item to change your character's background portrait."
-msgstr "使用这个藏品来改变你的角色背景图案。"
+msgid "Equip this item to change your character's background portrait.\n\nSpiders are vicious creatures that can survive nearly any climate."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n蜘蛛是一种几乎可以在任何气候下生存的邪恶生物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_spikymarsh
-msgid "Equip this item to change your character's background portrait.\n\nSpiders are vicious creatures that can survive nearly any climate."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n蜘蛛是一种邪恶的生物，它们几乎可以适应任何气候。"
+msgid "Equip this item to change your character's background portrait.\n\nTake care where you place your hands."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n当心了，当你把手放在那里的时候。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_suspisciousdirtpile
 msgid "Equip this item to change your character's background portrait.\n\nThe hunt is on!"
@@ -98207,8 +98207,8 @@ msgid "Spools"
 msgstr "线"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.ENCOUNTER_COUNT_FMT
-msgid "{num_games} encounters"
-msgstr "{num_games} 位一起玩过的好友"
+msgid "Time played with: {time}"
+msgstr "游戏时间：{time}"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.FESTIVAL_HISTORY
 msgid "History of Travels"
@@ -101978,3 +101978,134 @@ msgstr "密码无效"
 msgid "Password cannot have spaces at the beginning or at the end!"
 msgstr "密码前后不能包含空格！"
 
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentbronze
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentgold
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_quagmiretournamentsilver
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_bronze
+msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
+msgstr "将您的头像设置为被安抚的暴食者。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_gold
+msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth and came out on top in the Gnaw's great tournament."
+msgstr "将您的头像设置为被安抚的暴食者。\n\n你证明了你的实力，并在这次伟大的锦标赛中脱颖而出。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_participation
+msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou fulfilled your duty in the Gnaw's great tournament."
+msgstr "将您的头像设置为被安抚的暴食者。\n\n你在锦标赛中尽了最大的努力。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_silver
+msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
+msgstr "将您的头像设置为被安抚的暴食者。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze
+msgid "Burnished Cornucopia Portrait"
+msgstr "青铜盛宴"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentgold
+msgid "Golden Cornucopia Portrait"
+msgstr "黄金盛宴"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentsilver
+msgid "Sterling Cornucopia Portrait"
+msgstr "白银盛宴"
+
+#: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_bronze
+msgid "Burnished Icon of Gnaw"
+msgstr "青铜暴食者头像"
+
+#: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_gold
+msgid "Golden Icon of Gnaw"
+msgstr "黄金暴食者头像"
+
+#: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_participation
+msgid "Icon of Gnaw"
+msgstr "暴食者头像"
+
+#: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_silver
+msgid "Sterling Icon of Gnaw"
+msgstr "白银暴食者头像"
+
+#: STRINGS.THANKS_POPUP.GORGE_TOURNAMENT
+msgid "Thanks for participating in the\nGorge Tournament"
+msgstr "谢谢参与\n暴食锦标赛"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.1
+msgid "Jan"
+msgstr "一月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.10
+msgid "Oct"
+msgstr "十月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.11
+msgid "Nov"
+msgstr "十一月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.12
+msgid "Dec"
+msgstr "十二月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.2
+msgid "Feb"
+msgstr "二月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.3
+msgid "Mar"
+msgstr "三月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.4
+msgid "Apr"
+msgstr "四月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.5
+msgid "May"
+msgstr "五月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.6
+msgid "Jun"
+msgstr "六月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.7
+msgid "Jul"
+msgstr "七月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.8
+msgid "Aug"
+msgstr "八月"
+
+#: STRINGS.UI.DATE.MONTH_ABBR.9
+msgid "Sep"
+msgstr "九月"
+
+#: STRINGS.UI.DATE_FORMAT.MDY
+msgid "{month} {day}, {year}"
+msgstr "{year}-{month}-{day}"
+
+#: STRINGS.UI.DAYS_FORMAT.DHM
+msgid "{days}d {hours}h {minutes}m"
+msgstr "{days}天{hours}时{minutes}分"
+
+#: STRINGS.UI.DAYS_FORMAT.HM
+msgid "{hours}h {minutes}m"
+msgstr "{hours}时{minutes}分"
+
+#: STRINGS.UI.DAYS_FORMAT.M
+msgid "{minutes}m"
+msgstr "{minutes}分"
+
+#: STRINGS.UI.MORGUESCREEN.ENCOUNTERS.DESC
+msgid "Last seen {date}, on {server_name}"
+msgstr "{server_name}	最后一次访问于{date}"
+
+#: STRINGS.UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL
+msgid "Play Time"
+msgstr "游戏时间"
