@@ -736,15 +736,15 @@ msgstr "場地是你的了！摧毀他們，我的勇士！"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.1
 msgid "No! My Forge, felled by the Throne's lapdogs!"
-msgstr "不！我的熔爐，被勢利小人打倒了！"
+msgstr "不！我的熔爐，被王座的走狗擊敗了！"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.2
 msgid "Please. No more, Gatekeepers. We surrender."
-msgstr "求求你。別打了，守護者。我們投降。"
+msgstr "求求你。別打了，守門者。我們投降。"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.3
 msgid "The day is yours, as is the Gateway."
-msgstr "勝利是你的，通道也是。"
+msgstr "勝利是屬於你的，大門也是。"
 
 #: STRINGS.BOARLORD_PLAYERDEATH_BANTER.1
 msgid "Ha!"
@@ -776,7 +776,7 @@ msgstr "幹得漂亮！"
 
 #: STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1
 msgid "At last, our realm returns to glory!"
-msgstr "我們的國度終於重複輝煌！"
+msgstr "終於，我們的國度重回輝煌！"
 
 #: STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2
 msgid "Warriors, rekindle the Gateway..."
@@ -824,7 +824,7 @@ msgstr "就像熔爐的火焰可以鍛造鋼鐵，"
 
 #: STRINGS.BOARLORD_ROUND2_END.3
 msgid "Hardship has only made us stronger."
-msgstr "困境只會使我們更加強大。"
+msgstr "艱難險阻只會讓我們更加強大。"
 
 #: STRINGS.BOARLORD_ROUND2_END.4
 msgid "Now, Snortoises. Attack!"
@@ -860,7 +860,7 @@ msgstr "為什麼要侍奉一個遺棄了我的人民的力量？"
 
 #: STRINGS.BOARLORD_ROUND3_END.5
 msgid "They destroy all They touch..."
-msgstr "他們摧毀他們碰到的一切……"
+msgstr "它們摧毀它們碰到的一切……"
 
 #: STRINGS.BOARLORD_ROUND3_END.6
 msgid "That is why we cannot let you win."
@@ -868,15 +868,15 @@ msgstr "這就是為什麼我們不能讓你們贏。"
 
 #: STRINGS.BOARLORD_ROUND4_END.1
 msgid "Know this, Gatekeepers:"
-msgstr "嘗嘗這個，守門者："
+msgstr "知道嗎，守門者："
 
 #: STRINGS.BOARLORD_ROUND4_END.2
 msgid "Once you are dead, we will activate the Gateway."
-msgstr "你們死了以後，我們將激活通道。"
+msgstr "你們死了以後，我們將激活大門。"
 
 #: STRINGS.BOARLORD_ROUND4_END.3
 msgid "We'll return to the hub and destroy the Throne."
-msgstr "我們將返回地面摧毀王座。"
+msgstr "我們將回到中心，摧毀王座。"
 
 #: STRINGS.BOARLORD_ROUND4_END.4
 msgid "We will end this, once and for all."
@@ -892,7 +892,7 @@ msgstr "我們…不能失去熔爐…"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.1
 msgid "The Gatekeepers must not take the Forge!"
-msgstr "不能讓守護者佔領熔爐！"
+msgstr "不能讓守門者奪走熔爐！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.2
 msgid "Drive the interlopers back!"
@@ -904,7 +904,7 @@ msgstr "不要手軟！幹掉他們！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.1
 msgid "Why are the Gatekeepers still not dead?!"
-msgstr "為什麼你們都沒有死？"
+msgstr "為什麼守門者還沒有死？"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.2
 msgid "Destroy them!!"
@@ -912,7 +912,7 @@ msgstr "解決他們！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.3
 msgid "We will not live in the Throne's shadow!"
-msgstr "我們不會活在暗影王座的陰影之下的！"
+msgstr "我們不會活在王座的陰影之下的！"
 
 #: STRINGS.BOARLORD_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
@@ -924,7 +924,7 @@ msgstr "看看我們這有什麼？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.2
 msgid "Gatekeepers? Have you come to return us to the Throne?"
-msgstr "守護者？你們是來送我們回王座的嗎？"
+msgstr "守門者？你們是來送我們回王座的嗎？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.3
 msgid "Ha! Laughable."
@@ -6284,7 +6284,7 @@ msgstr "一小塊肉乾"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SNAPPER
 msgid "This one's got bite."
-msgstr "這支笛子好像被咬過。"
+msgstr "這一隻會咬人。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SNURTLE
 msgid "He's less gross, but still gross."
@@ -73124,7 +73124,7 @@ msgstr "你的出現轉移了它對我們的注意力。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.7
 msgid "Are you... Gatekeepers, by chance?"
-msgstr "你們只是……湊巧成了看門人？"
+msgstr "你們……是守門者，這只是個巧合嗎？"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.1
 msgid "Hurry, please!"
@@ -76480,7 +76480,7 @@ msgstr "水晶發冠"
 
 #: STRINGS.NAMES.LAVAARENA_SPAWNER
 msgid "Forge Portal"
-msgstr "惡魔之門"
+msgstr "熔爐傳送門"
 
 #: STRINGS.NAMES.LAVAARENA_STRONGDAMAGERHAT
 msgid "Nox Helm"
@@ -76660,7 +76660,7 @@ msgstr "尖刺灌木"
 
 #: STRINGS.NAMES.MARSH_PLANT
 msgid "Plant"
-msgstr "種植"
+msgstr "植物"
 
 #: STRINGS.NAMES.MARSH_TREE
 msgid "Spiky Tree"
@@ -82124,7 +82124,7 @@ msgstr "所有人的心，都可以用時間和關懷來修補。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
-msgstr "這件護符在戰神帕格納的鍛造台手工精製而成。"
+msgstr "這件護符是在戰神帕格納的鍛造台手工精製而成的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_dragonfly_fangedcollar
 msgid "This look is inspired by the visage of the mighty beast from which it's made."
@@ -82832,7 +82832,7 @@ msgstr "這件衣服非常適合女孩穿上參加派對。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_gladiator
 msgid "An apron to wear to the sweltering fires of The Forge."
-msgstr "為抵禦熔爐烈火而穿的板甲。"
+msgstr "為抵禦熔爐的烈火而穿的板甲。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_grassgecko
 msgid "Dress up like a cute Grass Gekko for Hallowed Nights."
@@ -84196,11 +84196,11 @@ msgstr "這個熙春寶箱包含\nWX-78的全套熙春皮膚物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
-msgstr "巨人之國的禮物"
+msgstr "饑荒：巨人統治的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgid "Don't Starve: Shipwrecked Gift"
-msgstr "失落之船的饋贈"
+msgstr "饑荒：失落之船的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_all
 msgid "This Gorge Chest contains every survivor's complete set of Victorian skin items."
@@ -101484,7 +101484,7 @@ msgstr "葬身魚腹"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
 msgid "Gateway Activated!"
-msgstr "大門已敞開！"
+msgstr "大門已激活！"
 
 #: STRINGS.UI.WXPLOBBYPANEL.SCORE
 msgid "Appeasement Points: {score}"
