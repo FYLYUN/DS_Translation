@@ -256,7 +256,7 @@ msgstr "裝備"
 
 #: STRINGS.ACTIONS.EXTINGUISH
 msgid "Extinguish"
-msgstr "消滅"
+msgstr "撲滅"
 
 #: STRINGS.ACTIONS.FAN
 msgid "Fan"
@@ -384,7 +384,7 @@ msgstr "充氣"
 
 #: STRINGS.ACTIONS.MANUALEXTINGUISH
 msgid "Extinguish"
-msgstr "消滅"
+msgstr "撲滅"
 
 #: STRINGS.ACTIONS.MIGRATE
 msgid "Travel via"
@@ -552,7 +552,7 @@ msgstr "睡覺"
 
 #: STRINGS.ACTIONS.SMOTHER
 msgid "Extinguish"
-msgstr "消滅"
+msgstr "撲滅"
 
 #: STRINGS.ACTIONS.STARTCHANNELING
 msgid "Touch"
@@ -812,7 +812,7 @@ msgstr "再來！壓倒他們！"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.4
 msgid "More pigs!"
-msgstr "豬又來了！"
+msgstr "更多的豬！"
 
 #: STRINGS.BOARLORD_ROUND2_END.1
 msgid "We've endured more here than you know."
@@ -824,7 +824,7 @@ msgstr "就像熔爐的火焰可以鍛造鋼鐵，"
 
 #: STRINGS.BOARLORD_ROUND2_END.3
 msgid "Hardship has only made us stronger."
-msgstr "艱難險阻只會讓我們更加強大。"
+msgstr "困境只會讓我們更加強大。"
 
 #: STRINGS.BOARLORD_ROUND2_END.4
 msgid "Now, Snortoises. Attack!"
@@ -872,11 +872,11 @@ msgstr "知道嗎，守門者："
 
 #: STRINGS.BOARLORD_ROUND4_END.2
 msgid "Once you are dead, we will activate the Gateway."
-msgstr "你們死了以後，我們將激活大門。"
+msgstr "在你死後，我們將激活大門。"
 
 #: STRINGS.BOARLORD_ROUND4_END.3
 msgid "We'll return to the hub and destroy the Throne."
-msgstr "我們將回到中心，摧毀王座。"
+msgstr "我們會回到中心，摧毀王座。"
 
 #: STRINGS.BOARLORD_ROUND4_END.4
 msgid "We will end this, once and for all."
@@ -2088,11 +2088,11 @@ msgstr "穿上這個令我覺得惴惴不安。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.BURNT
 msgid "\"Don't play with matches.\""
-msgstr "「不要玩火柴~」"
+msgstr "「不要玩火柴。」"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.GENERIC
 msgid "It says \"Thataway\"."
-msgstr "它說「哪個方向」。"
+msgstr "它說「那個方向」。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.UNWRITTEN
 msgid "The sign is currently blank."
@@ -2100,7 +2100,7 @@ msgstr "指示牌還沒人寫過~"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.BURNT
 msgid "\"Don't play with matches.\""
-msgstr "「向Annie學習，不要玩火柴~」"
+msgstr "「不要玩火柴。」"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.GENERIC
 msgid "It says \"Thataway\"."
@@ -2144,7 +2144,7 @@ msgstr "關鍵部件還是完好的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.ON
 msgid "Back in working order."
-msgstr "門門，回來上班。"
+msgstr "回到正常工作。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_KEY
 msgid "There is power emanating from it."
@@ -3212,7 +3212,7 @@ msgstr "它被那個兇狠的怪物控制著！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一簇草。"
+msgstr "這大概是一簇草。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DESERTHAT
 msgid "Quality eye protection."
@@ -9692,7 +9692,7 @@ msgstr "此乃林地的魔法生物！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一塊草地"
+msgstr "這大概是一簇草。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DESERTHAT
 msgid "Tis no helm."
@@ -10712,7 +10712,7 @@ msgstr "你的斧頭在這一天充盈著熊熊燃燒的熱情！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_PORTAL.GENERIC
 msgid "Tis a gate betwixt realms."
-msgstr "這是一扇在該領域中間的門。"
+msgstr "這是一扇在各領域之間的門。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_PORTAL.ON
 msgid "We dive, back into the ether!"
@@ -18068,7 +18068,7 @@ msgstr "這是什麼邪惡的表現？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN
 msgid "Hallowe'en was always my favorite."
-msgstr "我總是很喜歡萬聖夜。"
+msgstr "我一直很喜歡萬聖夜。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE
 msgid "It's been eons since I had a good biscuit."
@@ -29476,7 +29476,7 @@ msgstr "死亡有一種幽默的感覺。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FOSSIL_STALKER.GENERIC
 msgid "We must find more pieces."
-msgstr "���Ǳ����ҵ��������Ƭ��"
+msgstr "我們必須找到更多的碎片。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FROG.DEAD
 msgid "Life is small and short."
@@ -60236,7 +60236,7 @@ msgstr "癢死我了。我覺得這玩意還活著。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORSNURTLESHELL
 msgid "You can never be too safe."
-msgstr "你不可能讓我感到安全"
+msgstr "你不可能讓我感到安全。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ARMORWOOD
 msgid "It fits me so well!"
@@ -74784,7 +74784,7 @@ msgstr "%s的遺骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "遠古大門"
+msgstr "古老的大門"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
@@ -76472,7 +76472,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "遠古大門"
+msgstr "古老的大門"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -82124,7 +82124,7 @@ msgstr "所有人的心，都可以用時間和關懷來修補。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
-msgstr "這件護符是在戰神帕格納的鍛造台手工精製而成的。"
+msgstr "這件生命護符是在戰神帕格納的熔爐製成的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_dragonfly_fangedcollar
 msgid "This look is inspired by the visage of the mighty beast from which it's made."
@@ -84196,7 +84196,7 @@ msgstr "這個熙春寶箱包含\nWX-78的全套熙春皮膚物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
-msgstr "饑荒：巨人統治的饋贈"
+msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgid "Don't Starve: Shipwrecked Gift"
@@ -84380,7 +84380,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用這個藏品來改變你的角色背景圖案。熔爐是熔岩空間最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活遠古大門時，他們錯誤地將自己與這一空間連接在了一起。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活古老的大門時，他們錯誤地將自己與這一空間連接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -84928,27 +84928,27 @@ msgstr "這個煉金引擎是用現代化的列印技術製作出來的。非常
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
 msgid "researchlab4_catcoon_costume"
-msgstr "有浣貓帽裝扮的靈子分解器"
+msgstr "有浣貓帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume
 msgid "researchlab4_chester_costume"
-msgstr "有切斯特帽裝扮的靈子分解器"
+msgstr "有切斯特帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby
 msgid "researchlab4_derby"
-msgstr "有高禮帽裝扮的靈子分解器"
+msgstr "有高禮帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound
 msgid "researchlab4_festive_bell_red_firehound"
-msgstr "有歡快鈴聲和火獵犬裝扮的靈子分解器"
+msgstr "有歡快鈴聲和火獵犬裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume
 msgid "researchlab4_glommer_costume"
-msgstr "有格羅姆帽裝扮的靈子分解器"
+msgstr "有格羅姆帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume
 msgid "researchlab4_hutch_costume"
-msgstr "有哈奇帽裝扮的靈子分解器"
+msgstr "有哈奇帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
@@ -87660,11 +87660,11 @@ msgstr "WX-78的熙春寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
-msgstr "巨人之國的禮物"
+msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_NAMES.pack_sw_gift
 msgid "Don't Starve: Shipwrecked Gift"
-msgstr "失落之船的饋贈"
+msgstr "饑荒：失落之船的饋贈"
 
 #: STRINGS.SKIN_NAMES.pack_victorian_all
 msgid "All Survivors Gorge Chest"
@@ -88392,27 +88392,27 @@ msgstr "煉金引擎"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
-msgstr "有浣貓帽裝扮的靈子分解器"
+msgstr "有浣貓帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_chester_costume
 msgid "Chestihatator"
-msgstr "有切斯特帽裝扮的靈子分解器"
+msgstr "有切斯特帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_derby
 msgid "Prestibowlerhatator"
-msgstr "有高禮帽裝扮的靈子分解器"
+msgstr "有高禮帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_festive_bell_red_firehound
 msgid "Jingly Prestihatator"
-msgstr "有歡快鈴聲和火獵犬裝扮的靈子分解器"
+msgstr "有歡快鈴聲和火獵犬裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_glommer_costume
 msgid "Prestihataglommer"
-msgstr "有格羅姆帽裝扮的靈子分解器"
+msgstr "有格羅姆帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_hutch_costume
 msgid "Prestihutchatator"
-msgstr "有哈奇帽裝扮的靈子分解器"
+msgstr "有哈奇帽裝扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid
 msgid "Cherub's Heart"
@@ -88432,7 +88432,7 @@ msgstr "黃蜂之矛"
 
 #: STRINGS.SKIN_NAMES.spear_rose
 msgid "Rose Pike"
-msgstr "紅纓槍"
+msgstr "薔薇長槍"
 
 #: STRINGS.SKIN_NAMES.strawhat_floppy
 msgid "Floppy Straw Hat"
@@ -89620,7 +89620,7 @@ msgstr "熔爐藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
 msgid "Lunar Collection"
-msgstr "農曆雞年藏品"
+msgstr "雞年吉祥藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgid "Promotional Collection"
@@ -89904,11 +89904,11 @@ msgstr "我的世界…殘破不堪。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.5
 msgid "My city... in tatters..."
-msgstr "我的城鎮…支離破碎…"
+msgstr "我的城市…支離破碎…"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.6
 msgid "This will be quick."
-msgstr "很快讓你上天的，不要擔心。"
+msgstr "很快的。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.7
 msgid "How we've fallen."
@@ -89916,7 +89916,7 @@ msgstr "我們居然落敗了。"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.1
 msgid "Fools!"
-msgstr "愚蠢的人類！"
+msgstr "蠢貨！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.2
 msgid "Who are you?"
@@ -89924,7 +89924,7 @@ msgstr "你是誰？"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.3
 msgid "Release me, shade!"
-msgstr "暗影，快將我釋放！"
+msgstr "放開我，暗影！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.4
 msgid "You are not Them..."
@@ -89980,7 +89980,7 @@ msgstr "我要阻止這一切。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.2
 msgid "You cannot win."
-msgstr "你贏不了我的。"
+msgstr "你贏不了的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.3
 msgid "Lend me your power, one last time."
@@ -90200,11 +90200,11 @@ msgstr "康茂德"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.1
 msgid "KIND ELDER SICK. NEED REST"
-msgstr "長者病了，他需要休息"
+msgstr "長者他病了，需要休息"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.2
 msgid "YOU DIFFERENT"
-msgstr "你與眾不同"
+msgstr "你不一樣"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.3
 msgid "HELLO"
@@ -90212,7 +90212,7 @@ msgstr "你好"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.4
 msgid "YOU HELP PIGS?"
-msgstr "你是幫助豬人的么?"
+msgstr "你幫助豬么?"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.5
 msgid "YOU WEIRD GOAT"
@@ -90220,7 +90220,7 @@ msgstr "你這隻奇怪的羊"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.6
 msgid "YOU FEED GNAW?"
-msgstr "你能填飽暴食者的肚子?"
+msgstr "你滿足暴食者?"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.7
 msgid "(SNIFF SNIFF) (SNORT)"
@@ -91092,7 +91092,7 @@ msgstr "午間便飯"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活遠古大門並逃離暴食沼地"
+msgstr "激活古老的大門並逃離暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -94684,7 +94684,7 @@ msgstr "返回"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
 msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
-msgstr "你必須登錄才能挑戰\n戰鬥大師帕格納的戰士們。"
+msgstr "你必須登錄才能挑戰\n戰神帕格納的戰士們。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
 msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
@@ -94692,7 +94692,7 @@ msgstr "你必須登錄才能為\n暴食者祭壇準備貢品。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
 msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
-msgstr "所有玩家都必須在線才能挑戰\n戰鬥大師帕格納的戰士們。"
+msgstr "所有玩家都必須在線才能挑戰\n戰神帕格納的戰士們。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
 msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
@@ -94756,7 +94756,7 @@ msgstr "熔爐"
 
 #: STRINGS.UI.GAMEMODES.LAVAARENA_DESCRIPTION
 msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
-msgstr "在這個區域證明給戰神帕格納看吧。\n*這裡是通過熔爐入口才能進入的世界。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能撿到的物品吧！"
+msgstr "在這個門界中向戰神帕格納證明自己吧。\n*穿過熔融之門進入這世界吧。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能找到的一切武器吧！"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE
 msgid "The Gorge"
@@ -94764,7 +94764,7 @@ msgstr "暴食"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
-msgstr "在這門界中烹飪美味的菜肴來安撫不朽的暴食者吧。\n*穿過這扇苔蘚之門進入這世界吧。\n* 不會有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
+msgstr "在這個門界中烹飪美味的菜肴來安撫不朽的暴食者吧。\n*穿過苔蘚之門進入這世界吧。\n* 沒有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL
 msgid "Survival"
@@ -96188,11 +96188,11 @@ msgstr "查看房主"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA
 msgid "Challenge Battlemaster Pugna's warriors in this limited-time event!"
-msgstr "限時活動-挑戰戰神帕格納吧戰士們！"
+msgstr "限時活動-挑戰戰神帕格納的戰士們！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE
 msgid "Prepare offerings for the Altar of Gnaw in this limited-time event!"
-msgstr "在這場有時間限制的賽事中為暴食者祭壇準備貢品！"
+msgstr "限時活動-為暴食祭壇準備貢品吧！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_HOST
 msgid "Start your own server"
@@ -97052,7 +97052,7 @@ msgstr "快節奏"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes
 msgid "Gnaw Worshipper"
-msgstr "暴食者"
+msgstr "暴食崇拜者"
 
 #: STRINGS.UI.MYSTERYBOXSCREEN.BOXES
 msgid "My Chests"

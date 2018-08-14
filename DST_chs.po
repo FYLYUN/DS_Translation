@@ -256,7 +256,7 @@ msgstr "装备"
 
 #: STRINGS.ACTIONS.EXTINGUISH
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.FAN
 msgid "Fan"
@@ -384,7 +384,7 @@ msgstr "充气"
 
 #: STRINGS.ACTIONS.MANUALEXTINGUISH
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.MIGRATE
 msgid "Travel via"
@@ -552,7 +552,7 @@ msgstr "睡觉"
 
 #: STRINGS.ACTIONS.SMOTHER
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.STARTCHANNELING
 msgid "Touch"
@@ -744,7 +744,7 @@ msgstr "求求你。别打了，守门者。我们投降。"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.3
 msgid "The day is yours, as is the Gateway."
-msgstr "胜利是你的，大门也是。"
+msgstr "胜利是属于你的，大门也是。"
 
 #: STRINGS.BOARLORD_PLAYERDEATH_BANTER.1
 msgid "Ha!"
@@ -812,7 +812,7 @@ msgstr "再来！压倒他们！"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.4
 msgid "More pigs!"
-msgstr "猪又来了！"
+msgstr "更多的猪！"
 
 #: STRINGS.BOARLORD_ROUND2_END.1
 msgid "We've endured more here than you know."
@@ -824,7 +824,7 @@ msgstr "就像熔炉的火焰可以锻造钢铁，"
 
 #: STRINGS.BOARLORD_ROUND2_END.3
 msgid "Hardship has only made us stronger."
-msgstr "困境只会使我们更加强大。"
+msgstr "困境只会让我们更加强大。"
 
 #: STRINGS.BOARLORD_ROUND2_END.4
 msgid "Now, Snortoises. Attack!"
@@ -872,11 +872,11 @@ msgstr "知道吗，守门者："
 
 #: STRINGS.BOARLORD_ROUND4_END.2
 msgid "Once you are dead, we will activate the Gateway."
-msgstr "你们死了以后，我们将激活大门。"
+msgstr "在你死后，我们将激活大门。"
 
 #: STRINGS.BOARLORD_ROUND4_END.3
 msgid "We'll return to the hub and destroy the Throne."
-msgstr "我们将回到中心，摧毁王座。"
+msgstr "我们会回到中心，摧毁王座。"
 
 #: STRINGS.BOARLORD_ROUND4_END.4
 msgid "We will end this, once and for all."
@@ -2088,11 +2088,11 @@ msgstr "穿上这个令我觉得惴惴不安。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.BURNT
 msgid "\"Don't play with matches.\""
-msgstr "“不要玩火柴~”"
+msgstr "“不要玩火柴。”"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.GENERIC
 msgid "It says \"Thataway\"."
-msgstr "它说“哪个方向”。"
+msgstr "它说“那个方向”。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.UNWRITTEN
 msgid "The sign is currently blank."
@@ -2100,7 +2100,7 @@ msgstr "指示牌还没人写过~"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.BURNT
 msgid "\"Don't play with matches.\""
-msgstr "“向Annie学习，不要玩火柴~”"
+msgstr "“不要玩火柴。”"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.GENERIC
 msgid "It says \"Thataway\"."
@@ -2144,7 +2144,7 @@ msgstr "关键部件还是完好的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.ON
 msgid "Back in working order."
-msgstr "门门，回来上班。"
+msgstr "回到正常工作。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_KEY
 msgid "There is power emanating from it."
@@ -3212,7 +3212,7 @@ msgstr "它被那个凶狠的怪物控制着！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一簇草。"
+msgstr "这大概是一簇草。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DESERTHAT
 msgid "Quality eye protection."
@@ -10712,7 +10712,7 @@ msgstr "你的斧头在这一天充盈着熊熊燃烧的热情！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_PORTAL.GENERIC
 msgid "Tis a gate betwixt realms."
-msgstr "这是一扇在该领域中间的门。"
+msgstr "这是一扇在各领域之间的门。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_PORTAL.ON
 msgid "We dive, back into the ether!"
@@ -18068,7 +18068,7 @@ msgstr "这是什么邪恶的表现？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN
 msgid "Hallowe'en was always my favorite."
-msgstr "我总是很喜欢万圣夜。"
+msgstr "我一直很喜欢万圣夜。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE
 msgid "It's been eons since I had a good biscuit."
@@ -29476,7 +29476,7 @@ msgstr "死亡有一种幽默的感觉。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FOSSIL_STALKER.GENERIC
 msgid "We must find more pieces."
-msgstr "���Ǳ����ҵ��������Ƭ��"
+msgstr "我们必须找到更多的碎片。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FROG.DEAD
 msgid "Life is small and short."
@@ -40848,7 +40848,7 @@ msgstr "像被烟熏过一样"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARROWSIGN_PANEL.BURNT
 msgid "It said \"Don't play with matches\", but the \"Don't\" is crossed out now."
-msgstr "它说「不要玩火」，但是「不要」被划掉了"
+msgstr "它说“不要玩火”，但是“不要”被划掉了"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARROWSIGN_PANEL.GENERIC
 msgid "Less reading! More burning!"
@@ -40860,7 +40860,7 @@ msgstr "我可以在这涂一些粗鲁的东西。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARROWSIGN_POST.BURNT
 msgid "It said \"Don't play with matches\", but the \"Don't\" is crossed out now."
-msgstr "它说「不要玩火」，但是「不要」被划掉了。"
+msgstr "它说“不要玩火”，但是“不要”被划掉了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ARROWSIGN_POST.GENERIC
 msgid "Less reading! More burning!"
@@ -61376,7 +61376,7 @@ msgstr "这不是天然的。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一簇草。"
+msgstr "这大概是一簇草。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DESERTHAT
 msgid "That's easy on the eyes."
@@ -74784,7 +74784,7 @@ msgstr "%s的遗骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "远古大门"
+msgstr "古老的大门"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
@@ -76472,7 +76472,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "远古大门"
+msgstr "古老的大门"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -82124,7 +82124,7 @@ msgstr "所有人的心，都可以用时间和关怀来修补。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.amulet_red_occulteye
 msgid "This Life Giving Amulet was crafted in Battlemaster Pugna's Forge."
-msgstr "这件护符是在战神帕格纳的锻造台手工精制而成的。"
+msgstr "这件生命护符是在战神帕格纳的熔炉制成的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_dragonfly_fangedcollar
 msgid "This look is inspired by the visage of the mighty beast from which it's made."
@@ -84196,7 +84196,7 @@ msgstr "这个熙春宝箱包含\nWX-78的全套熙春皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
-msgstr "饥荒：巨人统治的馈赠"
+msgstr "饥荒：巨兽统治的馈赠"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
 msgid "Don't Starve: Shipwrecked Gift"
@@ -84380,7 +84380,7 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用这个藏品来改变你的角色背景图案。熔炉是熔岩空间最严酷的地方，只有最强者才能在这里生存。当幸存者激活远古大门时，他们错误地将自己与这一空间连接在了一起。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n熔炉是熔岩之地最严酷的地方，只有最强者才能在这里生存。当幸存者激活古老的大门时，他们错误地将自己与这一空间连接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -84928,27 +84928,27 @@ msgstr "这个炼金引擎是用现代化的打印技术制作出来的。非常
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
 msgid "researchlab4_catcoon_costume"
-msgstr "有浣猫帽装扮的灵子分解器"
+msgstr "有浣猫帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume
 msgid "researchlab4_chester_costume"
-msgstr "有切斯特帽装扮的灵子分解器"
+msgstr "有切斯特帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby
 msgid "researchlab4_derby"
-msgstr "有高礼帽装扮的灵子分解器"
+msgstr "有高礼帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound
 msgid "researchlab4_festive_bell_red_firehound"
-msgstr "有欢快铃声和火猎犬装扮的灵子分解器"
+msgstr "有欢快铃声和火猎犬装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume
 msgid "researchlab4_glommer_costume"
-msgstr "有格罗姆帽装扮的灵子分解器"
+msgstr "有格罗姆帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume
 msgid "researchlab4_hutch_costume"
-msgstr "有哈奇帽装扮的灵子分解器"
+msgstr "有哈奇帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
@@ -87660,11 +87660,11 @@ msgstr "WX-78的熙春宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
-msgstr "巨人之国的礼物"
+msgstr "饥荒：巨兽统治的馈赠"
 
 #: STRINGS.SKIN_NAMES.pack_sw_gift
 msgid "Don't Starve: Shipwrecked Gift"
-msgstr "失落之船的馈赠"
+msgstr "饥荒：失落之船的馈赠"
 
 #: STRINGS.SKIN_NAMES.pack_victorian_all
 msgid "All Survivors Gorge Chest"
@@ -88392,27 +88392,27 @@ msgstr "炼金引擎"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
-msgstr "有浣猫帽装扮的灵子分解器"
+msgstr "有浣猫帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_chester_costume
 msgid "Chestihatator"
-msgstr "有切斯特帽装扮的灵子分解器"
+msgstr "有切斯特帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_derby
 msgid "Prestibowlerhatator"
-msgstr "有高礼帽装扮的灵子分解器"
+msgstr "有高礼帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_festive_bell_red_firehound
 msgid "Jingly Prestihatator"
-msgstr "有欢快铃声和火猎犬装扮的灵子分解器"
+msgstr "有欢快铃声和火猎犬装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_glommer_costume
 msgid "Prestihataglommer"
-msgstr "有格罗姆帽装扮的灵子分解器"
+msgstr "有格罗姆帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_hutch_costume
 msgid "Prestihutchatator"
-msgstr "有哈奇帽装扮的灵子分解器"
+msgstr "有哈奇帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid
 msgid "Cherub's Heart"
@@ -88432,7 +88432,7 @@ msgstr "黄蜂之矛"
 
 #: STRINGS.SKIN_NAMES.spear_rose
 msgid "Rose Pike"
-msgstr "红缨枪"
+msgstr "蔷薇长枪"
 
 #: STRINGS.SKIN_NAMES.strawhat_floppy
 msgid "Floppy Straw Hat"
@@ -89620,7 +89620,7 @@ msgstr "熔炉藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
 msgid "Lunar Collection"
-msgstr "农历鸡年藏品"
+msgstr "鸡年吉祥藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgid "Promotional Collection"
@@ -89904,11 +89904,11 @@ msgstr "我的世界…残破不堪。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.5
 msgid "My city... in tatters..."
-msgstr "我的城镇…支离破碎…"
+msgstr "我的城市…支离破碎…"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.6
 msgid "This will be quick."
-msgstr "很快让你上天的，不要担心。"
+msgstr "很快的。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.7
 msgid "How we've fallen."
@@ -89916,7 +89916,7 @@ msgstr "我们居然落败了。"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.1
 msgid "Fools!"
-msgstr "愚蠢的人类！"
+msgstr "蠢货！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.2
 msgid "Who are you?"
@@ -89924,7 +89924,7 @@ msgstr "你是谁？"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.3
 msgid "Release me, shade!"
-msgstr "暗影，快将我释放！"
+msgstr "放开我，暗影！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.4
 msgid "You are not Them..."
@@ -89980,7 +89980,7 @@ msgstr "我要阻止这一切。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.2
 msgid "You cannot win."
-msgstr "你赢不了我的。"
+msgstr "你赢不了的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.3
 msgid "Lend me your power, one last time."
@@ -90200,11 +90200,11 @@ msgstr "康茂德"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.1
 msgid "KIND ELDER SICK. NEED REST"
-msgstr "长者病了，他需要休息"
+msgstr "长者他病了，需要休息"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.2
 msgid "YOU DIFFERENT"
-msgstr "你与众不同"
+msgstr "你不一样"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.3
 msgid "HELLO"
@@ -90212,7 +90212,7 @@ msgstr "你好"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.4
 msgid "YOU HELP PIGS?"
-msgstr "你是帮助猪人的么?"
+msgstr "你帮助猪么?"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.5
 msgid "YOU WEIRD GOAT"
@@ -90220,7 +90220,7 @@ msgstr "你这只奇怪的羊"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.6
 msgid "YOU FEED GNAW?"
-msgstr "你能填饱暴食者的肚子?"
+msgstr "你满足暴食者?"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.7
 msgid "(SNIFF SNIFF) (SNORT)"
@@ -91092,7 +91092,7 @@ msgstr "午间便饭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活远古大门并逃离暴食沼地"
+msgstr "激活古老的大门并逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -94684,7 +94684,7 @@ msgstr "返回"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
 msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
-msgstr "你必须登录才能挑战\n战斗大师帕格纳的战士们。"
+msgstr "你必须登录才能挑战\n战神帕格纳的战士们。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
 msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
@@ -94692,7 +94692,7 @@ msgstr "你必须登录才能为\n暴食者祭坛准备贡品。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
 msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
-msgstr "所有玩家都必须在线才能挑战\n战斗大师帕格纳的战士们。"
+msgstr "所有玩家都必须在线才能挑战\n战神帕格纳的战士们。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
 msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
@@ -94756,7 +94756,7 @@ msgstr "熔炉"
 
 #: STRINGS.UI.GAMEMODES.LAVAARENA_DESCRIPTION
 msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
-msgstr "在这个区域证明给战神帕格纳看吧。\n*这里是通过熔炉入口才能进入的世界。\n*没有饱食度和理智度。\n*这里可没武器制作，使用你能捡到的物品吧！"
+msgstr "在这个门界中向战神帕格纳证明自己吧。\n*穿过熔融之门进入这世界吧。\n*没有饱食度和理智度。\n*这里可没武器制作，使用你能找到的一切武器吧！"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE
 msgid "The Gorge"
@@ -94764,7 +94764,7 @@ msgstr "暴食"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
-msgstr "在这门界中烹饪美味的菜肴来安抚不朽的暴食者吧。\n*穿过这扇苔藓之门进入这世界吧。\n* 不会有黑夜降临。\n*用你能找到的一切烹饪贡品，献给祭坛吧！"
+msgstr "在这个门界中烹饪美味的菜肴来安抚不朽的暴食者吧。\n*穿过苔藓之门进入这世界吧。\n* 没有黑夜降临。\n*用你能找到的一切烹饪贡品，献给祭坛吧！"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL
 msgid "Survival"
@@ -96188,11 +96188,11 @@ msgstr "查看房主"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.LAVAARENA
 msgid "Challenge Battlemaster Pugna's warriors in this limited-time event!"
-msgstr "限时活动-挑战战神帕格纳吧战士们！"
+msgstr "限时活动-挑战战神帕格纳的战士们！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE
 msgid "Prepare offerings for the Altar of Gnaw in this limited-time event!"
-msgstr "在这场有时间限制的赛事中为暴食者祭坛准备贡品！"
+msgstr "限时活动-为暴食祭坛准备贡品吧！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_HOST
 msgid "Start your own server"
@@ -97052,7 +97052,7 @@ msgstr "快节奏"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes
 msgid "Gnaw Worshipper"
-msgstr "暴食者"
+msgstr "暴食崇拜者"
 
 #: STRINGS.UI.MYSTERYBOXSCREEN.BOXES
 msgid "My Chests"
