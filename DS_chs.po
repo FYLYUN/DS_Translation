@@ -156,7 +156,7 @@ msgstr "装备"
 
 #: STRINGS.ACTIONS.EXTINGUISH
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.FAN
 msgid "Fan"
