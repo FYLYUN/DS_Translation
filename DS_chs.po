@@ -44,7 +44,7 @@ msgstr "研碎"
 
 #: STRINGS.ACTIONS.BAIT
 msgid "Bait"
-msgstr "作为诱饵引诱"
+msgstr "作为诱饵"
 
 #: STRINGS.ACTIONS.BLINK
 msgid "Telepoof"
@@ -76,7 +76,7 @@ msgstr "查看"
 
 #: STRINGS.ACTIONS.CHOP
 msgid "Chop"
-msgstr "砍劈"
+msgstr "砍"
 
 #: STRINGS.ACTIONS.COMBINESTACK
 msgid "Combine Stack"
@@ -160,7 +160,7 @@ msgstr "扑灭"
 
 #: STRINGS.ACTIONS.FAN
 msgid "Fan"
-msgstr "风扇"
+msgstr "扇"
 
 #: STRINGS.ACTIONS.FEED
 msgid "Feed"
@@ -168,11 +168,11 @@ msgstr "喂食"
 
 #: STRINGS.ACTIONS.FERTILIZE
 msgid "Fertilize"
-msgstr "灌溉"
+msgstr "施肥"
 
 #: STRINGS.ACTIONS.FISH.GENERIC
 msgid "Fish"
-msgstr "鱼"
+msgstr "钓鱼"
 
 #: STRINGS.ACTIONS.FISH.RETRIEVE
 msgid "Retrieve"
@@ -204,11 +204,11 @@ msgstr "放置"
 
 #: STRINGS.ACTIONS.GIVE.READY
 msgid "Sacrifice"
-msgstr "祭品"
+msgstr "献祭"
 
 #: STRINGS.ACTIONS.GNAW
 msgid "Gnaw"
-msgstr "折磨"
+msgstr "咬"
 
 #: STRINGS.ACTIONS.GOHOME
 msgid "Go Home"
@@ -220,7 +220,7 @@ msgstr "劈"
 
 #: STRINGS.ACTIONS.HAMMER
 msgid "Hammer"
-msgstr "锤子"
+msgstr "锤"
 
 #: STRINGS.ACTIONS.HARVEST
 msgid "Harvest"
@@ -236,7 +236,7 @@ msgstr "开始"
 
 #: STRINGS.ACTIONS.JUMPIN.GENERIC
 msgid "Jump In"
-msgstr "跳进"
+msgstr "跳入"
 
 #: STRINGS.ACTIONS.LAUNCH
 msgid "Launch"
@@ -260,7 +260,7 @@ msgstr "充气"
 
 #: STRINGS.ACTIONS.MANUALEXTINGUISH
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.MINE
 msgid "Mine"
@@ -308,7 +308,7 @@ msgstr "种植"
 
 #: STRINGS.ACTIONS.PLAY
 msgid "Play"
-msgstr "开始游戏"
+msgstr "演奏"
 
 #: STRINGS.ACTIONS.POLLINATE
 msgid "Pollinate"
@@ -320,7 +320,7 @@ msgstr "点燃"
 
 #: STRINGS.ACTIONS.RANGEDSMOTHER
 msgid "Extinguish"
-msgstr "消灭"
+msgstr "扑灭"
 
 #: STRINGS.ACTIONS.READ
 msgid "Read"
@@ -392,7 +392,7 @@ msgstr "缝"
 
 #: STRINGS.ACTIONS.SHAVE
 msgid "Shave"
-msgstr "刮毛"
+msgstr "刮"
 
 #: STRINGS.ACTIONS.SLEEPIN
 msgid "Sleep"
@@ -634,74 +634,6 @@ msgstr "浮货"
 msgid "Jetsam"
 msgstr "杰森姆"
 
-#: STRINGS.BALLPHIN_TALK_FIND_LIGHT.1
-msgid "EEEK! EEEK!"
-msgstr "啊！啊！"
-
-#: STRINGS.BALLPHIN_TALK_FIND_LIGHT.2
-msgid "EEK EEK EEK!"
-msgstr "呀呀呀！"
-
-#: STRINGS.BALLPHIN_TALK_FIND_MEAT.1
-msgid "Eee?"
-msgstr "欸？"
-
-#: STRINGS.BALLPHIN_TALK_FIND_MEAT.2
-msgid "Eee eee ee?"
-msgstr "欸欸欸？"
-
-#: STRINGS.BALLPHIN_TALK_FIND_MEAT.3
-msgid "Ee, ee?"
-msgstr "欸，欸？"
-
-#: STRINGS.BALLPHIN_TALK_FOLLOWWILSON.1
-msgid "EE!! EE!!"
-msgstr "喔噢！！喔噢！！"
-
-#: STRINGS.BALLPHIN_TALK_FOLLOWWILSON.2
-msgid "EEEE!"
-msgstr "嘿！"
-
-#: STRINGS.BALLPHIN_TALK_FOLLOWWILSON.3
-msgid "EEE, EE?"
-msgstr "嗯？"
-
-#: STRINGS.BALLPHIN_TALK_FOLLOWWILSON.4
-msgid "EE EEE EE"
-msgstr "嗯嗯嗯"
-
-#: STRINGS.BALLPHIN_TALK_HELP_MINE_CORAL.1
-msgid "KEEEEEE!"
-msgstr "咳咳咳咳！"
-
-#: STRINGS.BALLPHIN_TALK_HELP_MINE_CORAL.2
-msgid "KEE! KEE!"
-msgstr "咳咳！咳咳！"
-
-#: STRINGS.BALLPHIN_TALK_HELP_MINE_CORAL.3
-msgid "KEEE!"
-msgstr "咳咳！"
-
-#: STRINGS.BALLPHIN_TALK_HOME.1
-msgid "NEEEEE!!"
-msgstr "呐呐呐呐呐！"
-
-#: STRINGS.BALLPHIN_TALK_HOME.2
-msgid "Nee! NEe!"
-msgstr "呐！呐！"
-
-#: STRINGS.BALLPHIN_TALK_HOME.3
-msgid "NEE! NEE!"
-msgstr "呐！呐呐！"
-
-#: STRINGS.BALLPHIN_TALK_PANIC.1
-msgid "EEEEEEEEH!!"
-msgstr "呃呃呃呃呃！"
-
-#: STRINGS.BALLPHIN_TALK_PANIC.2
-msgid "EEEEEEEEE!!"
-msgstr "呃呃呃呃呃！！"
-
 #: STRINGS.BORE_TALK_ATTEMPT_TRADE.1
 msgid "WHAT YOU GOT?"
 msgstr "你得到了什么?"
@@ -724,7 +656,7 @@ msgstr "好吃!"
 
 #: STRINGS.BORE_TALK_FIGHT.1
 msgid "I KILL NOW!"
-msgstr "我现在要大开杀戒!"
+msgstr "猪人现在就开杀戒!"
 
 #: STRINGS.BORE_TALK_FIGHT.2
 msgid "YOU GO SMASH!"
@@ -752,7 +684,7 @@ msgstr "好可怕"
 
 #: STRINGS.BORE_TALK_FIND_LIGHT.2
 msgid "NO LIKE DARK"
-msgstr "我不喜欢黑暗"
+msgstr "猪人讨厌黑暗"
 
 #: STRINGS.BORE_TALK_FIND_LIGHT.3
 msgid "WHERE IS SUN?"
@@ -768,7 +700,7 @@ msgstr "火总是好的"
 
 #: STRINGS.BORE_TALK_FIND_MEAT.1
 msgid "ME HUNGRY!"
-msgstr "我饿了"
+msgstr "猪人饿了"
 
 #: STRINGS.BORE_TALK_FIND_MEAT.2
 msgid "YUM!"
@@ -792,11 +724,11 @@ msgstr "我喜欢朋友"
 
 #: STRINGS.BORE_TALK_FOLLOWWILSON.3
 msgid "YOU IS GOOD"
-msgstr "你是好人!"
+msgstr "你真好"
 
 #: STRINGS.BORE_TALK_FOLLOWWILSON.4
 msgid "I FOLLOW!"
-msgstr "我听你的!"
+msgstr "猪人跟着!"
 
 #: STRINGS.BORE_TALK_GO_HOME.1
 msgid "HOME TIME!"
@@ -816,7 +748,7 @@ msgstr "重重回击!"
 
 #: STRINGS.BORE_TALK_HELP_CHOP_WOOD.3
 msgid "I PUNCH TREE!"
-msgstr "揍这棵树!"
+msgstr "猪人大力敲打这棵树!"
 
 #: STRINGS.BORE_TALK_HELP_HACK.1
 msgid "I HELP GET BUSH!"
@@ -828,7 +760,7 @@ msgstr "我痛扁了灌木!"
 
 #: STRINGS.BORE_TALK_HELP_HACK.3
 msgid "WE PUNCHIN' PLANTS NOW?"
-msgstr "我们现在插入植物?"
+msgstr "我们现在痛扁植物?"
 
 #: STRINGS.BORE_TALK_LOOKATWILSON.1
 msgid "WHO ARE YOU?"
@@ -840,7 +772,7 @@ msgstr "你不错."
 
 #: STRINGS.BORE_TALK_LOOKATWILSON.3
 msgid "UGLY MONKEY MAN"
-msgstr "丑陋的猿人!"
+msgstr "丑陋的猴子人!"
 
 #: STRINGS.BORE_TALK_LOOKATWILSON.4
 msgid "YOU HAS MEAT?"
@@ -868,7 +800,7 @@ msgstr "哦!"
 
 #: STRINGS.BORE_TALK_PANICFIRE.3
 msgid "IT BURNS!"
-msgstr "它烧着了!"
+msgstr "它烧着了！"
 
 #: STRINGS.BORE_TALK_RUNAWAY_WILSON.1
 msgid "TOO CLOSE!"
@@ -880,19 +812,19 @@ msgstr "离远点!"
 
 #: STRINGS.BORE_TALK_RUNAWAY_WILSON.3
 msgid "YOU BACK OFF!"
-msgstr "你滚开!"
+msgstr "你走开!"
 
 #: STRINGS.BORE_TALK_RUNAWAY_WILSON.4
 msgid "THAT MY SPACE."
-msgstr "那是我的地盘"
+msgstr "那是猪的地盘"
 
 #: STRINGS.BORE_TALK_RUN_FROM_SPIDER.1
 msgid "SPIDER BAD!"
-msgstr "坏蜘蛛!"
+msgstr "蜘蛛坏!"
 
 #: STRINGS.BORE_TALK_RUN_FROM_SPIDER.2
 msgid "NO LIKE SPIDER!"
-msgstr "我讨厌蜘蛛!"
+msgstr "猪人讨厌蜘蛛!"
 
 #: STRINGS.BORE_TALK_RUN_FROM_SPIDER.3
 msgid "SCARY SPIDER!"
@@ -1036,7 +968,7 @@ msgstr "胡萝卜"
 
 #: STRINGS.BUNNYMANNAMES.40
 msgid "Nantes"
-msgstr "南特斯"
+msgstr "南特"
 
 #: STRINGS.BUNNYMANNAMES.41
 msgid "Nelson"
@@ -1056,7 +988,7 @@ msgstr "潘佩内尔"
 
 #: STRINGS.BUNNYMANNAMES.45
 msgid "Redhild"
-msgstr "莱德希尔德"
+msgstr "瑞德浩特"
 
 #: STRINGS.BUNNYMANNAMES.46
 msgid "Redland"
@@ -1064,7 +996,7 @@ msgstr "莱德兰德"
 
 #: STRINGS.BUNNYMANNAMES.47
 msgid "Suko"
-msgstr "苏库"
+msgstr "苏果"
 
 #: STRINGS.BUNNYMANNAMES.48
 msgid "Thumbelina"
@@ -1072,7 +1004,7 @@ msgstr "拇指姑娘"
 
 #: STRINGS.BUNNYMANNAMES.49
 msgid "Topweight"
-msgstr "大胖子"
+msgstr "特伯瑞特"
 
 #: STRINGS.BUNNYMANNAMES.5
 msgid "Celeriac"
@@ -1084,15 +1016,15 @@ msgstr "塔昌"
 
 #: STRINGS.BUNNYMANNAMES.51
 msgid "Uchon"
-msgstr "乌昌"
+msgstr "尤成"
 
 #: STRINGS.BUNNYMANNAMES.52
 msgid "Valery"
-msgstr "维拉利"
+msgstr "瓦列里"
 
 #: STRINGS.BUNNYMANNAMES.53
 msgid "Yellow"
-msgstr "小黄"
+msgstr "黄色"
 
 #: STRINGS.BUNNYMANNAMES.54
 msgid "Zino"
@@ -1816,7 +1748,7 @@ msgstr "看似挺干净"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASALT
 msgid "That's too strong to break through!"
-msgstr "太坚硬了,穿不过去!"
+msgstr "它太坚硬了,无法打破!"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BAT
 msgid "Ack! That's terrifying!"
@@ -2696,7 +2628,7 @@ msgstr "总有一天它会回来的."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEPLETED_GRASS.GENERIC
 msgid "It's probably a tuft of grass."
-msgstr "好像是一块草地"
+msgstr "这大概是一簇草"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEPLETED_GRASS_WATER
 msgid "Farewell, sweet plant."
@@ -3192,7 +3124,7 @@ msgstr "如果我有一些方法来勾住这里."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER
 msgid "It's pretty, but it smells like a common laborer."
-msgstr "很漂亮,但是这闻起来像一个普通的工人."
+msgstr "它长的挺漂亮的，但是它有一种勤劳工人的气味."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWERHAT
 msgid "It smells like prettiness."
@@ -3356,7 +3288,7 @@ msgstr "烧的好快!"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS.GENERIC
 msgid "It's a tuft of grass."
-msgstr "是一块草地"
+msgstr "这个是一簇草。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GRASS.PICKED
 msgid "It was cut down in the prime of its life."
@@ -70764,19 +70696,19 @@ msgstr "*擅长战斗\n*吸收死掉的敌人的力量\n*只能吃肉食"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*On a first-name basis with the night"
-msgstr "*聪明但体弱\n*善于一心多用\n*与黑夜同名的男人"
+msgstr "*穿着绅士，但是很脆弱\n*可以将自己的精神分身\n*与黑夜同名的男人"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.webber
 msgid "*Is a monster\n*Can befriend spiders\n*Grows a silky smooth beard"
-msgstr "*是一只怪物\n*可以作为小伙伴的蜘蛛\n*会长出一嘴毛绒绒的小胡子"
+msgstr "*是一只怪物\n*可以与蜘蛛交朋友\n*会长出一嘴毛绒绒的小胡子"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wendy
 msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Doesn't hit very hard"
-msgstr "*被她的双胞胎妹妹所缠绕\n*她在黑暗中很舒适\n*力气很小不是很能打"
+msgstr "*被她的双胞胎妹妹所萦绕\n*她在黑暗中很舒适\n*力气很小不是很能打"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgid "*Can't talk\n*Has trouble staying alive\n*Practices balloonomancy"
-msgstr "*不能说话\n*很难活着\n*使用气球魔法"
+msgstr "*不会说话\n*很难活着\n*使用气球戏法"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Knows many things\n*Self-publishes books\n*Can't sleep, hates spoilage"
@@ -70784,15 +70716,15 @@ msgstr "*知道很多事情\n*自己发行了书籍\n*不能睡觉,讨厌变质�
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilbur
 msgid "*Can't talk\n*Slow as biped, but fast as quadruped\n*Is a monkey"
-msgstr "*不会人语\n*走的时候慢,跑的时候快\n*是个猴子"
+msgstr "*不会说话\n*走的时候慢,跑的时候快\n*是个猴子"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.willow
 msgid "*Immune to fire damage\n*Has a sweet lighter\n*Lights fires when nervous"
-msgstr "*对火焰伤害免疫\n*有一个很棒的打火机\n*紧张的时候就会点火"
+msgstr "*免疫火焰伤害\n*有一个很棒的打火机\n*紧张的时候就会点火"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgid "*Grows a magnificent beard"
-msgstr "*长出一大把胡须"
+msgstr "*可以长出一把宏伟的胡子"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 msgid "*Grows stronger with a full belly \n*Is afraid of monsters and the dark"
@@ -70800,7 +70732,7 @@ msgstr "*吃饱了能够很强大\n*害怕怪物和黑暗"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodie
 msgid "*Has a lovely axe \n*And a terrible secret \n*Is thankful for bountiful harvests"
-msgstr "有一个可爱的斧子\n*和一个可怕的秘密\n*对丰富的收获物充满感恩"
+msgstr "*有一把可爱的斧子\n*和一个可怕的秘密\n*对丰收表示感谢"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada
 msgid "*Has a lovely axe \n*And a terrible secret \n*Celebrates Thanksgiving at the correct time"
@@ -70836,7 +70768,7 @@ msgstr "沃利"
 
 #: STRINGS.CHARACTER_NAMES.wathgrithr
 msgid "Wigfrid"
-msgstr "威戈芙德"
+msgstr "薇格弗德"
 
 #: STRINGS.CHARACTER_NAMES.waxwell
 msgid "Maxwell"
@@ -70856,7 +70788,7 @@ msgstr "维斯"
 
 #: STRINGS.CHARACTER_NAMES.wickerbottom
 msgid "Ms. Wickerbottom"
-msgstr "薇克波顿女士"
+msgstr "维克波顿女士"
 
 #: STRINGS.CHARACTER_NAMES.wilbur
 msgid "Wilbur"
@@ -70916,7 +70848,7 @@ msgstr "\"阿比盖尔?回来!我还没跟你玩够呢.\""
 
 #: STRINGS.CHARACTER_QUOTES.wes
 msgid "..."
-msgstr "......"
+msgstr "..."
 
 #: STRINGS.CHARACTER_QUOTES.wickerbottom
 msgid "\"Shhhh! No talking!\""
@@ -70932,7 +70864,7 @@ msgstr "\"东西燃烧时是最美丽的时刻。\""
 
 #: STRINGS.CHARACTER_QUOTES.wilson
 msgid "\"I will conquer it all with the power of my MIND!\""
-msgstr "\"我将用我的意志征服一切!\""
+msgstr "\"我将用我的头脑征服一切!\""
 
 #: STRINGS.CHARACTER_QUOTES.wolfgang
 msgid "\"I am mighty! No one is mightier!\""
@@ -70940,7 +70872,7 @@ msgstr "\"我是男子汉!没有人的力量能超越我!\""
 
 #: STRINGS.CHARACTER_QUOTES.woodie
 msgid "\"That's a nice lookin' tree, eh?\""
-msgstr "\"那棵树很漂亮，对吧？\""
+msgstr "\"这是一棵非常棒的树，对吧？\""
 
 #: STRINGS.CHARACTER_QUOTES.woodlegs
 msgid "\"Don't ye mind th'scurvy. Yarr-harr-harr!\""
@@ -70964,7 +70896,7 @@ msgstr "沃利"
 
 #: STRINGS.CHARACTER_TITLES.wathgrithr
 msgid "The Performance Artist"
-msgstr "威戈芙德"
+msgstr "薇格弗德"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
@@ -70984,7 +70916,7 @@ msgstr "维斯"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
-msgstr "维肯波顿"
+msgstr "维克波顿"
 
 #: STRINGS.CHARACTER_TITLES.wilbur
 msgid "The Monkey King"
@@ -71060,15 +70992,15 @@ msgstr "上面写着\"请进来吧.\""
 
 #: STRINGS.EPITAPHS.10
 msgid "\"Not sick, just coffin.\""
-msgstr "\"不用恶心,只是普通的棺材而已.\""
+msgstr "\"不用恶心,只是棺材而已.\""
 
 #: STRINGS.EPITAPHS.11
 msgid "\"Sweet slumber.\""
-msgstr "\"甜蜜的沉睡了.\""
+msgstr "\"晚安好梦.\""
 
 #: STRINGS.EPITAPHS.12
 msgid "\"This world could not hold me.\""
-msgstr "\"这个世界容纳不下我.\""
+msgstr "\"这个世界没有我的存在之地.\""
 
 #: STRINGS.EPITAPHS.13
 msgid "\"I didn't like it here anyway.\""
@@ -71080,11 +71012,11 @@ msgstr "\"我有一个更好的住所了.\""
 
 #: STRINGS.EPITAPHS.15
 msgid "\"It's dirty down here.\""
-msgstr "\"这里好脏啊.\""
+msgstr "\"这里脏兮兮的.\""
 
 #: STRINGS.EPITAPHS.16
 msgid "\"Age makes fools of us all.\""
-msgstr "\"年龄使得我们都是傻瓜.\""
+msgstr "\"年老让我们迟钝了.\""
 
 #: STRINGS.EPITAPHS.17
 msgid "\"Just needed a rest.\""
@@ -71092,7 +71024,7 @@ msgstr "\"我只是需要休息了.\""
 
 #: STRINGS.EPITAPHS.18
 msgid "\"Five more minutes.\""
-msgstr "\"再给我5分钟.\""
+msgstr "\"再给我睡5分钟.\""
 
 #: STRINGS.EPITAPHS.19
 msgid "\"It's not as bad as it looks.\""
@@ -71100,7 +71032,7 @@ msgstr "\"看上去并不是特别糟糕\""
 
 #: STRINGS.EPITAPHS.2
 msgid "\"Here lies some guy.\""
-msgstr "\"这下面有个少年.\""
+msgstr "\"这里躺着一个人。\""
 
 #: STRINGS.EPITAPHS.20
 msgid "It says \"Finally, some peace and quiet.\""
@@ -71108,43 +71040,43 @@ msgstr "上面写着\"最后,一些和平和安宁.\""
 
 #: STRINGS.EPITAPHS.21
 msgid "It says \"Mind your own business.\""
-msgstr "上面写着\"关你什么事.\""
+msgstr "上面写着\"少管闲事.\""
 
 #: STRINGS.EPITAPHS.22
 msgid "It says \"Help, get me out!\" and \"Nah, just kidding,\" beneath."
-msgstr "上面写着\"快帮我弄出来!\"和\"只是开个玩笑.\""
+msgstr "上面写着\"快救我出来!\"下面还刻着\"开玩笑的啦.\""
 
 #: STRINGS.EPITAPHS.23
 msgid "An engravement of their last words: \"I love it so much I could just die!\""
-msgstr "上面刻着他们最后一句话：\"死了都要爱!\""
+msgstr "上面刻着他们的遗言：\"死了都要爱!\""
 
 #: STRINGS.EPITAPHS.24
 msgid "An engravement of their last words: \"Hey, watch this.\""
-msgstr "上面刻着他们最后一句话：\"嘿,看这里.\""
+msgstr "上面刻着他们的遗言：\"嘿,看这里.\""
 
 #: STRINGS.EPITAPHS.25
 msgid "An engravement of their last words: \"Uh-oh.\""
-msgstr "上面刻着他们最后一句话：\"哇哦.\""
+msgstr "上面刻着他们的遗言：\"哇哦.\""
 
 #: STRINGS.EPITAPHS.26
 msgid "An engravement of their last words: \"This is fine.\""
-msgstr "上面刻着他们最后一句话：\"这样就好.\""
+msgstr "上面刻着他们的遗言：\"就这样吧.\""
 
 #: STRINGS.EPITAPHS.27
 msgid "An engravement of their last words: \"I'm out of here.\""
-msgstr "上面刻着他们最后一句话：\"我要离开这里.\""
+msgstr "上面刻着他们的遗言：\"我要离开这里.\""
 
 #: STRINGS.EPITAPHS.28
 msgid "An engravement of their last words: \"That's enough of that.\""
-msgstr "上面刻着他们最后一句话：\"这样就足够了.\""
+msgstr "上面刻着他们的遗言：\"已经受够了.\""
 
 #: STRINGS.EPITAPHS.29
 msgid "An engravement of their last words: \"I'd rather die!\""
-msgstr "上面刻着他们最后一句话：\"我宁愿狗带!\""
+msgstr "上面刻着他们的遗言：\"我宁愿去死!\""
 
 #: STRINGS.EPITAPHS.3
 msgid "\"Here lies some gal.\""
-msgstr "\"这下面有个美少女.\""
+msgstr "\"这里埋了一位少女.\""
 
 #: STRINGS.EPITAPHS.30
 msgid "An engravement of their last words: \"Uh, okay bye.\""
@@ -71164,15 +71096,15 @@ msgstr "它在中间裂开了."
 
 #: STRINGS.EPITAPHS.34
 msgid "It says \"Did I make it into the history books?\""
-msgstr "上面写着\"我记录在历史书上了吗?\""
+msgstr "上面写着\"我被写在历史书里面了吗?\""
 
 #: STRINGS.EPITAPHS.35
 msgid "It says \"I'm taking a nap. In the dirt.\""
-msgstr "上面写着\"我在泥土里睡觉.\""
+msgstr "上面写着\"我要在泥土里睡一会儿.\""
 
 #: STRINGS.EPITAPHS.36
 msgid "It says \"These are just the pieces we could find.\""
-msgstr "上面写着\"这些都是我们可以找到的碎片.\""
+msgstr "上面写着\"只能找到这一点尸块埋了.\""
 
 #: STRINGS.EPITAPHS.37
 msgid "It says \"See you on the other side.\""
@@ -71184,7 +71116,7 @@ msgstr "上面写着\"待会儿见.\""
 
 #: STRINGS.EPITAPHS.39
 msgid "It says \"Don't make fun. You'll be here too one day.\""
-msgstr "上面写着\"不要幸灾乐祸.总有一天你会在这里.\""
+msgstr "上面写着\"不要高兴太早.总有一天你也会在这里.\""
 
 #: STRINGS.EPITAPHS.4
 msgid "\"Here lies some person.\""
@@ -71916,7 +71848,7 @@ msgstr "你真是很冒险啊"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
 msgid "You insolent, pitiful, insignificant ant!"
-msgstr "你这个傲慢、无知、可怜的蚂蚁!"
+msgstr "你这个傲慢、无知、可怜的蝼蚁!"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
 msgid "You will regret coming any further..."
@@ -71940,7 +71872,7 @@ msgstr "这就是你想要的?"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
 msgid "Just dust. And the void. And Them."
-msgstr "只有灰尘.空虚.和他们"
+msgstr "只有虚空.尘埃.和它们"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
 msgid "I've learned so much since then. I've built so much."
@@ -71976,7 +71908,7 @@ msgstr "继续,待一会儿.陪陪我们"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
 msgid "Or put the key in the box. It's your decision."
-msgstr "或者把钥匙放到箱子里.你来决定"
+msgstr "或者把钥匙放到锁头上.你来决定"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
 msgid "Forgive me if I don't get up."
@@ -72352,11 +72284,11 @@ msgstr "生命护符"
 
 #: STRINGS.NAMES.ANCIENT_ALTAR
 msgid "Ancient Pseudoscience Station"
-msgstr "远古遗迹"
+msgstr "远古伪科学站"
 
 #: STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
 msgid "Broken Ancient Pseudoscience Station"
-msgstr "破碎的远古遗迹"
+msgstr "破碎的远古伪科学站"
 
 #: STRINGS.NAMES.ANCIENT_STATUE
 msgid "Ancient statue"
@@ -72376,11 +72308,11 @@ msgstr "仙人掌盔甲"
 
 #: STRINGS.NAMES.ARMORDRAGONFLY
 msgid "Scalemail"
-msgstr "鳞甲"
+msgstr "龙鳞盔甲"
 
 #: STRINGS.NAMES.ARMORGRASS
 msgid "Grass Suit"
-msgstr "草地盔甲"
+msgstr "草制盔甲"
 
 #: STRINGS.NAMES.ARMORLIMESTONE
 msgid "Limestone Suit"
@@ -72396,11 +72328,11 @@ msgstr "十胜石盔甲"
 
 #: STRINGS.NAMES.ARMORRUINS
 msgid "Thulecite Suit"
-msgstr "铥矿盔甲"
+msgstr "铥矿甲胄"
 
 #: STRINGS.NAMES.ARMORSEASHELL
 msgid "Seashell Suit"
-msgstr "海贝套装"
+msgstr "海贝盔甲"
 
 #: STRINGS.NAMES.ARMORSLURPER
 msgid "Belt of Hunger"
@@ -72420,7 +72352,7 @@ msgstr "救生衣"
 
 #: STRINGS.NAMES.ARMOR_SANITY
 msgid "Night Armor"
-msgstr "暗影之甲"
+msgstr "暗影盔甲"
 
 #: STRINGS.NAMES.ARMOR_SNAKESKIN
 msgid "Snakeskin Jacket"
@@ -72448,11 +72380,11 @@ msgstr "斧头"
 
 #: STRINGS.NAMES.BABYBEEFALO
 msgid "Baby Beefalo"
-msgstr "婴儿牦牛"
+msgstr "牛宝宝"
 
 #: STRINGS.NAMES.BABYOX
 msgid "Baby Water Beefalo"
-msgstr "小牛"
+msgstr "水牛宝宝"
 
 #: STRINGS.NAMES.BACKPACK
 msgid "Backpack"
@@ -72564,19 +72496,19 @@ msgstr "蜜蜂"
 
 #: STRINGS.NAMES.BEEBOX
 msgid "Bee Box"
-msgstr "蜜蜂箱"
+msgstr "蜂箱"
 
 #: STRINGS.NAMES.BEEFALO
 msgid "Beefalo"
-msgstr "草原牦牛"
+msgstr "皮弗娄牛"
 
 #: STRINGS.NAMES.BEEFALOHAT
 msgid "Beefalo Hat"
-msgstr "皮弗娄牛帽"
+msgstr "牛帽"
 
 #: STRINGS.NAMES.BEEFALOWOOL
 msgid "Beefalo Wool"
-msgstr "皮弗娄牛毛"
+msgstr "牛毛"
 
 #: STRINGS.NAMES.BEEHAT
 msgid "Beekeeper Hat"
@@ -72608,7 +72540,7 @@ msgstr "浆果"
 
 #: STRINGS.NAMES.BERRIES_COOKED
 msgid "Roasted Berries"
-msgstr "热煨浆果"
+msgstr "烤浆果"
 
 #: STRINGS.NAMES.BERRYBUSH
 msgid "Berry Bush"
@@ -72636,7 +72568,7 @@ msgstr "荧光生物"
 
 #: STRINGS.NAMES.BIRCHNUTDRAKE
 msgid "Birchnutter"
-msgstr "桦树果"
+msgstr "坚果"
 
 #: STRINGS.NAMES.BIRDCAGE
 msgid "Birdcage"
@@ -72660,7 +72592,7 @@ msgstr "发条主教"
 
 #: STRINGS.NAMES.BISHOP_NIGHTMARE
 msgid "Damaged Bishop"
-msgstr "损坏的象"
+msgstr "损坏的主教"
 
 #: STRINGS.NAMES.BISQUE
 msgid "Bisque"
@@ -72680,7 +72612,7 @@ msgstr "吹箭"
 
 #: STRINGS.NAMES.BLOWDART_POISON
 msgid "Poison Dart"
-msgstr "毒镖"
+msgstr "带毒吹箭"
 
 #: STRINGS.NAMES.BLOWDART_SLEEP
 msgid "Sleep Dart"
@@ -72712,7 +72644,7 @@ msgstr "蓝菇头"
 
 #: STRINGS.NAMES.BLUE_CAP_COOKED
 msgid "Cooked Blue Cap"
-msgstr "煮熟的蓝蘑菇"
+msgstr "烤蓝蘑菇"
 
 #: STRINGS.NAMES.BLUE_MUSHROOM
 msgid "Blue Mushroom"
@@ -72760,7 +72692,7 @@ msgstr "世界上的鸟"
 
 #: STRINGS.NAMES.BOOK_BRIMSTONE
 msgid "The End is Nigh!"
-msgstr "快要结束了!"
+msgstr "末日临近!"
 
 #: STRINGS.NAMES.BOOK_GARDENING
 msgid "Applied Horticulture"
@@ -72796,7 +72728,7 @@ msgstr "网"
 
 #: STRINGS.NAMES.BUNNYMAN
 msgid "Bunnyman"
-msgstr "兔男"
+msgstr "兔人"
 
 #: STRINGS.NAMES.BUOY
 msgid "Buoy"
@@ -72836,7 +72768,7 @@ msgstr "蝴蝶翅膀"
 
 #: STRINGS.NAMES.BUZZARD
 msgid "Buzzard"
-msgstr "秃鹰"
+msgstr "秃鹫"
 
 #: STRINGS.NAMES.CACTUS
 msgid "Cactus"
@@ -72892,7 +72824,7 @@ msgstr "胡萝卜种子"
 
 #: STRINGS.NAMES.CATCOON
 msgid "Catcoon"
-msgstr "猫熊"
+msgstr "浣猫"
 
 #: STRINGS.NAMES.CATCOONDEN
 msgid "Hollow Stump"
@@ -72956,15 +72888,15 @@ msgstr "查理"
 
 #: STRINGS.NAMES.CHESSJUNK1
 msgid "Broken clockworks"
-msgstr "破碎的机械"
+msgstr "破碎的发条机器"
 
 #: STRINGS.NAMES.CHESSJUNK2
 msgid "Broken clockworks"
-msgstr "破碎的机械"
+msgstr "破碎的发条机器"
 
 #: STRINGS.NAMES.CHESSJUNK3
 msgid "Broken clockworks"
-msgstr "破碎的机械"
+msgstr "破碎的发条机器"
 
 #: STRINGS.NAMES.CHESTER
 msgid "Chester"
@@ -73020,15 +72952,15 @@ msgstr "咖啡树"
 
 #: STRINGS.NAMES.COLD
 msgid "Freezing"
-msgstr "寒冷刺骨"
+msgstr "严寒"
 
 #: STRINGS.NAMES.COLDFIRE
 msgid "Endothermic Fire"
-msgstr "吸热火堆"
+msgstr "吸热营火"
 
 #: STRINGS.NAMES.COLDFIREPIT
 msgid "Endothermic Fire Pit"
-msgstr "吸热火坑"
+msgstr "吸热篝火"
 
 #: STRINGS.NAMES.COMPASS
 msgid "Compass"
@@ -73060,7 +72992,7 @@ msgstr "猫尾"
 
 #: STRINGS.NAMES.CORAL
 msgid "Coral"
-msgstr "珊湖"
+msgstr "珊瑚"
 
 #: STRINGS.NAMES.CORALLARVE
 msgid "Coral Larva"
@@ -73112,7 +73044,7 @@ msgstr "木箱"
 
 #: STRINGS.NAMES.CRAWLINGHORROR
 msgid "Crawling Horror"
-msgstr "爬行恐惧化身"
+msgstr "爬行的恐惧"
 
 #: STRINGS.NAMES.CRAWLINGNIGHTMARE
 msgid "Crawling Nightmare"
@@ -73136,7 +73068,7 @@ msgstr "乌鸦"
 
 #: STRINGS.NAMES.CUTGRASS
 msgid "Cut Grass"
-msgstr "干草"
+msgstr "割下的草"
 
 #: STRINGS.NAMES.CUTLASS
 msgid "Cutlass Supreme"
@@ -73148,7 +73080,7 @@ msgstr "苔藓"
 
 #: STRINGS.NAMES.CUTREEDS
 msgid "Cut Reeds"
-msgstr "割好的芦苇"
+msgstr "割下的芦苇"
 
 #: STRINGS.NAMES.CUTSTONE
 msgid "Cut Stone"
@@ -73180,7 +73112,7 @@ msgstr "独眼巨鹿"
 
 #: STRINGS.NAMES.DEERCLOPS_EYEBALL
 msgid "Deerclops Eyeball"
-msgstr "鹿角怪眼球"
+msgstr "巨鹿眼球"
 
 #: STRINGS.NAMES.DEFAULT
 msgid "INVENTORY ITEM"
@@ -73200,15 +73132,15 @@ msgstr "可疑的土堆"
 
 #: STRINGS.NAMES.DIVININGROD
 msgid "Divining Rod"
-msgstr "魔杖"
+msgstr "探测杖"
 
 #: STRINGS.NAMES.DIVININGRODBASE
 msgid "Divining Rod Holder"
-msgstr "探测魔杖的支架"
+msgstr "探测杖的支架"
 
 #: STRINGS.NAMES.DIVININGRODSTART
 msgid "Divining Rod Holder"
-msgstr "探测魔杖的支架"
+msgstr "探测杖的支架"
 
 #: STRINGS.NAMES.DORSALFIN
 msgid "Dorsal Fin"
@@ -73256,7 +73188,7 @@ msgstr "龙蝇"
 
 #: STRINGS.NAMES.DRAGONFLYCHEST
 msgid "Scaled Chest"
-msgstr "鳞片箱子"
+msgstr "龙鳞宝箱"
 
 #: STRINGS.NAMES.DRAGONFRUIT
 msgid "Dragon Fruit"
@@ -73264,7 +73196,7 @@ msgstr "火龙果"
 
 #: STRINGS.NAMES.DRAGONFRUIT_COOKED
 msgid "Prepared Dragon Fruit"
-msgstr "精致火龙果"
+msgstr "烤火龙果"
 
 #: STRINGS.NAMES.DRAGONFRUIT_SEEDS
 msgid "Dragon Fruit Seeds"
@@ -73280,23 +73212,23 @@ msgstr "鳞片"
 
 #: STRINGS.NAMES.DRAGOON
 msgid "Dragoon"
-msgstr "龙骑士"
+msgstr "呆龙"
 
 #: STRINGS.NAMES.DRAGOONDEN
 msgid "Dragoon Den"
-msgstr "龙人巢"
+msgstr "呆龙巢"
 
 #: STRINGS.NAMES.DRAGOONEGG
 msgid "Dragoon Egg"
-msgstr "龙人蛋"
+msgstr "呆龙蛋"
 
 #: STRINGS.NAMES.DRAGOONHEART
 msgid "Dragoon Heart"
-msgstr "龙人心"
+msgstr "呆龙心脏"
 
 #: STRINGS.NAMES.DRAGOONSPIT
 msgid "Dragoon Saliva"
-msgstr "龙骑士的口水"
+msgstr "呆龙的口水"
 
 #: STRINGS.NAMES.DROWNING
 msgid "Drowning"
@@ -73404,7 +73336,7 @@ msgstr "仙象掌根"
 
 #: STRINGS.NAMES.ENCRUSTEDBOAT
 msgid "Encrusted Boat"
-msgstr "装甲船"
+msgstr "甲壳船"
 
 #: STRINGS.NAMES.EUREKAHAT
 msgid "Eureka! Hat"
@@ -73424,15 +73356,15 @@ msgstr "眼球伞"
 
 #: STRINGS.NAMES.EYEPLANT
 msgid "Eye Plant"
-msgstr "眼树"
+msgstr "眼球草"
 
 #: STRINGS.NAMES.EYETURRET
 msgid "Houndius Shootius"
-msgstr "犬齿形炮塔"
+msgstr "恒迪尤斯·舒提尤斯"
 
 #: STRINGS.NAMES.EYETURRET_ITEM
 msgid "Houndius Shootius"
-msgstr "犬齿形炮塔"
+msgstr "恒迪尤斯·舒提尤斯"
 
 #: STRINGS.NAMES.FABRIC
 msgid "Cloth"
@@ -73444,7 +73376,7 @@ msgstr "高级农场"
 
 #: STRINGS.NAMES.FEATHERFAN
 msgid "Luxury Fan"
-msgstr "豪华风扇"
+msgstr "鹅毛扇"
 
 #: STRINGS.NAMES.FEATHERHAT
 msgid "Feather Hat"
@@ -73484,7 +73416,7 @@ msgstr "红色猎犬"
 
 #: STRINGS.NAMES.FIREPIT
 msgid "Fire Pit"
-msgstr "石头火坑"
+msgstr "石头篝火"
 
 #: STRINGS.NAMES.FIRESTAFF
 msgid "Fire Staff"
@@ -73492,7 +73424,7 @@ msgstr "火魔杖"
 
 #: STRINGS.NAMES.FIRESUPPRESSOR
 msgid "Ice Flingomatic"
-msgstr "雪球发射机"
+msgstr "雪球发射器"
 
 #: STRINGS.NAMES.FISH
 msgid "Fish"
@@ -73532,11 +73464,11 @@ msgstr "浅滩"
 
 #: STRINGS.NAMES.FISHSTICKS
 msgid "Fishsticks"
-msgstr "鱼肉条"
+msgstr "炸鱼条"
 
 #: STRINGS.NAMES.FISHTACOS
 msgid "Fish Tacos"
-msgstr "玉米饼包炸鱼"
+msgstr "鱼炸玉米饼"
 
 #: STRINGS.NAMES.FISH_COOKED
 msgid "Cooked Fish"
@@ -73596,15 +73528,15 @@ msgstr "花瓣沙拉"
 
 #: STRINGS.NAMES.FLOWER_CAVE
 msgid "Light Flower"
-msgstr "荧光花"
+msgstr "荧光草"
 
 #: STRINGS.NAMES.FLOWER_CAVE_DOUBLE
 msgid "Light Flower"
-msgstr "荧光花"
+msgstr "荧光草"
 
 #: STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgid "Light Flower"
-msgstr "荧光花"
+msgstr "荧光草"
 
 #: STRINGS.NAMES.FLOWER_EVIL
 msgid "Evil Flower"
@@ -73620,7 +73552,7 @@ msgstr "树叶"
 
 #: STRINGS.NAMES.FOOTBALLHAT
 msgid "Football Helmet"
-msgstr "猪皮足球头盔"
+msgstr "橄榄球头盔"
 
 #: STRINGS.NAMES.FRESHFRUITCREPES
 msgid "Fresh Fruit Crepes"
@@ -73660,7 +73592,7 @@ msgstr "齿轮"
 
 #: STRINGS.NAMES.GEMSOCKET
 msgid "Gem Stand"
-msgstr "宝石看台"
+msgstr "宝石放置台"
 
 #: STRINGS.NAMES.GHOST
 msgid "Ghost"
@@ -73672,27 +73604,27 @@ msgstr "水手怨魂"
 
 #: STRINGS.NAMES.GLOMMER
 msgid "Glommer"
-msgstr "格洛姆"
+msgstr "格罗姆"
 
 #: STRINGS.NAMES.GLOMMERFLOWER
 msgid "Glommer's Flower"
-msgstr "格洛姆的花"
+msgstr "格罗姆的花"
 
 #: STRINGS.NAMES.GLOMMERFUEL
 msgid "Glommer's Goop"
-msgstr "格洛姆的粘液"
+msgstr "格罗姆的粘液"
 
 #: STRINGS.NAMES.GLOMMERWINGS
 msgid "Glommer's Wings"
-msgstr "格洛姆的翅膀"
+msgstr "格罗姆的翅膀"
 
 #: STRINGS.NAMES.GOATMILK
 msgid "Electric Milk"
-msgstr "电羊奶"
+msgstr "伏特羊奶"
 
 #: STRINGS.NAMES.GOLDENAXE
 msgid "Luxury Axe"
-msgstr "豪华斧头"
+msgstr "黄金斧头"
 
 #: STRINGS.NAMES.GOLDENMACHETE
 msgid "Luxury Machete"
@@ -73700,7 +73632,7 @@ msgstr "黄金砍刀"
 
 #: STRINGS.NAMES.GOLDENPICKAXE
 msgid "Opulent Pickaxe"
-msgstr "华丽的鹤嘴锄"
+msgstr "黄金鹤嘴锄"
 
 #: STRINGS.NAMES.GOLDENPITCHFORK
 msgid "Snazzy Pitchfork"
@@ -73744,7 +73676,7 @@ msgstr "绿宝石"
 
 #: STRINGS.NAMES.GREENSTAFF
 msgid "Deconstruction Staff"
-msgstr "毁灭权杖"
+msgstr "解构魔杖"
 
 #: STRINGS.NAMES.GREEN_CAP
 msgid "Green Cap"
@@ -73752,7 +73684,7 @@ msgstr "绿菇头"
 
 #: STRINGS.NAMES.GREEN_CAP_COOKED
 msgid "Cooked Green Cap"
-msgstr "煮熟的绿蘑菇"
+msgstr "烤蘑菇"
 
 #: STRINGS.NAMES.GREEN_MUSHROOM
 msgid "Green Mushroom"
@@ -73776,7 +73708,7 @@ msgstr "冰雹"
 
 #: STRINGS.NAMES.HAMBAT
 msgid "Ham Bat"
-msgstr "火腿球棒"
+msgstr "火腿棒"
 
 #: STRINGS.NAMES.HAMMER
 msgid "Hammer"
@@ -73800,7 +73732,7 @@ msgstr "热能石"
 
 #: STRINGS.NAMES.HOMESIGN
 msgid "Sign"
-msgstr "路标牌"
+msgstr "指示牌"
 
 #: STRINGS.NAMES.HONEY
 msgid "Honey"
@@ -73820,7 +73752,7 @@ msgstr "甜蜜金砖"
 
 #: STRINGS.NAMES.HORN
 msgid "Beefalo Horn"
-msgstr "皮弗娄牛角"
+msgstr "牛角"
 
 #: STRINGS.NAMES.HOT
 msgid "Overheating"
@@ -73828,7 +73760,7 @@ msgstr "过热"
 
 #: STRINGS.NAMES.HOTCHILI
 msgid "Spicy Chili"
-msgstr "呛口红辣椒"
+msgstr "辣椒酱"
 
 #: STRINGS.NAMES.HOUND
 msgid "Hound"
@@ -73836,7 +73768,7 @@ msgstr "猎犬"
 
 #: STRINGS.NAMES.HOUNDBONE
 msgid "Bones"
-msgstr "猎犬尸骨"
+msgstr "尸骨"
 
 #: STRINGS.NAMES.HOUNDFIRE
 msgid "Fire"
@@ -73852,7 +73784,7 @@ msgstr "狗牙"
 
 #: STRINGS.NAMES.HUNGER
 msgid "Starvation"
-msgstr "饥饿过头"
+msgstr "饿死"
 
 #: STRINGS.NAMES.ICE
 msgid "Ice"
@@ -73876,7 +73808,7 @@ msgstr "蓝色猎犬"
 
 #: STRINGS.NAMES.ICEMAKER
 msgid "Ice Maker 3000"
-msgstr "造冰机3000plus"
+msgstr "制冰机3000"
 
 #: STRINGS.NAMES.ICEPACK
 msgid "Insulated Pack"
@@ -73900,11 +73832,11 @@ msgstr "坟墓"
 
 #: STRINGS.NAMES.INVENTORYWATERYGRAVE
 msgid "Watery Grave"
-msgstr "潮湿的坟墓"
+msgstr "水墓"
 
 #: STRINGS.NAMES.IRONWIND
 msgid "Iron Wind"
-msgstr "铁风牌发动机"
+msgstr "铁风发动机"
 
 #: STRINGS.NAMES.JAMMYPRESERVES
 msgid "Fist Full of Jam"
@@ -73976,7 +73908,7 @@ msgstr "考拉象"
 
 #: STRINGS.NAMES.KRAKEN
 msgid "Quacken"
-msgstr "呱肯乌贼"
+msgstr "呱肯海妖"
 
 #: STRINGS.NAMES.KRAKENCHEST
 msgid "Chest of the Depths"
@@ -73984,7 +73916,7 @@ msgstr "深海中的宝箱"
 
 #: STRINGS.NAMES.KRAKEN_TENTACLE
 msgid "Quacken Tentacle"
-msgstr "呱肯乌贼的触手"
+msgstr "呱肯海妖的触手"
 
 #: STRINGS.NAMES.KRAMPUS
 msgid "Krampus"
@@ -74032,11 +73964,11 @@ msgstr "闪电"
 
 #: STRINGS.NAMES.LIGHTNINGGOAT
 msgid "Volt Goat"
-msgstr "电羊"
+msgstr "伏特羊"
 
 #: STRINGS.NAMES.LIGHTNINGGOATHORN
 msgid "Volt Goat Horn"
-msgstr "电羊角"
+msgstr "伏特羊角"
 
 #: STRINGS.NAMES.LIGHTNING_ROD
 msgid "Lightning Rod"
@@ -74072,7 +74004,7 @@ msgstr "有生命的木材"
 
 #: STRINGS.NAMES.LIVINGTREE
 msgid "Totally Normal Tree"
-msgstr "再普通不过的树木"
+msgstr "完全正常的树"
 
 #: STRINGS.NAMES.LOBSTER
 msgid "Wobster"
@@ -74160,7 +74092,7 @@ msgstr "红树林"
 
 #: STRINGS.NAMES.MANRABBIT_TAIL
 msgid "Bunny Puff"
-msgstr "蓬松的兔毛"
+msgstr "兔毛"
 
 #: STRINGS.NAMES.MARBLE
 msgid "Marble"
@@ -74180,11 +74112,11 @@ msgstr "尖刺灌木"
 
 #: STRINGS.NAMES.MARSH_PLANT
 msgid "Plant"
-msgstr "种植"
+msgstr "植物"
 
 #: STRINGS.NAMES.MARSH_PLANT_TROPICAL
 msgid "Plant"
-msgstr "种植"
+msgstr "植物"
 
 #: STRINGS.NAMES.MARSH_TREE
 msgid "Spiky Tree"
@@ -74200,7 +74132,7 @@ msgstr "麦斯威尔之首"
 
 #: STRINGS.NAMES.MAXWELLKEY
 msgid "Shadow Key"
-msgstr "影子钥匙"
+msgstr "暗影钥匙"
 
 #: STRINGS.NAMES.MAXWELLLIGHT
 msgid "Maxwell's Light"
@@ -74240,7 +74172,7 @@ msgstr "鱼人"
 
 #: STRINGS.NAMES.MERMFISHER
 msgid "Fishermerm"
-msgstr "鱼人"
+msgstr "鱼人渔夫"
 
 #: STRINGS.NAMES.MERMHEAD
 msgid "Merm Head"
@@ -74272,7 +74204,7 @@ msgstr "矿工帽"
 
 #: STRINGS.NAMES.MINOTAUR
 msgid "Ancient Guardian"
-msgstr "远古守护者"
+msgstr "远古守卫者"
 
 #: STRINGS.NAMES.MINOTAURCHEST
 msgid "Large Ornate Chest"
@@ -74284,11 +74216,11 @@ msgstr "守卫者的角"
 
 #: STRINGS.NAMES.MOLE
 msgid "Moleworm"
-msgstr "地鼠虫"
+msgstr "鼹鼠"
 
 #: STRINGS.NAMES.MOLEHAT
 msgid "Moggles"
-msgstr "地鼠帽"
+msgstr "鼹鼠帽"
 
 #: STRINGS.NAMES.MOLEHILL
 msgid "Burrow"
@@ -74296,7 +74228,7 @@ msgstr "洞穴"
 
 #: STRINGS.NAMES.MOLE_ABOVEGROUND
 msgid "Moleworm"
-msgstr "地鼠"
+msgstr "鼹鼠"
 
 #: STRINGS.NAMES.MOLE_UNDERGROUND
 msgid "Raised Dirt"
@@ -74308,11 +74240,11 @@ msgstr "暴躁猴"
 
 #: STRINGS.NAMES.MONKEYBALL
 msgid "Silly Monkey Ball"
-msgstr "傻猴子球"
+msgstr "愚猴球"
 
 #: STRINGS.NAMES.MONKEYBARREL
 msgid "Splumonkey Pod"
-msgstr "暴躁猴的箱子"
+msgstr "暴躁猴群"
 
 #: STRINGS.NAMES.MONSTERLASAGNA
 msgid "Monster Lasagna"
@@ -74332,27 +74264,27 @@ msgstr "怪物吞拿"
 
 #: STRINGS.NAMES.MOOSE1
 msgid "Moose"
-msgstr "麋鹿"
+msgstr "鹿角鹅"
 
 #: STRINGS.NAMES.MOOSE2
 msgid "Goose"
-msgstr "麋鹿"
+msgstr "鹿角鹅"
 
 #: STRINGS.NAMES.MOOSEEGG1
 msgid "Moose Egg"
-msgstr "麋鹿蛋"
+msgstr "鹿角鹅蛋"
 
 #: STRINGS.NAMES.MOOSEEGG2
 msgid "Goose Egg"
-msgstr "鹅蛋"
+msgstr "鹿角鹅蛋"
 
 #: STRINGS.NAMES.MOOSENEST1
 msgid "Moose Nest"
-msgstr "麋鹿巢"
+msgstr "鹿角鹅巢"
 
 #: STRINGS.NAMES.MOOSENEST2
 msgid "Goose Nest"
-msgstr "麋鹿巢"
+msgstr "鹿角鹅巢"
 
 #: STRINGS.NAMES.MOSQUITO
 msgid "Mosquito"
@@ -74364,15 +74296,15 @@ msgstr "蚊子血袋"
 
 #: STRINGS.NAMES.MOSQUITOSACK_YELLOW
 msgid "Yellow Mosquito Sack"
-msgstr "黄蚊帐"
+msgstr "黄蚊子血袋"
 
 #: STRINGS.NAMES.MOSQUITO_POISON
 msgid "Poison Mosquito"
-msgstr "毒蚊"
+msgstr "毒蚊子"
 
 #: STRINGS.NAMES.MOSSLING
 msgid "Mosling"
-msgstr "小鹅"
+msgstr "幼鹿角鹅"
 
 #: STRINGS.NAMES.MOUND
 msgid "Grave"
@@ -74432,7 +74364,7 @@ msgstr "暗夜照明灯"
 
 #: STRINGS.NAMES.NIGHTMAREBEAK
 msgid "Nightmarebeak"
-msgstr "尖嘴梦魇"
+msgstr "梦魇巨喙"
 
 #: STRINGS.NAMES.NIGHTMAREFUEL
 msgid "Nightmare Fuel"
@@ -74444,7 +74376,7 @@ msgstr "影灯"
 
 #: STRINGS.NAMES.NIGHTMARE_TIMEPIECE
 msgid "Thulecite Medallion"
-msgstr "铥矿奖章"
+msgstr "铥矿徽章"
 
 #: STRINGS.NAMES.NIGHTSTICK
 msgid "Morning Star"
@@ -74452,7 +74384,7 @@ msgstr "晨星"
 
 #: STRINGS.NAMES.NIGHTSWORD
 msgid "Dark Sword"
-msgstr "暗夜剑"
+msgstr "暗影之剑"
 
 #: STRINGS.NAMES.NIL
 msgid "Darkness"
@@ -74492,11 +74424,11 @@ msgstr "十胜石矛枪"
 
 #: STRINGS.NAMES.OBSIDIAN_BENCH
 msgid "Obsidian Workbench"
-msgstr "十胜石平台"
+msgstr "十胜石工作台"
 
 #: STRINGS.NAMES.OBSIDIAN_BENCH_BROKEN
 msgid "Broken Obsidian Workbench"
-msgstr "损坏的十胜石平台"
+msgstr "损坏的十胜石工作台"
 
 #: STRINGS.NAMES.OBSIDIAN_WORKBENCH
 msgid "Obsidian Workbench"
@@ -74508,7 +74440,7 @@ msgstr "章鱼箱子"
 
 #: STRINGS.NAMES.OCTOPUSKING
 msgid "Yaarctopus"
-msgstr "亚克章鱼"
+msgstr "海盗章鱼"
 
 #: STRINGS.NAMES.ONEMANBAND
 msgid "One-man Band"
@@ -74568,7 +74500,7 @@ msgstr "椰子树"
 
 #: STRINGS.NAMES.PANDORASCHEST
 msgid "Ornate Chest"
-msgstr "豪华箱子"
+msgstr "装饰箱"
 
 #: STRINGS.NAMES.PANFLUTE
 msgid "Pan Flute"
@@ -74600,7 +74532,7 @@ msgstr "雄火鸡"
 
 #: STRINGS.NAMES.PEROGIES
 msgid "Pierogi"
-msgstr "半圆小酥饼"
+msgstr "饺子"
 
 #: STRINGS.NAMES.PETALS
 msgid "Petals"
@@ -74616,7 +74548,7 @@ msgstr "鹤嘴锄"
 
 #: STRINGS.NAMES.PIGGUARD
 msgid "Guard Pig"
-msgstr "保镖猪"
+msgstr "猪人守卫"
 
 #: STRINGS.NAMES.PIGGYBACK
 msgid "Piggyback"
@@ -74632,7 +74564,7 @@ msgstr "猪舍"
 
 #: STRINGS.NAMES.PIGKING
 msgid "Pig King"
-msgstr "猪人国王"
+msgstr "猪王"
 
 #: STRINGS.NAMES.PIGMAN
 msgid "Pig Man"
@@ -74668,7 +74600,7 @@ msgstr "赃物袋"
 
 #: STRINGS.NAMES.PIRATIHATITATOR
 msgid "Piratihatitator"
-msgstr "灵子分解器"
+msgstr "魔法海盗帽"
 
 #: STRINGS.NAMES.PITCHFORK
 msgid "Pitchfork"
@@ -74744,7 +74676,7 @@ msgstr "出故障的新奇旅途"
 
 #: STRINGS.NAMES.POTTEDFERN
 msgid "Potted Fern"
-msgstr "盆栽的蕨类植物"
+msgstr "蕨类植物盆栽"
 
 #: STRINGS.NAMES.POWCAKE
 msgid "Powdercake"
@@ -74788,7 +74720,7 @@ msgstr "紫宝石"
 
 #: STRINGS.NAMES.QUACKENBEAK
 msgid "Quacken Beak"
-msgstr "呱肯乌贼的喙"
+msgstr "呱肯海妖的喙"
 
 #: STRINGS.NAMES.QUACKENDRILL
 msgid "Quacken Drill"
@@ -74852,7 +74784,7 @@ msgstr "雨量计"
 
 #: STRINGS.NAMES.RATATOUILLE
 msgid "Ratatouille"
-msgstr "蹩脚的炖菜"
+msgstr "蔬菜杂烩"
 
 #: STRINGS.NAMES.RAWLING
 msgid "Rawling"
@@ -74876,7 +74808,7 @@ msgstr "红菇头"
 
 #: STRINGS.NAMES.RED_CAP_COOKED
 msgid "Cooked Red Cap"
-msgstr "煮熟的红蘑菇"
+msgstr "烤红蘑菇"
 
 #: STRINGS.NAMES.RED_MUSHROOM
 msgid "Red Mushroom"
@@ -74904,11 +74836,11 @@ msgstr "炼金术引擎"
 
 #: STRINGS.NAMES.RESEARCHLAB3
 msgid "Shadow Manipulator"
-msgstr "阴影操纵者"
+msgstr "暗影操纵仪"
 
 #: STRINGS.NAMES.RESEARCHLAB4
 msgid "Prestihatitator"
-msgstr "灵子分解器"
+msgstr "魔法帽子"
 
 #: STRINGS.NAMES.RESEARCHLAB5
 msgid "Sea Lab"
@@ -74984,7 +74916,7 @@ msgstr "煮熟的鱼籽"
 
 #: STRINGS.NAMES.ROOK
 msgid "Clockwork Rook"
-msgstr "机械战车"
+msgstr "发条战车"
 
 #: STRINGS.NAMES.ROOK_NIGHTMARE
 msgid "Damaged Rook"
@@ -75004,7 +74936,7 @@ msgstr "划艇"
 
 #: STRINGS.NAMES.RUINSHAT
 msgid "Thulecite Crown"
-msgstr "铥矿石皇冠"
+msgstr "铥矿皇冠"
 
 #: STRINGS.NAMES.RUINS_BAT
 msgid "Thulecite Club"
@@ -75220,7 +75152,7 @@ msgstr "缀食者之皮"
 
 #: STRINGS.NAMES.SLURTLE
 msgid "Slurtle"
-msgstr "含糊虫"
+msgstr "蜗龟"
 
 #: STRINGS.NAMES.SLURTLEHAT
 msgid "Shelmet"
@@ -75228,11 +75160,11 @@ msgstr "背壳头盔"
 
 #: STRINGS.NAMES.SLURTLEHOLE
 msgid "Slurtle Mound"
-msgstr "含糊虫土堆"
+msgstr "蜗龟土堆"
 
 #: STRINGS.NAMES.SLURTLESLIME
 msgid "Slurtle Slime"
-msgstr "粘滑含糊虫"
+msgstr "蜗龟粘液"
 
 #: STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgid "Broken Shell"
@@ -75240,7 +75172,7 @@ msgstr "破碎的背壳"
 
 #: STRINGS.NAMES.SMALLBIRD
 msgid "Smallbird"
-msgstr "小鸟"
+msgstr "小高鸟"
 
 #: STRINGS.NAMES.SMALLMEAT
 msgid "Morsel"
@@ -75372,11 +75304,11 @@ msgstr "腐烂食物"
 
 #: STRINGS.NAMES.STAFFLIGHT
 msgid "Dwarf Star"
-msgstr "矮明星"
+msgstr "矮星"
 
 #: STRINGS.NAMES.STAFF_TORNADO
 msgid "Weather Pain"
-msgstr "愤苦的风向标"
+msgstr "旋风"
 
 #: STRINGS.NAMES.STALAGMITE
 msgid "Stalagmite"
@@ -75384,7 +75316,7 @@ msgstr "石笋"
 
 #: STRINGS.NAMES.STATUEGLOMMER
 msgid "Glommer's Statue"
-msgstr "格洛姆的雕像"
+msgstr "格罗姆的雕像"
 
 #: STRINGS.NAMES.STATUEHARP
 msgid "Harp Statue"
@@ -75548,51 +75480,51 @@ msgstr "传送核心"
 
 #: STRINGS.NAMES.TELEPORTATO_BASE
 msgid "Wooden Thing"
-msgstr "传送机零件底座"
+msgstr "传送机底座"
 
 #: STRINGS.NAMES.TELEPORTATO_BOX
 msgid "Box Thing"
-msgstr "盒状传送机零件"
+msgstr "盒状零件"
 
 #: STRINGS.NAMES.TELEPORTATO_CHECKMATE
 msgid "Wooden Thing"
-msgstr "传送机零件底座"
+msgstr "传送机底座"
 
 #: STRINGS.NAMES.TELEPORTATO_CRANK
 msgid "Crank Thing"
-msgstr "曲柄状传送机零件"
+msgstr "曲柄状零件"
 
 #: STRINGS.NAMES.TELEPORTATO_POTATO
 msgid "Metal Potato Thing"
-msgstr "球状传送机零件"
+msgstr "金属土豆零件"
 
 #: STRINGS.NAMES.TELEPORTATO_RING
 msgid "Ring Thing"
-msgstr "环状传送机零件"
+msgstr "环状零件"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_BASE
 msgid "Wooden Platform Thing"
-msgstr "木制平台类东西"
+msgstr "木制平台"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_BOX
 msgid "Screw Thing"
-msgstr "螺丝类东西"
+msgstr "螺丝状零件"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_CHECKMATE
 msgid "Wooden Platform Thing"
-msgstr "木制平台类东西"
+msgstr "木制平台"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_CRANK
 msgid "Grassy Thing"
-msgstr "长满草的东西"
+msgstr "长满草的零件"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_POTATO
 msgid "Wooden Potato Thing"
-msgstr "木制土豆类东西"
+msgstr "木制土豆零件"
 
 #: STRINGS.NAMES.TELEPORTATO_SW_RING
 msgid "Ring Thing"
-msgstr "类似戒指的玩意"
+msgstr "戒指状零件"
 
 #: STRINGS.NAMES.TELESCOPE
 msgid "Spyglass"
@@ -75600,7 +75532,7 @@ msgstr "望远镜"
 
 #: STRINGS.NAMES.TELESTAFF
 msgid "Telelocator Staff"
-msgstr "传送权杖"
+msgstr "传送魔杖"
 
 #: STRINGS.NAMES.TENT
 msgid "Tent"
@@ -75632,7 +75564,7 @@ msgstr "小触手"
 
 #: STRINGS.NAMES.TERRORBEAK
 msgid "Terrorbeak"
-msgstr "尖喙恐惧化身"
+msgstr "恐怖的巨喙"
 
 #: STRINGS.NAMES.THATCHPACK
 msgid "Thatch Pack"
@@ -75660,7 +75592,7 @@ msgstr "虎鲨之眼"
 
 #: STRINGS.NAMES.TIGERSHARK
 msgid "Tiger Shark"
-msgstr "猫纹鲨鱼"
+msgstr "虎鲨"
 
 #: STRINGS.NAMES.TOPHAT
 msgid "Top Hat"
@@ -75792,7 +75724,7 @@ msgstr "歌德结"
 
 #: STRINGS.NAMES.TRINKET_4
 msgid "Gnome"
-msgstr "地精玩偶"
+msgstr "地精"
 
 #: STRINGS.NAMES.TRINKET_5
 msgid "Tiny Rocketship"
@@ -75844,7 +75776,7 @@ msgstr "红色象鼻"
 
 #: STRINGS.NAMES.TRUNK_WINTER
 msgid "Winter Koalefant Trunk"
-msgstr "考拉象鼻"
+msgstr "蓝色象鼻"
 
 #: STRINGS.NAMES.TUMBLEWEED
 msgid "Tumbleweed"
@@ -76004,7 +75936,7 @@ msgstr "未知"
 
 #: STRINGS.NAMES.VENOMGLAND
 msgid "Venom Gland"
-msgstr "毒蛇腺体"
+msgstr "毒腺"
 
 #: STRINGS.NAMES.VINE
 msgid "Vine"
@@ -76016,7 +75948,7 @@ msgstr "火山"
 
 #: STRINGS.NAMES.VOLCANOSTAFF
 msgid "Volcano Staff"
-msgstr "熔岩法杖"
+msgstr "火山魔杖"
 
 #: STRINGS.NAMES.VOLCANO_ALTAR
 msgid "Volcano Altar of Snackrifice"
@@ -76068,11 +76000,11 @@ msgstr "石灰石墙"
 
 #: STRINGS.NAMES.WALL_RUINS
 msgid "Thulecite Wall"
-msgstr "铥矿墙壁"
+msgstr "铥矿墙"
 
 #: STRINGS.NAMES.WALL_RUINS_ITEM
 msgid "Thulecite Wall"
-msgstr "铥矿墙壁"
+msgstr "铥矿墙"
 
 #: STRINGS.NAMES.WALL_STONE
 msgid "Stone Wall"
@@ -76096,7 +76028,7 @@ msgstr "海象"
 
 #: STRINGS.NAMES.WALRUSHAT
 msgid "Tam o' Shanter"
-msgstr "海象帽"
+msgstr "贝雷帽"
 
 #: STRINGS.NAMES.WALRUS_CAMP
 msgid "Walrus Camp"
@@ -76104,7 +76036,7 @@ msgstr "海象巢穴"
 
 #: STRINGS.NAMES.WALRUS_TUSK
 msgid "Walrus Tusk"
-msgstr "海象长牙"
+msgstr "海象牙"
 
 #: STRINGS.NAMES.WARG
 msgid "Varg"
@@ -76124,7 +76056,7 @@ msgstr "海底阀箱"
 
 #: STRINGS.NAMES.WATERCROCODOG
 msgid "Blue Crocodog"
-msgstr "蓝色鳄鱼狗"
+msgstr "蓝色鳄狗"
 
 #: STRINGS.NAMES.WATERMELON
 msgid "Watermelon"
@@ -76148,11 +76080,11 @@ msgstr "西瓜种子"
 
 #: STRINGS.NAMES.WATERYGRAVE
 msgid "Watery Grave"
-msgstr "潮湿的坟墓"
+msgstr "水墓"
 
 #: STRINGS.NAMES.WATHGRITHR
 msgid "Wigfrid"
-msgstr "威格芙德"
+msgstr "薇格弗德"
 
 #: STRINGS.NAMES.WATHGRITHRHAT
 msgid "Battle Helm"
@@ -76204,7 +76136,7 @@ msgstr "白鲸"
 
 #: STRINGS.NAMES.WICKERBOTTOM
 msgid "Wickerbottom"
-msgstr "薇克巴顿"
+msgstr "维克波顿"
 
 #: STRINGS.NAMES.WILBUR_CROWN
 msgid "Tarnished Crown"
@@ -76240,7 +76172,7 @@ msgstr "威尔逊"
 
 #: STRINGS.NAMES.WIND_CONCH
 msgid "Howling Conch"
-msgstr "呼啸的海螺"
+msgstr "呼啸海螺"
 
 #: STRINGS.NAMES.WINTERHAT
 msgid "Winter Hat"
@@ -76260,7 +76192,7 @@ msgstr "伍迪"
 
 #: STRINGS.NAMES.WOODLEGSBOAT
 msgid "The \"Sea Legs\""
-msgstr "「海腿号」"
+msgstr "“海腿号”"
 
 #: STRINGS.NAMES.WOODLEGSHAT
 msgid "Lucky Hat"
@@ -76292,7 +76224,7 @@ msgstr "虫洞"
 
 #: STRINGS.NAMES.WORMHOLE_LIMITED_1
 msgid "Sick Worm Hole"
-msgstr "限定版虫洞"
+msgstr "生病的虫洞"
 
 #: STRINGS.NAMES.WORMLIGHT
 msgid "Glow Berry"
@@ -76304,7 +76236,7 @@ msgstr "深渊蠕虫"
 
 #: STRINGS.NAMES.WORM_PLANT
 msgid "Mysterious Plant"
-msgstr "神秘的植物"
+msgstr "诡异的植物"
 
 #: STRINGS.NAMES.WORNPIRATEHAT
 msgid "Worn Pirate Hat"
@@ -76320,7 +76252,7 @@ msgstr "沉船的%s"
 
 #: STRINGS.NAMES.WX78
 msgid "WX-78"
-msgstr "Wx78"
+msgstr "WX-78"
 
 #: STRINGS.NAMES.YELLOWAMULET
 msgid "Magiluminescence"
@@ -76332,7 +76264,7 @@ msgstr "黄宝石"
 
 #: STRINGS.NAMES.YELLOWSTAFF
 msgid "Star Caller's Staff"
-msgstr "星星呼唤者权杖"
+msgstr "唤星魔杖"
 
 #: STRINGS.PARROTNAMES.1
 msgid "Danjaya"
@@ -76352,7 +76284,7 @@ msgstr "克里斯"
 
 #: STRINGS.PARROTNAMES.13
 msgid "Trent"
-msgstr "涡轮号"
+msgstr "涡轮"
 
 #: STRINGS.PARROTNAMES.14
 msgid "Harrison"
@@ -76372,7 +76304,7 @@ msgstr "弗兰基"
 
 #: STRINGS.PARROTNAMES.18
 msgid "Pollygon"
-msgstr "多（3）边（D）鸟"
+msgstr "多边鸟"
 
 #: STRINGS.PARROTNAMES.19
 msgid "Vixel"
@@ -77316,7 +77248,7 @@ msgstr "是肉!"
 
 #: STRINGS.RABBIT_MEAT_BATTLECRY.2
 msgid "UNCLEAN!"
-msgstr "你好污!"
+msgstr "不干净!"
 
 #: STRINGS.RABBIT_MEAT_BATTLECRY.3
 msgid "MURDERER!"
@@ -78136,7 +78068,7 @@ msgstr "放大你的高帽的魔法力量."
 
 #: STRINGS.RECIPE_DESC.RESEARCHLAB5
 msgid "Unlock crafting recipes... at sea!"
-msgstr "解锁制作食谱……在海上!"
+msgstr "解锁制作配方……在海上!"
 
 #: STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
 msgid "Resurrect yourself via the power of meat."
@@ -80880,11 +80812,11 @@ msgstr "年"
 
 #: STRINGS.UI.ENDGAME.BODY1
 msgid "And so the cycle continues. Will "
-msgstr "轮回又将开始.会"
+msgstr "轮回又将开始."
 
 #: STRINGS.UI.ENDGAME.BODY2
 msgid " ever escape?\n Perhaps %s too will tire of this wretched place, and use %s new powers to tempt the unsuspecting.\n\nThe mysterious beings that control this place still lurk in the shadows, and new challenges will soon be revealed.\n\nUntil then,\n- The Don't Starve Team -"
-msgstr "有出路吗?\n也许%s也会对这个地方感到厌倦,使用%s力量尝试未知.\n\n掌控此地的神秘生物仍然潜伏在暗处,新的挑战即将揭晓.\n\n直到那时,\n-《饥荒》团队-"
+msgstr "会有出路吗?\n也许%s也会厌倦这个肮脏的地方,\n使用%s力量尝试未知.\n掌控此地的神秘生物仍然潜伏在暗处,新的挑战即将揭晓.\n\n直到那时,\n-《饥荒》团队-"
 
 #: STRINGS.UI.ENDGAME.TITLE
 msgid "The End."
@@ -82728,7 +82660,7 @@ msgstr "出发！"
 
 #: STRINGS.UI.UNLOCKMAXWELL.BODY1
 msgid "The key looks like it will fit. You can free "
-msgstr "钥匙看起来很合适.你自由了"
+msgstr "钥匙看起来很合适.你释放了"
 
 #: STRINGS.UI.UNLOCKMAXWELL.BODY2
 msgid ", but I doubt %s captors will be pleased..."
