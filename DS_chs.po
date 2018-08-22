@@ -26584,7 +26584,7 @@ msgstr "这个能帮助我们到达那个地形."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TELESTAFF
 msgid "Magic can do amazing things, when funneled through the right channels."
-msgstr "膜法可以做更多伟大的事情,只要这个倒三角正常工作."
+msgstr "魔法可以做些神奇的事情，只要这个倒三角正常工作."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENT.BURNT
 msgid "That's a bit burned for my taste."
@@ -49712,7 +49712,7 @@ msgstr "沃尔夫冈能从树上弄来坚果吃."
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL
 msgid "Is mouth door! Say \"Ahhhhh!\""
-msgstr "大嘴巴门！说\"啊啊啊啊啊！\""
+msgstr "嘴巴一样的大门！说:\"啊——！\""
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AERODYNAMICHAT
 msgid "Keeps mighty legs free to run!"
