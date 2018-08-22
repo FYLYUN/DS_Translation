@@ -3120,7 +3120,7 @@ msgstr "这是一块非常尖的石头"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOTSAM
 msgid "If only I had some way of hooking on to it from here."
-msgstr "如果我有一些方法来勾住这里."
+msgstr "要是我有一些方法从这里勾到它就好了."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FLOWER
 msgid "It's pretty, but it smells like a common laborer."
@@ -3244,7 +3244,7 @@ msgstr "一股馊味儿."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLOMMERWINGS
 msgid "These would look empirically amazing on a helmet!"
-msgstr "这头盔上的经验看起来非常令人震惊!"
+msgstr "这从盔状物上来说，这个东西非常不可思议！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GOATMILK
 msgid "It's buzzing with tastiness!"
@@ -23652,7 +23652,7 @@ msgstr "多半只是背景的杂声"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGROD.GENERIC
 msgid "I can use this to find my missing parts."
-msgstr "我能使用这个来找到我丢失的部件"
+msgstr "我能使用这个来找到我丢失的零件"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGROD.HOT
 msgid "It must be right under my nose!"
@@ -26328,7 +26328,7 @@ msgstr "嘿,这不是我的雕像!"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STATUEHARP
 msgid "Not my best work."
-msgstr "不是我最擅长的工作."
+msgstr "不是我最好的作品."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STATUEMAXWELL
 msgid "Now that's a fine statue."
@@ -70904,7 +70904,7 @@ msgstr "麦斯威尔"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "维伯"
+msgstr "韦伯"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
@@ -71984,7 +71984,7 @@ msgstr "嘿,朋友"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
 msgid "I'll give you food, gold, pigs, whatever you need."
-msgstr "我提供食物,金币和猪,你所需要的一切"
+msgstr "我提供食物,金子和猪,你所需要的一切"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
 msgid "Let's make a deal. You can stay here. Settle down, even."
@@ -72252,7 +72252,7 @@ msgstr "阿比盖尔"
 
 #: STRINGS.NAMES.ABIGAIL_FLOWER
 msgid "Abigail's Flower"
-msgstr "阿比盖尔的花"
+msgstr "阿比盖尔之花"
 
 #: STRINGS.NAMES.ACCOMPLISHMENT_SHRINE
 msgid "Accomploshrine"
@@ -73640,7 +73640,7 @@ msgstr "黄金草叉"
 
 #: STRINGS.NAMES.GOLDENSHOVEL
 msgid "Regal Shovel"
-msgstr "黄金铁铲"
+msgstr "黄金铲子"
 
 #: STRINGS.NAMES.GOLDNUGGET
 msgid "Gold Nugget"
@@ -75108,7 +75108,7 @@ msgstr "海之船送"
 
 #: STRINGS.NAMES.SHOVEL
 msgid "Shovel"
-msgstr "铁铲"
+msgstr "铲子"
 
 #: STRINGS.NAMES.SIESTAHUT
 msgid "Siesta Lean-to"
@@ -75624,7 +75624,7 @@ msgstr "陷阱"
 
 #: STRINGS.NAMES.TRAP_TEETH
 msgid "Tooth Trap"
-msgstr "牙齿陷阱"
+msgstr "狗牙陷阱"
 
 #: STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgid "Maxwell's Tooth Trap"
@@ -77472,7 +77472,7 @@ msgstr "一觉睡到天亮."
 
 #: STRINGS.RECIPE_DESC.BEEBOX
 msgid "Store your own bees."
-msgstr "豢养你自己的蜜蜂."
+msgstr "养殖自己的蜜蜂."
 
 #: STRINGS.RECIPE_DESC.BEEFALOHAT
 msgid "Be one with the herd! Smell included."
@@ -77796,7 +77796,7 @@ msgstr "在阳光明媚的地方或者休闲周五穿着很好玩."
 
 #: STRINGS.RECIPE_DESC.HEALINGSALVE
 msgid "Disinfectant for cuts and abrasions."
-msgstr "为创口和擦伤消毒."
+msgstr "为伤口和擦伤消毒."
 
 #: STRINGS.RECIPE_DESC.HEATROCK
 msgid "Stores thermals for travel."
@@ -78012,7 +78012,7 @@ msgstr "带上后会精神失常."
 
 #: STRINGS.RECIPE_DESC.PURPLEGEM
 msgid "By your colors combined!"
-msgstr "由你来组合颜色！"
+msgstr "组合你们的颜色！"
 
 #: STRINGS.RECIPE_DESC.QUACKENDRILL
 msgid "For deep sea quacking."
@@ -78152,7 +78152,7 @@ msgstr "没有什么是氪金解决不了的！除了这个,这是欧皇的游�
 
 #: STRINGS.RECIPE_DESC.SLOW_FARMPLOT
 msgid "Grows seeds."
-msgstr "培育种子."
+msgstr "种植种子."
 
 #: STRINGS.RECIPE_DESC.SNAKESKINHAT
 msgid "Keep rain out and look cool doing it."
@@ -78248,7 +78248,7 @@ msgstr "可以扭曲空间!传送的费用需要单独购买."
 
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, but costs time and hunger."
-msgstr "恢复神智,但会消耗时间和饥饿感."
+msgstr "消耗时间和饱食度来恢复你的理智."
 
 #: STRINGS.RECIPE_DESC.THATCHPACK
 msgid "Carry a light load."
@@ -78264,7 +78264,7 @@ msgstr "最有品位的帽子."
 
 #: STRINGS.RECIPE_DESC.TORCH
 msgid "A portable light source."
-msgstr "便携光源."
+msgstr "便携式光源."
 
 #: STRINGS.RECIPE_DESC.TRANSISTOR
 msgid "Science away! Bzzzt!"
@@ -81483,8 +81483,8 @@ msgid "Settings"
 msgstr "设置"
 
 #: STRINGS.UI.MAINSCREEN.SHIPWRECKED_UPDATENAME
-msgid "Seas the Day!"
-msgstr "海洋之日!"
+msgid "Home Sea Home!"
+msgstr "家，海上之家"
 
 #: STRINGS.UI.MAINSCREEN.SLOT
 msgid "Game Slot"

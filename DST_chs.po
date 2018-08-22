@@ -16168,7 +16168,7 @@ msgstr "多半只是背景的杂声"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGROD.GENERIC
 msgid "I can use this to find my missing parts."
-msgstr "我能使用这个来找到我丢失的部件"
+msgstr "我能使用这个来找到我丢失的零件"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGROD.HOT
 msgid "It must be right under my nose!"
@@ -19356,7 +19356,7 @@ msgstr "谢天谢地，我以为这是我的另一个可怜的雕像。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STATUEHARP
 msgid "Not my best work."
-msgstr "不是我最擅长的工作。"
+msgstr "不是我最好的作品。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STATUEMAXWELL
 msgid "It seems silly now..."
@@ -19508,7 +19508,7 @@ msgstr "这是量子场的频率范围"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TELESTAFF
 msgid "Magic can do amazing things, when funneled through the right channels."
-msgstr "膜法可以做更多伟大的事情，只要这个倒三角正常工作。"
+msgstr "魔法可以做些神奇的事情，只要这个倒三角正常工作。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENT.BURNT
 msgid "That's a bit burned for my taste."
@@ -53704,7 +53704,7 @@ msgstr "它将很快变成树。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ADVENTURE_PORTAL
 msgid "Is mouth door! Say Ahhhhh!"
-msgstr "真是做作啊！说，碍…！"
+msgstr "嘴巴一样的大门！说：啊——！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
 msgid "Is very pretty."
@@ -66508,7 +66508,7 @@ msgstr "火炬将燃尽"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_TOWNPORTALTELEPORT
 msgid "CIRCUITRY DUSTING REQUIRED"
-msgstr "电路需要清理"
+msgstr "电路需要除尘"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_TRAP_WENT_OFF
 msgid "IT'S A TRAP"
@@ -74476,7 +74476,7 @@ msgstr "你好，朋友"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
 msgid "I'll give you food, gold, pigs, whatever you need."
-msgstr "我提供食物，金币和猪，你所需要的一切"
+msgstr "我提供食物，金子和猪，你所需要的一切"
 
 #: STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
 msgid "Let's make a deal. You can stay here. Settle down, even."
@@ -81068,7 +81068,7 @@ msgstr "高级镀层是为了提升佳肴的品味而生的。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_PORTAL_KEY
 msgid "The way out. I can charge it with Favors."
-msgstr "用恩赐来换取离开这里的方法吧。"
+msgstr "用赞赏来换取离开这里的方法吧。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_POT
 msgid "State of the art cookware."
