@@ -81484,7 +81484,7 @@ msgstr "设置"
 
 #: STRINGS.UI.MAINSCREEN.SHIPWRECKED_UPDATENAME
 msgid "Home Sea Home!"
-msgstr "家，海上之家"
+msgstr "海上之家"
 
 #: STRINGS.UI.MAINSCREEN.SLOT
 msgid "Game Slot"
