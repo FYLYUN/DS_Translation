@@ -2164,7 +2164,7 @@ msgstr "我不认识这些符号。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "It depicts an old civilization. The people look hungry and scared."
-msgstr "它描述的是一个古老的文明。这些人看上去又饿又怕。"
+msgstr "它描绘了一个古老的文明。这些人看起来又饿又怕。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "This tablet is too worn to make out."
@@ -8648,7 +8648,7 @@ msgstr "此处并无记号，唯有磐石。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_RUBBLE.LINE_3
 msgid "A great evil sweeps across the land."
-msgstr "一股巨大的邪恶势力席卷过境。"
+msgstr "一股巨大的邪恶力量席卷过境。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ATRIUM_RUBBLE.LINE_4
 msgid "Many of the people are cleaved in two!"
@@ -15100,7 +15100,7 @@ msgstr "难以置信我已经忘了如何阅读这个。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "A picture of the city, before the fuel."
-msgstr "一个国度未被毁灭的景观。"
+msgstr "一幅燃烧到来前的城市的画。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "We all know what happens next."
@@ -17936,7 +17936,7 @@ msgstr "它不是一个好的发声建筑物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGHOUSE.LIGHTSOUT
 msgid "I'll huff and I'll puff!"
-msgstr "我要怒了，我要怒了！"
+msgstr "我要吹倒它！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGKING
 msgid "That's a man with his priorities in order!"
@@ -18080,7 +18080,7 @@ msgstr "至少还需要再优雅点"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN_LANTERN
 msgid "Why hello, Mr. Crane."
-msgstr "为什么说你好，克里安先生。"
+msgstr "为什么说你好，无头骑士。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN_SEEDS
 msgid "Such labor is beneath me."
@@ -21544,7 +21544,7 @@ msgstr "我们从未学过这些文字。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "It's a picture of some bug people."
-msgstr "这里面有虫子的图案。"
+msgstr "这是一些虫人的图画。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "This picture's all messed up."
@@ -25772,7 +25772,7 @@ msgstr "真舒服。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFF_TORNADO
 msgid "We'll huff and we'll puff."
-msgstr "吹个风，吹个龙卷风。"
+msgstr "我们使劲吹，我们使劲吹。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAGEHAND.AWAKE
 msgid "Definitely not a spider!"
@@ -27984,7 +27984,7 @@ msgstr "这些假话输给了时间。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "A people struck by famine and sorrow."
-msgstr "一个被饥饿和悲伤侵袭的人。"
+msgstr "一群被饥荒和悲伤所困扰的人们。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "A piece of their story, lost to time."
@@ -28964,7 +28964,7 @@ msgstr "充满喜悦，忘却了致命的麻烦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.GENERIC
 msgid "Take thy beak from out my heart!"
-msgstr "闭上你的乌鸦嘴！"
+msgstr "别再啄我的心了！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CROW.HELD
 msgid "He is mine."
@@ -29840,7 +29840,7 @@ msgstr "退后，魔鬼的邪恶奴才"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HOUNDBONE
 msgid "The remains of an evil beast."
-msgstr "一只邪恶野兽的残海"
+msgstr "一只邪恶野兽的残骸。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HOUNDMOUND
 msgid "Home to the foulest creatures."
@@ -30932,7 +30932,7 @@ msgstr "我以为这东西里面会有更多的种子。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.POND
 msgid "Ophelia? Are you down there?"
-msgstr "姐姐？你在下面？"
+msgstr "奥菲丽娅？你在下面吗？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.POND_ALGAE
 msgid "Some algae."
@@ -32084,7 +32084,7 @@ msgstr "我应该带它离开痛苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEAR
 msgid "They who wield it shall become the destroyer of worlds."
-msgstr "得长矛者得天下。"
+msgstr "挥舞它的人将变成诸世的毁灭者。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEAR_GUNGNIR
 msgid "To cut and slash..."
@@ -34452,15 +34452,15 @@ msgstr "这幅壁画被侵蚀得难以辨认。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_3
 msgid "A dark shadow, or perhaps a substance, overtakes the civilization."
-msgstr "暗影，或者是一种物质，超越了这种文明。"
+msgstr "暗影，或者是一种物质，超越了文明。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_4
 msgid "The citizens molt from their exoskeletons in this panel."
-msgstr "在这幅画中人们甚至脱离了他们的骨骼。"
+msgstr "在这幅画中人们褪去了他们的外骨骼。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_5
 msgid "The city appears exponentially more prosperous."
-msgstr "这座城市繁华得多了。"
+msgstr "这座城市仿佛比以前更加繁荣。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_STATUE
 msgid "It refuses to comply with this world's laws."
@@ -34876,7 +34876,7 @@ msgstr "简单加工过的木板"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOARON
 msgid "They appear to be used as fodder."
-msgstr "他们出来仅仅是想抢炮灰的角色？"
+msgstr "它们似乎被用作炮灰。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BOARRIOR
 msgid "We best not underestimate that one."
@@ -37984,7 +37984,7 @@ msgstr "它是一只可爱的小角兔"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOLE.GENERIC
 msgid "It looks like a small animal's burrow."
-msgstr "看起来像是一个小动物的窝"
+msgstr "我太大了，掉不进去。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RABBITHOLE.SPRING
 msgid "I hope the Lagomorph is all right down there!"
@@ -52240,7 +52240,7 @@ msgstr "今晚会吃得很好。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TURTILLUS
 msgid "Steel yourself, turtle."
-msgstr "让你自己坚如钢铁，海龟。"
+msgstr "让你自己坚如钢铁，乌龟。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TWIGGYTREE.BURNING
 msgid "That's an impressive blaze."
@@ -53860,7 +53860,7 @@ msgstr "沃尔夫冈不会读。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "Is picture of many sad, weak people."
-msgstr "画上有很多忧伤虚弱的人。"
+msgstr "画上有很多忧伤弱小的人。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "Cannot tell what was picture of."
@@ -60332,7 +60332,7 @@ msgstr "这里没有留下任何生趣。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ATRIUM_RUBBLE.LINE_3
 msgid "Black muck is covering everything in this drawing."
-msgstr "黑暗的邪祟覆盖了这张画里的一切。"
+msgstr "黑色的秽物覆盖了这张画里的一切。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ATRIUM_RUBBLE.LINE_4
 msgid "Don't look at this one, Lucy."
@@ -66780,7 +66780,7 @@ msgstr "解码失败"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "IT DEPICTS INFERIOR CREATURES"
-msgstr "它描述了低等生物"
+msgstr "它描绘了低等生物"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "TARGET DATA LOST"
@@ -74660,7 +74660,7 @@ msgstr "我现在不做生意。"
 
 #: STRINGS.MERM_TALK_CLOSED.3
 msgid "Don't keep the lady waiting."
-msgstr "别让那位女士久等。"
+msgstr "别让女士久等。"
 
 #: STRINGS.MERM_TALK_CLOSED.4
 msgid "Speak with Mumsy. Hurry on, then."
@@ -75456,7 +75456,7 @@ msgstr "粘土座狼"
 
 #: STRINGS.NAMES.COLD
 msgid "Freezing"
-msgstr "寒冷刺骨"
+msgstr "严寒"
 
 #: STRINGS.NAMES.COLDFIRE
 msgid "Endothermic Fire"
@@ -75656,15 +75656,15 @@ msgstr "可疑的土堆"
 
 #: STRINGS.NAMES.DIVININGROD
 msgid "Divining Rod"
-msgstr "魔杖"
+msgstr "占卜杖"
 
 #: STRINGS.NAMES.DIVININGRODBASE
 msgid "Divining Rod Holder"
-msgstr "魔杖持有者"
+msgstr "占卜杖支架"
 
 #: STRINGS.NAMES.DIVININGRODSTART
 msgid "Divining Rod Holder"
-msgstr "魔杖持有者"
+msgstr "占卜杖支架"
 
 #: STRINGS.NAMES.DRAGONBODYHAT
 msgid "Lucky Beast Body"
@@ -75996,7 +75996,7 @@ msgstr "齿轮"
 
 #: STRINGS.NAMES.GEMSOCKET
 msgid "Gem Stand"
-msgstr "宝石看台"
+msgstr "宝石放置台"
 
 #: STRINGS.NAMES.GHOST
 msgid "Ghost"
@@ -76128,7 +76128,7 @@ msgstr "火药"
 
 #: STRINGS.NAMES.HALF_HEALTH
 msgid "Maximum Health"
-msgstr "非常健康"
+msgstr "生命上限"
 
 #: STRINGS.NAMES.HALF_SANITY
 msgid "Maximum Sanity"
@@ -76260,7 +76260,7 @@ msgstr "猎犬"
 
 #: STRINGS.NAMES.HOUNDBONE
 msgid "Bones"
-msgstr "猎犬尸骨"
+msgstr "尸骨"
 
 #: STRINGS.NAMES.HOUNDFIRE
 msgid "Fire"
@@ -76740,7 +76740,7 @@ msgstr "迷你指示牌"
 
 #: STRINGS.NAMES.MINISIGN_DRAWN
 msgid "{item} Sign"
-msgstr "“{item}”"
+msgstr "“{item}”的标牌"
 
 #: STRINGS.NAMES.MINISIGN_ITEM
 msgid "Mini Sign"
@@ -76748,7 +76748,7 @@ msgstr "迷你指示牌"
 
 #: STRINGS.NAMES.MINOTAUR
 msgid "Ancient Guardian"
-msgstr "远古守护者"
+msgstr "远古守卫者"
 
 #: STRINGS.NAMES.MINOTAURCHEST
 msgid "Large Ornate Chest"
@@ -94008,7 +94008,7 @@ msgstr "这个预设来自一个mod，\n但这个mod现在没有启用。"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.QUAGMIRE
 msgid "Can you stand the heat in The Gorge?"
-msgstr "你能忍受暴食的热量吗？"
+msgstr "你能忍受暴食中的艰苦劳作吗？"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS
 msgid "A quicker start in a harsher world."
@@ -94260,7 +94260,7 @@ msgstr "世界大小"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS
 msgid "Cave Worm Attacks"
-msgstr "洞穴蠕虫的频率"
+msgstr "洞穴蠕虫攻击"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.WORMLIGHTS
 msgid "Glow Berries"
@@ -94268,7 +94268,7 @@ msgstr "发光浆果"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.WORMS
 msgid "Cave Worms"
-msgstr "蠕虫"
+msgstr "洞穴蠕虫"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.YES
 msgid "Yes"
@@ -95020,19 +95020,19 @@ msgstr "死亡，死因："
 
 #: STRINGS.UI.HUD.DEATH_ANNOUNCEMENT_2_DEFAULT
 msgid ". They became a spooky ghost!"
-msgstr "。他变成了一个毛骨悚然的鬼！"
+msgstr "。它变成了一个令人毛骨悚然的鬼！"
 
 #: STRINGS.UI.HUD.DEATH_ANNOUNCEMENT_2_FEMALE
 msgid ". She became a spooky ghost!"
-msgstr "。她成了一个令人毛骨悚然的鬼！"
+msgstr "。她变成了一个令人毛骨悚然的鬼！"
 
 #: STRINGS.UI.HUD.DEATH_ANNOUNCEMENT_2_MALE
 msgid ". He became a spooky ghost!"
-msgstr "。他成了一个令人毛骨悚然的鬼！"
+msgstr "。他变成了一个令人毛骨悚然的鬼！"
 
 #: STRINGS.UI.HUD.DEATH_ANNOUNCEMENT_2_ROBOT
 msgid ". They became a spooky ghost!"
-msgstr "。它们变成了令人毛骨\n悚然的幽灵！"
+msgstr "。它变成了一个令人毛骨悚然的鬼！"
 
 #: STRINGS.UI.HUD.DEATH_PET_NAME
 msgid "%s's %s"
@@ -95056,7 +95056,7 @@ msgstr "拿取一半"
 
 #: STRINGS.UI.HUD.GHOST_DEATH_ANNOUNCEMENT_DEFAULT
 msgid "lost all of their humanity and is gone forever."
-msgstr "失去了人的良知，已经一去不复返了。"
+msgstr "它失去作为人的一切，消失在了碎片海洋中。"
 
 #: STRINGS.UI.HUD.GHOST_DEATH_ANNOUNCEMENT_FEMALE
 msgid "lost all of her humanity and is gone forever."
@@ -95068,7 +95068,7 @@ msgstr "他失去作为人的一切，消失在了碎片海洋中。"
 
 #: STRINGS.UI.HUD.GHOST_DEATH_ANNOUNCEMENT_ROBOT
 msgid "lost all of their humanity and is gone forever."
-msgstr "失去了人的良知，已经一去不复返了。"
+msgstr "它失去作为人的一切，消失在了碎片海洋中。"
 
 #: STRINGS.UI.HUD.HERE
 msgid "here"
@@ -96800,7 +96800,7 @@ msgstr "团队伤害"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.turtillusflips
 msgid "Snortoises flipped"
-msgstr "酸蚀巨蝎"
+msgstr "打翻披甲岩龟"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.NO_STAT_VALUE
 msgid "-"
@@ -96864,7 +96864,7 @@ msgstr "参与者!"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.numcc
 msgid "Immobilizer"
-msgstr "防盗控制系统"
+msgstr "美杜莎"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.spellscast
 msgid "Archmage"
@@ -96896,7 +96896,7 @@ msgstr "忠诚的守护者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.turtillusflips
 msgid "Turtle Flipper"
-msgstr "披甲龙龟"
+msgstr "岩龟翻转者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.buys
 msgid "goods bought from traders"
@@ -97552,7 +97552,7 @@ msgstr "所有权尚未证实"
 
 #: STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY
 msgid "It looks like this is your first time playing Don't Starve Together.\nPlease click below to create an account and start playing."
-msgstr "看起来这是你第一次玩饥荒。请点击下面创建\n一个帐户并开始玩。"
+msgstr "看起来这是你第一次玩饥荒联机版。请点击下面创建\n一个帐户并开始玩。"
 
 #: STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY2
 msgid "Account creation will temporarily minimize your game and open your web browser.\nIf this doesn't work, try enabling your Steam overlay."
@@ -101168,7 +101168,7 @@ msgstr "伍迪的格子衬衫……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.17
 msgid "WX-78's gears..."
-msgstr "机器人的齿轮……"
+msgstr "WX-78的齿轮……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.18
 msgid "Winona's tools..."
@@ -101340,7 +101340,7 @@ msgstr "正在渲染"
 
 #: STRINGS.UI.WORLDGEN.VERBS.21
 msgid "Enchanting"
-msgstr "正在迷惑"
+msgstr "正在施法"
 
 #: STRINGS.UI.WORLDGEN.VERBS.22
 msgid "Solving"
