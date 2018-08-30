@@ -84920,11 +84920,11 @@ msgstr "松散的雨帽"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
-msgstr "这个炼金引擎是用现代化的打印技术制作出来的。非常时髦！"
+msgstr "这台机器是用现代化的打印技术制作出来的。非常时髦！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod_alt
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
-msgstr "这个炼金引擎是用现代化的打印技术制作出来的。非常时髦！"
+msgstr "这台机器是用现代化的打印技术制作出来的。非常时髦！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
 msgid "researchlab4_catcoon_costume"
@@ -88384,11 +88384,11 @@ msgstr "松散的雨帽"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod
 msgid "Alchemy Pod"
-msgstr "炼金引擎"
+msgstr "炼金术打印机"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod_alt
 msgid "Alchemy Pod"
-msgstr "炼金引擎"
+msgstr "炼金术打印机"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
@@ -88420,7 +88420,7 @@ msgstr "天使之心"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid_2
 msgid "Daggered Heart"
-msgstr "扎心"
+msgstr "匕首扎心"
 
 #: STRINGS.SKIN_NAMES.shovel_victorian
 msgid "Fanciful Shovel"
