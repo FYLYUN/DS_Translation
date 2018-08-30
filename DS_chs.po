@@ -54800,7 +54800,7 @@ msgstr "我宁愿吃肉丸."
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_DARK
 msgid "Who turned out the lights?"
-msgstr "谁把灯打开了?"
+msgstr "谁把灯给关了?"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_LIGHT
 msgid "Brilliance!"

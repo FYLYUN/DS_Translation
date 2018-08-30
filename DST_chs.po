@@ -59824,7 +59824,7 @@ msgstr "比起搬运我更擅长砍伐…"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_DARK
 msgid "Who turned out the lights?"
-msgstr "谁把灯打开了？"
+msgstr "谁把灯给关了？"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENTER_LIGHT
 msgid "Brilliance!"
@@ -100944,7 +100944,7 @@ msgstr "稍等一下，那是你最后\n一件了。如果你把它给\n我了�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
 msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
-msgstr "这些玩意你只有这么多\n，你确定不想要它了吗\n？当然，你要给我我不\n会拒绝的。"
+msgstr "这些玩意你只有这么多，\n你确定不想要它了吗？\n当然，你要给我我不\n会拒绝的。"
 
 #: STRINGS.UI.TRADESCREEN.SOLD_OUT
 msgid "Sold Out"
