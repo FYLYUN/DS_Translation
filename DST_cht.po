@@ -88384,11 +88384,11 @@ msgstr "鬆散的雨帽"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod
 msgid "Alchemy Pod"
-msgstr "煉金術打印機"
+msgstr "煉金術打印艙"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod_alt
 msgid "Alchemy Pod"
-msgstr "煉金術打印機"
+msgstr "煉金術打印艙"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
