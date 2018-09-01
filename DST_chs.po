@@ -77056,7 +77056,7 @@ msgstr "猪人头"
 
 #: STRINGS.NAMES.PIGHOUSE
 msgid "Pig House"
-msgstr "猪舍"
+msgstr "猪人房"
 
 #: STRINGS.NAMES.PIGKING
 msgid "Pig King"
@@ -78056,7 +78056,7 @@ msgstr "暗影矿工"
 
 #: STRINGS.NAMES.SHADOWTENTACLE
 msgid "Shadow Tentacle"
-msgstr "暗影之触"
+msgstr "暗影触手"
 
 #: STRINGS.NAMES.SHADOWWAXWELL
 msgid "Shadow"
@@ -78528,7 +78528,7 @@ msgstr "狗牙陷阱"
 
 #: STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgid "Maxwell's Tooth Trap"
-msgstr "麦斯威尔的利齿陷阱"
+msgstr "麦斯威尔的狗牙陷阱"
 
 #: STRINGS.NAMES.TREASURECHEST
 msgid "Chest"
@@ -80572,11 +80572,11 @@ msgstr "一个棋子和一个棋\n盘。"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_CLAYHOUND_BUILDER
 msgid "It ain't nothing but a clay hound dog."
-msgstr "那只不过是一条狗而已。"
+msgstr "那只不过是一条粘土做的狗而已。"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_CLAYHOUND_SKETCH
 msgid "A sculpture sketch of the Clay Hound."
-msgstr "一只粘土猎狗手办。"
+msgstr "一张粘土猎犬雕像的草图。"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_CLAYWARG_BUILDER
 msgid "Sculpt a fearsome Clay Varg."
@@ -80584,7 +80584,7 @@ msgstr "造型恐怖的粘土座狼。"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_CLAYWARG_SKETCH
 msgid "A sculpture sketch of the Clay Varg."
-msgstr "一只粘土座狼手办。"
+msgstr "一张粘土座狼雕像的草图。"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_DEERCLOPS_BUILDER
 msgid "Sculpt yourself an eyeball monster."
@@ -81252,7 +81252,7 @@ msgstr "经典的秋季必备装\n饰。"
 
 #: STRINGS.RECIPE_DESC.SCULPTINGTABLE
 msgid "Marble will be like clay in your hands!"
-msgstr "坚硬的大理石将变\n得粘土一样。"
+msgstr "坚硬的大理石将变\n得像粘土一样。"
 
 #: STRINGS.RECIPE_DESC.SENTRYWARD
 msgid "The cartographer's most valuable weapon."
@@ -81336,7 +81336,7 @@ msgstr "添加宝石就行了。"
 
 #: STRINGS.RECIPE_DESC.TELESTAFF
 msgid "Bend space! Time bend sold separately."
-msgstr "可以扭曲空间！至\n于扭曲时间的嘛，\n要单独购买。"
+msgstr "可以扭曲空间！扭\n曲时间的要单独购买。"
 
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, costs time and hunger."
@@ -84492,11 +84492,11 @@ msgstr "将您的头像设置为小皮弗娄牛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bat_furled
 msgid "Set your profile icon to a furled up batilisk."
-msgstr "将您的头像设置为蝙蝠。"
+msgstr "将您的头像设置为不悦的蝙蝠。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bearger_roar
 msgid "Set your profile icon to an angry bearger."
-msgstr "将您的头像设置为咆哮的熊大。"
+msgstr "将您的头像设置为咆哮的熊獾。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_beefalo
 msgid "Set your profile icon to a big beefalo."
@@ -87752,7 +87752,7 @@ msgstr "皮弗娄牛背景图"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birchnut
 msgid "Birchnut Forest Portrait"
-msgstr "白桦树林背景图"
+msgstr "桦树林背景图"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_brokenclock
 msgid "Smashed Clock Portrait"
@@ -87792,11 +87792,11 @@ msgstr "锻铁背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_flames
 msgid "Flame Portrait"
-msgstr "燃烧的背景"
+msgstr "燃烧背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_foods
 msgid "Cornucopia Portrait"
-msgstr "丰收背景"
+msgstr "丰饶背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_forestaltar
 msgid "Altar of Gnaw Portrait"
@@ -87820,7 +87820,7 @@ msgstr "草原背景图"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_gravestones
 msgid "Gnaw Cemetery Portrait"
-msgstr "噬咬墓地背景"
+msgstr "噬咬公墓背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard
 msgid "Gnaw Worshipper Portrait"
@@ -87860,7 +87860,7 @@ msgstr "大理石背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_marshhouse
 msgid "Mermhouse Portrait"
-msgstr "鱼人房背景图"
+msgstr "鱼族废墟背景图"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_mushroom
 msgid "Mushroom Portrait"
@@ -87892,7 +87892,7 @@ msgstr "锅架背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rocks
 msgid "Rockland Portrait"
-msgstr "矿场背景图"
+msgstr "岩石地背景图"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_roseportal
 msgid "Florid Postern Portrait"
@@ -87920,7 +87920,7 @@ msgstr "森林背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_toothtraps
 msgid "Tooth Trapped Portrait"
-msgstr "犬牙陷阱背景"
+msgstr "狗牙陷阱背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgid "Winter Portrait"
@@ -87956,11 +87956,11 @@ msgstr "小皮弗娄牛"
 
 #: STRINGS.SKIN_NAMES.profileflair_bat_furled
 msgid "Grouchy Bat"
-msgstr "蝙蝠"
+msgstr "不悦的蝙蝠"
 
 #: STRINGS.SKIN_NAMES.profileflair_bearger_roar
 msgid "Grumpy Bearger"
-msgstr "咆哮的熊大"
+msgstr "咆哮的熊獾"
 
 #: STRINGS.SKIN_NAMES.profileflair_beefalo
 msgid "Beefalo"
@@ -102008,15 +102008,15 @@ msgstr "将您的头像设置为被安抚的噬咬。\n\n你在这次伟大的�
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze
 msgid "Burnished Cornucopia Portrait"
-msgstr "青铜盛宴"
+msgstr "青铜丰饶背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentgold
 msgid "Golden Cornucopia Portrait"
-msgstr "黄金盛宴"
+msgstr "黄金丰饶背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentsilver
 msgid "Sterling Cornucopia Portrait"
-msgstr "白银盛宴"
+msgstr "白银丰饶背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_bronze
 msgid "Burnished Icon of Gnaw"

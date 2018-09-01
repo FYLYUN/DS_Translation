@@ -74560,7 +74560,7 @@ msgstr "猪人头"
 
 #: STRINGS.NAMES.PIGHOUSE
 msgid "Pig House"
-msgstr "猪舍"
+msgstr "猪人房"
 
 #: STRINGS.NAMES.PIGKING
 msgid "Pig King"
@@ -75628,7 +75628,7 @@ msgstr "狗牙陷阱"
 
 #: STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgid "Maxwell's Tooth Trap"
-msgstr "麦斯威尔的利齿陷阱"
+msgstr "麦斯威尔的狗牙陷阱"
 
 #: STRINGS.NAMES.TRAWLNET
 msgid "Trawl Net"
@@ -77072,7 +77072,7 @@ msgstr "漂亮!"
 
 #: STRINGS.PIG_TALK_FIGHT.1
 msgid "I KILL NOW!"
-msgstr "我现在就开杀戒!"
+msgstr "猪人现在就开杀戒！"
 
 #: STRINGS.PIG_TALK_FIGHT.2
 msgid "YOU GO SMASH!"
@@ -77088,7 +77088,7 @@ msgstr "好可怕"
 
 #: STRINGS.PIG_TALK_FIND_LIGHT.2
 msgid "NO LIKE DARK"
-msgstr "我不喜欢黑暗"
+msgstr "猪人讨厌黑暗"
 
 #: STRINGS.PIG_TALK_FIND_LIGHT.3
 msgid "WHERE IS SUN?"
@@ -77124,7 +77124,7 @@ msgstr "朋友"
 
 #: STRINGS.PIG_TALK_FOLLOWWILSON.2
 msgid "I LOVE FRIEND"
-msgstr "我喜欢朋友"
+msgstr "猪人喜欢朋友"
 
 #: STRINGS.PIG_TALK_FOLLOWWILSON.3
 msgid "YOU IS GOOD"
@@ -77132,7 +77132,7 @@ msgstr "你真好"
 
 #: STRINGS.PIG_TALK_FOLLOWWILSON.4
 msgid "I FOLLOW!"
-msgstr "我跟随着!"
+msgstr "猪人跟着!"
 
 #: STRINGS.PIG_TALK_GO_HOME.1
 msgid "HOME TIME!"
@@ -77152,7 +77152,7 @@ msgstr "重重回击!"
 
 #: STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 msgid "I PUNCH TREE!"
-msgstr "我大力敲打这棵树"
+msgstr "猪人大力敲打这棵树"
 
 #: STRINGS.PIG_TALK_LOOKATWILSON.1
 msgid "WHO ARE YOU?"
@@ -77164,7 +77164,7 @@ msgstr "你不是猪"
 
 #: STRINGS.PIG_TALK_LOOKATWILSON.3
 msgid "UGLY MONKEY MAN"
-msgstr "丑陋的猴子"
+msgstr "丑陋的猴子人"
 
 #: STRINGS.PIG_TALK_LOOKATWILSON.4
 msgid "YOU HAS MEAT?"
@@ -78244,7 +78244,7 @@ msgstr "用你的小眼睛来观察。"
 
 #: STRINGS.RECIPE_DESC.TELESTAFF
 msgid "Bend space! Time bend sold separately."
-msgstr "可以扭曲空间!传送的费用需要单独购买."
+msgstr "可以扭曲空间!扭\n曲时间的要单独购买."
 
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, but costs time and hunger."
