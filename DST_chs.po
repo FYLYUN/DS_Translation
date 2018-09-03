@@ -81336,7 +81336,7 @@ msgstr "添加宝石就行了。"
 
 #: STRINGS.RECIPE_DESC.TELESTAFF
 msgid "Bend space! Time bend sold separately."
-msgstr "可以扭曲空间！扭\n曲时间的要单独购买。"
+msgstr "可以扭曲空间！扭\n曲时间要单独买。"
 
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, costs time and hunger."
@@ -100944,7 +100944,7 @@ msgstr "稍等一下，那是你最后\n一件了。如果你把它给\n我了�
 
 #: STRINGS.UI.TRADESCREEN.SKIN_COLLECTOR_SPEECH.WARNING.3
 msgid "Ya ain't got no more o' those. Ya sure ya wanna get rid o' it? Not that I won't take it, o' course."
-msgstr "这些玩意你只有这么多，\n你确定不想要它了吗？\n当然，你要给我我不\n会拒绝的。"
+msgstr "这玩意你只有这么多，\n你确定不想要它了吗？\n当然，你要给我我不\n会拒绝的。"
 
 #: STRINGS.UI.TRADESCREEN.SOLD_OUT
 msgid "Sold Out"

@@ -78244,7 +78244,7 @@ msgstr "用你的小眼睛来观察。"
 
 #: STRINGS.RECIPE_DESC.TELESTAFF
 msgid "Bend space! Time bend sold separately."
-msgstr "可以扭曲空间!扭\n曲时间的要单独购买."
+msgstr "可以扭曲空间!扭\n曲时间要单独买."
 
 #: STRINGS.RECIPE_DESC.TENT
 msgid "Restores sanity, but costs time and hunger."
