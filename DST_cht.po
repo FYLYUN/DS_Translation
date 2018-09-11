@@ -76600,7 +76600,7 @@ msgstr "食人花"
 
 #: STRINGS.NAMES.LUREPLANTBULB
 msgid "Fleshy Bulb"
-msgstr "多肉的球莖"
+msgstr "肉質鱗莖"
 
 #: STRINGS.NAMES.MAGIC_BLUEPRINT
 msgid "Blank Blueprint"
