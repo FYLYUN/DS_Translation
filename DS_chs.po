@@ -1520,7 +1520,7 @@ msgstr "你感觉到了吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.BATTLECRY.GENERIC
 msgid "Go for the eyes!"
-msgstr "攻击它的要害！"
+msgstr "攻击要害！"
 
 #: STRINGS.CHARACTERS.GENERIC.BATTLECRY.PIG
 msgid "Here piggy piggy!"
@@ -1528,7 +1528,7 @@ msgstr "到这儿来,小猪猪!"
 
 #: STRINGS.CHARACTERS.GENERIC.BATTLECRY.PREY
 msgid "I will destroy you!"
-msgstr "我要灭了你!"
+msgstr "我会将你毁灭！"
 
 #: STRINGS.CHARACTERS.GENERIC.BATTLECRY.SPIDER
 msgid "I'm going to stomp you dead!"
@@ -23580,7 +23580,7 @@ msgstr "我想我可以用这东西制造一些有用的东西."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CUTSTONE
 msgid "The building blocks of civilization."
-msgstr "这座建筑在阻挡文明的发展."
+msgstr "文明的基石."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEADLYFEAST
 msgid "It smells... noxious."
@@ -23668,11 +23668,11 @@ msgstr "我应该一直看着"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGRODBASE.GENERIC
 msgid "It's the starting mechanism."
-msgstr "这是启动机制."
+msgstr "这是启动装置."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGRODBASE.READY
 msgid "I need to insert the divining rod."
-msgstr "我需要插入探针."
+msgstr "我需要插入探测杖."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgid "Progress!"
@@ -23724,7 +23724,7 @@ msgstr "一个气势汹汹的苍蝇."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRAGONFLYCHEST
 msgid "Those scales sure are nifty."
-msgstr "那些鳞屑很漂亮."
+msgstr "那些鳞片很漂亮."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRAGONFRUIT
 msgid "Exotic and delicious."
@@ -23880,7 +23880,7 @@ msgstr "不会重新长出了"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN.GENERIC
 msgid "I've heard them described as \"piney\"."
-msgstr "我听他们说这叫\"小松松\"."
+msgstr "我听他们说这叫\"松儿\"."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "Oops."
@@ -23892,7 +23892,7 @@ msgstr "尘归尘."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgid "I put it out of its misery."
-msgstr "我带它离开了它的悲惨生活."
+msgstr "我终结了它的痛苦."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgid "It looks sickly."
@@ -23904,7 +23904,7 @@ msgstr "望着天空."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EYEPLANT
 msgid "The Meat Bulb's pawns."
-msgstr "肉球典当行."
+msgstr "肉球茎的士兵."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EYETURRET
 msgid "Some of my better work."
@@ -27496,7 +27496,7 @@ msgstr "变味得像妈妈的剩饭一样."
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_EAT.YUCKY
 msgid "We can't, we won't, we refuse to eat that."
-msgstr "我们不能,我们不能,我们拒绝吃."
+msgstr "我们不能,我们不要,我们拒绝吃."
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ENTER_DARK
 msgid "We can't see! I want my nightlight."
@@ -67788,7 +67788,7 @@ msgstr "照亮路途吧,朋友"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAE
 msgid "SMELLS LIKE BURNING."
-msgstr "你闻起来就像烧焦了一样,呵哈哈.——WX78学着Annie的语气说道."
+msgstr "你闻起来就像烧焦了一样,呵哈哈."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAE_EGG.GENERIC
 msgid "CONTAINS PARTS TO BUILD ONE LAVAE."
@@ -67840,39 +67840,39 @@ msgstr "这东西吞噬钢铁和有机物一样快"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK2
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK3
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.我们得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK4
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK5
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK6
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.我们被救了"
+msgstr "一块石头.安全的"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVA_POND_ROCK7
 msgid "A ROCK. WE'RE SAVED."
-msgstr "一块石头.得救了."
+msgstr "一块石头.安全的."
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LEIF
 msgid "WARNING: MOBILE TREE"
-msgstr "黄金更耐用？"
+msgstr "警告：移动的树木"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LEIF_SPARSE
 msgid "WARNING: MOBILE TREE"
-msgstr "黄金更耐用？"
+msgstr "警告：移动的树木"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LICHEN
 msgid "A SLOW GROWING SYMBIOTE"
@@ -73684,7 +73684,7 @@ msgstr "绿菇头"
 
 #: STRINGS.NAMES.GREEN_CAP_COOKED
 msgid "Cooked Green Cap"
-msgstr "烤蘑菇"
+msgstr "烤绿蘑菇"
 
 #: STRINGS.NAMES.GREEN_MUSHROOM
 msgid "Green Mushroom"
@@ -76232,7 +76232,7 @@ msgstr "发光浆果"
 
 #: STRINGS.NAMES.WORM_DIRT
 msgid "Dirt Mound"
-msgstr "深渊蠕虫"
+msgstr "土堆"
 
 #: STRINGS.NAMES.WORM_PLANT
 msgid "Mysterious Plant"
@@ -76248,7 +76248,7 @@ msgstr "残骸"
 
 #: STRINGS.NAMES.WRECKOF
 msgid "Wreck of the %s"
-msgstr "沉船的%s"
+msgstr "沉没的%s"
 
 #: STRINGS.NAMES.WX78
 msgid "WX-78"
