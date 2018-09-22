@@ -14072,15 +14072,15 @@ msgstr "我闻到了阴谋的气味。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORM.WORM
 msgid "A snake beast from the depths!"
-msgstr "从深处爬来一条蛇怪。"
+msgstr "一条来自深渊的蛇怪。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE.GENERIC
 msgid "Does it swallow those fallen in battle?"
-msgstr "它能忍受战斗中这样的失败吗？"
+msgstr "它会吞下那些在战斗中牺牲的人吗?"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE.OPEN
 msgid "Its maw welcomes me."
-msgstr "是马拉维迎接的我。"
+msgstr "它的大嘴巴在欢迎我。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE_LIMITED
 msgid "It is sickly and weak."
@@ -14520,7 +14520,7 @@ msgstr "湿气浑浊。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEERCLOPS
 msgid "I hear one of them coming."
-msgstr "我听到鹿的脚步声了"
+msgstr "我听到它们中的一个过来了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DIG_DISEASE_WARNING
 msgid "That takes care of that."
@@ -20976,7 +20976,7 @@ msgstr "湿哒哒的。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DEERCLOPS
 msgid "That sounded like a big meanie."
-msgstr "那听起来真像个小气鬼。"
+msgstr "那听起来像个大反派。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DIG_DISEASE_WARNING
 msgid "Doesn't that feel better!"
@@ -39952,7 +39952,7 @@ msgstr "黑暗里我什么都看不见"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "Al dente."
-msgstr "嘎嘣脆"
+msgstr "有点咯牙。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.QUAGMIRE_ANNOUNCE_LOSE
 msgid "We've failed."
@@ -76116,7 +76116,7 @@ msgstr "绿菇帽"
 
 #: STRINGS.NAMES.GUACAMOLE
 msgid "Guacamole"
-msgstr "鳄梨沙拉"
+msgstr "鳄梨酱"
 
 #: STRINGS.NAMES.GUANO
 msgid "Guano"
@@ -76752,7 +76752,7 @@ msgstr "远古守卫者"
 
 #: STRINGS.NAMES.MINOTAURCHEST
 msgid "Large Ornate Chest"
-msgstr "大豪华箱子"
+msgstr "大豪华宝箱"
 
 #: STRINGS.NAMES.MINOTAURHORN
 msgid "Guardian's Horn"
@@ -76784,7 +76784,7 @@ msgstr "暴躁猴"
 
 #: STRINGS.NAMES.MONKEYBARREL
 msgid "Splumonkey Pod"
-msgstr "暴躁猴群"
+msgstr "暴躁猴窝"
 
 #: STRINGS.NAMES.MONSTERLASAGNA
 msgid "Monster Lasagna"

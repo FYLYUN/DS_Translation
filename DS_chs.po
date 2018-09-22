@@ -22036,15 +22036,15 @@ msgstr "我闻到了阴谋的气味."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORM.WORM
 msgid "A snake beast from the depths!"
-msgstr "从深处爬来一条蛇怪."
+msgstr "一条来自深渊的蛇怪."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE.GENERIC
 msgid "Does it swallow those fallen in battle?"
-msgstr "它能忍受战斗中这样的失败吗?"
+msgstr "它会吞下那些在战斗中牺牲的人吗?"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE.OPEN
 msgid "Its maw welcomes me."
-msgstr "它想吃了我."
+msgstr "它的大嘴巴在欢迎我."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WORMHOLE_LIMITED
 msgid "It is sickly and weak."
@@ -22236,7 +22236,7 @@ msgstr "湿气浑浊."
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DEERCLOPS
 msgid "I hear one of them coming."
-msgstr "我听到它们中有家伙过来了."
+msgstr "我听到它们中的一个过来了."
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DUSK
 msgid "It'll be dark soon. Charlie will be waking up."
@@ -27184,7 +27184,7 @@ msgstr "投降吧."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WHALE_BUBBLES
 msgid "You've given yourself away, pal."
-msgstr "你已经把自己泄露出去了,泡泡."
+msgstr "你的行踪已经暴露了,伙计."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WHALE_CARCASS_BLUE
 msgid "Size truly doesn't matter!"
@@ -27468,7 +27468,7 @@ msgstr "湿哒哒的."
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DEERCLOPS
 msgid "That sounded like a big meanie."
-msgstr "那听起来真像个小气鬼."
+msgstr "那听起来像个大反派."
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DUSK
 msgid "Almost time for bed."
@@ -43708,7 +43708,7 @@ msgstr "黑暗里我什么都看不见"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "Al dente."
-msgstr "嘎嘣脆"
+msgstr "有点硌牙."
 
 #: STRINGS.CHARACTERS.WILBUR.DESCRIBE.BANANAPOP
 msgid "'Nonos!"
@@ -72044,11 +72044,11 @@ msgstr "那就是我把他们所有人带到这儿的原因"
 
 #: STRINGS.MAXWELL_SANDBOXINTROS.ONE
 msgid "Say pal, you don't look so good."
-msgstr "喂!伙计,你看上去状态不佳"
+msgstr "喂!伙计,你看上去状态不佳."
 
 #: STRINGS.MAXWELL_SANDBOXINTROS.TWO
 msgid "You'd better find something to eat before night comes!"
-msgstr "你最好在夜晚来临前找点吃的!"
+msgstr "你最好在天黑之前找点吃的!"
 
 #: STRINGS.MERMNAMES.1
 msgid "Glorpy"
@@ -72424,7 +72424,7 @@ msgstr "香蕉"
 
 #: STRINGS.NAMES.BANANAPOP
 msgid "Banana Pop"
-msgstr "香蕉冰淇淋"
+msgstr "香蕉冻"
 
 #: STRINGS.NAMES.BANANA_COOKED
 msgid "Cooked Banana"
@@ -73432,7 +73432,7 @@ msgstr "鱼"
 
 #: STRINGS.NAMES.FISH3
 msgid "Purple Grouper"
-msgstr "紫色的石斑鱼"
+msgstr "紫色石斑鱼"
 
 #: STRINGS.NAMES.FISH3_COOKED
 msgid "Cooked Purple Grouper"
@@ -73460,7 +73460,7 @@ msgstr "钓竿"
 
 #: STRINGS.NAMES.FISHINHOLE
 msgid "Shoal"
-msgstr "浅滩"
+msgstr "鱼群"
 
 #: STRINGS.NAMES.FISHSTICKS
 msgid "Fishsticks"
@@ -73692,7 +73692,7 @@ msgstr "绿蘑菇"
 
 #: STRINGS.NAMES.GUACAMOLE
 msgid "Guacamole"
-msgstr "鳄梨沙拉"
+msgstr "鳄梨酱"
 
 #: STRINGS.NAMES.GUANO
 msgid "Guano"
@@ -73912,7 +73912,7 @@ msgstr "呱肯海妖"
 
 #: STRINGS.NAMES.KRAKENCHEST
 msgid "Chest of the Depths"
-msgstr "深海中的宝箱"
+msgstr "深渊宝箱"
 
 #: STRINGS.NAMES.KRAKEN_TENTACLE
 msgid "Quacken Tentacle"
@@ -74068,7 +74068,7 @@ msgstr "空白的设计图"
 
 #: STRINGS.NAMES.MAGIC_SEAL
 msgid "Magic Seal"
-msgstr "豹印"
+msgstr "魔法豹印"
 
 #: STRINGS.NAMES.MAGMAROCK
 msgid "Magma Pile"
@@ -74208,7 +74208,7 @@ msgstr "远古守卫者"
 
 #: STRINGS.NAMES.MINOTAURCHEST
 msgid "Large Ornate Chest"
-msgstr "大豪华箱子"
+msgstr "大豪华宝箱"
 
 #: STRINGS.NAMES.MINOTAURHORN
 msgid "Guardian's Horn"
@@ -74244,7 +74244,7 @@ msgstr "愚猴球"
 
 #: STRINGS.NAMES.MONKEYBARREL
 msgid "Splumonkey Pod"
-msgstr "暴躁猴群"
+msgstr "暴躁猴窝"
 
 #: STRINGS.NAMES.MONSTERLASAGNA
 msgid "Monster Lasagna"
@@ -74260,7 +74260,7 @@ msgstr "怪兽肉干"
 
 #: STRINGS.NAMES.MONSTERTARTARE
 msgid "Monster Tartare"
-msgstr "怪物吞拿"
+msgstr "怪物鞑靼"
 
 #: STRINGS.NAMES.MOOSE1
 msgid "Moose"
@@ -74352,7 +74352,7 @@ msgstr "采贝器"
 
 #: STRINGS.NAMES.MYSTERYMEAT
 msgid "Bile-Covered Slop"
-msgstr "大量溢出胆汁"
+msgstr "胆汁盖肉"
 
 #: STRINGS.NAMES.NEEDLESPEAR
 msgid "Cactus Spike"
@@ -74468,7 +74468,7 @@ msgstr "角状头盔"
 
 #: STRINGS.NAMES.OX_FLUTE
 msgid "Dripple Pipes"
-msgstr "滴水的长管"
+msgstr "滴水长管"
 
 #: STRINGS.NAMES.OX_HORN
 msgid "Horn"
@@ -74568,7 +74568,7 @@ msgstr "猪王"
 
 #: STRINGS.NAMES.PIGMAN
 msgid "Pig Man"
-msgstr "猪头人"
+msgstr "猪人"
 
 #: STRINGS.NAMES.PIGSKIN
 msgid "Pig Skin"
@@ -78500,7 +78500,7 @@ msgstr "黑珍珠号"
 
 #: STRINGS.SHIPNAMES.3
 msgid "Mary Celeste"
-msgstr "蓝色的玛丽"
+msgstr "蓝色玛丽号"
 
 #: STRINGS.SHIPNAMES.30
 msgid "Pelican"
@@ -78516,27 +78516,27 @@ msgstr "勇气号"
 
 #: STRINGS.SHIPNAMES.4
 msgid "Beagle"
-msgstr "熊獾"
+msgstr "熊獾号"
 
 #: STRINGS.SHIPNAMES.5
 msgid "Monitor"
-msgstr "莫里特"
+msgstr "莫里特号"
 
 #: STRINGS.SHIPNAMES.6
 msgid "Santa Maria"
-msgstr "圣玛丽亚"
+msgstr "圣玛丽亚号"
 
 #: STRINGS.SHIPNAMES.7
 msgid "Bluenose"
-msgstr "蓝鼻子"
+msgstr "蓝鼻子号"
 
 #: STRINGS.SHIPNAMES.8
 msgid "Adriatic"
-msgstr "亚得里亚"
+msgstr "亚得里亚号"
 
 #: STRINGS.SHIPNAMES.9
 msgid "Nomadic"
-msgstr "流浪"
+msgstr "流浪号"
 
 #: STRINGS.SMOLDERINGITEM
 msgid "Smoldering"
@@ -78620,11 +78620,11 @@ msgstr "交换"
 
 #: STRINGS.TABS.ANCIENT
 msgid "Ancient"
-msgstr "古代的"
+msgstr "远古"
 
 #: STRINGS.TABS.BOOKS
 msgid "Books"
-msgstr "书"
+msgstr "书籍"
 
 #: STRINGS.TABS.DRESS
 msgid "Dress"
@@ -78640,7 +78640,7 @@ msgstr "宝石学"
 
 #: STRINGS.TABS.LIGHT
 msgid "Light"
-msgstr "点燃"
+msgstr "照明"
 
 #: STRINGS.TABS.MAGIC
 msgid "Magic"
@@ -78656,7 +78656,7 @@ msgstr "火山"
 
 #: STRINGS.TABS.REFINE
 msgid "Refine"
-msgstr "精炼"
+msgstr "合成"
 
 #: STRINGS.TABS.SCIENCE
 msgid "Science"
