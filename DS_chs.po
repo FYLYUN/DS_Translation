@@ -23136,7 +23136,7 @@ msgstr "一些笑话是难以抗拒的"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BUTTERFLY.GENERIC
 msgid "It's a flying flower."
-msgstr "是依多蒲公英."
+msgstr "是飞翔的花朵."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BUTTERFLY.HELD
 msgid "It would be a shame if someone ripped the wings off of it."
@@ -74372,7 +74372,7 @@ msgstr "噩梦燃料"
 
 #: STRINGS.NAMES.NIGHTMARELIGHT
 msgid "Nightmare Light"
-msgstr "影灯"
+msgstr "梦魇灯"
 
 #: STRINGS.NAMES.NIGHTMARE_TIMEPIECE
 msgid "Thulecite Medallion"
