@@ -58996,7 +58996,7 @@ msgstr "哦，不，令人毛骨悚然的女孩試圖燒傷我們！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WENDY.GENERIC
 msgid "Is very tiny, scary %s! H-hello!"
-msgstr "這是很小卻很嚇人的%s！你~好，%s！"
+msgstr "這是很小卻很嚇人的%s！你~好~呀！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WENDY.GHOST
 msgid "Please no hauntings, %s! Wolfgang will get you heart!"
