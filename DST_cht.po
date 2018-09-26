@@ -1512,7 +1512,7 @@ msgstr "好一波地動！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ANTLION_TRIBUTE.1
 msgid "Allow me to pay tribute."
-msgstr "允許我致以敬意"
+msgstr "允許我致以敬意。"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ANTLION_TRIBUTE.2
 msgid "A tribute for you, great Antlion."
@@ -8004,7 +8004,7 @@ msgstr "哦巨獅，今天我們將獻上貢品！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ATRIUM_DESTABILIZING.1
 msgid "The beasts shalt soon reemerge!"
-msgstr "怪獸不久將重現！"
+msgstr "野獸將再度出現！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ATRIUM_DESTABILIZING.2
 msgid "The gods are angered!"
@@ -14360,7 +14360,7 @@ msgstr "可能我應該後退一步。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgid "I don't think she'd take kindly to that."
-msgstr "我不認為她會樂於接手的。"
+msgstr "我不覺得她會樂於接受的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.GENERIC
 msgid "To what end?"
@@ -14448,11 +14448,11 @@ msgstr "地震了！"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ANTLION_TRIBUTE.1
 msgid "May this tribute sate the beast."
-msgstr "希望這個貢品能讓妖怪滿意。"
+msgstr "希望這個禮物能讓怪物滿意。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ANTLION_TRIBUTE.2
 msgid "Does this entertain you, beast?"
-msgstr "現在你高興了么，妖怪？"
+msgstr "現在你高興了么，怪物？"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ANTLION_TRIBUTE.3
 msgid "What a chore."
@@ -14464,11 +14464,11 @@ msgstr "黑魔法回來了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ATRIUM_DESTABILIZING.2
 msgid "Here we go again."
-msgstr "又來。"
+msgstr "又來了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_ATRIUM_DESTABILIZING.3
 msgid "The power's growing."
-msgstr "力量在覺醒。"
+msgstr "力量在增長。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BECOMEGHOST
 msgid "oOooooOO!!"
@@ -20904,7 +20904,7 @@ msgstr "那是什麼？"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_TRIBUTE.1
 msgid "For you!"
-msgstr "為了你！"
+msgstr "給你的！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_TRIBUTE.2
 msgid "Maybe it'll be happier now."
@@ -20912,11 +20912,11 @@ msgstr "或許他現在變得高興了。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ANTLION_TRIBUTE.3
 msgid "I hope you like our tribute!"
-msgstr "我希望你喜歡我們的貢品！"
+msgstr "我希望你喜歡我們的禮物！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATRIUM_DESTABILIZING.1
 msgid "That gateway did something weird."
-msgstr "大門有些怪異。"
+msgstr "那扇門做了什麽怪事。"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_ATRIUM_DESTABILIZING.2
 msgid "Something's happening."
@@ -27360,7 +27360,7 @@ msgstr "它的殺意暫時平息了。"
 
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_ATRIUM_DESTABILIZING.1
 msgid "The dead shall rise."
-msgstr "它將要復活。"
+msgstr "死者將要復生。"
 
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_ATRIUM_DESTABILIZING.2
 msgid "The beasts are coming."
@@ -33796,7 +33796,7 @@ msgstr "一次六級地震。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ANTLION_TRIBUTE.1
 msgid "For you, great Panthera auropunctata."
-msgstr "對你來說，你屬於螞蟻科獅子屬。"
+msgstr "這是給你的，大個螞蟻科獅子屬動物。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_ANTLION_TRIBUTE.2
 msgid "It ought to be more docile now."
@@ -53200,7 +53200,7 @@ msgstr "請別吃我。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ANTLION_TRIBUTE.2
 msgid "Is tribute for a mighty... f-friend."
-msgstr "給一個強壯的朋友的禮物。"
+msgstr "給一個強壯的朋...朋友的禮物。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ANTLION_TRIBUTE.3
 msgid "Do not eat Wolfgang's friends, please?"
@@ -66044,7 +66044,7 @@ msgstr "我待會去騎上它。現在先和它消遣一下"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgid "DANGER! TARGET IS AWAKE"
-msgstr "危險！目標醒著"
+msgstr "危險！目標清醒"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.SHAVE.GENERIC
 msgid "THAT IS NOT A VALID SHAVE TARGET"

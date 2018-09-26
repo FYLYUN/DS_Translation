@@ -22132,7 +22132,7 @@ msgstr "畜生."
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgid "I don't think she'd take kindly to that."
-msgstr "我不认为她会乐于接手的."
+msgstr "我不觉得她会乐于接受的."
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.SHAVE.GENERIC
 msgid "To what end?"
@@ -65228,7 +65228,7 @@ msgstr "错误:不想做那个"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.SHAVE.AWAKEBEEFALO
 msgid "DANGER! TARGET IS AWAKE"
-msgstr "危险!目标醒着"
+msgstr "危险!目标清醒"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.SHAVE.GENERIC
 msgid "THAT IS NOT A VALID SHAVE TARGET"
