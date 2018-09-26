@@ -24588,7 +24588,7 @@ msgstr "这东西已经没法修了."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_SUMMER
 msgid "A distant cousin of the beefalo."
-msgstr "皮弗洛牛的远亲."
+msgstr "皮弗娄牛的远亲."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_WINTER
 msgid "It has its winter coat on."
@@ -24604,7 +24604,7 @@ msgstr "现在该要酬劳了."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KRAKEN_TENTACLE
 msgid "How dare you touch me?"
-msgstr "你敢摸我?"
+msgstr "你竟敢摸我?"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KRAMPUS
 msgid "You won't catch me!"

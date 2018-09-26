@@ -17064,7 +17064,7 @@ msgstr "這東西已經沒法修了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_SUMMER
 msgid "A distant cousin of the beefalo."
-msgstr "皮弗洛牛的遠親。"
+msgstr "皮弗婁牛的遠親。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KOALEFANT_WINTER
 msgid "It has its winter coat on."
