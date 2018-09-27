@@ -23884,11 +23884,11 @@ msgstr "少点什么东西。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLPHONOGRAPH
 msgid "We could listen to that forever!"
-msgstr "这歌我可以听一辈子！"
+msgstr "这歌我们可以听一辈子！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLTHRONE
 msgid "That throne makes our skin crawl."
-msgstr "那个王位使我们毛骨悚然。"
+msgstr "那个王座使我们毛骨悚然。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT
 msgid "Some fire would spice this up."
