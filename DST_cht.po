@@ -92524,15 +92524,15 @@ msgstr "F15"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.300
 msgid "Num Lock"
-msgstr "Num Lock"
+msgstr "數字鎖定"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.301
 msgid "Caps Lock"
-msgstr "大小寫鎖定鍵"
+msgstr "大寫鎖定"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.302
 msgid "Scroll Lock"
-msgstr "Scroll Lock"
+msgstr "熒幕鎖定"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.303
 msgid "Right Shift"
@@ -92592,7 +92592,7 @@ msgstr "截屏鍵"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.319
 msgid "Menu"
-msgstr "Win菜單"
+msgstr "菜單"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.32
 msgid "Space"
@@ -92712,7 +92712,7 @@ msgstr "["
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.92
 msgid "Backslash"
-msgstr "、"
+msgstr "\"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.93
 msgid "Right Bracket"
@@ -93072,7 +93072,7 @@ msgstr "建造"
 
 #: STRINGS.UI.CRAFTING.CANTRESEARCH
 msgid "Some things are unknowable."
-msgstr "某些是無法探知的。"
+msgstr "某些事是無法探知的。"
 
 #: STRINGS.UI.CRAFTING.DEFAULT
 msgid "Classic"
@@ -93196,7 +93196,7 @@ msgstr "TapioHonkonen"
 
 #: STRINGS.UI.CREDITS.ALTGAMES.TITLE
 msgid "Linux and OSX ports by Alternative Games"
-msgstr "Linux和OSX介面由Alternat\niveGames提供。"
+msgstr "由Alternative Games\n移植到Linux和OSX"
 
 #: STRINGS.UI.CREDITS.BABEL.NAMES1.1
 msgid "Chris Wylie"
@@ -93264,7 +93264,7 @@ msgstr "Cesar Sánchez"
 
 #: STRINGS.UI.CREDITS.BLIT.TITLE
 msgid "Xbox One port by BlitWorks"
-msgstr "Xbox One埠由BlitWorks提供"
+msgstr "由BlitWorks移植到Xbox One"
 
 #: STRINGS.UI.CREDITS.EXTRA_THANKS
 msgid "Ophir Lupu\nKo Kim\nColt McAnlis"
@@ -93280,7 +93280,7 @@ msgstr "Facebook"
 
 #: STRINGS.UI.CREDITS.FMOD
 msgid "FMOD Sound System,\nCopyright Firelight Technologies"
-msgstr "FMOD聲音引擎版權屬於\n領英科技(Firelight Technologies)"
+msgstr "FMOD聲音引擎版權屬於\nFirelight技術公司"
 
 #: STRINGS.UI.CREDITS.LOLLI.NAMES.1
 msgid "Daniel Segarra"
@@ -93304,7 +93304,7 @@ msgstr "Francesc Sánchez"
 
 #: STRINGS.UI.CREDITS.LOLLI.TITLE
 msgid "Xbox One QA by Lollipop Robot"
-msgstr "Xbox One QA由Lollipop Robot提供"
+msgstr "由Lollipop Robot進行\nXbox One質量保證"
 
 #: STRINGS.UI.CREDITS.NAMES.1
 msgid "Kevin Forbes"
@@ -93536,7 +93536,7 @@ msgstr "非常感謝那些勇敢面對「搶先體驗版本」的我們的支持
 
 #: STRINGS.UI.CREDITS.THANKYOU
 msgid "Thank you!"
-msgstr "Thank you！"
+msgstr "感谢你们！"
 
 #: STRINGS.UI.CREDITS.TITLE
 msgid "CREDITS"
@@ -93900,7 +93900,7 @@ msgstr "否"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.OKAY
 msgid "Okay"
-msgstr "OK"
+msgstr "是"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.OVERWRITE
 msgid "Overwrite"
@@ -94096,7 +94096,7 @@ msgstr "熔爐"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING
 msgid "<MOD MISSING>"
-msgstr "<丟失MOD>"
+msgstr "<缺少MOD>"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.QUAGMIRE
 msgid "The Gorge"
@@ -95876,7 +95876,7 @@ msgstr "更多遊戲"
 
 #: STRINGS.UI.MAINSCREEN.MOTD
 msgid "Check out the latest items in the Klei Store!"
-msgstr "如果想要參加我們的「萬聖夜模組挑戰」，請\n點擊下面的鏈接！"
+msgstr "查看Klei商店中的最新物品！"
 
 #: STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgid "Klei Store"
@@ -98764,23 +98764,23 @@ msgstr "洞穴"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.1
 msgid "Chapter 1 of 5"
-msgstr "第1章/5章"
+msgstr "第1/5章"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.2
 msgid "Chapter 2 of 5"
-msgstr "第2章/5章"
+msgstr "第2/5章"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.3
 msgid "Chapter 3 of 5"
-msgstr "第3章/5章"
+msgstr "第3/5章"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.4
 msgid "Chapter 4 of 5"
-msgstr "第4章/5章"
+msgstr "第4/5章"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.5
 msgid "Chapter 5 of 5"
-msgstr "第5章/5章"
+msgstr "第5/5章"
 
 #: STRINGS.UI.SANDBOXMENU.CHAPTERS.6
 msgid "Epilogue"
