@@ -102304,7 +102304,7 @@ msgstr "我需要先建造一些東西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Someone's already using this."
-msgstr "我需要先建造一些東西。"
+msgstr "已經有人在用這個了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "Those are the wrong plans."
@@ -102388,7 +102388,7 @@ msgstr "這就像圓孔中的方釘——格格不入。"
 
 #: STRINGS.CHARACTERS.WINONA.ANNOUNCE_DESPAWN
 msgid "Good thing I got all my affairs in order."
-msgstr "好極了，我把我所有的事情都安排妥當了。"
+msgstr "還好我把我所有的事情都安排妥當了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Let's get building."
@@ -102448,7 +102448,7 @@ msgstr "我需要把東西放在那裡。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Oops, sorry. Someone's using it already."
-msgstr "哎呀，對不起。有人已經用過了。"
+msgstr "哎呀，對不起。有人已經在用了。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "Sorry. Wrong plans."
@@ -102476,7 +102476,7 @@ msgstr "我應該把它放在那裡呢，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wonder where it goes."
-msgstr "不知道它想去哪裡。"
+msgstr "我想知道它是去哪裡的。"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "ERROR: NO INPUT SELECTED"
@@ -102528,7 +102528,7 @@ msgstr "天體之門"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
-msgstr "傳送門附件"
+msgstr "傳送門升級裝置"
 
 #: STRINGS.NAMES.ROCK_MOON_CAPSULE
 msgid "Boulder"
@@ -102540,7 +102540,7 @@ msgstr "卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
-msgstr "一個換人道具。"
+msgstr "一個關鍵角色。"
 
 #: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "The best laid plans."
