@@ -88480,7 +88480,7 @@ msgstr "切斯特印花寶箱"
 
 #: STRINGS.SKIN_NAMES.treasurechest_sacred
 msgid "Ancient King's Chest"
-msgstr "古文明箱子"
+msgstr "遠古國王的寶箱"
 
 #: STRINGS.SKIN_NAMES.treasurechest_steamertrunk
 msgid "Steamer Trunk"
