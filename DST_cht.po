@@ -102700,7 +102700,7 @@ msgstr "同步通知"
 
 #: STRINGS.UI.OPTIONS.CINEMATICS
 msgid "Cinematics"
-msgstr "動畫"
+msgstr "影片"
 
 #: STRINGS.UI.OPTIONS.CREDITS
 msgid "Credits"
@@ -102708,15 +102708,15 @@ msgstr "製作人員"
 
 #: STRINGS.UI.OPTIONS.INTRO_MOVIE
 msgid "Intro Movie"
-msgstr "視頻簡介"
+msgstr "影片簡介"
 
 #: STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
 msgid "Sit back and watch a video"
-msgstr "坐好看視頻"
+msgstr "坐好看影片"
 
 #: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
 msgid "More Klei Videos"
-msgstr "更多KLEI視頻"
+msgstr "更多KLEI影片"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgid "Friendliest Friends"
