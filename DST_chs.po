@@ -102516,7 +102516,7 @@ msgstr "网络入口"
 
 #: STRINGS.NAMES.MOONROCKIDOL
 msgid "Moon Rock Idol"
-msgstr "月岩门钥"
+msgstr "月岩图腾"
 
 #: STRINGS.NAMES.MOONROCKSEED
 msgid "Celestial Orb"
@@ -102540,7 +102540,7 @@ msgstr "卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
-msgstr "一个关键角色。"
+msgstr "一个交换角色的道具。"
 
 #: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "The best laid plans."
@@ -102572,7 +102572,7 @@ msgstr "使用这个物品可以改变你的人物背景插图。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
-msgstr "将你的头像设置为一个惊人的马戏鸟笼。"
+msgstr "将你的头像设置为一个惊人的马戏团鸟笼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
 msgid "Set your profile icon to an Equestrienne Headdress."
@@ -102608,7 +102608,7 @@ msgstr "马戏团女骑手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "惊人的马戏鸟笼"
+msgstr "惊人的马戏团鸟笼"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
