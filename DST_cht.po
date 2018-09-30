@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ABANDON
+#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -95768,7 +95768,7 @@ msgstr "主機遊戲"
 
 #: STRINGS.UI.MAINSCREEN.HOSTCHAR
 msgid "Host (CharSelect)"
-msgstr ""
+msgstr "主機(人物選擇)"
 
 #: STRINGS.UI.MAINSCREEN.IMPORT
 msgid "Import"
