@@ -50304,7 +50304,7 @@ msgstr "凶手！滚啦！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PLAYER.REVIVER
 msgid "You're good people, %s."
-msgstr "你是好人，% s。"
+msgstr "你是个好人，%s。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.POMEGRANATE
 msgid "Eat that and you're stuck here forever!"
@@ -65588,11 +65588,11 @@ msgstr "%s，你是个好人。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.ATTACKER
 msgid "%s is getting too big for her britches."
-msgstr "%已经穿不下她的裤子了。"
+msgstr "%s已经穿不下她的裤子了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.FIRESTARTER
 msgid "%s betrays the forest!"
-msgstr "%背叛了森林！"
+msgstr "%s背叛了森林！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.GENERIC
 msgid "%s! Hey there bud!"

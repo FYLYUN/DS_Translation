@@ -50304,7 +50304,7 @@ msgstr "兇手！滾啦！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PLAYER.REVIVER
 msgid "You're good people, %s."
-msgstr "你是好人，% s。"
+msgstr "你是個好人，%s。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.POMEGRANATE
 msgid "Eat that and you're stuck here forever!"
@@ -65588,11 +65588,11 @@ msgstr "%s，你是個好人。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.ATTACKER
 msgid "%s is getting too big for her britches."
-msgstr "%已經穿不下她的褲子了。"
+msgstr "%s已經穿不下她的褲子了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.FIRESTARTER
 msgid "%s betrays the forest!"
-msgstr "%背叛了森林！"
+msgstr "%s背叛了森林！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA.GENERIC
 msgid "%s! Hey there bud!"
@@ -102109,3 +102109,708 @@ msgstr "{server_name}	最後一次訪問於{date}"
 #: STRINGS.UI.MORGUESCREEN.ENCOUNTERS.PLAYTIME_LABEL
 msgid "Play Time"
 msgstr "遊戲時間"
+
+#: STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.BUNDLESTORE.GENERIC
+msgid "Store"
+msgstr "商店"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC
+msgid "Build"
+msgstr "建造"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
+msgid "Build {name}"
+msgstr "建造{name}"
+
+#: STRINGS.ACTIONS.CONSTRUCT.STORE
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.GIVE.CELESTIAL
+msgid "Offer"
+msgstr "獻祭"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
+msgid "Stop Building"
+msgstr "停止建造"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgid "Stop Building {name}"
+msgstr "停止建造{name}"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I need something to build with."
+msgstr "我需要一些東西來建造。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Someone beat me to it."
+msgstr "有人比我先做到了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Whoops! Wrong plans."
+msgstr "嗚啊！這不可行。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "It won't fit."
+msgstr "這不行。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DESPAWN
+msgid "I can see the light!"
+msgstr "我明白了！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Stuff for science!"
+msgstr "這是科學的技術！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKIDOL
+msgid "Huh. It looks kinda like a key."
+msgstr "呵。這看起來像是鑰匙。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKSEED
+msgid "There's science inside!"
+msgstr "這裡面可充滿了科學的力量！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "I'm sure there's some scientific explanation for this."
+msgstr "我確信能用科學的知識解釋這個的。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "It requireth materials."
+msgstr "它需要材料。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "'Tis in use, and not by me."
+msgstr "這是它用的，而不是給我。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Alas! 'Tis the wrong plans."
+msgstr "哎！這做不到。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "Alas! It doth not go there!"
+msgstr "哎！它不可以放那裡！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DESPAWN
+msgid "'Tis the lights of Valhalla?"
+msgstr "這是英靈殿的燈嗎？"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Portal! Prepare to be built!"
+msgstr "入口！準備建造！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKIDOL
+msgid "I shall offer it to Mani!"
+msgstr "我要把它給摩尼！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKSEED
+msgid "It hath knowledge within!"
+msgstr "這裡面有科學的力量！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "It hath a glow about it."
+msgstr "它在發光。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "Well I need something to build with."
+msgstr "我需要一些東西來建造。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "I don't like sharing."
+msgstr "我不喜歡和別人共事。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "It needs completely different plans."
+msgstr "它需要完全不同的設計圖。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "That's the wrong part."
+msgstr "這是失敗的一部分。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DESPAWN
+msgid "Say, pal, I don't look so good..."
+msgstr "喂，夥計，我看起來不太好…"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CONSTRUCTION_PLANS
+msgid "I suppose I should build this."
+msgstr "我想我應該建造這個。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKIDOL
+msgid "They always need an offering."
+msgstr "它們需要一個祭品。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKSEED
+msgid "Oooh, some new knowledge."
+msgstr "哦，一些新的知識。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "A bit ominous looking."
+msgstr "這看起來有點糟。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "We need stuff to build with."
+msgstr "我們需要用什麼東西來建造。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Aw, we don't wanna mess up someone else's stuff."
+msgstr "哦，我們不想破壞別人的東西。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "I don't think these are the right plans."
+msgstr "我不認為這是正確的想法。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "It doesn't go there."
+msgstr "它不能放那裡。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_DESPAWN
+msgid "Everything's getting fuzzy!"
+msgstr "這一切都變得糟糕了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CONSTRUCTION_PLANS
+msgid "We should build this."
+msgstr "我們應該建造這個。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKIDOL
+msgid "It looks kinda like an alien."
+msgstr "它看起來有點像外星人。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKSEED
+msgid "Neat, it's a ball that floats by itself!"
+msgstr "哇，這個是一個可以自己漂浮的球體！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Gosh. It's so sparkly!"
+msgstr "天哪。真是閃閃發亮！"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "Nothing comes of nothing."
+msgstr "無中不能生有。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "No one wants to share with me."
+msgstr "沒有人願意和我分享。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "I can't do anything right."
+msgstr "我什麼都做不好。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "It doesn't go there. I know the feeling."
+msgstr "不能放在那。我知道這種感覺。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_DESPAWN
+msgid "Abigail?"
+msgstr "阿比蓋爾？"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Shall I even bother building this?"
+msgstr "我應該建造這個嗎？"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKIDOL
+msgid "An otherworldly heart beats within it."
+msgstr "一個超自然的心在它裡面跳動。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKSEED
+msgid "Its pallor reminds me of Abigail."
+msgstr "它的蒼白讓我想起了阿比蓋爾。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Cold and beautiful like death."
+msgstr "凄涼的、美麗的、如死亡般。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I need something to build with first."
+msgstr "我需要先建造一些東西。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Someone's already using this."
+msgstr "我需要先建造一些東西。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Those are the wrong plans."
+msgstr "那些都是錯誤的方法。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "That was erroneous."
+msgstr "那是錯誤的。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DESPAWN
+msgid "I've never read anything describing this!"
+msgstr "我從來沒有在書上讀過關於這個東西的事！"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Oh, I do like the look of this."
+msgstr "哦，我很喜歡這個樣子。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKIDOL
+msgid "Curious. It's rather keylike."
+msgstr "奇妙。這個很重要。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKSEED
+msgid "A floating orb of knowledge."
+msgstr "一個會飄浮的知識魔球。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Its design is decidedly otherworldly."
+msgstr "它的設計無疑是超現實的。"
+
+#: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I need something to build with first!"
+msgstr "我需要一些東西才能建造！"
+
+#: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Ugh. Someone's already using it."
+msgstr "呃。有人已經在使用它了。"
+
+#: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "It's the wrong plans. Jeez!"
+msgstr "天哪！這是一個錯誤的方法。"
+
+#: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "It won't go in there."
+msgstr "它不能放那裡。"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DESPAWN
+msgid "A burning light!"
+msgstr "一個燃著的燈！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CONSTRUCTION_PLANS
+msgid "I'd rather burn things down than build them up."
+msgstr "比起建造這個玩意，不如燒點東西讓自己快活。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONROCKIDOL
+msgid "Looks like a jerk."
+msgstr "看起來像個蠢貨。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONROCKSEED
+msgid "Well I can't burn it."
+msgstr "嗯，我不能燒掉它。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "It's made of some kind of jerk rock I can't burn."
+msgstr "它是某種我不能點燃的岩石做成的。"
+
+#: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I gotta have something to build with."
+msgstr "我必須有設計圖才能建造。"
+
+#: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Aw someone else is building it already."
+msgstr "其他人正在建造它。"
+
+#: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Oops! Wrong plans."
+msgstr "啊！這不對。"
+
+#: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "Square peg in a round hole."
+msgstr "這就像圓孔中的方釘——格格不入。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_DESPAWN
+msgid "Good thing I got all my affairs in order."
+msgstr "好極了，我把我所有的事情都安排妥當了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Let's get building."
+msgstr "讓我們開始建造吧。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKIDOL
+msgid "What, do I gotta offer it up to something?"
+msgstr "什麼，我必須獻祭這個嗎？"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKSEED
+msgid "I could learn a thing or two from this."
+msgstr "我可以學習到它的一些知識。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Wow. Can't even see the weld joints."
+msgstr "哇。甚至看不到焊接的痕迹。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "Wolfgang needs something to put here."
+msgstr "沃爾夫岡需要一些材料。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Wolfgang can share?"
+msgstr "沃爾夫岡可以參與嗎？"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Wolfgang have wrong plans."
+msgstr "沃爾夫岡有一個錯誤的設計圖。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "Is not right place for that."
+msgstr "不可以放在這個地方。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_DESPAWN
+msgid "Wolfgang is scared!"
+msgstr "沃爾夫岡嚇壞了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CONSTRUCTION_PLANS
+msgid "If Wolfgang build it, they will come."
+msgstr "如果沃爾夫岡建好了這個，它們會來的。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONROCKIDOL
+msgid "Hehe. Is funny little moon man."
+msgstr "呵呵。有趣的小月球星人。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONROCKSEED
+msgid "Is ball not for throwing."
+msgstr "這個球不能用來投擲。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Is strong like Wolfgang."
+msgstr "像沃爾夫岡一樣結實。"
+
+#: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I need to put something there."
+msgstr "我需要把東西放在那裡。"
+
+#: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "Oops, sorry. Someone's using it already."
+msgstr "哎呀，對不起。有人已經用過了。"
+
+#: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "Sorry. Wrong plans."
+msgstr "抱歉。這是錯誤的。"
+
+#: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "Well, it doesn't go there."
+msgstr "嗯，不能建在那裡。"
+
+#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DESPAWN
+msgid "This feels strangely familiar..."
+msgstr "這感覺似曾相識…"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.CONSTRUCTION_PLANS
+msgid "Well, better get building."
+msgstr "嗯，可以更好的建造了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKIDOL
+msgid "Looks kinda loonie."
+msgstr "看起來有點傻。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKSEED
+msgid "I should probably put this down somewhere, eh?"
+msgstr "我應該把它放在那裡呢，嗯？"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Wonder where it goes."
+msgstr "不知道它想去哪裡。"
+
+#: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "ERROR: NO INPUT SELECTED"
+msgstr "錯誤：無法輸入選項"
+
+#: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.INUSE
+msgid "INFERIORS ARE BUILDING IT"
+msgstr "低等人類正在建造它"
+
+#: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.MISMATCH
+msgid "SOFTWARE IS NOT COMPATIBLE"
+msgstr "軟體不兼容"
+
+#: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.NOTALLOWED
+msgid "INCOMPATIBLE HARDWARE"
+msgstr "硬體不兼容"
+
+#: STRINGS.CHARACTERS.WX78.ANNOUNCE_DESPAWN
+msgid "I SEE THE BLUE SCREEN!"
+msgstr "我看到了藍屏！"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PLANS
+msgid "UPGRADING SOFTWARE"
+msgstr "軟體升級包"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKIDOL
+msgid "PASSKEY"
+msgstr "密鑰"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKSEED
+msgid "CURRENTLY IDOL"
+msgstr "當前可以交互"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
+msgid "NETWORKING PORTAL"
+msgstr "網路門戶網站"
+
+#: STRINGS.NAMES.MOONROCKIDOL
+msgid "Moon Rock Idol"
+msgstr "月岩門鑰"
+
+#: STRINGS.NAMES.MOONROCKSEED
+msgid "Celestial Orb"
+msgstr "外星天體"
+
+#: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK
+msgid "Celestial Portal"
+msgstr "太空之門"
+
+#: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
+msgid "Portal Paraphernalia"
+msgstr "從入門到換人"
+
+#: STRINGS.NAMES.ROCK_MOON_CAPSULE
+msgid "Boulder"
+msgstr "巨石"
+
+#: STRINGS.NAMES.ROCK_MOON_SHELL
+msgid "Boulder"
+msgstr "巨石"
+
+#: STRINGS.RECIPE_DESC.MOONROCKIDOL
+msgid "A key figure."
+msgstr "一個換人道具。"
+
+#: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
+msgid "The best laid plans."
+msgstr "非常棒的設計圖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.birdcage_circus
+msgid "Circus freak not included."
+msgstr "裡面不會有馬戲團的雙頭怪胎的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.featherhat_circus
+msgid "Enter the ring."
+msgstr "參加競選。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個物品可以改變你的人物背景插圖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_featherhatcircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個物品可以改變你的人物背景插圖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個物品可以改變你的人物背景插圖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個物品可以改變你的人物背景插圖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
+msgid "Set your profile icon to the Amazing Sideshow."
+msgstr "將你的頭像設置成一個驚人的馬戲團。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
+msgid "Set your profile icon to an Equestrienne Headdress."
+msgstr "將你的頭像設置成一個馬戲團女騎手帽。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_rainometer_circus
+msgid "Set your profile icon to the Magnificent Rainometer."
+msgstr "將你的頭像設置成一個華麗的雨量計。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_tophat_circus
+msgid "Set your profile icon to an Amazing Ringmaster Hat."
+msgstr "將你的頭像設置成一個驚人的馴獸師帽子"
+
+#: STRINGS.SKIN_DESCRIPTIONS.rainometer_circus
+msgid "Guess the rainfall."
+msgstr "來猜猜會不會下雨。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus
+msgid "researchlab4_tophat_circus"
+msgstr "researchlab4_tophat_circus"
+
+#: STRINGS.SKIN_DESCRIPTIONS.tophat_circus
+msgid "Come one, come all."
+msgstr "來吧，來吧。"
+
+#: STRINGS.SKIN_NAMES.birdcage_circus
+msgid "The Amazing Sideshow"
+msgstr "驚人的馬戲團"
+
+#: STRINGS.SKIN_NAMES.featherhat_circus
+msgid "Equestrienne Headdress"
+msgstr "馬戲團女騎手帽"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
+msgid "The Amazing Sideshow Portrait"
+msgstr "驚人的馬戲團鳥籠"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
+msgid "Portrait of the Equestrienne Headdress"
+msgstr "馬戲團女騎手帽背景插圖"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
+msgid "The Magnificent Rainometer Portrait"
+msgstr "華麗雨量計背景插圖"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_tophatcircus
+msgid "Amazing Ringmaster Hat Portrait"
+msgstr "驚人的馴獸師帽背景插圖"
+
+#: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
+msgid "The Amazing Sideshow Icon"
+msgstr "驚人的馬戲團頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
+msgid "Icon of the Equestrienne Headdress"
+msgstr "馬戲團女騎手帽頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_rainometer_circus
+msgid "The Magnificent Rainometer Icon"
+msgstr "華麗的雨量計頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_tophat_circus
+msgid "Amazing Ringmaster Hat Icon"
+msgstr "驚人的馴獸師帽頭像"
+
+#: STRINGS.SKIN_NAMES.rainometer_circus
+msgid "The Magnificent Rainometer"
+msgstr "華麗的雨量計"
+
+#: STRINGS.SKIN_NAMES.researchlab4_tophat_circus
+msgid "Prestiringmastatator"
+msgstr "威嚴的馬戲團高禮帽"
+
+#: STRINGS.SKIN_NAMES.tophat_circus
+msgid "Amazing Ringmaster Hat"
+msgstr "驚人的馴獸師帽"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS
+msgid "Side Show Collection"
+msgstr "馬戲團藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.FEATHERHAT
+msgid "Feather Hat"
+msgstr "羽毛帽"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
+msgid "Rainometer"
+msgstr "雨量計"
+
+#: STRINGS.TABS.CELESTIAL
+msgid "Celestial"
+msgstr "外星"
+
+#: STRINGS.THANKS_POPUP.TWITCH_DROP
+msgid "Thanks for watching Twitch"
+msgstr "感謝你觀看Twitch直播"
+
+#: STRINGS.UI.COMMANDSSCREEN.HIDE_SERVERNAME
+msgid "Hide Server Name"
+msgstr "隱藏伺服器名稱"
+
+#: STRINGS.UI.COMMANDSSCREEN.SHOW_SERVERNAME
+msgid "Show Server Name"
+msgstr "顯示伺服器名稱"
+
+#: STRINGS.UI.HUD.UNLOCK_TARGET
+msgid "Unlock Target"
+msgstr "解鎖對象"
+
+#: STRINGS.UI.LOBBYSCREEN.TOGGLE_PORTRAIT
+msgid "Toggle Portrait"
+msgstr "切換背景"
+
+#: STRINGS.UI.MAINSCREEN.MOTD_ALERT_DETAILS
+msgid "View Details"
+msgstr "查看詳細信息"
+
+#: STRINGS.UI.MAINSCREEN.MOTD_NEW_UPDATE
+msgid "New Update Available!"
+msgstr "有新的可用更新！"
+
+#: STRINGS.UI.MAINSCREEN.MOTD_SYNCING
+msgid "Syncing Notifications"
+msgstr "同步通知"
+
+#: STRINGS.UI.OPTIONS.CINEMATICS
+msgid "Cinematics"
+msgstr "動畫"
+
+#: STRINGS.UI.OPTIONS.CREDITS
+msgid "Credits"
+msgstr "信用"
+
+#: STRINGS.UI.OPTIONS.INTRO_MOVIE
+msgid "Intro Movie"
+msgstr "視頻簡介"
+
+#: STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
+msgid "Sit back and watch a video"
+msgstr "坐著看視頻"
+
+#: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
+msgid "More Klei Videos"
+msgstr "更多KLEI視頻"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
+msgid "Friendliest Friends"
+msgstr "友好的朋友們"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgid "No surviver deaths on record."
+msgstr "無人生還的死亡記錄"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
+msgid "Play online and make some friends."
+msgstr "結交線上遊戲朋友。"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
+msgid "Log in to starting earning items."
+msgstr "登入到創收項目。"
+
+#: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_DESC
+msgid "Transmute some codes into something useful."
+msgstr "把一些代碼到一些有用的東西。"
+
+#: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_TITLE
+msgid "Redeem Codes"
+msgstr "兌換碼"
+
+#: STRINGS.UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER
+msgid "Klei Official Server"
+msgstr "KLEI官方伺服器"
+
+#: STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION
+msgid "*****"
+msgstr "*****"
+
+#: STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_NAME
+msgid "*****"
+msgstr "*****"
+
+#: STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
+msgid "Toggle Server Name"
+msgstr "更換伺服器名稱"
+
+#: STRINGS.UI.WARDROBESCREEN.FILTER_OFF
+msgid "Off"
+msgstr "關"
+
+#: STRINGS.UI.WARDROBESCREEN.FILTER_ON
+msgid "On"
+msgstr "開"
+
+#: STRINGS.UI.WARDROBESCREEN.OWNED_FILTER_FMT
+msgid "Owned Filter: {mode}"
+msgstr "自己的篩選類型: {mode}"
+
+#: STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT
+msgid "Sort Mode: {mode}"
+msgstr "排序模式: {mode}"
+
+#: STRINGS.UI.WARDROBESCREEN.SORT_NAME
+msgid "Name"
+msgstr "名字"
+
+#: STRINGS.UI.WARDROBESCREEN.SORT_RARITY
+msgid "Rarity"
+msgstr "罕見的"
+
+#: STRINGS.UI.WARDROBESCREEN.SORT_RELEASE
+msgid "Release Date"
+msgstr "發布日期"
+
+#: STRINGS.UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
+msgid "Survivor Filter: {mode}"
+msgstr "過濾掉的倖存者: {mode}"
+
