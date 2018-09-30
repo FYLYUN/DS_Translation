@@ -102340,7 +102340,7 @@ msgstr "我需要一些東西才能建造！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Ugh. Someone's already using it."
-msgstr "呃。有人已經在使用它了。"
+msgstr "呃。已經有人在使用它了。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "It's the wrong plans. Jeez!"
@@ -102448,7 +102448,7 @@ msgstr "我需要把東西放在那裡。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Oops, sorry. Someone's using it already."
-msgstr "哎呀，對不起。有人已經在用了。"
+msgstr "哎呀，對不起。已經有人在用了。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "Sorry. Wrong plans."
