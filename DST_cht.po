@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -8100,7 +8100,7 @@ msgstr "這種食品不適合戰士。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENCUMBERED.1
 msgid "Hff... Nothing can weigh a warrior down!"
-msgstr "呼…沒有什麼能壓迫一個戰士！"
+msgstr "呼…沒有什麼能壓倒一個戰士！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENCUMBERED.2
 msgid "Huff... Huff..."
@@ -8124,7 +8124,7 @@ msgstr "像…斯雷普尼爾般迅速…"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENCUMBERED.7
 msgid "Strong... like Thor..."
-msgstr "要強大的…像個雷神一樣…"
+msgstr "要強大的…像雷神一樣…"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENCUMBERED.8
 msgid "Enduring... like Freya..."
@@ -8132,7 +8132,7 @@ msgstr "像芙蕾雅一樣…不朽…"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK
 msgid "And the curtain falls."
-msgstr "然後窗帘降下。"
+msgstr "然後幕布降下。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT
 msgid "I step into the light!"
@@ -19340,7 +19340,7 @@ msgstr "暗影之力，沒有界限。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STALKER_ATRIUM
 msgid "The Atrium's power restored his mind."
-msgstr "暗影中庭之力恢復了它的意識。"
+msgstr "暗影中庭的力量恢復了它的意識。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.STALKER_MINION
 msgid "A being of living fuel."
@@ -23884,11 +23884,11 @@ msgstr "少點什麼東西。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLPHONOGRAPH
 msgid "We could listen to that forever!"
-msgstr "這歌我可以聽一輩子！"
+msgstr "這歌我们可以聽一輩子！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLTHRONE
 msgid "That throne makes our skin crawl."
-msgstr "那個王位使我們毛骨悚然。"
+msgstr "那個王座使我們毛骨悚然。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT
 msgid "Some fire would spice this up."
@@ -85520,7 +85520,7 @@ msgstr "雖然伍迪往往不會在意整理自己髒亂的頭髮，但他會用
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_shadow
 msgid "The shadow realm is pretty much the same as here, just darker."
-msgstr "暗影界和這兒其實差不多，只是更黑而已。"
+msgstr "暗影的領域和這兒其實差不多，只是更黑而已。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_survivor
 msgid "Woodie looks like he's turning into a tree."
@@ -88480,7 +88480,7 @@ msgstr "切斯特印花寶箱"
 
 #: STRINGS.SKIN_NAMES.treasurechest_sacred
 msgid "Ancient King's Chest"
-msgstr "古文明箱子"
+msgstr "遠古國王的寶箱"
 
 #: STRINGS.SKIN_NAMES.treasurechest_steamertrunk
 msgid "Steamer Trunk"
@@ -89056,11 +89056,11 @@ msgstr "\"肉肉肉~\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_deerclops
 msgid "\"I cöuld take yöu curs with öne eye behind my mask!\""
-msgstr "\"我會在這單眼面具下打敗你！\""
+msgstr "\"我會在這獨眼面具下打敗你！\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_deerclops_d
 msgid "\"I cöuld take yöu curs with öne eye behind my mask!\""
-msgstr "\"我就算戴著面具眼睛被遮住了也\n能打敗你！\""
+msgstr "\"我會在這獨眼面具下打敗你！\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_formal
 msgid "\"We will celebrate as if we were in Valhalla!\""
@@ -89072,7 +89072,7 @@ msgstr "\"我的戰鬥技能舉世無雙。\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_nature
 msgid "\"I shall fight för the förest!\""
-msgstr "\"我將誓死守護森林!\""
+msgstr "\"我誓死守護森林!\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_rose
 msgid "\"Applause röars as red, red röses flööd my stage!\""
@@ -89136,11 +89136,11 @@ msgstr "\"哼。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"呀！那是我們蝙蝠朋友的聲音\""
+msgstr "\"哇啦啦！……這是我們學的蝙蝠聲音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat_d
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"哇啦啦！ ……這是我們的蝙蝠音。\""
+msgstr "\"哇啦啦！……這是我們學的蝙蝠聲音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_combatant
 msgid "\"We don't want to fight if we don't have to.\""
@@ -89200,7 +89200,7 @@ msgstr "\"我們遲早會變得冰冷\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant
 msgid "\"So alluring...\""
-msgstr "\"多麼誘人……\""
+msgstr "\"非常的誘人……\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant_d
 msgid "\"So alluring...\""
@@ -89248,7 +89248,7 @@ msgstr "\"它需要的僅是天才的尤里卡。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_lightninggoat_d
 msgid "\"All it takes is a spark of genius.\""
-msgstr "\"這只需要腦袋裡突然尤里卡。\""
+msgstr "\"它需要的僅是天才的尤里卡。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_rose
 msgid "\"Ah, to see the world through rose-colored glasses.\""
@@ -89276,7 +89276,7 @@ msgstr "\"我做的食物總是焦到恰到好處！\""
 
 #: STRINGS.SKIN_QUOTES.willow_dragonfly
 msgid "\"Woah, I'm smokin'! (No, really!)\""
-msgstr "\"啊，我被煙嗆到了！\n（不，真的！）\""
+msgstr "\"啊，我著火了！\n（我説真的！）\""
 
 #: STRINGS.SKIN_QUOTES.willow_dragonfly_d
 msgid "\"Woah, I'm smokin'! (No, really!)\""
@@ -89336,7 +89336,7 @@ msgstr "\"我確信我能給出一個科學合理的\n解釋。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_pigguard_d
 msgid "\"I'm sure I had a scientific reason for this.\""
-msgstr "\"我一定能給出人長豬鼻子的科學\n解釋。\""
+msgstr "\"我確信我能給出一個科學合理的\n解釋。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_rose
 msgid "\"Perhaps I'll retire to a life of rose breeding.\""
@@ -89348,7 +89348,7 @@ msgstr "\"哇哈哈哈！\""
 
 #: STRINGS.SKIN_QUOTES.wilson_survivor
 msgid "\"There is a scientific solution, here. I know it.\""
-msgstr "\"我有一個科學的解決方案，這裡。\n我知道。\""
+msgstr "\"我有一個科學的解決方案，這裡。我知道。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_victorian
 msgid "\"The root of all malady lies in an imbalance of the humors.\""
@@ -89928,7 +89928,7 @@ msgstr "放開我，暗影！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.4
 msgid "You are not Them..."
-msgstr "你不是它們的同夥…"
+msgstr "你不是它們的…"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.5
 msgid "Are you so easily deceived? Ha..."
@@ -95662,10 +95662,6 @@ msgstr "鍵位"
 msgid "Host Game"
 msgstr "創建世界"
 
-#: STRINGS.UI.MAINSCREEN.CREDITS
-msgid "Credits"
-msgstr "製作人員"
-
 #: STRINGS.UI.MAINSCREEN.DELETE
 msgid "Delete"
 msgstr "刪除"
@@ -95673,10 +95669,6 @@ msgstr "刪除"
 #: STRINGS.UI.MAINSCREEN.DISABLECONTROLLER
 msgid "Disable Controller"
 msgstr "禁用手柄"
-
-#: STRINGS.UI.MAINSCREEN.DLC_UPDATENAME
-msgid "Where There's a Wilson..."
-msgstr "威爾遜去哪了…"
 
 #: STRINGS.UI.MAINSCREEN.DST_FORGE_BETA_UPDATENAME
 msgid "The Forge Beta (v{version})"
@@ -101074,22 +101066,6 @@ msgstr "腿"
 msgid "Undo Changes"
 msgstr "撤銷更改"
 
-#: STRINGS.UI.WARDROBESCREEN.SHOW_ALL_CLOTHING
-msgid "Survivor Filter Off"
-msgstr "最適人物皮膚"
-
-#: STRINGS.UI.WARDROBESCREEN.SHOW_HERO_CLOTHING
-msgid "Survivor Filter On"
-msgstr "所有人物皮膚"
-
-#: STRINGS.UI.WARDROBESCREEN.SHOW_UNOWNEDANDOWNED_CLOTHING
-msgid "Owned Filter Off"
-msgstr "顯示已擁有"
-
-#: STRINGS.UI.WARDROBESCREEN.SHOW_UNOWNED_CLOTHING
-msgid "Owned Filter On"
-msgstr "顯示全部"
-
 #: STRINGS.UI.WARDROBESCREEN.TITLE
 msgid "Wardrobe"
 msgstr "衣櫃"
@@ -102148,7 +102124,7 @@ msgstr "我需要一些東西來建造。"
 
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Someone beat me to it."
-msgstr "有人比我先做到了。"
+msgstr "有人搶先了一步。"
 
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "Whoops! Wrong plans."
@@ -102160,7 +102136,7 @@ msgstr "這不行。"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_DESPAWN
 msgid "I can see the light!"
-msgstr "我明白了！"
+msgstr "我看到了光！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Stuff for science!"
@@ -102196,15 +102172,15 @@ msgstr "哎！它不可以放那裡！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DESPAWN
 msgid "'Tis the lights of Valhalla?"
-msgstr "這是英靈殿的燈嗎？"
+msgstr "這是英靈殿的光嗎？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Portal! Prepare to be built!"
-msgstr "入口！準備建造！"
+msgstr "傳送門！準備建造！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKIDOL
 msgid "I shall offer it to Mani!"
-msgstr "我要把它給摩尼！"
+msgstr "我要把它獻給月亮使者曼尼！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKSEED
 msgid "It hath knowledge within!"
@@ -102228,11 +102204,11 @@ msgstr "它需要完全不同的設計圖。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgid "That's the wrong part."
-msgstr "這是失敗的一部分。"
+msgstr "這是錯誤的部分。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DESPAWN
 msgid "Say, pal, I don't look so good..."
-msgstr "喂，夥計，我看起來不太好…"
+msgstr "喂，夥計，我看上去狀態不佳…"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CONSTRUCTION_PLANS
 msgid "I suppose I should build this."
@@ -102280,7 +102256,7 @@ msgstr "它看起來有點像外星人。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKSEED
 msgid "Neat, it's a ball that floats by itself!"
-msgstr "哇，這個是一個可以自己漂浮的球體！"
+msgstr "哇，一個可以自己漂起來的球！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Gosh. It's so sparkly!"
@@ -102320,7 +102296,7 @@ msgstr "它的蒼白讓我想起了阿比蓋爾。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Cold and beautiful like death."
-msgstr "凄涼的、美麗的、如死亡般。"
+msgstr "凄涼、美麗，就像死亡。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need something to build with first."
@@ -102376,7 +102352,7 @@ msgstr "它不能放那裡。"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_DESPAWN
 msgid "A burning light!"
-msgstr "一個燃著的燈！"
+msgstr "火光！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CONSTRUCTION_PLANS
 msgid "I'd rather burn things down than build them up."
@@ -102392,7 +102368,7 @@ msgstr "嗯，我不能燒掉它。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "It's made of some kind of jerk rock I can't burn."
-msgstr "它是某種我不能點燃的岩石做成的。"
+msgstr "它是由某種我不能點燃的岩石做成的。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I gotta have something to build with."
@@ -102428,7 +102404,7 @@ msgstr "我可以學習到它的一些知識。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wow. Can't even see the weld joints."
-msgstr "哇。甚至看不到焊接的痕迹。"
+msgstr "哇哦。甚至看不到焊接的痕迹。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "Wolfgang needs something to put here."
@@ -102456,7 +102432,7 @@ msgstr "如果沃爾夫岡建好了這個，它們會來的。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONROCKIDOL
 msgid "Hehe. Is funny little moon man."
-msgstr "呵呵。有趣的小月球星人。"
+msgstr "呵呵。有趣的小月球人。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONROCKSEED
 msgid "Is ball not for throwing."
@@ -102544,23 +102520,23 @@ msgstr "月岩門鑰"
 
 #: STRINGS.NAMES.MOONROCKSEED
 msgid "Celestial Orb"
-msgstr "外星天體"
+msgstr "天體靈球"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Celestial Portal"
-msgstr "太空之門"
+msgstr "天體之門"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
-msgstr "從入門到換人"
+msgstr "傳送門附件"
 
 #: STRINGS.NAMES.ROCK_MOON_CAPSULE
 msgid "Boulder"
-msgstr "巨石"
+msgstr "卵石"
 
 #: STRINGS.NAMES.ROCK_MOON_SHELL
 msgid "Boulder"
-msgstr "巨石"
+msgstr "卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
@@ -102568,7 +102544,7 @@ msgstr "一個換人道具。"
 
 #: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "The best laid plans."
-msgstr "非常棒的設計圖。"
+msgstr "非常棒的設計圖。\n從入門到換人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.birdcage_circus
 msgid "Circus freak not included."
@@ -102576,7 +102552,7 @@ msgstr "裡面不會有馬戲團的雙頭怪胎的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.featherhat_circus
 msgid "Enter the ring."
-msgstr "參加競選。"
+msgstr "登上舞臺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
 msgid "Equip this item to change your character's background portrait."
@@ -102596,7 +102572,7 @@ msgstr "使用這個物品可以改變你的人物背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
-msgstr "將你的頭像設置成一個驚人的馬戲團。"
+msgstr "將你的頭像設置成一個驚人的馬戲鳥籠。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
 msgid "Set your profile icon to an Equestrienne Headdress."
@@ -102608,7 +102584,7 @@ msgstr "將你的頭像設置成一個華麗的雨量計。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_tophat_circus
 msgid "Set your profile icon to an Amazing Ringmaster Hat."
-msgstr "將你的頭像設置成一個驚人的馴獸師帽子"
+msgstr "將你的頭像設置成一個驚人的馴獸師帽子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.rainometer_circus
 msgid "Guess the rainfall."
@@ -102620,11 +102596,11 @@ msgstr "researchlab4_tophat_circus"
 
 #: STRINGS.SKIN_DESCRIPTIONS.tophat_circus
 msgid "Come one, come all."
-msgstr "來吧，來吧。"
+msgstr "來吧，全都來吧。"
 
 #: STRINGS.SKIN_NAMES.birdcage_circus
 msgid "The Amazing Sideshow"
-msgstr "驚人的馬戲團"
+msgstr "驚人的馬戲鳥籠"
 
 #: STRINGS.SKIN_NAMES.featherhat_circus
 msgid "Equestrienne Headdress"
@@ -102632,7 +102608,7 @@ msgstr "馬戲團女騎手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "驚人的馬戲團鳥籠"
+msgstr "驚人的馬戲鳥籠"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
@@ -102648,7 +102624,7 @@ msgstr "驚人的馴獸師帽背景插圖"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
-msgstr "驚人的馬戲團頭像"
+msgstr "驚人的馬戲鳥籠頭像"
 
 #: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
 msgid "Icon of the Equestrienne Headdress"
@@ -102688,7 +102664,7 @@ msgstr "雨量計"
 
 #: STRINGS.TABS.CELESTIAL
 msgid "Celestial"
-msgstr "外星"
+msgstr "天體"
 
 #: STRINGS.THANKS_POPUP.TWITCH_DROP
 msgid "Thanks for watching Twitch"
@@ -102724,23 +102700,23 @@ msgstr "同步通知"
 
 #: STRINGS.UI.OPTIONS.CINEMATICS
 msgid "Cinematics"
-msgstr "動畫"
+msgstr "影片"
 
 #: STRINGS.UI.OPTIONS.CREDITS
 msgid "Credits"
-msgstr "信用"
+msgstr "製作人員"
 
 #: STRINGS.UI.OPTIONS.INTRO_MOVIE
 msgid "Intro Movie"
-msgstr "視頻簡介"
+msgstr "影片簡介"
 
 #: STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
 msgid "Sit back and watch a video"
-msgstr "坐著看視頻"
+msgstr "坐好看影片"
 
 #: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
 msgid "More Klei Videos"
-msgstr "更多KLEI視頻"
+msgstr "更多KLEI影片"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgid "Friendliest Friends"
@@ -102792,7 +102768,7 @@ msgstr "開"
 
 #: STRINGS.UI.WARDROBESCREEN.OWNED_FILTER_FMT
 msgid "Owned Filter: {mode}"
-msgstr "自己的篩選類型: {mode}"
+msgstr "僅顯示已擁有: {mode}"
 
 #: STRINGS.UI.WARDROBESCREEN.SORT_MODE_FMT
 msgid "Sort Mode: {mode}"
@@ -102800,11 +102776,11 @@ msgstr "排序模式: {mode}"
 
 #: STRINGS.UI.WARDROBESCREEN.SORT_NAME
 msgid "Name"
-msgstr "名字"
+msgstr "首字母"
 
 #: STRINGS.UI.WARDROBESCREEN.SORT_RARITY
 msgid "Rarity"
-msgstr "罕見的"
+msgstr "稀有度"
 
 #: STRINGS.UI.WARDROBESCREEN.SORT_RELEASE
 msgid "Release Date"
@@ -102812,5 +102788,5 @@ msgstr "發布日期"
 
 #: STRINGS.UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
 msgid "Survivor Filter: {mode}"
-msgstr "過濾掉的倖存者: {mode}"
+msgstr "最適該人物皮膚: {mode}"
 
