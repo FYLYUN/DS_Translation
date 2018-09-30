@@ -96096,7 +96096,7 @@ msgstr "重新开始"
 
 #: STRINGS.UI.MAINSCREEN.SAVE_LOCATION
 msgid "Data"
-msgstr "数据"
+msgstr "游戏数据"
 
 #: STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING
 msgid "This error may have occurred due to a mod you have enabled!\nYou have the following mods enabled:\n"
@@ -98688,7 +98688,7 @@ msgstr "提交"
 
 #: STRINGS.UI.REDEEMDIALOG.TITLE
 msgid "Enter Your Code"
-msgstr "输入你的序列号"
+msgstr "输入你的兑换码"
 
 #: STRINGS.UI.SANDBOXMENU.ADDLEVEL
 msgid "Add %s"
@@ -99787,7 +99787,7 @@ msgid "Dedicated"
 msgstr "服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER
-msgid "Dedicated"
+msgid "Dedicated Server"
 msgstr "专用服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.DESC_LOADING
@@ -102736,7 +102736,7 @@ msgstr "登入到创收项目。"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_DESC
 msgid "Transmute some codes into something useful."
-msgstr "把一些代码到一些有用的东西。"
+msgstr "把代码变成一些有用的东西"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_TITLE
 msgid "Redeem Codes"
@@ -102756,7 +102756,7 @@ msgstr "*****"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
 msgid "Toggle Server Name"
-msgstr "更换服务器名称"
+msgstr "显示\隐藏服务器名称"
 
 #: STRINGS.UI.WARDROBESCREEN.FILTER_OFF
 msgid "Off"
@@ -102790,3 +102790,6 @@ msgstr "发布日期"
 msgid "Survivor Filter: {mode}"
 msgstr "最适该人物皮肤: {mode}"
 
+#: STRINGS.ACTIONS.APPLYCONSTRUCTION
+msgid "Build"
+msgstr "建造"
