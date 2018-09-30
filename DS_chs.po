@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
+﻿#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgid "Wind"
 msgstr "风"
 
@@ -17064,7 +17064,7 @@ msgstr "女战士不应该吃这个玩意！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_DARK
 msgid "And the curtain falls."
-msgstr "然后窗帘降下."
+msgstr "然后幕布降下."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_ENTER_LIGHT
 msgid "I step into the light!"
