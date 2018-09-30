@@ -102140,7 +102140,7 @@ msgstr "我看到了光！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Stuff for science!"
-msgstr "这是科学的技术！"
+msgstr "这是科技的成果！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKIDOL
 msgid "Huh. It looks kinda like a key."
@@ -102196,7 +102196,7 @@ msgstr "我需要一些东西来建造。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "I don't like sharing."
-msgstr "我不喜欢和别人共事。"
+msgstr "我不喜欢和别人分享。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "It needs completely different plans."
@@ -102204,7 +102204,7 @@ msgstr "它需要完全不同的设计图。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgid "That's the wrong part."
-msgstr "这是错误的部分。"
+msgstr "这是错误的部件。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DESPAWN
 msgid "Say, pal, I don't look so good..."
@@ -102216,7 +102216,7 @@ msgstr "我想我应该建造这个。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKIDOL
 msgid "They always need an offering."
-msgstr "它们需要一个祭品。"
+msgstr "它们总是需要一个祭品。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKSEED
 msgid "Oooh, some new knowledge."
@@ -102300,7 +102300,7 @@ msgstr "凄凉、美丽，就像死亡。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need something to build with first."
-msgstr "我需要先建造一些东西。"
+msgstr "我需要一些东西来开始建造。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Someone's already using this."
@@ -102324,7 +102324,7 @@ msgstr "哦，我很喜欢这个样子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKIDOL
 msgid "Curious. It's rather keylike."
-msgstr "奇妙。这个很重要。"
+msgstr "奇妙。这个很关键。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKSEED
 msgid "A floating orb of knowledge."
@@ -102396,11 +102396,11 @@ msgstr "让我们开始建造吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKIDOL
 msgid "What, do I gotta offer it up to something?"
-msgstr "什么，我必须献祭这个吗？"
+msgstr "什么，我必须这个献祭到某个东西上吗？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKSEED
 msgid "I could learn a thing or two from this."
-msgstr "我可以学习到它的一些知识。"
+msgstr "我可以从中学习到一星半点。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wow. Can't even see the weld joints."
@@ -102444,7 +102444,7 @@ msgstr "像沃尔夫冈一样结实。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need to put something there."
-msgstr "我需要把东西放在那里。"
+msgstr "我需要把某个东西放在那里。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Oops, sorry. Someone's using it already."
@@ -102460,11 +102460,11 @@ msgstr "嗯，不能建在那里。"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DESPAWN
 msgid "This feels strangely familiar..."
-msgstr "这感觉似曾相识…"
+msgstr "这莫名地感觉似曾相识…"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Well, better get building."
-msgstr "嗯，可以更好的建造了。"
+msgstr "嗯，最好现在开始建造它。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKIDOL
 msgid "Looks kinda loonie."
@@ -102472,7 +102472,7 @@ msgstr "看起来有点傻。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKSEED
 msgid "I should probably put this down somewhere, eh?"
-msgstr "我应该把它放在那里呢，嗯？"
+msgstr "我大概该把它放在某个地方，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wonder where it goes."
@@ -102480,7 +102480,7 @@ msgstr "我想知道它是去哪里的。"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "ERROR: NO INPUT SELECTED"
-msgstr "错误：无法输入选项"
+msgstr "错误：未选择输入对象"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "INFERIORS ARE BUILDING IT"
@@ -102500,7 +102500,7 @@ msgstr "我看到了蓝屏！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PLANS
 msgid "UPGRADING SOFTWARE"
-msgstr "软件升级包"
+msgstr "软件升级中"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKIDOL
 msgid "PASSKEY"
@@ -102508,11 +102508,11 @@ msgstr "密钥"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKSEED
 msgid "CURRENTLY IDOL"
-msgstr "当前可以交互"
+msgstr "图腾目前闲置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "NETWORKING PORTAL"
-msgstr "网络门户网站"
+msgstr "网络入口"
 
 #: STRINGS.NAMES.MOONROCKIDOL
 msgid "Moon Rock Idol"
@@ -102724,19 +102724,19 @@ msgstr "友好的朋友们"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_DEATHS
 msgid "No surviver deaths on record."
-msgstr "无人生还的死亡记录"
+msgstr "暂无求生者的死亡记录。"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
 msgid "Play online and make some friends."
-msgstr "结交线上游戏朋友。"
+msgstr "在线游戏并结交新的朋友。"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
 msgid "Log in to starting earning items."
-msgstr "登入到创收项目。"
+msgstr "登陆后开始获取新的物品。"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_DESC
 msgid "Transmute some codes into something useful."
-msgstr "把代码变成一些有用的东西"
+msgstr "把代码变成一些有用的东西。"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_TITLE
 msgid "Redeem Codes"
