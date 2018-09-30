@@ -102756,7 +102756,7 @@ msgstr "*****"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
 msgid "Toggle Server Name"
-msgstr "更換伺服器名稱"
+msgstr "隱藏伺服器名稱"
 
 #: STRINGS.UI.WARDROBESCREEN.FILTER_OFF
 msgid "Off"
