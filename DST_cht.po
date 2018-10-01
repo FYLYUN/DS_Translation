@@ -102184,7 +102184,7 @@ msgstr "我要把它獻給月亮使者曼尼！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKSEED
 msgid "It hath knowledge within!"
-msgstr "這裡面有科學的力量！"
+msgstr "這裡面有知識！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "It hath a glow about it."
