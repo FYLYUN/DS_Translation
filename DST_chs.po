@@ -102684,7 +102684,7 @@ msgstr "解锁对象"
 
 #: STRINGS.UI.LOBBYSCREEN.TOGGLE_PORTRAIT
 msgid "Toggle Portrait"
-msgstr "切换立绘"
+msgstr "切换人物\立绘"
 
 #: STRINGS.UI.MAINSCREEN.MOTD_ALERT_DETAILS
 msgid "View Details"
