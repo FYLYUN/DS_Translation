@@ -89120,7 +89120,7 @@ msgstr "\"源自树林之中神奇的魔法.\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_rose
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
-msgstr "\"蔷薇的刺无法隐藏。这是它的本性。\""
+msgstr "\"蔷薇的刺无法隐藏。这是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
@@ -89136,11 +89136,11 @@ msgstr "\"哼。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"哇啦啦！……这是我们学的蝙蝠声音。\""
+msgstr "\"哇啦啦！……这是我们学的蝙蝠\n的声音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat_d
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"哇啦啦！……这是我们学的蝙蝠声音。\""
+msgstr "\"哇啦啦！……这是我们学的蝙蝠\n的声音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_combatant
 msgid "\"We don't want to fight if we don't have to.\""
@@ -89156,7 +89156,7 @@ msgstr "\"我们喜欢聚会！\""
 
 #: STRINGS.SKIN_QUOTES.webber_gladiator
 msgid "\"If you fight us, you will lose.\""
-msgstr "\"跟我们战斗，你永远不可能胜利。\""
+msgstr "\"跟我们战斗，你永远不能获胜。\""
 
 #: STRINGS.SKIN_QUOTES.webber_ice
 msgid "\"We love playing in the snow!\""
@@ -89164,7 +89164,7 @@ msgstr "\"我们喜欢在雪地里玩！\""
 
 #: STRINGS.SKIN_QUOTES.webber_rose
 msgid "\"The rose shelters our fur from the morning dew.\""
-msgstr "\"蔷薇可以帮我们遮蔽清晨的露水。\""
+msgstr "\"蔷薇可以帮我们遮蔽清晨的露\n水。\""
 
 #: STRINGS.SKIN_QUOTES.webber_shadow
 msgid "\"Come closer - we are hungry!\""
@@ -89184,7 +89184,7 @@ msgstr "\"阿比盖尔和我不想战斗。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_cook
 msgid "\"Every meal ends in an empty plate.\""
-msgstr "\"每顿饭最后都只剩下一个空盘子。\""
+msgstr "\"每顿饭最后都只剩下空盘子。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_formal
 msgid "\"I'll only go to the party if Abigail comes too.\""
@@ -89348,11 +89348,11 @@ msgstr "\"哇哈哈哈！\""
 
 #: STRINGS.SKIN_QUOTES.wilson_survivor
 msgid "\"There is a scientific solution, here. I know it.\""
-msgstr "\"我有一个科学的解决方案，这里。我知道。\""
+msgstr "\"我有个科学的解决方案，这里。\n我知道。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_victorian
 msgid "\"The root of all malady lies in an imbalance of the humors.\""
-msgstr "\"所有病症的根源在于没有幽默来平衡。\""
+msgstr "\"所有病症的根源在于没有幽默来\n平衡。\""
 
 #: STRINGS.SKIN_QUOTES.winona_combatant
 msgid "\"I can tough anything out.\""
@@ -89416,11 +89416,11 @@ msgstr "\"你将跪伏在强大的沃尔夫冈面\n前！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_ice
 msgid "\"Cold does not bother Wolfgang!\""
-msgstr "\"寒冷根本影响不了强壮的沃尔夫冈！\""
+msgstr "\"寒冷根本影响不了强壮的沃尔夫\n冈！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_rose
 msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
-msgstr "\"鲜艳的蔷薇让强壮的沃尔夫冈有了\n绅士的气质。\""
+msgstr "\"鲜艳的蔷薇让强壮的沃尔夫冈有\n了绅士的气质。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_shadow
 msgid "\"Do not challenge the Mighty Wolfgang!\""
@@ -89460,7 +89460,7 @@ msgstr "\"不要试图挑起一场你不能解决的\n斗争。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_nature
 msgid "\"Even the most majestic tree's gotta start as a seed.\""
-msgstr "\"纵然参天巨树亦是在籽种中萌发。\""
+msgstr "\"纵然参天巨树亦是在籽种中萌发\n的。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_rose
 msgid "\"I grow, untamed and untended.\""
@@ -89484,7 +89484,7 @@ msgstr "\"你想砍一棵树，首先得让自己变\n成一棵树。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_victorian
 msgid "\"They ain't beaver pelts, I'll tell ya that much.\""
-msgstr "\"它们不是海狸皮，我只会告诉你这么多。\""
+msgstr "\"它们不是海狸皮，我只会告诉你\n这么多。\""
 
 #: STRINGS.SKIN_QUOTES.wx78_combatant
 msgid "\"THIS UNIT IS BATTLE READY\""
@@ -96096,7 +96096,7 @@ msgstr "重新开始"
 
 #: STRINGS.UI.MAINSCREEN.SAVE_LOCATION
 msgid "Data"
-msgstr "数据"
+msgstr "游戏数据"
 
 #: STRINGS.UI.MAINSCREEN.SCRIPTERRORMODWARNING
 msgid "This error may have occurred due to a mod you have enabled!\nYou have the following mods enabled:\n"
@@ -98688,7 +98688,7 @@ msgstr "提交"
 
 #: STRINGS.UI.REDEEMDIALOG.TITLE
 msgid "Enter Your Code"
-msgstr "输入你的序列号"
+msgstr "输入你的兑换码"
 
 #: STRINGS.UI.SANDBOXMENU.ADDLEVEL
 msgid "Add %s"
@@ -99787,7 +99787,7 @@ msgid "Dedicated"
 msgstr "服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.DEDICATED_ICON_HOVER
-msgid "Dedicated"
+msgid "Dedicated Server"
 msgstr "专用服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.DESC_LOADING
@@ -102140,7 +102140,7 @@ msgstr "我看到了光！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Stuff for science!"
-msgstr "这是科学的技术！"
+msgstr "这是科技的成果！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKIDOL
 msgid "Huh. It looks kinda like a key."
@@ -102196,7 +102196,7 @@ msgstr "我需要一些东西来建造。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "I don't like sharing."
-msgstr "我不喜欢和别人共事。"
+msgstr "我不喜欢和别人分享。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.MISMATCH
 msgid "It needs completely different plans."
@@ -102204,7 +102204,7 @@ msgstr "它需要完全不同的设计图。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.CONSTRUCT.NOTALLOWED
 msgid "That's the wrong part."
-msgstr "这是错误的部分。"
+msgstr "这是错误的部件。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_DESPAWN
 msgid "Say, pal, I don't look so good..."
@@ -102216,7 +102216,7 @@ msgstr "我想我应该建造这个。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKIDOL
 msgid "They always need an offering."
-msgstr "它们需要一个祭品。"
+msgstr "它们总是需要一个祭品。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MOONROCKSEED
 msgid "Oooh, some new knowledge."
@@ -102300,7 +102300,7 @@ msgstr "凄凉、美丽，就像死亡。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need something to build with first."
-msgstr "我需要先建造一些东西。"
+msgstr "我需要一些东西来开始建造。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Someone's already using this."
@@ -102324,7 +102324,7 @@ msgstr "哦，我很喜欢这个样子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKIDOL
 msgid "Curious. It's rather keylike."
-msgstr "奇妙。这个很重要。"
+msgstr "奇妙。这个很关键。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKSEED
 msgid "A floating orb of knowledge."
@@ -102396,11 +102396,11 @@ msgstr "让我们开始建造吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKIDOL
 msgid "What, do I gotta offer it up to something?"
-msgstr "什么，我必须献祭这个吗？"
+msgstr "什么，我必须这个献祭到某个东西上吗？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKSEED
 msgid "I could learn a thing or two from this."
-msgstr "我可以学习到它的一些知识。"
+msgstr "我可以从中学习到一星半点。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wow. Can't even see the weld joints."
@@ -102444,7 +102444,7 @@ msgstr "像沃尔夫冈一样结实。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need to put something there."
-msgstr "我需要把东西放在那里。"
+msgstr "我需要把某个东西放在那里。"
 
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "Oops, sorry. Someone's using it already."
@@ -102460,11 +102460,11 @@ msgstr "嗯，不能建在那里。"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_DESPAWN
 msgid "This feels strangely familiar..."
-msgstr "这感觉似曾相识…"
+msgstr "这莫名地感觉似曾相识…"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.CONSTRUCTION_PLANS
 msgid "Well, better get building."
-msgstr "嗯，可以更好的建造了。"
+msgstr "嗯，最好现在开始建造它。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKIDOL
 msgid "Looks kinda loonie."
@@ -102472,7 +102472,7 @@ msgstr "看起来有点傻。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKSEED
 msgid "I should probably put this down somewhere, eh?"
-msgstr "我应该把它放在那里呢，嗯？"
+msgstr "我大概该把它放在某个地方，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Wonder where it goes."
@@ -102480,7 +102480,7 @@ msgstr "我想知道它是去哪里的。"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "ERROR: NO INPUT SELECTED"
-msgstr "错误：无法输入选项"
+msgstr "错误：未选择输入对象"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.CONSTRUCT.INUSE
 msgid "INFERIORS ARE BUILDING IT"
@@ -102500,7 +102500,7 @@ msgstr "我看到了蓝屏！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PLANS
 msgid "UPGRADING SOFTWARE"
-msgstr "软件升级包"
+msgstr "软件升级中"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKIDOL
 msgid "PASSKEY"
@@ -102508,15 +102508,15 @@ msgstr "密钥"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKSEED
 msgid "CURRENTLY IDOL"
-msgstr "当前可以交互"
+msgstr "图腾目前闲置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "NETWORKING PORTAL"
-msgstr "网络门户网站"
+msgstr "网络入口"
 
 #: STRINGS.NAMES.MOONROCKIDOL
 msgid "Moon Rock Idol"
-msgstr "月岩门钥"
+msgstr "月岩图腾"
 
 #: STRINGS.NAMES.MOONROCKSEED
 msgid "Celestial Orb"
@@ -102540,7 +102540,7 @@ msgstr "卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
-msgstr "一个关键角色。"
+msgstr "一个交换角色的道具。"
 
 #: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "The best laid plans."
@@ -102572,7 +102572,7 @@ msgstr "使用这个物品可以改变你的人物背景插图。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
-msgstr "将你的头像设置为一个惊人的马戏鸟笼。"
+msgstr "将你的头像设置为一个惊人的马戏团鸟笼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
 msgid "Set your profile icon to an Equestrienne Headdress."
@@ -102608,7 +102608,7 @@ msgstr "马戏团女骑手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "惊人的马戏鸟笼"
+msgstr "惊人的马戏团鸟笼"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
@@ -102684,7 +102684,7 @@ msgstr "解锁对象"
 
 #: STRINGS.UI.LOBBYSCREEN.TOGGLE_PORTRAIT
 msgid "Toggle Portrait"
-msgstr "切换背景"
+msgstr "切换人物\立绘"
 
 #: STRINGS.UI.MAINSCREEN.MOTD_ALERT_DETAILS
 msgid "View Details"
@@ -102700,7 +102700,7 @@ msgstr "同步通知"
 
 #: STRINGS.UI.OPTIONS.CINEMATICS
 msgid "Cinematics"
-msgstr "动画"
+msgstr "影片"
 
 #: STRINGS.UI.OPTIONS.CREDITS
 msgid "Credits"
@@ -102708,15 +102708,15 @@ msgstr "制作人员"
 
 #: STRINGS.UI.OPTIONS.INTRO_MOVIE
 msgid "Intro Movie"
-msgstr "视频简介"
+msgstr "影片简介"
 
 #: STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
 msgid "Sit back and watch a video"
-msgstr "坐好看视频"
+msgstr "坐好看影片"
 
 #: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
 msgid "More Klei Videos"
-msgstr "更多KLEI视频"
+msgstr "更多KLEI影片"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgid "Friendliest Friends"
@@ -102724,19 +102724,19 @@ msgstr "友好的朋友们"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_DEATHS
 msgid "No surviver deaths on record."
-msgstr "无人生还的死亡记录"
+msgstr "暂无求生者的死亡记录。"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_FRIENDS
 msgid "Play online and make some friends."
-msgstr "结交线上游戏朋友。"
+msgstr "在线游戏并结交新的朋友。"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
 msgid "Log in to starting earning items."
-msgstr "登入到创收项目。"
+msgstr "登陆后开始获取新的物品。"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_DESC
 msgid "Transmute some codes into something useful."
-msgstr "把一些代码到一些有用的东西。"
+msgstr "把代码变成一些有用的东西。"
 
 #: STRINGS.UI.REDEEMDIALOG.MENU_BUTTON_TITLE
 msgid "Redeem Codes"
@@ -102756,7 +102756,7 @@ msgstr "*****"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.TOGGLE_SERVER_NAME
 msgid "Toggle Server Name"
-msgstr "隐藏服务器名称"
+msgstr "显示\隐藏服务器名称"
 
 #: STRINGS.UI.WARDROBESCREEN.FILTER_OFF
 msgid "Off"
@@ -102790,3 +102790,6 @@ msgstr "发布日期"
 msgid "Survivor Filter: {mode}"
 msgstr "最适该人物皮肤: {mode}"
 
+#: STRINGS.ACTIONS.APPLYCONSTRUCTION
+msgid "Build"
+msgstr "建造"
