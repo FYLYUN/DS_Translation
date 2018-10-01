@@ -89120,7 +89120,7 @@ msgstr "\"源自樹林之中神奇的魔法.\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_rose
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
-msgstr "\"薔薇的刺無法隱藏。這是它的本性。\""
+msgstr "\"薔薇的刺無法隱藏。這是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
@@ -89136,11 +89136,11 @@ msgstr "\"哼。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"哇啦啦！……這是我們學的蝙蝠聲音。\""
+msgstr "\"哇啦啦！……這是我們學的蝙蝠\n的聲音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_bat_d
 msgid "\"Raaar! ...That's our bat noise.\""
-msgstr "\"哇啦啦！……這是我們學的蝙蝠聲音。\""
+msgstr "\"哇啦啦！……這是我們學的蝙蝠\n的聲音。\""
 
 #: STRINGS.SKIN_QUOTES.webber_combatant
 msgid "\"We don't want to fight if we don't have to.\""
@@ -89156,7 +89156,7 @@ msgstr "\"我們喜歡聚會！\""
 
 #: STRINGS.SKIN_QUOTES.webber_gladiator
 msgid "\"If you fight us, you will lose.\""
-msgstr "\"跟我們戰鬥，你永遠不可能勝利。\""
+msgstr "\"跟我們戰鬥，你永遠不能獲勝。\""
 
 #: STRINGS.SKIN_QUOTES.webber_ice
 msgid "\"We love playing in the snow!\""
@@ -89164,7 +89164,7 @@ msgstr "\"我們喜歡在雪地里玩！\""
 
 #: STRINGS.SKIN_QUOTES.webber_rose
 msgid "\"The rose shelters our fur from the morning dew.\""
-msgstr "\"薔薇可以幫我們遮蔽清晨的露水。\""
+msgstr "\"薔薇可以幫我們遮蔽清晨的露\n水。\""
 
 #: STRINGS.SKIN_QUOTES.webber_shadow
 msgid "\"Come closer - we are hungry!\""
@@ -89184,7 +89184,7 @@ msgstr "\"阿比蓋爾和我不想戰鬥。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_cook
 msgid "\"Every meal ends in an empty plate.\""
-msgstr "\"每頓飯最後都只剩下一個空盤子。\""
+msgstr "\"每頓飯最後都只剩下空盤子。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_formal
 msgid "\"I'll only go to the party if Abigail comes too.\""
@@ -89276,7 +89276,7 @@ msgstr "\"我做的食物總是焦到恰到好處！\""
 
 #: STRINGS.SKIN_QUOTES.willow_dragonfly
 msgid "\"Woah, I'm smokin'! (No, really!)\""
-msgstr "\"啊，我著火了！\n（我説真的！）\""
+msgstr "\"啊，我著火了！\n（我說真的！）\""
 
 #: STRINGS.SKIN_QUOTES.willow_dragonfly_d
 msgid "\"Woah, I'm smokin'! (No, really!)\""
@@ -89348,11 +89348,11 @@ msgstr "\"哇哈哈哈！\""
 
 #: STRINGS.SKIN_QUOTES.wilson_survivor
 msgid "\"There is a scientific solution, here. I know it.\""
-msgstr "\"我有一個科學的解決方案，這裡。我知道。\""
+msgstr "\"我有個科學的解決方案，這裡。\n我知道。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_victorian
 msgid "\"The root of all malady lies in an imbalance of the humors.\""
-msgstr "\"所有病症的根源在於沒有幽默來平衡。\""
+msgstr "\"所有病症的根源在於沒有幽默來\n平衡。\""
 
 #: STRINGS.SKIN_QUOTES.winona_combatant
 msgid "\"I can tough anything out.\""
@@ -89416,11 +89416,11 @@ msgstr "\"你將跪伏在強大的沃爾夫岡面\n前！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_ice
 msgid "\"Cold does not bother Wolfgang!\""
-msgstr "\"寒冷根本影響不了強壯的沃爾夫岡！\""
+msgstr "\"寒冷根本影響不了強壯的沃爾夫\n岡！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_rose
 msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
-msgstr "\"鮮艷的薔薇讓強壯的沃爾夫岡有了\n紳士的氣質。\""
+msgstr "\"鮮艷的薔薇讓強壯的沃爾夫岡有\n了紳士的氣質。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_shadow
 msgid "\"Do not challenge the Mighty Wolfgang!\""
@@ -89460,7 +89460,7 @@ msgstr "\"不要試圖挑起一場你不能解決的\n鬥爭。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_nature
 msgid "\"Even the most majestic tree's gotta start as a seed.\""
-msgstr "\"縱然參天巨樹亦是在籽種中萌發。\""
+msgstr "\"縱然參天巨樹亦是在籽種中萌發\n的。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_rose
 msgid "\"I grow, untamed and untended.\""
@@ -89484,7 +89484,7 @@ msgstr "\"你想砍一棵樹，首先得讓自己變\n成一棵樹。\""
 
 #: STRINGS.SKIN_QUOTES.woodie_victorian
 msgid "\"They ain't beaver pelts, I'll tell ya that much.\""
-msgstr "\"它們不是海狸皮，我只會告訴你這麼多。\""
+msgstr "\"它們不是海狸皮，我只會告訴你\n這麼多。\""
 
 #: STRINGS.SKIN_QUOTES.wx78_combatant
 msgid "\"THIS UNIT IS BATTLE READY\""
@@ -102684,7 +102684,7 @@ msgstr "解鎖對象"
 
 #: STRINGS.UI.LOBBYSCREEN.TOGGLE_PORTRAIT
 msgid "Toggle Portrait"
-msgstr "切換背景"
+msgstr "切換立繪"
 
 #: STRINGS.UI.MAINSCREEN.MOTD_ALERT_DETAILS
 msgid "View Details"
