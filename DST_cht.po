@@ -102516,7 +102516,7 @@ msgstr "網路門戶網站"
 
 #: STRINGS.NAMES.MOONROCKIDOL
 msgid "Moon Rock Idol"
-msgstr "月岩門鑰"
+msgstr "月巖圖騰"
 
 #: STRINGS.NAMES.MOONROCKSEED
 msgid "Celestial Orb"
@@ -102540,7 +102540,7 @@ msgstr "卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
-msgstr "一個關鍵角色。"
+msgstr "壹個交換角色的道具。"
 
 #: STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "The best laid plans."
