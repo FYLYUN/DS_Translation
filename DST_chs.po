@@ -32104,15 +32104,15 @@ msgstr "总有一天我们会再见面"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.GENERIC
 msgid "A creature of the night!"
-msgstr "夜行生物"
+msgstr "夜行生物。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
 msgid "Evil is sleeping."
-msgstr "魔鬼睡着了"
+msgstr "魔鬼睡着了！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERDEN
 msgid "A nest of filth and villainy."
-msgstr "一窝肮脏又邪恶的东西。"
+msgstr "污秽与罪恶的巢穴。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDEREGGSACK
 msgid "A tiny package full of death and destruction."
@@ -85380,7 +85380,7 @@ msgstr "作为一个科学家，威尔逊这些研究自然世界的装备挺精
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_victorian
 msgid "Wilson is a major advocate of the health benefits of leeches."
-msgstr "威尔逊是吸血之健康益处的主要倡导者。"
+msgstr "威尔逊是吸血水蛭有益健康的主要倡导者。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_combatant
 msgid "Winona came ready for a fight!"
@@ -89340,7 +89340,7 @@ msgstr "\"我确信我能给出一个科学合理的\n解释。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_rose
 msgid "\"Perhaps I'll retire to a life of rose breeding.\""
-msgstr "\"也许我退休后会过上种蔷薇的生活。\""
+msgstr "\"也许我在退休以后会过上栽培蔷\n薇的生活。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_shadow
 msgid "\"Mwahahaha!\""
@@ -102184,7 +102184,7 @@ msgstr "我要把它献给月亮使者曼尼！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKSEED
 msgid "It hath knowledge within!"
-msgstr "这里面有科学的力量！"
+msgstr "这里面有知识！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "It hath a glow about it."
@@ -102396,7 +102396,7 @@ msgstr "让我们开始建造吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKIDOL
 msgid "What, do I gotta offer it up to something?"
-msgstr "什么，我必须这个献祭到某个东西上吗？"
+msgstr "什么，我必须把它献祭到某个东西上吗？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKSEED
 msgid "I could learn a thing or two from this."
@@ -102500,7 +102500,7 @@ msgstr "我看到了蓝屏！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CONSTRUCTION_PLANS
 msgid "UPGRADING SOFTWARE"
-msgstr "软件升级中"
+msgstr "软件升级包"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKIDOL
 msgid "PASSKEY"
@@ -102508,7 +102508,7 @@ msgstr "密钥"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONROCKSEED
 msgid "CURRENTLY IDOL"
-msgstr "图腾目前闲置"
+msgstr "当前可交互"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MULTIPLAYER_PORTAL_MOONROCK
 msgid "NETWORKING PORTAL"
@@ -102600,7 +102600,7 @@ msgstr "来吧，全都来吧。"
 
 #: STRINGS.SKIN_NAMES.birdcage_circus
 msgid "The Amazing Sideshow"
-msgstr "惊人的马戏鸟笼"
+msgstr "惊人的马戏团鸟笼"
 
 #: STRINGS.SKIN_NAMES.featherhat_circus
 msgid "Equestrienne Headdress"
@@ -102624,7 +102624,7 @@ msgstr "惊人的驯兽师帽背景插图"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
-msgstr "惊人的马戏鸟笼头像"
+msgstr "惊人的马戏团鸟笼头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
 msgid "Icon of the Equestrienne Headdress"
@@ -102700,7 +102700,7 @@ msgstr "同步通知"
 
 #: STRINGS.UI.OPTIONS.CINEMATICS
 msgid "Cinematics"
-msgstr "影片"
+msgstr "视频"
 
 #: STRINGS.UI.OPTIONS.CREDITS
 msgid "Credits"
@@ -102708,15 +102708,15 @@ msgstr "制作人员"
 
 #: STRINGS.UI.OPTIONS.INTRO_MOVIE
 msgid "Intro Movie"
-msgstr "影片简介"
+msgstr "游戏背景视频"
 
 #: STRINGS.UI.OPTIONS.TOOLTIP_CINEMATICS
 msgid "Sit back and watch a video"
-msgstr "坐好看影片"
+msgstr "坐好看视频"
 
 #: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
 msgid "More Klei Videos"
-msgstr "更多KLEI影片"
+msgstr "更多KLEI视频"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgid "Friendliest Friends"
