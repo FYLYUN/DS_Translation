@@ -37052,7 +37052,7 @@ msgstr "我应该带它离开痛苦."
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEAR
 msgid "I have become the destroyer of worlds."
-msgstr "我变成了世界破坏者"
+msgstr "我变成了诸世的毁灭者."
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPEARGUN
 msgid "It deals death from a distance!"
@@ -37084,11 +37084,11 @@ msgstr "总有一天我们会再见面"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.GENERIC
 msgid "A creature of the night!"
-msgstr "夜行生物"
+msgstr "夜行生物."
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
 msgid "Evil is sleeping."
-msgstr "魔鬼睡着了"
+msgstr "魔鬼睡着了."
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDERDEN
 msgid "A nest of filth and villainy."
