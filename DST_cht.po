@@ -244,7 +244,7 @@ msgstr "設置陷阱"
 
 #: STRINGS.ACTIONS.DRY
 msgid "Dry"
-msgstr "乾燥"
+msgstr "晾曬"
 
 #: STRINGS.ACTIONS.EAT
 msgid "Eat"
@@ -448,7 +448,7 @@ msgstr "讀"
 
 #: STRINGS.ACTIONS.REEL.CANCEL
 msgid "Stop Fishing"
-msgstr "停止捕魚"
+msgstr "停止釣魚"
 
 #: STRINGS.ACTIONS.REEL.GENERIC
 msgid "Hook"
@@ -536,15 +536,15 @@ msgstr "輕輕地剔除內臟"
 
 #: STRINGS.ACTIONS.SLAUGHTER.KILL
 msgid "Delicately Kill"
-msgstr "靈巧的殺害"
+msgstr "靈巧地殺害"
 
 #: STRINGS.ACTIONS.SLAUGHTER.MURDER
 msgid "Tastefully Murder"
-msgstr "高雅的殺害"
+msgstr "高雅地謀殺"
 
 #: STRINGS.ACTIONS.SLAUGHTER.SLAUGHTER
 msgid "Gingerly Slaughter"
-msgstr "小心翼翼地殺害"
+msgstr "小心翼翼地屠宰"
 
 #: STRINGS.ACTIONS.SLEEPIN
 msgid "Sleep"
@@ -9756,7 +9756,7 @@ msgstr "啊，龍！我們可算碰面了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRAGONFLYCHEST
 msgid "This chest is worthy of my weapons."
-msgstr "這箱子有資格成為我的武器。"
+msgstr "這箱子有資格放置我的武器。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRAGONFLYFURNACE.GENERIC
 msgid "It retains the heat of the fallen beast."
@@ -15052,11 +15052,11 @@ msgstr "一點粉末，有毀滅的味道"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_EYE_BONE
 msgid "Don't worry. There will be more Chesters."
-msgstr "別擔心，還會有更多的切斯特的人的"
+msgstr "別擔心，還會有更多的切斯特的"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgid "There's always another Glommer."
-msgstr "格羅姆真是一個接一個的。"
+msgstr "總會有另一個格羅姆的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_THINGIE
 msgid "My trip through the portal made it unrecognizable."
@@ -15100,7 +15100,7 @@ msgstr "難以置信我已經忘了如何閱讀這個。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgid "A picture of the city, before the fuel."
-msgstr "一幅燃燒到來前的城市的畫。"
+msgstr "一幅城市的畫，在燃料到來之前。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ATRIUM_RUBBLE.LINE_2
 msgid "We all know what happens next."
@@ -45796,7 +45796,7 @@ msgstr "燒掉生病的！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TWIGGYTREE.GENERIC
 msgid "How are you supposed to get the sticks from up there??"
-msgstr "你應該怎麼得到那上面的樹？？"
+msgstr "你應該怎麼得到那上面的樹枝？？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TWIGGY_NUT
 msgid "Looks like campfire fuel to me!"
@@ -84052,15 +84052,15 @@ msgstr "這項命令完全迷惑了你。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
 msgid "This chest contains\n4x curios."
-msgstr "這個箱子內含4件\n珍寶。"
+msgstr "這個箱子包含4件\n珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_ice_4
 msgid "This chest contains 4x\nWinter's Feast curios."
-msgstr "這個箱子內含4件\n冬季盛宴的珍寶。"
+msgstr "這個箱子包含4件\n冬季盛宴的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_lava_4
 msgid "This chest contains 4x\nForge Event curios."
-msgstr "這個箱子包含4件\n熔爐的珍寶。"
+msgstr "這個箱子包含4件\n熔爐事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
 msgid "This chest contains 4x\nYear of the Varg curios."
@@ -84068,7 +84068,7 @@ msgstr "這個箱子包含4件\n座狼迎新的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_victorian_4
 msgid "This chest contains 4x\nGorge Event curios."
-msgstr "這個箱子裝有4x\n暴食事件珍品。"
+msgstr "這個箱子包含4件\n暴食事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.none
 msgid "Your usual look."
@@ -84076,123 +84076,123 @@ msgstr "你平時的樣子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.orangestaff_ancient
 msgid "orangestaff_ancient"
-msgstr "古老的橙色法杖"
+msgstr "orangestaff_ancient"
 
 #: STRINGS.SKIN_DESCRIPTIONS.orangestaff_victorian
 msgid "orangestaff_victorian"
-msgstr "橙法杖_維多利亞"
+msgstr "orangestaff_victorian"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
 msgid "This Forge Chest contains every survivor's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含每個倖存者的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含每個倖存者的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
 msgid "This Forge Chest contains Wigfrid's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含薇格弗德的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含薇格弗德的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
 msgid "This Forge Chest contains Maxwell's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含麥斯威爾的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含麥斯威爾的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber
 msgid "This Forge Chest contains Webber's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含韋伯的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含韋伯的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy
 msgid "This Forge Chest contains Wendy's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含溫蒂的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含溫蒂的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes
 msgid "This Forge Chest contains Wes' complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含韋斯的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含韋斯的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
 msgid "This Forge Chest contains Wickerbottom's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含維克波頓的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含維克波頓的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
 msgid "This Forge Chest contains Willow's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含薇洛的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含薇洛的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
 msgid "This Forge Chest contains Wilson's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含威爾遜的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含威爾遜的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
 msgid "This Forge Chest contains Winona's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含薇諾娜的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含薇諾娜的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang
 msgid "This Forge Chest contains Wolfgang's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含沃爾夫岡的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含沃爾夫岡的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
 msgid "This Forge Chest contains Woodie's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含伍迪的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含伍迪的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
 msgid "This Forge Chest contains WX-78's complete set of Gladiator skin items."
-msgstr "這個熔爐寶箱包含機器人的全套角鬥士皮膚物品。"
+msgstr "這個熔爐寶箱包含機器人的全套角鬥士系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_heart_you
 msgid "This Beating Heart Chest contains all Valentine's event skin items."
-msgstr "這個悸動之心寶箱包含完整的情人節活動皮膚物品。"
+msgstr "這個悸動之心寶箱包含完整的情人節活動系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_all
 msgid "This Feast Chest contains the complete Snowfallen series. Contains skins for: Wilson, Willow, Wolfgang, Wendy, Webber, and Wickerbottom."
-msgstr "這個盛宴寶箱包含完整的落雪系列皮膚物品。包括：威爾遜、薇洛、沃爾夫岡、溫蒂、韋伯和維克波頓。"
+msgstr "這個盛宴寶箱包含完整的落雪系列皮膚。包括：威爾遜、薇洛、沃爾夫岡、溫蒂、韋伯和維克波頓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_webber
 msgid "This Feast Chest contains Webber's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n韋伯的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n韋伯的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_wendy
 msgid "This Feast Chest contains Wendy's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n溫蒂的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n溫蒂的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_wickerbottom
 msgid "This Feast Chest contains Wickerbottom's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n維克波頓的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n維克波頓的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_willow
 msgid "This Feast Chest contains Willow's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n薇洛的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n薇洛的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_wilson
 msgid "This Feast Chest contains Wilson's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n威爾遜的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n威爾遜的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_ice_wolfgang
 msgid "This Feast Chest contains Wolfgang's complete set of Snowfallen skin items."
-msgstr "這個盛宴寶箱包含\n沃爾夫岡的全套落雪皮膚物品。"
+msgstr "這個盛宴寶箱包含\n沃爾夫岡的全套落雪系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_all
 msgid "This Spring Chest contains the complete Verdant series. Contains skins for: Maxwell, Wigfrid, Woodie, Wes, Winona, and WX-78."
-msgstr "這個熙春寶箱包含完整的熙春系列皮膚物品。包括：麥斯威爾、薇格弗德、伍迪、韋斯、薇諾娜和WX-78。"
+msgstr "這個熙春寶箱包含完整的熙春系列皮膚。包括：麥斯威爾、薇格弗德、伍迪、韋斯、薇諾娜和WX-78。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wathgrithr
 msgid "This Spring Chest contains Wigfrid's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n薇格弗德的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\n薇格弗德的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_waxwell
 msgid "This Spring Chest contains Maxwell's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n麥斯威爾的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\n麥斯威爾的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
 msgid "This Spring Chest contains Wes's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n韋斯的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\n韋斯的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_winona
 msgid "This Spring Chest contains Winona's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n薇諾娜的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\n薇諾娜的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_woodie
 msgid "This Spring Chest contains Woodie's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n伍迪的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\n伍迪的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wx78
 msgid "This Spring Chest contains WX-78's complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\nWX-78的全套熙春皮膚物品。"
+msgstr "這個熙春寶箱包含\nWX-78的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
 msgid "Don't Starve Reign of Giants Gift"
@@ -84204,11 +84204,11 @@ msgstr "饑荒：失落之船的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_all
 msgid "This Gorge Chest contains every survivor's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了所有人的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含每個倖存者的維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle
 msgid "This Gorge Chest contains every survivor's complete set of Victorian skin items and all Victorian belongings skin items."
-msgstr "這個暴食寶箱包含了所有維多利亞系列人物皮膚和所有維多利亞系列物品皮膚。"
+msgstr "這個暴食寶箱包含了每個倖存者的維多利亞系列皮膚和所有維多利亞系列物品皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items
 msgid "This Gorge Chest contains all Victorian belongings skin items."
@@ -84484,63 +84484,63 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
-msgstr "將您的頭像設置為阿比蓋爾的花。\n\n它是溫蒂對姐姐唯一的紀念。"
+msgstr "將你的頭像設置為阿比蓋爾的花。\n\n它是溫蒂對姐姐唯一的紀念。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_babybeefalo
 msgid "Set your profile icon to a baby beefalo."
-msgstr "將您的頭像設置為小皮弗婁牛。"
+msgstr "將你的頭像設置為小皮弗婁牛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bat_furled
 msgid "Set your profile icon to a furled up batilisk."
-msgstr "將您的頭像設置為不悅的蝙蝠。"
+msgstr "將你的頭像設置為不悅的蝙蝠。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bearger_roar
 msgid "Set your profile icon to an angry bearger."
-msgstr "將您的頭像設置為咆哮的熊獾。"
+msgstr "將你的頭像設置為咆哮的熊獾。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_beefalo
 msgid "Set your profile icon to a big beefalo."
-msgstr "將您的頭像設置為皮弗婁牛。"
+msgstr "將你的頭像設置為皮弗婁牛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bernie
 msgid "Set your profile icon to Bernie the Bear.\n\nBernie's never abandoned Willow, and she plans to always return the favor."
-msgstr "將您的頭像設置為小熊伯尼。\n\n伯尼永遠不會拋棄薇洛，它只是一直在等待。"
+msgstr "將你的頭像設置為小熊伯尼。\n\n伯尼永遠不會拋棄薇洛，它只是一直在等待。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
 msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Shadow Throne."
-msgstr "將您的頭像設置為發條主教。\n\n麥斯威爾在他統治時期製造了許多發條主教。"
+msgstr "將你的頭像設置為發條主教。\n\n麥斯威爾在他統治時期製造了許多發條主教。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_catcoon
 msgid "Set your profile icon to a cute catcoon."
-msgstr "將您的頭像設置為一隻可愛的浣貓。"
+msgstr "將你的頭像設置為一隻可愛的浣貓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_chester
 msgid "Set your profile icon to a Chester.\n\nChester is survivor's best friend."
-msgstr "將您的頭像設置為切斯特。\n\n切斯特是倖存者的好夥伴。"
+msgstr "將你的頭像設置為切斯特。\n\n切斯特是倖存者的好夥伴。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_clayhound
 msgid "Set your profile icon to a celebratory Clay Hound.\nHappy Year of the Varg!"
-msgstr "將你的個人圖標設置成黏土獵犬。\n座狼之年快樂！"
+msgstr "將你的頭像設置成黏土獵犬。\n座狼之年快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_claywarg
 msgid "Set your profile icon to a celebratory Clay Varg.\nHappy Year of the Varg!"
-msgstr "將您的頭像設置為黏土座狼。\n座狼之年快樂！"
+msgstr "將你的頭像設置為黏土座狼。\n座狼之年快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_crow
 msgid "Set your profile icon to a crow."
-msgstr "將您的頭像設置為烏鴉。"
+msgstr "將你的頭像設置為烏鴉。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_cupcake
 msgid "Set your profile icon to a tasty cupcake."
-msgstr "將您的頭像設置為美味的奶油鬆餅。"
+msgstr "將你的頭像設置為美味的奶油鬆餅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_deerclops
 msgid "Set your profile icon to a furious Deerclops."
-msgstr "將您的頭像設置為獨眼巨鹿。"
+msgstr "將你的頭像設置為獨眼巨鹿。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfly_sleeping
 msgid "Set your profile icon to a sleepy Dragonfly."
-msgstr "將您的頭像設置為沉睡的龍蠅。"
+msgstr "將你的頭像設置為沉睡的龍蠅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfruit
 msgid "Set your profile icon to a tasty dragon fruit."
@@ -84548,131 +84548,131 @@ msgstr "將你的簡介圖標置為美味的火龍果。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
 msgid "Set your profile icon to a delectable berry tart."
-msgstr "將您的頭像設置為一個美味的漿果撻。"
+msgstr "將你的頭像設置為一個美味的漿果撻。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_carrotcake
 msgid "Set your profile icon to a yummy carrot cake."
-msgstr "將您的頭像設置為一個好吃的胡蘿蔔蛋糕。"
+msgstr "將你的頭像設置為一個好吃的胡蘿蔔蛋糕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_cheeseburger
 msgid "Set your profile icon to a greasy cheeseburger."
-msgstr "將您的頭像設置為一個油膩的芝士牛肉堡。"
+msgstr "將你的頭像設置為一個油膩的芝士牛肉堡。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_cheesecake
 msgid "Set your profile icon to an irresistible cheesecake."
-msgstr "將您的頭像設置為一個誘人的芝士蛋糕。"
+msgstr "將你的頭像設置為一個誘人的芝士蛋糕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_crabcake
 msgid "Set your profile icon to a delectable crab cake."
-msgstr "將您的頭像設置為一張美味的蟹肉餅。"
+msgstr "將你的頭像設置為一張美味的蟹肉餅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_crabroll
 msgid "Set your profile icon to a delectable crab roll."
-msgstr "將您的頭像設置為一個美味的蟹肉卷。"
+msgstr "將你的頭像設置為一個美味的蟹肉卷。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_croquette
 msgid "Set your profile icon to a dainty croquette."
-msgstr "將您的頭像設置為一張精緻的油炸餅。"
+msgstr "將你的頭像設置為一張精緻的油炸餅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_fishpie
 msgid "Set your profile icon to a hearty fish pie."
-msgstr "將您的頭像設置為一個豐盛的魚肉餡餅。"
+msgstr "將你的頭像設置為一個豐盛的魚肉餡餅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_grilledcheese
 msgid "Set your profile icon to a perfectly grilled cheese."
-msgstr "將您的頭像設置為一個完美的烤芝士三明治"
+msgstr "將你的頭像設置為一個完美的烤芝士三明治。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_jellyroll
 msgid "Set your profile icon to a sugary jelly roll."
-msgstr "將您的頭像設置為一個甜蜜的果醬卷。"
+msgstr "將你的頭像設置為一個甜蜜的果醬卷。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_meatpie
 msgid "Set your profile icon to a hearty meat pie."
-msgstr "將您的頭像設置為一塊豐盛的肉餅"
+msgstr "將你的頭像設置為一塊豐盛的肉餅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_pizza
 msgid "Set your profile icon to a cheesy pizza."
-msgstr "將您的頭像設置為一個美味的芝士披薩"
+msgstr "將你的頭像設置為一個美味的芝士披薩。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_potroast
 msgid "Set your profile icon to a tender pot roast."
-msgstr "將您的頭像設置為一塊鮮嫩的西式燉牛肉"
+msgstr "將你的頭像設置為一塊鮮嫩的西式燉牛肉。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_pudding
 msgid "Set your profile icon to a perfect pudding."
-msgstr "將您的頭像設置為一個完美的布丁"
+msgstr "將你的頭像設置為一個完美的布丁。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_roastedveggies
 msgid "Set your profile icon to some healthy roast veggies."
-msgstr "將您的頭像設置為一些健康的烤蔬菜"
+msgstr "將你的頭像設置為一些健康的烤蔬菜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_spaghettiandmeatballs
 msgid "Set your profile icon to spaghetti and a single meatball."
-msgstr "將您的頭像設置為意式肉丸面"
+msgstr "將你的頭像設置為意式肉丸面。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_steakfrites
 msgid "Set your profile icon to some yummy steak frites."
-msgstr "將您的頭像設置為一些好吃的牛排薯條"
+msgstr "將你的頭像設置為一些好吃的牛排薯條。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_stuffedmushroom
 msgid "Set your profile icon to a stuffed mushroom."
-msgstr "將您的頭像設置為一個素瓤蘑菇"
+msgstr "將你的頭像設置為一個素瓤蘑菇。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_trifle
 msgid "Set your profile icon to a tasty trifle desert."
-msgstr "將您的頭像設置為一個可口的查佛蛋糕"
+msgstr "將你的頭像設置為一個可口的查佛蛋糕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_turnipcake
 msgid "Set your profile icon to a yummy turnip cake."
-msgstr "將您的頭像設置為一塊好吃的蘿蔔糕"
+msgstr "將你的頭像設置為一塊好吃的蘿蔔糕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_frog
 msgid "Set your profile icon to a frog."
-msgstr "將您的頭像設置為青蛙。"
+msgstr "將你的頭像設置為青蛙。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose
 msgid "Set your profile icon to a Goose. Or Moose. Or both."
-msgstr "將您的頭像設置為鹿角鵝。"
+msgstr "將你的頭像設置為鹿角鵝。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_hound
 msgid "Set your profile icon to a hound."
-msgstr "將您的頭像設置為獵犬。"
+msgstr "將你的頭像設置為獵犬。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_icehound
 msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
-msgstr "將您的頭像設置為藍色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將藍寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
+msgstr "將你的頭像設置為藍色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將藍寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
 msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Shadow Throne."
-msgstr "將您的頭像設置為發條騎士。\n\n麥斯威爾在他統治時期製造了許多發條騎士。"
+msgstr "將你的頭像設置為發條騎士。\n\n麥斯威爾在他統治時期製造了許多發條騎士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_koalefant
 msgid "Set your profile icon to a skittish koalefant."
-msgstr "將您的頭像設置為考拉象。"
+msgstr "將你的頭像設置為考拉象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_krampus
 msgid "Set your profile icon to Krampus.\n\nThe Krampus is compelled to visit all naughty denizens of The Constant."
-msgstr "將您的頭像設置為坎普斯。"
+msgstr "將你的頭像設置為坎普斯。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mactusk
 msgid "Set your profile icon to a MacTusk."
-msgstr "將您的頭像設置為海象。"
+msgstr "將你的頭像設置為海象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mandrake
 msgid "Set your profile icon to squeaky mandrake.\n\n\"MEEP!\""
-msgstr "將您的頭像設置為曼德拉草。"
+msgstr "將你的頭像設置為曼德拉草。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_merm
 msgid "Set your profile icon to a merm."
-msgstr "將您的頭像設置為魚人。"
+msgstr "將你的頭像設置為魚人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mole
 msgid "Set your profile icon to a moleworm."
-msgstr "將您的頭像設置為鼴鼠。"
+msgstr "將你的頭像設置為鼴鼠。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_nightlight
 msgid "Set your profile icon to a burning Night Light."
-msgstr "將您的頭像設置為影燈。"
+msgstr "將你的頭像設置為影燈。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_1
 msgid "Set your profile icon to a pink and green Winter's Feast bauble."
@@ -84728,139 +84728,139 @@ msgstr "將你的頭像設置為蟻獅冬季盛宴飾品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pengull
 msgid "Set your profile icon to a pengull."
-msgstr "將您的頭像設置為企鷗。"
+msgstr "將你的頭像設置為企鷗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_phonograph
 msgid "Set your profile icon to a nightmarish gramophone.\n\nIt only plays one song."
-msgstr "將您的頭像設置為留聲機。\n\n它只會放一首音樂。"
+msgstr "將你的頭像設置為留聲機。\n\n它只會放一首音樂。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pig_happy
 msgid "Set your profile icon to a pigman.\n\nMost pigmen are amicable to the idea of teaming up, once they've been shown a bit of kindness."
-msgstr "將您的頭像設置為豬人。\n\n豬人總是很樂意和你交朋友，只要你稍顯善意。"
+msgstr "將你的頭像設置為豬人。\n\n豬人總是很樂意和你交朋友，只要你稍顯善意。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pigking
 msgid "Set your profile icon to the Pig King.\n\nThe Pig King has vast riches and can be persuaded to share them, should someone find something to pique his interest."
-msgstr "將您的頭像設置為豬王。\n\n 豬王十分富有，倘若能引起他的興趣，你將被賜予巨大的財富。"
+msgstr "將你的頭像設置為豬王。\n\n 豬王十分富有，倘若能引起他的興趣，你將被賜予巨大的財富。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pumpkinlantern
 msgid "Set your profile icon to a pumpkin lantern."
-msgstr "將您的頭像設置為南瓜燈。"
+msgstr "將你的頭像設置為南瓜燈。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_puppington
 msgid "Set your profile icon to a sweet litle Vargling.\nHappy Year of the Varg!"
-msgstr "將您的頭像設置為小座狼。\n座狼之年快樂！"
+msgstr "將你的頭像設置為小座狼。\n座狼之年快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rabbit
 msgid "Set your profile icon to a rabbit."
-msgstr "將您的頭像設置為兔子。"
+msgstr "將你的頭像設置為兔子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redhound
 msgid "Set your profile icon to a fiery Red Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
-msgstr "將您的頭像設置為紅色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將紅寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
+msgstr "將你的頭像設置為紅色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將紅寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
 msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Shadow Throne."
-msgstr "將您的頭像設置為發條戰車。\n\n麥斯威爾在他統治時期製造了許多發條戰車。"
+msgstr "將你的頭像設置為發條戰車。\n\n麥斯威爾在他統治時期製造了許多發條戰車。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rose
 msgid "Set your profile icon to a rose flower.\n\nFew things are as timeless as a red rose."
-msgstr "將您的頭像設置為玫瑰花。\n\n很少有東西像玫瑰一樣永恆。"
+msgstr "將你的頭像設置為玫瑰花。\n\n很少有東西像玫瑰一樣永恆。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_shadowhand
 msgid "Set your profile icon to a creepy night hand."
-msgstr "將您的頭像設置為暗影之手。"
+msgstr "將你的頭像設置為暗影之手。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_shadowmanipulator
 msgid "Set your profile icon to a Shadow Manipulator."
-msgstr "將您的頭像設置為暗影操縱儀。"
+msgstr "將你的頭像設置為暗影操縱儀。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_smallbird
 msgid "Set your profile icon to a tiny smallbird."
-msgstr "將您的頭像設置為小高鳥。"
+msgstr "將你的頭像設置為小高鳥。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_spider
 msgid "Set your profile icon to a spider."
-msgstr "將您的頭像設置為蜘蛛。"
+msgstr "將你的頭像設置為蜘蛛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_tallbird_eye
 msgid "Set your profile icon to a glaring tallbird."
-msgstr "將您的頭像設置為高鳥的凝視。"
+msgstr "將你的頭像設置為高鳥的凝視。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_treeguard
 msgid "Set your profile icon to a treeguard.\n\nThese lumbering spirits will rise to defend their ilk when the forest is threatened."
-msgstr "將您的頭像設置為樹精守衛。\n\n森林受到威脅時，這些守衛會站起來保衛自己的同類。"
+msgstr "將你的頭像設置為樹精守衛。\n\n森林受到威脅時，這些守衛會站起來保衛自己的同類。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_trinket_faketeeth
 msgid "Set your profile icon to second-hand dentures."
-msgstr "將您的頭像設置為二手的假牙。"
+msgstr "將你的頭像設置為二手的假牙。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_trinket_gnome
 msgid "Set your profile icon to a gnome."
-msgstr "將您的頭像設置為地精。"
+msgstr "將你的頭像設置為地精。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_trinket_gnomette
 msgid "Set your profile icon to a gnome."
-msgstr "將您的頭像設置為地精。"
+msgstr "將你的頭像設置為地精。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_varg
 msgid "Set your profile icon to a pack-leading Varg.\nHappy Year of the Varg!"
-msgstr "將您的頭像設置為座狼。\n座狼之年快樂！"
+msgstr "將你的頭像設置為座狼。\n座狼之年快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_boar
 msgid "Set your profile icon to the tragic figure of the Swamp Pig elder."
-msgstr "將您的頭像設置為沼澤豬長者的悲慘形象。"
+msgstr "將你的頭像設置為沼澤豬長者的悲慘形象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_coppercoin
 msgid "Set your profile icon to a handful of Old Coins.\n\nBequeathed by the Gnaw itself!"
-msgstr "將您的頭像設置為一把舊硬幣。\n\n由暴食者本尊所給予!"
+msgstr "將你的頭像設置為一把舊硬幣。\n\n由暴食者本尊所給予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_goatkid
 msgid "Set your profile icon to a portrait of sweet young Billiam."
-msgstr "將您的頭像設置為一隻可愛的小羊比利。"
+msgstr "將你的頭像設置為一隻可愛的小羊比利。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_goatmom
 msgid "Set your profile icon to a portrait of dear old Mumsy."
-msgstr "將您的頭像設置為一隻可親的羊媽媽瑪姆茜。"
+msgstr "將你的頭像設置為一隻可親的羊媽媽瑪姆茜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_goldcoin
 msgid "Set your profile icon to a handful of Red Marks.\n\nBequeathed by the Gnaw itself!"
-msgstr "將您的頭像設置為一把紅色標記。\n\n由暴食者本尊所給予!"
+msgstr "將你的頭像設置為一把紅色標記。\n\n由暴食者本尊所給予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_merm
 msgid "Set your profile icon to that chatty mermified peddler."
-msgstr "將您的頭像設置為那個喋喋不休的小商販。"
+msgstr "將你的頭像設置為那個喋喋不休的小商販。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_merm2
 msgid "Set your profile icon to that crafty mermified peddler."
-msgstr "將您的頭像設置為那個喋喋不休的小商販。"
+msgstr "將你的頭像設置為那個喋喋不休的小商販。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_pigeon
 msgid "Set your profile icon to a curious city pigeon."
-msgstr "將您的頭像設置為鴿子。\n\n咕咕咕。"
+msgstr "將你的頭像設置為鴿子。\n\n咕咕咕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_safe
 msgid "Set your profile icon to a fancy old safe."
-msgstr "將您的頭像設置為一個漂亮的舊保險箱。"
+msgstr "將你的頭像設置為一個漂亮的舊保險箱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_silvercoin
 msgid "Set your profile icon to a handful of Sapphire Medallions.\n\nBequeathed by the Gnaw itself!"
-msgstr "將您的頭像設置為一把藍寶石徽章。\n\n由暴食者本尊所給予!"
+msgstr "將你的頭像設置為一把藍寶石徽章。\n\n由暴食者本尊所給予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_topazcoin
 msgid "Set your profile icon to a handful of Gnaw's Favors.\n\nBequeathed by the Gnaw itself!"
-msgstr "將您的頭像設置為一把暴食者的讚賞。\n\n由暴食者本尊所給予!"
+msgstr "將你的頭像設置為一把暴食者的讚賞。\n\n由暴食者本尊所給予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_waffle
 msgid "Set your profile icon to some tasty waffles.\n\nPart of a balanced breakfast."
-msgstr "將您的頭像設置為美味的華夫餅\n\n均衡早餐的一部分"
+msgstr "將你的頭像設置為美味的華夫餅\n\n均衡早餐的一部分"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_werepig_howl
 msgid "Set your profile icon to a howling werepig."
-msgstr "將您的頭像設置為咆哮的瘋豬。"
+msgstr "將你的頭像設置為咆哮的瘋豬。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_wererabbit
 msgid "Set your profile icon to a grinning bunnyman.\n\nBunnymen make their homes deep in the caverns of The Constant."
-msgstr "將您的頭像設置為友善的兔人。\n\n兔人們把家安在深深的洞穴里。"
+msgstr "將你的頭像設置為友善的兔人。\n\n兔人們把家安在深深的洞穴里。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_bearger
 msgid "Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n\nHappy Winter's Feast!"
@@ -87516,7 +87516,7 @@ msgstr "某種東西"
 
 #: STRINGS.SKIN_NAMES.mysterybox_classic_4
 msgid "Classic Curio Chest"
-msgstr "古典的珍寶箱"
+msgstr "經典的珍寶寶箱"
 
 #: STRINGS.SKIN_NAMES.mysterybox_ice_4
 msgid "Winter's Feast Chest"
@@ -87532,7 +87532,7 @@ msgstr "熙春寶箱"
 
 #: STRINGS.SKIN_NAMES.mysterybox_victorian_4
 msgid "The Gnaw's Chest"
-msgstr "暴食者寶箱"
+msgstr "暴食者的寶箱"
 
 #: STRINGS.SKIN_NAMES.none
 msgid "Default"
@@ -89748,7 +89748,7 @@ msgstr "鳥籠"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.BOOK_BRIMSTONE
 msgid "The End is Nigh!"
-msgstr "閃電書"
+msgstr "末日臨近！"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.CANE
 msgid "Cane"
@@ -90308,7 +90308,7 @@ msgstr "雕塑"
 
 #: STRINGS.TABS.SHADOW
 msgid "Shadow"
-msgstr "陰影"
+msgstr "暗影"
 
 #: STRINGS.TABS.SURVIVAL
 msgid "Survival"
@@ -90380,11 +90380,11 @@ msgstr "感謝您參加暴食活動"
 
 #: STRINGS.THANKS_POPUP.LUNAR
 msgid "Thanks for playing during the\nYear of the Gobbler event"
-msgstr "感謝您參加「雞年大吉」特別活動內容"
+msgstr "感謝您參加雞年吉祥活動"
 
 #: STRINGS.THANKS_POPUP.VARG
 msgid "Thanks for playing during the\nYear of the Varg event"
-msgstr "感謝您參加今年的座狼迎新活動"
+msgstr "感謝您參加座狼迎新活動"
 
 #: STRINGS.TRADEMOD
 msgid "Move"
@@ -90840,7 +90840,7 @@ msgstr "挑戰勝利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore
 msgid "Forge Mastery"
-msgstr "鍛造大師"
+msgstr "熔爐大師"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths
 msgid "Perfect Runs"
@@ -91224,7 +91224,7 @@ msgstr "烹飪"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore
 msgid "Gorge Mastery"
-msgstr "盛宴之主"
+msgstr "暴食之主"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer
 msgid "Farming"
@@ -91772,7 +91772,7 @@ msgstr "查看你可裝備的角色皮膚"
 
 #: STRINGS.UI.COLLECTIONSCREEN.VIEW_MARKET
 msgid "Steam"
-msgstr "SETAM"
+msgstr "Steam"
 
 #: STRINGS.UI.COLOUR.Black
 msgid "Black"
@@ -101968,19 +101968,19 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_bronze
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
-msgstr "將您的頭像設置為被安撫的暴食者。\n\n你在這次偉大的錦標賽中證明了自己的實力。"
+msgstr "將你的頭像設置為被安撫的暴食者。\n\n你在這次偉大的錦標賽中證明了自己的實力。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_gold
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth and came out on top in the Gnaw's great tournament."
-msgstr "將您的頭像設置為被安撫的暴食者。\n\n你證明了你的實力，並在這次偉大的錦標賽中脫穎而出。"
+msgstr "將你的頭像設置為被安撫的暴食者。\n\n你證明了你的實力，並在這次偉大的錦標賽中脫穎而出。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_participation
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou fulfilled your duty in the Gnaw's great tournament."
-msgstr "將您的頭像設置為被安撫的暴食者。\n\n你在錦標賽中盡了最大的努力。"
+msgstr "將你的頭像設置為被安撫的暴食者。\n\n你在錦標賽中盡了最大的努力。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_silver
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
-msgstr "將您的頭像設置為被安撫的暴食者。\n\n你在這次偉大的錦標賽中證明了自己的實力。"
+msgstr "將你的頭像設置為被安撫的暴食者。\n\n你在這次偉大的錦標賽中證明了自己的實力。"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze
 msgid "Burnished Cornucopia Portrait"
