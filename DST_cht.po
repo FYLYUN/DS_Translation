@@ -27096,7 +27096,7 @@ msgstr "有什麼意義呢。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.INUSE
 msgid "I'd like to use that after you. If you don't mind, I mean."
-msgstr "我可以利用你嗎。我的意思是說，如果你不介意的話。"
+msgstr "我可以等你用完之後使用它嗎。我是說，如果你不介意的話。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.COOK.GENERIC
 msgid "Oh. No one ever taught me to cook."
