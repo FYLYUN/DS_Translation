@@ -144,7 +144,7 @@ msgstr "设置陷阱"
 
 #: STRINGS.ACTIONS.DRY
 msgid "Dry"
-msgstr "干燥"
+msgstr "晾晒"
 
 #: STRINGS.ACTIONS.EAT
 msgid "Eat"
@@ -332,7 +332,7 @@ msgstr "阅读"
 
 #: STRINGS.ACTIONS.REEL.CANCEL
 msgid "Stop Fishing"
-msgstr "停止捕鱼"
+msgstr "停止钓鱼"
 
 #: STRINGS.ACTIONS.REEL.GENERIC
 msgid "Hook"
@@ -18456,7 +18456,7 @@ msgstr "啊,龙！我们可算碰面了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRAGONFLYCHEST
 msgid "This chest is worthy of my weapons."
-msgstr "这胸部值得装备我的武器."
+msgstr "这箱子有资格放置我的武器."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DRAGONFRUIT
 msgid "It's very fancy."
@@ -22692,11 +22692,11 @@ msgstr "一点粉末,有毁灭的味道"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_EYE_BONE
 msgid "Don't worry. There will be more Chesters."
-msgstr "别担心,还会有更多的切斯特的人的"
+msgstr "别担心,还会有更多的切斯特的"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgid "There's always another Glommer."
-msgstr "格洛姆真是一个接一个的."
+msgstr "总会有另一个格罗姆的."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ASH.REMAINS_THINGIE
 msgid "My trip through the portal made it unrecognizable."
