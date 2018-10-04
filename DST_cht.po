@@ -87748,11 +87748,11 @@ msgstr "飢餓的野獸背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_beefalo
 msgid "Beefalo Portrait"
-msgstr "皮弗婁牛背景圖"
+msgstr "皮弗婁牛背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birchnut
 msgid "Birchnut Forest Portrait"
-msgstr "樺樹林背景圖"
+msgstr "樺樹林背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_brokenclock
 msgid "Smashed Clock Portrait"
@@ -87760,7 +87760,7 @@ msgstr "破碎的鐘背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_camp
 msgid "Campsite Portrait"
-msgstr "野營地背景圖"
+msgstr "野營地背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_car
 msgid "Broken Carriage Portrait"
@@ -87768,15 +87768,15 @@ msgstr "破舊的馬車背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_cardinals
 msgid "Cardinal Portrait"
-msgstr "北美紅雀背景圖"
+msgstr "北美紅雀背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_cottontree
 msgid "Sugarwood Tree Portrait"
-msgstr "糖槭樹背景圖"
+msgstr "糖槭樹背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_deciduousforest
 msgid "Autumn Birchnut Portrait"
-msgstr "秋樺背景圖"
+msgstr "秋樺背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_fancyarch
 msgid "Archway Portrait"
@@ -87804,11 +87804,11 @@ msgstr "暴食者祭壇背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_forestfire
 msgid "Forest Fire Portrait"
-msgstr "森林火災背景圖"
+msgstr "森林火災背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_garden
 msgid "Farmland Portrait"
-msgstr "農場背景圖"
+msgstr "農場背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_gnaw
 msgid "Maw of Gnaw Portrait"
@@ -87816,7 +87816,7 @@ msgstr "血盆大口背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_grasslands
 msgid "Grassland Portrait"
-msgstr "草原背景圖"
+msgstr "草原背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_gravestones
 msgid "Gnaw Cemetery Portrait"
@@ -87840,19 +87840,19 @@ msgstr "燈柱背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_lava
 msgid "Molten Lava Portrait"
-msgstr "熔岩背景圖"
+msgstr "熔岩背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_lavaarena
 msgid "The Forge Portrait"
-msgstr "熔爐背景圖"
+msgstr "熔爐背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_lonecarrot
 msgid "Lone Carrot Portrait"
-msgstr "孤獨的蘿蔔背景圖"
+msgstr "孤獨的蘿蔔背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_lumpyevergreen
 msgid "Lumpy Tree Portrait"
-msgstr "石化樹背景圖"
+msgstr "石化樹背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_marblestatue
 msgid "Marble Portrait"
@@ -87860,7 +87860,7 @@ msgstr "大理石背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_marshhouse
 msgid "Mermhouse Portrait"
-msgstr "魚族廢墟背景圖"
+msgstr "魚族廢墟背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_mushroom
 msgid "Mushroom Portrait"
@@ -87872,7 +87872,7 @@ msgstr "溫暖的烤箱背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_penguins
 msgid "Pengull Portrait"
-msgstr "企鷗背景圖"
+msgstr "企鷗背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_pighouse
 msgid "Pig House Portrait"
@@ -87892,7 +87892,7 @@ msgstr "鍋架背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rocks
 msgid "Rockland Portrait"
-msgstr "巖石地背景圖"
+msgstr "巖石地背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_roseportal
 msgid "Florid Postern Portrait"
@@ -102143,8 +102143,8 @@ msgid "Stuff for science!"
 msgstr "這是科技的成果！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKIDOL
-msgid "Huh. It looks kinda like a key."
-msgstr "呵。這看起來像是鑰匙。"
+msgid "I only worship science."
+msgstr "我只信仰科學。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONROCKSEED
 msgid "There's science inside!"
@@ -102179,8 +102179,8 @@ msgid "Portal! Prepare to be built!"
 msgstr "傳送門！準備建造！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKIDOL
-msgid "I shall offer it to Mani!"
-msgstr "我要把它獻給月亮使者曼尼！"
+msgid "I shall make an offering!"
+msgstr "我將獻上這個祭品！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKSEED
 msgid "It hath knowledge within!"
@@ -102287,8 +102287,8 @@ msgid "Shall I even bother building this?"
 msgstr "我應該建造這個嗎？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKIDOL
-msgid "An otherworldly heart beats within it."
-msgstr "一個超自然的心在它裡面跳動。"
+msgid "A lifeless sacrifice."
+msgstr "一個沒有生命的祭品。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKSEED
 msgid "Its pallor reminds me of Abigail."
@@ -102323,8 +102323,8 @@ msgid "Oh, I do like the look of this."
 msgstr "哦，我很喜歡這個樣子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKIDOL
-msgid "Curious. It's rather keylike."
-msgstr "奇妙。這個很關鍵。"
+msgid "Curious. It rather looks like a key."
+msgstr "真奇怪。它看起來像一把鈅匙。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONROCKSEED
 msgid "A floating orb of knowledge."
@@ -102395,8 +102395,8 @@ msgid "Let's get building."
 msgstr "讓我們開始建造吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKIDOL
-msgid "What, do I gotta offer it up to something?"
-msgstr "什麼，我必須把它獻祭到某個東西上嗎？"
+msgid "Do I gotta offer it up to something?"
+msgstr "我必須把它獻祭到某個東西上嗎？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MOONROCKSEED
 msgid "I could learn a thing or two from this."
@@ -102528,15 +102528,15 @@ msgstr "天體之門"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
-msgstr "傳送門升級裝置"
+msgstr "傳送門升級套件"
 
 #: STRINGS.NAMES.ROCK_MOON_CAPSULE
 msgid "Boulder"
 msgstr "卵石"
 
 #: STRINGS.NAMES.ROCK_MOON_SHELL
-msgid "Boulder"
-msgstr "卵石"
+msgid "Suspicious Boulder"
+msgstr "可疑的卵石"
 
 #: STRINGS.RECIPE_DESC.MOONROCKIDOL
 msgid "A key figure."
@@ -102556,19 +102556,19 @@ msgstr "登上舞臺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品可以改變你的人物背景插圖。"
+msgstr "使用這個物品来改變你的人物背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_featherhatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品可以改變你的人物背景插圖。"
+msgstr "使用這個物品来改變你的人物背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品可以改變你的人物背景插圖。"
+msgstr "使用這個物品来改變你的人物背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品可以改變你的人物背景插圖。"
+msgstr "使用這個物品来改變你的人物背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
@@ -102608,19 +102608,19 @@ msgstr "馬戲團女騎手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "驚人的馬戲團鳥籠"
+msgstr "驚人的馬戲團鳥籠背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
-msgstr "馬戲團女騎手帽背景插圖"
+msgstr "馬戲團女騎手帽背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgid "The Magnificent Rainometer Portrait"
-msgstr "華麗雨量計背景插圖"
+msgstr "華麗雨量計背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_tophatcircus
 msgid "Amazing Ringmaster Hat Portrait"
-msgstr "驚人的馴獸師帽背景插圖"
+msgstr "驚人的馴獸師帽背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
@@ -102793,3 +102793,56 @@ msgstr "最適該人物皮膚: {mode}"
 #: STRINGS.ACTIONS.APPLYCONSTRUCTION
 msgid "Build"
 msgstr "建造"
+
+#: STRINGS.UI.MAINSCREEN.CREDITS
+msgid "Credits"
+msgstr "製作人員"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.NOMOON
+msgid "I need to see the moon for that to work."
+msgstr "我需要看著月亮才能讓它工作。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.NOMOON
+msgid "Needs the gaze of Mani to work."
+msgstr "需要曼尼的註視才能工作。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.NOMOON
+msgid "It's not going to work in here."
+msgstr "它在這裏不會工作的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.NOMOON
+msgid "Doesn't work. We probably need to see the moon or something."
+msgstr "沒有用。也許我們需要看著月亮或什麽東西。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.NOMOON
+msgid "I can't... not in here."
+msgstr "我做不到...在這裏不行。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.NOMOON
+msgid "It needs a lunar influence."
+msgstr "它需要月球的影響。"
+
+#: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.NOMOON
+msgid "Jerk! It won't work in here!"
+msgstr "笨蛋！它在這裏不起作用！"
+
+#: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.NOMOON
+msgid "Gonna have to make this under the influence of the moon."
+msgstr "必須受到月亮的影響才能運作。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.NOMOON
+msgid "Is too scary in here for funny man to work."
+msgstr "這裏太可怕了，有趣的小人沒法工作。"
+
+#: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.NOMOON
+msgid "Looks like it doesn't work in the caves, eh."
+msgstr "看起來好像在洞穴裏不起作用，嗯。"
+
+#: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.NOMOON
+msgid "ERROR: LOGIN REQUIRES MOON VISIBILITY"
+msgstr "錯誤：登入系統需要月球可見"
+
+#: STRINGS.UI.MAINSCREEN.DLC_UPDATENAME
+msgid "Where There's a Wilson..."
+msgstr "威爾遜在哪裏..."
+
