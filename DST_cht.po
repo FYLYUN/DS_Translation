@@ -5672,7 +5672,7 @@ msgstr "如果我猜的沒錯的話，你應該是這裡的負責人，對嗎？
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SWAMPIGELDER.SLEEPING
 msgid "It's sleeping, for now."
-msgstr "目前它正在睡覺。"
+msgstr "現在它正在睡覺。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE
 msgid "It's seen better days."
@@ -8028,7 +8028,7 @@ msgstr "額！我一定精通使彎刀了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgid "By Hel's fire!"
-msgstr "冥界的火！"
+msgstr "赫爾海姆的火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX
 msgid "\nI can repair this."
@@ -8168,7 +8168,7 @@ msgstr "我渴望一場盛宴！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_BEAST_NEARBY
 msgid "Hush... The creature is near."
-msgstr "噓……怪物就在附近。"
+msgstr "噓……獵物就在附近。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_LOST_TRAIL
 msgid "I've lost the tracks."
@@ -12584,7 +12584,7 @@ msgstr "戰士不在乎裝飾性的雕塑。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED
 msgid "Gods help us on Mani's night."
-msgstr "眾神啊在月神瑪尼的黑夜裡幫助我們。"
+msgstr "眾神啊在月神曼尼的黑夜裡幫助我們。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCULPTURE_ROOKBODY.READY
 msgid "The beast has been roused beneath!"
@@ -16000,11 +16000,11 @@ msgstr "西。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMANDRAKE
 msgid "It has lost a lot of its power."
-msgstr "它已經失去了不少能力"
+msgstr "它已經失去了不少能力。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMEAT
 msgid "It smells less like barnyard, now."
-msgstr "它現在沒那麼難聞了"
+msgstr "它現在沒那麼難聞了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMONSTERMEAT
 msgid "It's still filthy."
@@ -16028,7 +16028,7 @@ msgstr "它來了！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKPOT.DONE
 msgid "Finally, some quality grub."
-msgstr "終於讓我找到一些好質量的蛆了。"
+msgstr "終於有一些高質量的食物了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKPOT.EMPTY
 msgid "Just the thought makes my mouth water."
@@ -16880,7 +16880,7 @@ msgstr "他們之中最乾淨的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSALVE
 msgid "Just a bit of venom and some dirty old ash."
-msgstr "只有一些毒液和骯髒的陳灰"
+msgstr "只有一些毒液和骯髒的陳灰。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSTAFF
 msgid "I could be persuaded to dabble in white magicks."
@@ -16888,27 +16888,27 @@ msgstr "我可能會被說服著去涉足白魔法。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.COLD
 msgid "Pleasantly cool."
-msgstr "它冷下就沒用了"
+msgstr "它冷下就沒用了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.FROZEN
 msgid "It's almost too cold to hold."
-msgstr "這太冰了拿不祝"
+msgstr "這太冰了，拿不住。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.GENERIC
 msgid "A pocketful of stone and temperature."
-msgstr "滿滿一袋肉"
+msgstr "滿口袋的石頭與溫度。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.HOT
 msgid "It's almost too hot to hold."
-msgstr "太燙了，拿不穩"
+msgstr "這太燙了，拿不住。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.WARM
 msgid "Comfortably lukewarm."
-msgstr "暖烘烘"
+msgstr "暖烘烘。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIVEHAT
 msgid "Makes one feel like royalty."
-msgstr "讓人感覺像皇族。"
+msgstr "讓人感覺像個皇族。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOME
 msgid "There's no place like it."
@@ -84520,7 +84520,7 @@ msgstr "將你的頭像設置為切斯特。\n\n切斯特是倖存者的好夥�
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_clayhound
 msgid "Set your profile icon to a celebratory Clay Hound.\nHappy Year of the Varg!"
-msgstr "將你的頭像設置成黏土獵犬。\n座狼之年快樂！"
+msgstr "將你的頭像設置為黏土獵犬。\n座狼之年快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_claywarg
 msgid "Set your profile icon to a celebratory Clay Varg.\nHappy Year of the Varg!"
@@ -84544,7 +84544,7 @@ msgstr "將你的頭像設置為沉睡的龍蠅。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfruit
 msgid "Set your profile icon to a tasty dragon fruit."
-msgstr "將你的簡介圖標置為美味的火龍果。"
+msgstr "將你的頭像設置為美味的火龍果。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
 msgid "Set your profile icon to a delectable berry tart."
