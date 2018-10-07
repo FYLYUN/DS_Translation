@@ -18376,7 +18376,7 @@ msgstr "我还不够强壮,无法挥舞它."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIRTPILE
 msgid "A small hill of earth."
-msgstr "这只是一块小山丘."
+msgstr "一块小小的山丘."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIVININGROD.COLD
 msgid "All is quiet."

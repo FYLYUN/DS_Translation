@@ -9708,7 +9708,7 @@ msgstr "我還不夠強壯，無法揮舞它。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIRTPILE
 msgid "A small hill of earth."
-msgstr "這只是一塊小山丘。"
+msgstr "一塊小小的山丘。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIVININGROD.COLD
 msgid "All is quiet."
@@ -33672,7 +33672,7 @@ msgstr "它已經在被使用了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.PICKUP.RESTRICTION
 msgid "That's not my area of expertise."
-msgstr "知識是我的領域。"
+msgstr "知識才是我的領域。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.READ.GENERIC
 msgid "Other matters await."
@@ -73316,7 +73316,7 @@ msgstr "*被隊友救起的速度是其他人的兩倍\n*攻擊時增加的怪�
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\nExpertise:\nBooks, Staves"
-msgstr "*受到一定傷害後下一個法術將會被強化\n\n\n可使用武器種類：\n魔法書，法杖"
+msgstr "*造成一定傷害後下一個法術將會被強化\n\n\n可使用武器種類：\n魔法書，法杖"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.willow
 msgid "*Protected by Bernie the Bear\n*Fire and Explosive attack damage increased by 10%\n\nExpertise:\nDarts, Staves"
@@ -76408,7 +76408,7 @@ msgstr "葦羽蓑衣"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUM
 msgid "Wood Armor"
-msgstr "木甲"
+msgstr "木製鎧甲"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUMDAMAGER
 msgid "Jagged Wood Armor"
@@ -76416,7 +76416,7 @@ msgstr "鋸齒木甲"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUMRECHARGER
 msgid "Silken Wood Armor"
-msgstr "絲帶木甲"
+msgstr "絲綢木甲"
 
 #: STRINGS.NAMES.LAVAARENA_BATTLESTANDARD
 msgid "Battle Standard"
@@ -82164,7 +82164,7 @@ msgstr "雖然這個木甲沒有提供額外的保護，但至少它能防止我
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_wood_lamellar
 msgid "This wood armor is a fresh decorative take on a timeless functional design."
-msgstr "這個木甲的設計很新穎，但它的功能過時了。"
+msgstr "這個木製鎧甲的設計很新穎，但它的功能過時了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.axe_victorian
 msgid "An elegantly engraved silver axe."
@@ -85464,7 +85464,7 @@ msgstr "沃爾夫岡喜歡正式的晚餐：食物都非常棒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wolfgang_gladiator
 msgid "This look suits Wolfgang, and he knows it."
-msgstr "這看起來很適合沃爾夫岡，他也知道"
+msgstr "這看起來很適合沃爾夫岡，他也知道。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wolfgang_ice
 msgid "Wolfgang enjoys passing cold winter nights around a fire with loved ones."
@@ -85496,7 +85496,7 @@ msgstr "藏起這些帥氣的頭髮似乎有些羞恥。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_combatant
 msgid "It's best not to mess with a man and his axe."
-msgstr "最好不要將一個男人和他的斧頭搞混了"
+msgstr "最好不要將一個男人和他的斧頭搞混了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_cook
 msgid "Woodie's not beyond using an axe in the kitchen."
@@ -85508,7 +85508,7 @@ msgstr "每當伍迪出去時，他都會把熊脂塗在他的頭髮上。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_gladiator
 msgid "Woodie is a wild man in the arena."
-msgstr "伍迪是競技場上的野蠻人"
+msgstr "伍迪是競技場上的野蠻人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_nature
 msgid "All Woodie needs is the sun, the rain, and his favourite tree seeds."
@@ -85540,7 +85540,7 @@ msgstr "伍迪的野外生存技巧在寒冷的北方派上了用場。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_combatant
 msgid "Few things get them more excited than the prospect of destroying fleshlings."
-msgstr "沒有什麼能比摧毀肉體的希望更讓他們興奮了"
+msgstr "沒有什麼能比摧毀肉體的希望更讓他們興奮了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_cook
 msgid "WX must have some utensil addons somewhere around here."
@@ -85548,15 +85548,15 @@ msgstr "WX-78一定在某處有什麼工具插件。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_formal
 msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
-msgstr "錯誤：不能識別命令「鬍子。捻弄」"
+msgstr "錯誤：不能識別命令「鬍子.捻弄」"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator
 msgid "WX's transformation into an organic killing machine proves all dreams are possible, if you only believe."
-msgstr "這是WX-78轉變殺人機器的證明，只要你心中渴望，你會轉變的。"
+msgstr "這是WX-78轉變殺人機器的證明，只要你心中渴望，你會轉變的。。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_nature
 msgid "WX-78 has become a solar powered robot."
-msgstr "WX-78成為了一個太陽能機器人"
+msgstr "WX-78成為了一個太陽能機器人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook
 msgid "Rookiebot Costume"
@@ -85588,7 +85588,7 @@ msgstr "克萊蒙特生命護符"
 
 #: STRINGS.SKIN_NAMES.amulet_red_occulteye
 msgid "Clairvoyant Life Amulet"
-msgstr "生命護符"
+msgstr "洞察者生命護符"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_fangedcollar
 msgid "Jagged Dragonfly Armor"
@@ -85596,11 +85596,11 @@ msgstr "鋸齒龍鱗甲"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_haramaki
 msgid "Dragonfly Haramaki"
-msgstr "龍鱗腹卷"
+msgstr "絲綢龍鱗甲"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_lamellar
 msgid "Dragonfly Body Armor"
-msgstr "龍鱗盔甲"
+msgstr "龍鱗鎧甲"
 
 #: STRINGS.SKIN_NAMES.armor_grass_cloak
 msgid "Feathered Grass Armor"
@@ -85628,7 +85628,7 @@ msgstr "絲綢木甲"
 
 #: STRINGS.SKIN_NAMES.armor_wood_lamellar
 msgid "Wood Armor"
-msgstr "木甲"
+msgstr "木製鎧甲"
 
 #: STRINGS.SKIN_NAMES.axe_victorian
 msgid "Fanciful Axe"
@@ -89192,7 +89192,7 @@ msgstr "\"我只參加有阿比蓋爾的聚會。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_gladiator
 msgid "\"I take no pleasure in this.\""
-msgstr "\"穿上這個並不是愉快的事情。\""
+msgstr "\"這毫無樂趣可言。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_ice
 msgid "\"We all turn cold in time.\""
@@ -95788,7 +95788,7 @@ msgstr "反饋問題"
 
 #: STRINGS.UI.MAINSCREEN.ITEMCOLLECTION_DISABLE
 msgid "You must be logged in to view your Profile or Item Collection."
-msgstr "你必須登錄才能查看你的用戶資料或物品收集"
+msgstr "你必須登錄才能查看你的用戶資料或藏品"
 
 #: STRINGS.UI.MAINSCREEN.JOIN
 msgid "Join IP"
@@ -97516,7 +97516,7 @@ msgstr "版本不匹配"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
 msgid "A New Reign Beta"
-msgstr "新的國度 β版"
+msgstr "新的統治 β版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
 msgid "Version Mismatch"
@@ -97928,7 +97928,7 @@ msgstr "是"
 
 #: STRINGS.UI.PAUSEMENU.AFK
 msgid "Go AFK"
-msgstr "去一下（GoAFK）"
+msgstr "去一下（挂機）"
 
 #: STRINGS.UI.PAUSEMENU.CLIENTQUITBODY
 msgid "Are you sure you want to leave the server?"
@@ -97960,7 +97960,7 @@ msgstr "遊戲仍在繼續"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITBODY
 msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
-msgstr "你確定要關閉房間？\n如果你這樣做，任何玩家都會斷開連接。"
+msgstr "你確定要關閉房間？\n如果你這樣做，所有玩家都會斷開連接。"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITTITLE
 msgid "Shut Down Server"
@@ -98236,7 +98236,7 @@ msgstr "商店"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TITLE
 msgid "Item Collection"
-msgstr "我的收藏"
+msgstr "我的藏品"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
 msgid "View missed connections and revisit past lives"
@@ -98680,7 +98680,7 @@ msgstr "CDK錯誤，請重試。"
 
 #: STRINGS.UI.REDEEMDIALOG.LEGALESE
 msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
-msgstr "由於麥斯威爾的選擇，威爾遜不負責計算你的\n心理陰影面積。你獲得的禮物可能會很爛、亦\n可賽艇和（或）能增強你的遊戲體驗。"
+msgstr "由於絢麗之門的選擇，威爾遜不負責計算你的\n心理陰影面積。你獲得的禮物可能會很爛、亦\n可賽艇或能增強你的遊戲體驗。"
 
 #: STRINGS.UI.REDEEMDIALOG.SUBMIT
 msgid "Submit"
@@ -99968,7 +99968,7 @@ msgstr "舊版的伺服器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MODSENABLED
 msgid "Mods Enabled:"
-msgstr "啟用Mod"
+msgstr "啟用的Mod"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MODSTITLE
 msgid "Mods"
@@ -99992,7 +99992,7 @@ msgstr "Mods載入中…"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY
 msgid "This server has mods enabled. Klei won't be able to help if you encounter issues while playing on a modded server."
-msgstr "這個世界啟用了mods。一旦遇到問題，K\nlei將無法為一個做了修改的程序提供幫助\n。"
+msgstr "這個世界啟用了mods。一旦遇到問題，\nKlei將無法為一個做了修改的程序提供幫助。\n"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE
 msgid "Mods Enabled"
@@ -100044,7 +100044,7 @@ msgstr "離線"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN
 msgid "Are you sure you want to join an offline world? You will not be able to receive or use Collection Items in this world."
-msgstr "你確定你想加入一個離線的世界嗎？\n在這個世界上，你將無法獲得或使用一些收集品。"
+msgstr "你確定你想加入一個離線的世界嗎？\n在這個世界上，你將無法獲得或使用一些藏品。"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE
 msgid "Offline World"
@@ -100380,7 +100380,7 @@ msgstr "無"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY
 msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
-msgstr "您正處於離線模式。\n您收藏的物品無法在離線模式中使用。\n請檢查您的網路連接並重新登錄。"
+msgstr "您正處於離線模式。\n您的藏品無法在離線模式中使用。\n請檢查您的網路連接並重新登錄。"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_TITLE
 msgid "Network Connection Lost"
