@@ -5672,7 +5672,7 @@ msgstr "如果我猜的没错的话，你应该是这里的负责人，对吗？
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SWAMPIGELDER.SLEEPING
 msgid "It's sleeping, for now."
-msgstr "目前它正在睡觉。"
+msgstr "现在它正在睡觉。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_SWAMPIG_HOUSE
 msgid "It's seen better days."
@@ -8028,7 +8028,7 @@ msgstr "额！我一定精通使弯刀了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgid "By Hel's fire!"
-msgstr "冥界的火！"
+msgstr "赫尔海姆的火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX
 msgid "\nI can repair this."
@@ -8168,7 +8168,7 @@ msgstr "我渴望一场盛宴！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_BEAST_NEARBY
 msgid "Hush... The creature is near."
-msgstr "嘘……怪物就在附近。"
+msgstr "嘘……猎物就在附近。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_HUNT_LOST_TRAIL
 msgid "I've lost the tracks."
@@ -9708,7 +9708,7 @@ msgstr "我还不够强壮，无法挥舞它。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIRTPILE
 msgid "A small hill of earth."
-msgstr "这只是一块小山丘。"
+msgstr "一块小小的山丘。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DIVININGROD.COLD
 msgid "All is quiet."
@@ -12584,7 +12584,7 @@ msgstr "战士不在乎装饰性的雕塑。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED
 msgid "Gods help us on Mani's night."
-msgstr "众神啊在月神玛尼的黑夜里帮助我们。"
+msgstr "众神啊在月神曼尼的黑夜里帮助我们。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SCULPTURE_ROOKBODY.READY
 msgid "The beast has been roused beneath!"
@@ -16000,11 +16000,11 @@ msgstr "西。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMANDRAKE
 msgid "It has lost a lot of its power."
-msgstr "它已经失去了不少能力"
+msgstr "它已经失去了不少能力。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMEAT
 msgid "It smells less like barnyard, now."
-msgstr "它现在没那么难闻了"
+msgstr "它现在没那么难闻了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKEDMONSTERMEAT
 msgid "It's still filthy."
@@ -16028,7 +16028,7 @@ msgstr "它来了！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKPOT.DONE
 msgid "Finally, some quality grub."
-msgstr "终于让我找到一些好质量的蛆了。"
+msgstr "终于有一些高质量的食物了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.COOKPOT.EMPTY
 msgid "Just the thought makes my mouth water."
@@ -16880,7 +16880,7 @@ msgstr "他们之中最干净的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSALVE
 msgid "Just a bit of venom and some dirty old ash."
-msgstr "只有一些毒液和肮脏的陈灰"
+msgstr "只有一些毒液和肮脏的陈灰。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEALINGSTAFF
 msgid "I could be persuaded to dabble in white magicks."
@@ -16888,27 +16888,27 @@ msgstr "我可能会被说服着去涉足白魔法。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.COLD
 msgid "Pleasantly cool."
-msgstr "它冷下就没用了"
+msgstr "它冷下就没用了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.FROZEN
 msgid "It's almost too cold to hold."
-msgstr "这太冰了拿不祝"
+msgstr "这太冰了，拿不住。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.GENERIC
 msgid "A pocketful of stone and temperature."
-msgstr "满满一袋肉"
+msgstr "满口袋的石头与温度。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.HOT
 msgid "It's almost too hot to hold."
-msgstr "太烫了，拿不稳"
+msgstr "这太烫了，拿不住。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HEATROCK.WARM
 msgid "Comfortably lukewarm."
-msgstr "暖烘烘"
+msgstr "暖烘烘。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HIVEHAT
 msgid "Makes one feel like royalty."
-msgstr "让人感觉像皇族。"
+msgstr "让人感觉像个皇族。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOME
 msgid "There's no place like it."
@@ -33672,7 +33672,7 @@ msgstr "它已经在被使用了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.PICKUP.RESTRICTION
 msgid "That's not my area of expertise."
-msgstr "知识是我的领域。"
+msgstr "知识才是我的领域。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.READ.GENERIC
 msgid "Other matters await."
@@ -73316,7 +73316,7 @@ msgstr "*被队友救起的速度是其他人的两倍\n*攻击时增加的怪�
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Gains a buff after dealing sufficient damage, amplifying her next spell\n\n\nExpertise:\nBooks, Staves"
-msgstr "*受到一定伤害后下一个法术将会被强化\n\n\n可使用武器种类：\n魔法书，法杖"
+msgstr "*造成一定伤害后下一个法术将会被强化\n\n\n可使用武器种类：\n魔法书，法杖"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.willow
 msgid "*Protected by Bernie the Bear\n*Fire and Explosive attack damage increased by 10%\n\nExpertise:\nDarts, Staves"
@@ -76408,7 +76408,7 @@ msgstr "苇羽蓑衣"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUM
 msgid "Wood Armor"
-msgstr "木甲"
+msgstr "木制铠甲"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUMDAMAGER
 msgid "Jagged Wood Armor"
@@ -76416,7 +76416,7 @@ msgstr "锯齿木甲"
 
 #: STRINGS.NAMES.LAVAARENA_ARMORMEDIUMRECHARGER
 msgid "Silken Wood Armor"
-msgstr "丝带木甲"
+msgstr "丝绸木甲"
 
 #: STRINGS.NAMES.LAVAARENA_BATTLESTANDARD
 msgid "Battle Standard"
@@ -82164,7 +82164,7 @@ msgstr "虽然这个木甲没有提供额外的保护，但至少它能防止我
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_wood_lamellar
 msgid "This wood armor is a fresh decorative take on a timeless functional design."
-msgstr "这个木甲的设计很新颖，但它的功能过时了。"
+msgstr "这个木制铠甲的设计很新颖，但它的功能过时了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.axe_victorian
 msgid "An elegantly engraved silver axe."
@@ -84520,7 +84520,7 @@ msgstr "将你的头像设置为切斯特。\n\n切斯特是幸存者的好伙�
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_clayhound
 msgid "Set your profile icon to a celebratory Clay Hound.\nHappy Year of the Varg!"
-msgstr "将你的头像设置成黏土猎犬。\n座狼之年快乐！"
+msgstr "将你的头像设置为黏土猎犬。\n座狼之年快乐！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_claywarg
 msgid "Set your profile icon to a celebratory Clay Varg.\nHappy Year of the Varg!"
@@ -84544,7 +84544,7 @@ msgstr "将你的头像设置为沉睡的龙蝇。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_dragonfruit
 msgid "Set your profile icon to a tasty dragon fruit."
-msgstr "将你的简介图标置为美味的火龙果。"
+msgstr "将你的头像设置为美味的火龙果。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_food_berrytart
 msgid "Set your profile icon to a delectable berry tart."
@@ -85464,7 +85464,7 @@ msgstr "沃尔夫冈喜欢正式的晚餐：食物都非常棒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wolfgang_gladiator
 msgid "This look suits Wolfgang, and he knows it."
-msgstr "这看起来很适合沃尔夫冈，他也知道"
+msgstr "这看起来很适合沃尔夫冈，他也知道。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wolfgang_ice
 msgid "Wolfgang enjoys passing cold winter nights around a fire with loved ones."
@@ -85496,7 +85496,7 @@ msgstr "藏起这些帅气的头发似乎有些羞耻。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_combatant
 msgid "It's best not to mess with a man and his axe."
-msgstr "最好不要将一个男人和他的斧头搞混了"
+msgstr "最好不要将一个男人和他的斧头搞混了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_cook
 msgid "Woodie's not beyond using an axe in the kitchen."
@@ -85508,7 +85508,7 @@ msgstr "每当伍迪出去时，他都会把熊脂涂在他的头发上。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_gladiator
 msgid "Woodie is a wild man in the arena."
-msgstr "伍迪是竞技场上的野蛮人"
+msgstr "伍迪是竞技场上的野蛮人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.woodie_nature
 msgid "All Woodie needs is the sun, the rain, and his favourite tree seeds."
@@ -85540,7 +85540,7 @@ msgstr "伍迪的野外生存技巧在寒冷的北方派上了用场。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_combatant
 msgid "Few things get them more excited than the prospect of destroying fleshlings."
-msgstr "没有什么能比摧毁肉体的希望更让他们兴奋了"
+msgstr "没有什么能比摧毁肉体的希望更让他们兴奋了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_cook
 msgid "WX must have some utensil addons somewhere around here."
@@ -85548,7 +85548,7 @@ msgstr "WX-78一定在某处有什么工具插件。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_formal
 msgid "ERROR: DO NOT RECOGNIZE COMMAND \"MOUSTACHE.TWIRL\""
-msgstr "错误：不能识别命令“胡子。捻弄”"
+msgstr "错误：不能识别命令“胡子.捻弄”"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_gladiator
 msgid "WX's transformation into an organic killing machine proves all dreams are possible, if you only believe."
@@ -85556,7 +85556,7 @@ msgstr "这是WX-78转变杀人机器的证明，只要你心中渴望，你会�
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_nature
 msgid "WX-78 has become a solar powered robot."
-msgstr "WX-78成为了一个太阳能机器人"
+msgstr "WX-78成为了一个太阳能机器人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_rhinorook
 msgid "Rookiebot Costume"
@@ -85588,7 +85588,7 @@ msgstr "克莱蒙特生命护符"
 
 #: STRINGS.SKIN_NAMES.amulet_red_occulteye
 msgid "Clairvoyant Life Amulet"
-msgstr "生命护符"
+msgstr "洞察者生命护符"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_fangedcollar
 msgid "Jagged Dragonfly Armor"
@@ -85596,11 +85596,11 @@ msgstr "锯齿龙鳞甲"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_haramaki
 msgid "Dragonfly Haramaki"
-msgstr "龙鳞腹卷"
+msgstr "丝绸龙鳞甲"
 
 #: STRINGS.SKIN_NAMES.armor_dragonfly_lamellar
 msgid "Dragonfly Body Armor"
-msgstr "龙鳞盔甲"
+msgstr "龙鳞铠甲"
 
 #: STRINGS.SKIN_NAMES.armor_grass_cloak
 msgid "Feathered Grass Armor"
@@ -85628,7 +85628,7 @@ msgstr "丝绸木甲"
 
 #: STRINGS.SKIN_NAMES.armor_wood_lamellar
 msgid "Wood Armor"
-msgstr "木甲"
+msgstr "木制铠甲"
 
 #: STRINGS.SKIN_NAMES.axe_victorian
 msgid "Fanciful Axe"
@@ -89192,7 +89192,7 @@ msgstr "\"我只参加有阿比盖尔的聚会。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_gladiator
 msgid "\"I take no pleasure in this.\""
-msgstr "\"穿上这个并不是愉快的事情。\""
+msgstr "\"这毫无乐趣可言。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_ice
 msgid "\"We all turn cold in time.\""
@@ -95788,7 +95788,7 @@ msgstr "反馈问题"
 
 #: STRINGS.UI.MAINSCREEN.ITEMCOLLECTION_DISABLE
 msgid "You must be logged in to view your Profile or Item Collection."
-msgstr "你必须登录才能查看你的用户资料或物品收集"
+msgstr "你必须登录才能查看你的用户资料或藏品"
 
 #: STRINGS.UI.MAINSCREEN.JOIN
 msgid "Join IP"
@@ -97516,7 +97516,7 @@ msgstr "版本不匹配"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
 msgid "A New Reign Beta"
-msgstr "新的国度 β版"
+msgstr "新的统治 β版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
 msgid "Version Mismatch"
@@ -97928,7 +97928,7 @@ msgstr "是"
 
 #: STRINGS.UI.PAUSEMENU.AFK
 msgid "Go AFK"
-msgstr "去一下（GoAFK）"
+msgstr "去一下（挂机）"
 
 #: STRINGS.UI.PAUSEMENU.CLIENTQUITBODY
 msgid "Are you sure you want to leave the server?"
@@ -97960,7 +97960,7 @@ msgstr "游戏仍在继续"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITBODY
 msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
-msgstr "你确定要关闭房间？\n如果你这样做，任何玩家都会断开连接。"
+msgstr "你确定要关闭房间？\n如果你这样做，所有玩家都会断开连接。"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITTITLE
 msgid "Shut Down Server"
@@ -98236,7 +98236,7 @@ msgstr "商店"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TITLE
 msgid "Item Collection"
-msgstr "我的收藏"
+msgstr "我的藏品"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
 msgid "View missed connections and revisit past lives"
@@ -98680,7 +98680,7 @@ msgstr "CDK错误，请重试。"
 
 #: STRINGS.UI.REDEEMDIALOG.LEGALESE
 msgid "Delivery time may vary due to temporal portal anomalies. Wilson is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unexpected delight, and/or enhanced gameplay experiences."
-msgstr "由于麦斯威尔的选择，威尔逊不负责计算你的\n心理阴影面积。你获得的礼物可能会很烂、亦\n可赛艇和（或）能增强你的游戏体验。"
+msgstr "由于绚丽之门的选择，威尔逊不负责计算你的\n心理阴影面积。你获得的礼物可能会很烂、亦\n可赛艇或能增强你的游戏体验。"
 
 #: STRINGS.UI.REDEEMDIALOG.SUBMIT
 msgid "Submit"
@@ -99968,7 +99968,7 @@ msgstr "旧版的服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MODSENABLED
 msgid "Mods Enabled:"
-msgstr "启用Mod"
+msgstr "启用的Mod"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MODSTITLE
 msgid "Mods"
@@ -99992,7 +99992,7 @@ msgstr "Mods加载中…"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MOD_WARNING_BODY
 msgid "This server has mods enabled. Klei won't be able to help if you encounter issues while playing on a modded server."
-msgstr "这个世界启用了mods。一旦遇到问题，K\nlei将无法为一个做了修改的程序提供帮助\n。"
+msgstr "这个世界启用了mods。一旦遇到问题，\nKlei将无法为一个做了修改的程序提供帮助。"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.MOD_WARNING_TITLE
 msgid "Mods Enabled"
@@ -100044,7 +100044,7 @@ msgstr "离线"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEMODEBODYJOIN
 msgid "Are you sure you want to join an offline world? You will not be able to receive or use Collection Items in this world."
-msgstr "你确定你想加入一个离线的世界吗？\n在这个世界上，你将无法获得或使用一些收集品。"
+msgstr "你确定你想加入一个离线的世界吗？\n在这个世界上，你将无法获得或使用一些藏品。"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.OFFLINEWARNINGTITLE
 msgid "Offline World"
@@ -100380,7 +100380,7 @@ msgstr "无"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY
 msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
-msgstr "您正处于离线模式。\n您收藏的物品无法在离线模式中使用。\n请检查您的网络连接并重新登录。"
+msgstr "您正处于离线模式。\n您的藏品无法在离线模式中使用。\n请检查您的网络连接并重新登录。"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_TITLE
 msgid "Network Connection Lost"
@@ -100432,7 +100432,7 @@ msgstr "抱歉"
 
 #: STRINGS.UI.SKINSSCREEN.TITLE
 msgid "{name}'s Collection"
-msgstr "{name}的收藏品"
+msgstr "{name}的藏品"
 
 #: STRINGS.UI.SKINSSCREEN.TRADE
 msgid "Trade Inn"
