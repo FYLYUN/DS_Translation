@@ -124,7 +124,7 @@ msgstr "鐵砧攻擊"
 
 #: STRINGS.ACTIONS.CASTAOE.HEALINGSTAFF
 msgid "Cast Life Blossom"
-msgstr "活力煥發"
+msgstr "施放活力綻放"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY
 msgid "Chuck Lucy"
@@ -132,7 +132,7 @@ msgstr "投擲露西"
 
 #: STRINGS.ACTIONS.CASTAOE.SPEAR_GUNGNIR
 msgid "Pyre Poker"
-msgstr "柴堆穿刺"
+msgstr "燃燒突刺"
 
 #: STRINGS.ACTIONS.CASTAOE.SPEAR_LANCE
 msgid "Sky Lunge"
@@ -74784,7 +74784,7 @@ msgstr "%s的遺骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
@@ -75116,7 +75116,7 @@ msgstr "末日臨近！"
 
 #: STRINGS.NAMES.BOOK_ELEMENTAL
 msgid "Tome of Beckoning"
-msgstr "召喚"
+msgstr "召喚魔典"
 
 #: STRINGS.NAMES.BOOK_FOSSIL
 msgid "Petrifying Tome"
@@ -76472,7 +76472,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -77436,7 +77436,7 @@ msgstr "鹽池"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL_KEY
 msgid "Ancient Key"
@@ -84380,7 +84380,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活古老的大門時，他們錯誤地將自己與這一空間連接在了一起。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活古老大門時，他們錯誤地將自己與這一空間連接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -91092,7 +91092,7 @@ msgstr "午間便飯"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活古老的大門並逃離暴食沼地"
+msgstr "激活古老大門並逃離暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -101456,7 +101456,7 @@ msgstr "沒有死亡"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT
 msgid "Mermified"
-msgstr "葬身魚腹"
+msgstr "化身爲魚"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
 msgid "Gateway Activated!"
