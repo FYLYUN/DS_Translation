@@ -72312,7 +72312,7 @@ msgstr "作為曾經的暗影之王，麥斯威爾發現自己重\n新獲得了�
 
 #: STRINGS.CHARACTER_ABOUTME.webber
 msgid "Webber is a polite young monster who cares deeply for all his friends, human or otherwise."
-msgstr "韋伯是一個彬彬有禮的小怪物，他關心他的所\n有朋友，不論是人還是其他生物。"
+msgstr "韋伯是一個彬彬有禮的小怪物，他關心他的\n所有朋友，不論是人還是其他生物。"
 
 #: STRINGS.CHARACTER_ABOUTME.wendy
 msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
@@ -72356,7 +72356,7 @@ msgstr "\n隨機選擇一個角色"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Only eats meat"
-msgstr "*擅長戰鬥\n*吸收死掉的敵人的力量\n*只能吃肉食"
+msgstr "*擅長戰鬥\n*吸收击败的敵人的力量\n*只能吃肉食"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Was once the king of the world"

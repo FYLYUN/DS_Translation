@@ -70692,7 +70692,7 @@ msgstr "*有一个挑剔的舌头\n*有一个厨师专用工具\n*有一个时�
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Only eats meat"
-msgstr "*擅长战斗\n*吸收死掉的敌人的力量\n*只能吃肉食"
+msgstr "*擅长战斗\n*吸收击败的敌人的力量\n*只能吃肉食"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*On a first-name basis with the night"
