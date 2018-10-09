@@ -96748,11 +96748,11 @@ msgstr "生命回復"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills
 msgid "killing blows"
-msgstr "致命一擊"
+msgstr "擊殺數"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2
 msgid "killing blows struck"
-msgstr "致命一擊"
+msgstr "擊殺數"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none
 msgid "thanks for playing"
@@ -96772,7 +96772,7 @@ msgstr "摧毀戰旗"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter
 msgid "steps taken"
-msgstr "行萬里路"
+msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
 msgid "damage dealt"
@@ -96808,11 +96808,11 @@ msgstr "專家誘餌"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks
 msgid "Powerful"
-msgstr "強制攻擊"
+msgstr "强而有力"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks
 msgid "Combatant"
-msgstr "戰鬥"
+msgstr "戰士"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts
 msgid "Sharpshooter"
@@ -96832,7 +96832,7 @@ msgstr "重生"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken
 msgid "Breacher"
-msgstr "衝擊機"
+msgstr "破壞者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone
 msgid "Healer"
@@ -96880,7 +96880,7 @@ msgstr "無情"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken
 msgid "Protector"
-msgstr "護甲"
+msgstr "防御者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2
 msgid "Loyal Guardian"
@@ -96924,11 +96924,11 @@ msgstr "採集野生植物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs
 msgid "logs harvested"
-msgstr "收集木材"
+msgstr "收集的木材"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2
 msgid "logs harvested"
-msgstr "收集木材"
+msgstr "收集的木材"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt
 msgid "meals burnt to cinders"
@@ -96948,11 +96948,11 @@ msgstr "烹調好的美食"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved
 msgid "meals saved from the fire"
-msgstr "完好的食物"
+msgstr "從火中救出食物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2
 msgid "meals saved from the fire"
-msgstr "完好的食物"
+msgstr "從火中救出食物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none
 msgid "thanks for playing"
@@ -96960,11 +96960,11 @@ msgstr "感謝您的參與"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter
 msgid "steps taken"
-msgstr "步數統計"
+msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes
 msgid "dishes sacrificed to the Altar"
-msgstr "祭台的盤子"
+msgstr "獻上的佳餚"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE
 msgid "-"
@@ -97012,7 +97012,7 @@ msgstr "木材收割者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt
 msgid "Overcooker"
-msgstr "烹調過度"
+msgstr "烹調過度者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2
 msgid "Kitchen Disaster"
@@ -97028,7 +97028,7 @@ msgstr "大廚"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved
 msgid "Meal Saver"
-msgstr "食物保存"
+msgstr "食物救星"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2
 msgid "Kitchen Rescuer"
