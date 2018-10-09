@@ -33848,7 +33848,7 @@ msgstr "有声响！为什么我会闻到清晰的花香？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK
 msgid "OUCH! Who dares?!"
-msgstr "哎哟！吃了豹子胆了？！"
+msgstr "哎哟！是谁敢这么做？！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD
 msgid "The ambient temperature is low."
@@ -59728,7 +59728,7 @@ msgstr "谁在那儿，啊？"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK
 msgid "Yeouch! That was rough!"
-msgstr "哎哟！那真粗糙！"
+msgstr "哎哟！那真粗鲁！"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD
 msgid "It's a bit chilly out here!"

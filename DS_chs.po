@@ -22212,7 +22212,7 @@ msgstr "查理?是我啊,麦斯威尔!"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK
 msgid "Ow! Charlie, that hurt!"
-msgstr "哦!查理,你受伤了!"
+msgstr "哦!查理,那很痛的!"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COLD
 msgid "My heart grows cold."
@@ -38392,7 +38392,7 @@ msgstr "你听到了吗?"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK
 msgid "OUCH! Who dares?!"
-msgstr "哎哟！吃了豹子胆了？！"
+msgstr "哎哟！是谁敢这么做？！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD
 msgid "The ambient temperature is low."
@@ -54744,7 +54744,7 @@ msgstr "谁在那儿,啊?"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK
 msgid "Yeouch! That was rough!"
-msgstr "哎哟!那真粗糙!"
+msgstr "哎哟!那真粗鲁!"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD
 msgid "It's a bit chilly out here!"
