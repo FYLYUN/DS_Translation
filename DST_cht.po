@@ -14008,11 +14008,11 @@ msgstr "它在等待一棵大樹！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.ATTACKER
 msgid "%s packs a punch to rival a frost giant."
-msgstr "%s的重拳和雪怪有的一拼"
+msgstr "%s的重拳和冰霜巨人有的一拼"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.FIRESTARTER
 msgid "%s seems to have mistakenly fumbled a torch."
-msgstr "%s似乎有誤的握著火把。"
+msgstr "%s似乎用了錯誤的方式握著火把。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.GENERIC
 msgid "Health and strength to you, %s!"
@@ -61584,7 +61584,7 @@ msgstr "啊啊啊！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN.GENERIC
 msgid "It's calling to me!"
-msgstr "它在叫我！"
+msgstr "它在呼喚我！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "Sorry!"
@@ -96436,7 +96436,7 @@ msgstr "更多mod"
 
 #: STRINGS.UI.MODSSCREEN.MORE_MODS
 msgid "Steam Workshop"
-msgstr "Workshop"
+msgstr "Steam創意工坊"
 
 #: STRINGS.UI.MODSSCREEN.NO
 msgid "No"

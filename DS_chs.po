@@ -56428,7 +56428,7 @@ msgstr "啊啊啊!"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN.GENERIC
 msgid "It's calling to me!"
-msgstr "它在叫我!"
+msgstr "它在呼唤我!"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "I'm sorry!"
