@@ -312,7 +312,7 @@ msgstr "挂起{item}"
 
 #: STRINGS.ACTIONS.GIVE.READY
 msgid "Sacrifice"
-msgstr "祭品"
+msgstr "供奉"
 
 #: STRINGS.ACTIONS.GIVE.SOCKET
 msgid "Socket"
@@ -7228,7 +7228,7 @@ msgstr "愿你有美好的一天，%s！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR.GHOST
 msgid "Nice try. You're not escaping to Valhalla yet, %s."
-msgstr "继续挣扎吧。但你无法挣脱死神的怀抱的，%s。"
+msgstr "继续挣扎吧。你现在逃不到英灵殿的，%s。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR.MURDERER
 msgid "%s's gone berserk!"
@@ -7772,7 +7772,7 @@ msgstr "看来它是活不过来了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "他们在天堂将会得到更好的东西。"
+msgstr "他们在英灵殿将会得到更好的东西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.DUPLICATE
 msgid "We have already conquered this knowledge."
@@ -7836,7 +7836,7 @@ msgstr "等他空的时候再说吧。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVEALLTOPLAYER.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "在瓦尔哈拉，也许有更好的东西。"
+msgstr "在英灵殿，也许有更好的东西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVEALLTOPLAYER.FULL
 msgid "They're not strong enough to carry more!"
@@ -7852,7 +7852,7 @@ msgstr "等他空的时候再说吧。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVETOPLAYER.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "在瓦尔哈拉，也许有更好的东西。"
+msgstr "在英灵殿，也许有更好的东西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVETOPLAYER.FULL
 msgid "They're not strong enough to carry more!"
@@ -7944,7 +7944,7 @@ msgstr "不成。我还等着打胜仗呢！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgid "By Odin's beard, I shall find the right key!"
-msgstr "吾得到奥丁之神的启示，将会知晓揭开最终谜底的钥匙！"
+msgstr "吾得到奥丁的启示，将会知晓揭开最终谜底的钥匙！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgid "The true key must be out there somewhere."
@@ -8028,7 +8028,7 @@ msgstr "额！我一定精通使弯刀了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgid "By Hel's fire!"
-msgstr "赫尔海姆的火！"
+msgstr "海姆冥界的火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX
 msgid "\nI can repair this."
@@ -8424,7 +8424,7 @@ msgstr "胜利！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.GENERIC
 msgid "Odin will have you yet!"
-msgstr "最终欧丁神会拥有你的。"
+msgstr "最终奥丁会拥有你的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.PIG
 msgid "I'll be back, pigskin!"
@@ -8540,7 +8540,7 @@ msgstr "几乎无法被击穿！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORRUINS
 msgid "Armor fit for Odin himself!"
-msgstr "主神奥丁的战甲！"
+msgstr "奥丁的战甲！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORSKELETON
 msgid "What devilish armor!"
@@ -8864,7 +8864,7 @@ msgstr "什么是勇敢的熊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has gone to Valhalla."
-msgstr "他去了瓦尔哈拉殿堂。"
+msgstr "他去了英灵殿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "It's a stuffed bear."
@@ -8952,7 +8952,7 @@ msgstr "一个年轻的树精战士！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRDCAGE.DEAD
 msgid "You can feast in Valhalla now, friend."
-msgstr "你现在可以在瓦尔哈拉殿堂大吃大喝了，我的朋友。"
+msgstr "你现在可以在英灵殿大吃大喝了，我的朋友。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRDCAGE.GENERIC
 msgid "A home for my ravens!"
@@ -9096,7 +9096,7 @@ msgstr "掌握天空！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BRIMSTONE
 msgid "This tome is brimming with Hel's fire!"
-msgstr "这本书满溢死神之火！"
+msgstr "这本书满溢海姆冥界之火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_ELEMENTAL
 msgid "Twas not meant for mortal eyes."
@@ -9316,7 +9316,7 @@ msgstr "它比辛格韦得利容纳了更多东西！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
 msgid "I've no desire to visit Hel today."
-msgstr "今天我不想去拜访那里。"
+msgstr "今天我不想去拜访海姆冥界。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
 msgid "To the underworld!"
@@ -10144,7 +10144,7 @@ msgstr "一个可怕的怪兽仅存的残骸。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.DEAD
 msgid "You're a bit slimy for Valhalla."
-msgstr "对瓦尔哈拉来说，你太黏黏糊糊的了"
+msgstr "对英灵殿来说，你太黏黏糊糊的了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.GENERIC
 msgid "I'd like some frog boots someday."
@@ -10220,11 +10220,11 @@ msgstr "一个雄伟的花生。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.DEAD
 msgid "It was once a wonder of the woods."
-msgstr "这里曾经是奇迹之森。"
+msgstr "它曾经是森林的奇迹。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.GENERIC
 msgid "A wonder of the woods."
-msgstr "奇迹之森。"
+msgstr "森林的奇迹。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFUEL
 msgid "This slop could be useful."
@@ -10376,7 +10376,7 @@ msgstr "你打不败我的，糖果！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENCANDY_14
 msgid "Wretched Hel's fire!"
-msgstr "卑鄙的魔鬼辣味糖果！"
+msgstr "卑鄙的海姆冥界之火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENCANDY_2
 msgid "A clever ruse. It is not corn at all."
@@ -10844,7 +10844,7 @@ msgstr "烧掉这等灵物可能有点浪费。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE
 msgid "A tree of life, but it is not Yggdrasil."
-msgstr "活的树，不过和世界之树尤克特拉希尔没法比。"
+msgstr "一颗活的树，但它不是世界树。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOG.BURNING
 msgid "Flaming log!"
@@ -10864,7 +10864,7 @@ msgstr "很不错，可惜不是矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUMPY_SAPLING
 msgid "It brings shame to the might of Yggdrasil."
-msgstr "它给世界之树的力量蒙羞。"
+msgstr "它让世界树的力量蒙羞。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUREPLANT
 msgid "Finally! A useful vegetable."
@@ -11268,7 +11268,7 @@ msgstr "星星点点的光！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHROOM_LIGHT2.BURNT
 msgid "Twas consumed by Hel's fire."
-msgstr "它已被冥火吞噬。"
+msgstr "它已海姆冥界之火被吞噬。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHROOM_LIGHT2.OFF
 msgid "I demand strong, passionate colors. Red!"
@@ -11364,7 +11364,7 @@ msgstr "兴许下面躺着一位挥剑的少女。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ONEMANBAND
 msgid "Sing with me! We are the guardians of Asgard!"
-msgstr "跟我一起唱！我们是神域的守护者！"
+msgstr "跟我一起唱！我们是阿斯加德的守护者！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OPALPRECIOUSGEM
 msgid "The spoils of war!"
@@ -11384,7 +11384,7 @@ msgstr "一个橙色的石头"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ORANGEMOONEYE
 msgid "May Odin guide us."
-msgstr "奥丁神指引吾等。"
+msgstr "奥丁指引吾等。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ORANGESTAFF
 msgid "A staff of magical movement."
@@ -11488,7 +11488,7 @@ msgstr "猪啊，难道你不渴望战斗吗？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGKING
 msgid "Is it pig-Odin?"
-msgstr "这是猪中的但丁吗？"
+msgstr "这是猪中的奥丁吗？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGMAN.DEAD
 msgid "He died with honor."
@@ -11752,11 +11752,11 @@ msgstr "这就是暴食者所渴望的，尽管只够塞牙缝。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "The Gnaw desires... not this."
-msgstr "暴食者的欲望... "
+msgstr "暴食者的欲望... 不是这个"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Consumed by Hel's fire."
-msgstr "在死亡女神赫尔的地狱之火中燃烧殆尽了。"
+msgstr "在海姆冥界之火中燃烧殆尽了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GARLIC
 msgid "Foul ingredient for sacrificial foods!"
@@ -11784,7 +11784,7 @@ msgstr "像我一样品位如此之高的女人！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL
 msgid "It touches meat with the fires of Hel."
-msgstr "烤架将会点燃死亡女神赫尔的地狱之火烤制食物。"
+msgstr "它会使用海姆冥界的火焰烤制烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_ITEM
 msgid "An instrument of the savory."
@@ -11792,7 +11792,7 @@ msgstr "烧烤烤架总是令人想起美味的烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_SMALL
 msgid "It touches meat with the fires of Hel."
-msgstr "它会使用赫尔的火焰烤制烤肉。"
+msgstr "它会使用海姆冥界的火焰烤制烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_SMALL_ITEM
 msgid "It doth not work like this."
@@ -11808,7 +11808,7 @@ msgstr "它是找寻最终答案的关键！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_KEY_PARK
 msgid "Tis the key to Valhalla's gates."
-msgstr "它将指引我寻找前往瓦尔哈拉之门的答案。"
+msgstr "这是英灵殿大门的钥匙。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_LAMP_POST
 msgid "Tis a magic light, surely."
@@ -11884,7 +11884,7 @@ msgstr "一座本应喷熔出生命之水的喷泉，但这座喷泉没有水源
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC
 msgid "Valhalla's gate is opened to me."
-msgstr "瓦尔基里的大门向我敞开。"
+msgstr "英灵殿的大门向我敞开。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgid "Thou shalt not keep me out!"
@@ -11968,7 +11968,7 @@ msgstr "我是不会为你在英灵殿中设下灵位的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_BIKE
 msgid "A felled metal steed."
-msgstr "一个被击败的金属坐骑。"
+msgstr "一个倒下的金属坐骑。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_CARRIAGE
 msgid "Twas pillaged long ago."
@@ -12264,7 +12264,7 @@ msgstr "谢天谢地。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REEDS.BURNING
 msgid "See you in Asgard, reeds!"
-msgstr "天宫里再见咯，芦苇！"
+msgstr "阿斯加德再见咯，芦苇！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REEDS.GENERIC
 msgid "Those are some hardy reeds."
@@ -12280,7 +12280,7 @@ msgstr "哈！如果阳光无法穿透它，那太阳就没资格被称为战士
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RELIC
 msgid "Fit for Asgard."
-msgstr "它很适合仙宫。"
+msgstr "它很适合阿斯加德。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RESEARCHLAB.BURNT
 msgid "Ashes to ashes."
@@ -13024,7 +13024,7 @@ msgstr "这东西能够控制我可怕的速度了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_BASE.ACTIVE
 msgid "To Asgard!"
-msgstr "到仙宫去！"
+msgstr "到阿斯加德去！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgid "A bridge to another world."
@@ -13356,7 +13356,7 @@ msgstr "这是一个可疑的玩意！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_5
 msgid "Will it take me to Asgard?"
-msgstr "它能带我去天宫么。"
+msgstr "它能带我去阿斯加德么。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_6
 msgid "Useless technology."
@@ -13516,7 +13516,7 @@ msgstr "胜利与它诸多资源相伴。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TWIGGY_NUT
 msgid "It will one one day rival Yggdrasil!"
-msgstr "它将会在某一天超越世界之树！"
+msgstr "它将会在某一天超越世界树！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TWIGGY_NUT_SAPLING
 msgid "Grow tall and strong."
@@ -14056,7 +14056,7 @@ msgstr "世界树会照顾你的，%s。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.MURDERER
 msgid "By Yggdrasil, I will cut you down!"
-msgstr "我要通过伊格德拉西尔把你击倒！"
+msgstr "我要通过世界树把你击倒！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.REVIVER
 msgid "%s's heart is as mighty as his beard."
@@ -14132,7 +14132,7 @@ msgstr "一个黄黄的宝贝。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWMOONEYE
 msgid "Odin, lend us your sight!"
-msgstr "奥丁神，让我们见你所见！"
+msgstr "奥丁，让我们见你所见！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWSTAFF
 msgid "It summons the stars!"
@@ -24648,7 +24648,7 @@ msgstr "我们可以把它放在祭坛上了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The goat lady said this was what the Gnaw wanted."
-msgstr "山羊女士说这是小山羊想要的。"
+msgstr "山羊女士说这是暴食者想要的。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "This is what it wants, but it's kinda puny."
@@ -84020,7 +84020,7 @@ msgstr "众所周知，乌鸦群被称为\"谋杀者\"。\n但鲜有人知它们
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wigfrid
 msgid "The valor and confidence of a Valkyrie didn't always come naturally to Wigfrid. She cultivated her strength and persona over many years through sheer force of will."
-msgstr "薇格弗德的勇气和信心并不是与生俱来的，多年来她凭借意志力造就了自己的力量。"
+msgstr "薇格弗德那瓦尔基里一般的勇气和信心并不是与生俱来的，多年来她凭借意志力造就了自己的力量。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgid "Sometimes in the cold and bitter night, one might imagine fantastical visions in the blaze of a lit match."
@@ -86040,7 +86040,7 @@ msgstr "独眼巨鹿上衣"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_formal
 msgid "Valkyrie Armor"
-msgstr "女武神铠甲"
+msgstr "瓦尔基里铠甲"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_gladiator
 msgid "Battlemaster's Chestplate"
