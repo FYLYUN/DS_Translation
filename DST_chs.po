@@ -43480,7 +43480,7 @@ msgstr "我猜里面都是死东西"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "The vines coil away from my lighter... weird!"
-msgstr "那株葡萄藤绕开我的火生长…怪异的！"
+msgstr "那藤蔓避开了我的打火机…真奇怪！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTITOOL_AXE_PICKAXE
 msgid "It's so useful!"
