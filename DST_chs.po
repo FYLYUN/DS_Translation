@@ -98660,7 +98660,7 @@ msgstr "未知"
 
 #: STRINGS.UI.REDEEMDIALOG.ACCEPTED
 msgid "Success: Code Accepted!"
-msgstr "成功：序列号已受理！"
+msgstr "成功：兑换码已受理！"
 
 #: STRINGS.UI.REDEEMDIALOG.ALREADY_REDEEMED
 msgid "This code has already been redeemed. Maybe by you?"
@@ -102556,23 +102556,23 @@ msgstr "登上舞台。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用这个物品来改变你的人物背景图案。"
+msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_featherhatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用这个物品来改变你的人物背景图案。"
+msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用这个物品来改变你的人物背景图案。"
+msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用这个物品来改变你的人物背景图案。"
+msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
-msgstr "将你的头像设置为一个惊人的马戏团鸟笼。"
+msgstr "将你的头像设置为一个惊人的马戏鸟笼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
 msgid "Set your profile icon to an Equestrienne Headdress."
@@ -102600,7 +102600,7 @@ msgstr "来吧，全都来吧。"
 
 #: STRINGS.SKIN_NAMES.birdcage_circus
 msgid "The Amazing Sideshow"
-msgstr "惊人的马戏团鸟笼"
+msgstr "惊人的马戏鸟笼"
 
 #: STRINGS.SKIN_NAMES.featherhat_circus
 msgid "Equestrienne Headdress"
@@ -102608,7 +102608,7 @@ msgstr "马戏团女骑手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "惊人的马戏团鸟笼背景"
+msgstr "惊人的马戏鸟笼背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
@@ -102616,7 +102616,7 @@ msgstr "马戏团女骑手帽背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgid "The Magnificent Rainometer Portrait"
-msgstr "华丽雨量计背景"
+msgstr "华丽的雨量计背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_tophatcircus
 msgid "Amazing Ringmaster Hat Portrait"
@@ -102624,7 +102624,7 @@ msgstr "惊人的驯兽师帽背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
-msgstr "惊人的马戏团鸟笼头像"
+msgstr "惊人的马戏鸟笼头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
 msgid "Icon of the Equestrienne Headdress"
