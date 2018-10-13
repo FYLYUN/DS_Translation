@@ -124,7 +124,7 @@ msgstr "鐵砧攻擊"
 
 #: STRINGS.ACTIONS.CASTAOE.HEALINGSTAFF
 msgid "Cast Life Blossom"
-msgstr "活力煥發"
+msgstr "施放活力綻放"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY
 msgid "Chuck Lucy"
@@ -132,7 +132,7 @@ msgstr "投擲露西"
 
 #: STRINGS.ACTIONS.CASTAOE.SPEAR_GUNGNIR
 msgid "Pyre Poker"
-msgstr "柴堆穿刺"
+msgstr "燃燒突刺"
 
 #: STRINGS.ACTIONS.CASTAOE.SPEAR_LANCE
 msgid "Sky Lunge"
@@ -312,7 +312,7 @@ msgstr "掛起{item}"
 
 #: STRINGS.ACTIONS.GIVE.READY
 msgid "Sacrifice"
-msgstr "祭品"
+msgstr "供奉"
 
 #: STRINGS.ACTIONS.GIVE.SOCKET
 msgid "Socket"
@@ -7228,7 +7228,7 @@ msgstr "願你有美好的一天，%s！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR.GHOST
 msgid "Nice try. You're not escaping to Valhalla yet, %s."
-msgstr "繼續掙扎吧。但你無法掙脫死神的懷抱的，%s。"
+msgstr "繼續掙扎吧。你現在逃不到英靈殿的，%s。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WATHGRITHR.MURDERER
 msgid "%s's gone berserk!"
@@ -7772,7 +7772,7 @@ msgstr "看來它是活不過來了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "他們在天堂將會得到更好的東西。"
+msgstr "他們在英靈殿將會得到更好的東西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.DUPLICATE
 msgid "We have already conquered this knowledge."
@@ -7836,7 +7836,7 @@ msgstr "等他空的時候再說吧。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVEALLTOPLAYER.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "在瓦爾哈拉，也許有更好的東西。"
+msgstr "在英靈殿，也許有更好的東西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVEALLTOPLAYER.FULL
 msgid "They're not strong enough to carry more!"
@@ -7852,7 +7852,7 @@ msgstr "等他空的時候再說吧。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVETOPLAYER.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "在瓦爾哈拉，也許有更好的東西。"
+msgstr "在英靈殿，也許有更好的東西。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVETOPLAYER.FULL
 msgid "They're not strong enough to carry more!"
@@ -7944,7 +7944,7 @@ msgstr "不成。我還等著打勝仗呢！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEKLAUSSACKKEY.QUAGMIRE_WRONGKEY
 msgid "By Odin's beard, I shall find the right key!"
-msgstr "吾得到奧丁之神的啟示，將會知曉揭開最終謎底的鑰匙！"
+msgstr "吾得到奧丁的啟示，將會知曉揭開最終謎底的鑰匙！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.USEKLAUSSACKKEY.WRONGKEY
 msgid "The true key must be out there somewhere."
@@ -8028,7 +8028,7 @@ msgstr "額！我一定精通使彎刀了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BURNT
 msgid "By Hel's fire!"
-msgstr "赫爾海姆的火！"
+msgstr "海姆冥界的火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_CANFIX
 msgid "\nI can repair this."
@@ -8424,7 +8424,7 @@ msgstr "勝利！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.GENERIC
 msgid "Odin will have you yet!"
-msgstr "最終歐丁神會擁有你的。"
+msgstr "最終奧丁會擁有你的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.PIG
 msgid "I'll be back, pigskin!"
@@ -8540,7 +8540,7 @@ msgstr "幾乎無法被擊穿！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORRUINS
 msgid "Armor fit for Odin himself!"
-msgstr "主神奧丁的戰甲！"
+msgstr "奧丁的戰甲！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORSKELETON
 msgid "What devilish armor!"
@@ -8864,7 +8864,7 @@ msgstr "什麼是勇敢的熊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has gone to Valhalla."
-msgstr "他去了瓦爾哈拉殿堂。"
+msgstr "他去了英靈殿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "It's a stuffed bear."
@@ -8952,7 +8952,7 @@ msgstr "一個年輕的樹精戰士！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRDCAGE.DEAD
 msgid "You can feast in Valhalla now, friend."
-msgstr "你現在可以在瓦爾哈拉殿堂大吃大喝了，我的朋友。"
+msgstr "你現在可以在英靈殿大吃大喝了，我的朋友。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BIRDCAGE.GENERIC
 msgid "A home for my ravens!"
@@ -9096,7 +9096,7 @@ msgstr "掌握天空！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_BRIMSTONE
 msgid "This tome is brimming with Hel's fire!"
-msgstr "這本書滿溢死神之火！"
+msgstr "這本書滿溢海姆冥界之火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BOOK_ELEMENTAL
 msgid "Twas not meant for mortal eyes."
@@ -9316,7 +9316,7 @@ msgstr "它比辛格韋得利容納了更多東西！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
 msgid "I've no desire to visit Hel today."
-msgstr "今天我不想去拜訪那裡。"
+msgstr "今天我不想去拜訪海姆冥界。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
 msgid "To the underworld!"
@@ -10144,7 +10144,7 @@ msgstr "一個可怕的怪獸僅存的殘骸。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.DEAD
 msgid "You're a bit slimy for Valhalla."
-msgstr "對瓦爾哈拉來說，你太黏黏糊糊的了"
+msgstr "對英靈殿來說，你太黏黏糊糊的了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.GENERIC
 msgid "I'd like some frog boots someday."
@@ -10220,11 +10220,11 @@ msgstr "一個雄偉的花生。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.DEAD
 msgid "It was once a wonder of the woods."
-msgstr "這裡曾經是奇蹟之森。"
+msgstr "它曾經是森林的奇蹟。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.GENERIC
 msgid "A wonder of the woods."
-msgstr "奇蹟之森。"
+msgstr "森林的奇蹟。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFUEL
 msgid "This slop could be useful."
@@ -10376,7 +10376,7 @@ msgstr "你打不敗我的，糖果！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENCANDY_14
 msgid "Wretched Hel's fire!"
-msgstr "卑鄙的魔鬼辣味糖果！"
+msgstr "卑鄙的海姆冥界之火！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENCANDY_2
 msgid "A clever ruse. It is not corn at all."
@@ -10844,7 +10844,7 @@ msgstr "燒掉這等靈物可能有點浪費。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE
 msgid "A tree of life, but it is not Yggdrasil."
-msgstr "活的樹，不過和世界之樹尤克特拉希爾沒法比。"
+msgstr "一顆活的樹，但它不是世界樹。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOG.BURNING
 msgid "Flaming log!"
@@ -10864,7 +10864,7 @@ msgstr "很不錯，可惜不是矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUMPY_SAPLING
 msgid "It brings shame to the might of Yggdrasil."
-msgstr "它給世界之樹的力量蒙羞。"
+msgstr "它讓世界樹的力量蒙羞。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LUREPLANT
 msgid "Finally! A useful vegetable."
@@ -11268,7 +11268,7 @@ msgstr "星星點點的光！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHROOM_LIGHT2.BURNT
 msgid "Twas consumed by Hel's fire."
-msgstr "它已被冥火吞噬。"
+msgstr "它已被海姆冥界之火吞噬。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MUSHROOM_LIGHT2.OFF
 msgid "I demand strong, passionate colors. Red!"
@@ -11364,7 +11364,7 @@ msgstr "興許下面躺著一位揮劍的少女。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ONEMANBAND
 msgid "Sing with me! We are the guardians of Asgard!"
-msgstr "跟我一起唱！我們是神域的守護者！"
+msgstr "跟我一起唱！我們是阿斯嘉的守護者！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.OPALPRECIOUSGEM
 msgid "The spoils of war!"
@@ -11488,7 +11488,7 @@ msgstr "豬啊，難道你不渴望戰鬥嗎？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGKING
 msgid "Is it pig-Odin?"
-msgstr "這是豬中的但丁嗎？"
+msgstr "這是豬中的奧丁嗎？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGMAN.DEAD
 msgid "He died with honor."
@@ -11752,11 +11752,11 @@ msgstr "這就是暴食者所渴望的，儘管只夠塞牙縫。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "The Gnaw desires... not this."
-msgstr "暴食者的慾望... "
+msgstr "暴食者的慾望... 不是這個"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Consumed by Hel's fire."
-msgstr "在死亡女神赫爾的地獄之火中燃燒殆盡了。"
+msgstr "在海姆冥界之火中燃燒殆盡了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GARLIC
 msgid "Foul ingredient for sacrificial foods!"
@@ -11784,7 +11784,7 @@ msgstr "像我一樣品位如此之高的女人！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL
 msgid "It touches meat with the fires of Hel."
-msgstr "烤架將會點燃死亡女神赫爾的地獄之火烤制食物。"
+msgstr "它會使用海姆冥界之火烤制烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_ITEM
 msgid "An instrument of the savory."
@@ -11792,7 +11792,7 @@ msgstr "燒烤烤架總是令人想起美味的烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_SMALL
 msgid "It touches meat with the fires of Hel."
-msgstr "它會使用赫爾的火焰烤制烤肉。"
+msgstr "它會使用海姆冥界之火烤制烤肉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_GRILL_SMALL_ITEM
 msgid "It doth not work like this."
@@ -11808,7 +11808,7 @@ msgstr "它是找尋最終答案的關鍵！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_KEY_PARK
 msgid "Tis the key to Valhalla's gates."
-msgstr "它將指引我尋找前往瓦爾哈拉之門的答案。"
+msgstr "這是英靈殿大門的鑰匙。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_LAMP_POST
 msgid "Tis a magic light, surely."
@@ -11884,7 +11884,7 @@ msgstr "一座本應噴熔出生命之水的噴泉，但這座噴泉沒有水源
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_GATE.GENERIC
 msgid "Valhalla's gate is opened to me."
-msgstr "瓦爾基里的大門向我敞開。"
+msgstr "英靈殿的大門向我敞開。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_GATE.LOCKED
 msgid "Thou shalt not keep me out!"
@@ -11968,7 +11968,7 @@ msgstr "我是不會為你在英靈殿中設下靈位的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_BIKE
 msgid "A felled metal steed."
-msgstr "一個被擊敗的金屬坐騎。"
+msgstr "一個倒下的金屬坐騎。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_RUBBLE_CARRIAGE
 msgid "Twas pillaged long ago."
@@ -12264,7 +12264,7 @@ msgstr "謝天謝地。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REEDS.BURNING
 msgid "See you in Asgard, reeds!"
-msgstr "天宮裡再見咯，蘆葦！"
+msgstr "阿斯嘉裡再見咯，蘆葦！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REEDS.GENERIC
 msgid "Those are some hardy reeds."
@@ -12280,7 +12280,7 @@ msgstr "哈！如果陽光無法穿透它，那太陽就沒資格被稱為戰士
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RELIC
 msgid "Fit for Asgard."
-msgstr "它很適合仙宮。"
+msgstr "它很適合阿斯嘉。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RESEARCHLAB.BURNT
 msgid "Ashes to ashes."
@@ -13024,7 +13024,7 @@ msgstr "這東西能夠控制我可怕的速度了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_BASE.ACTIVE
 msgid "To Asgard!"
-msgstr "到仙宮去！"
+msgstr "到阿斯嘉去！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgid "A bridge to another world."
@@ -13356,7 +13356,7 @@ msgstr "這是一個可疑的玩意！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_5
 msgid "Will it take me to Asgard?"
-msgstr "它能帶我去天宮么。"
+msgstr "它能帶我去阿斯嘉么。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_6
 msgid "Useless technology."
@@ -13516,7 +13516,7 @@ msgstr "勝利與它諸多資源相伴。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TWIGGY_NUT
 msgid "It will one one day rival Yggdrasil!"
-msgstr "它將會在某一天超越世界之樹！"
+msgstr "它將會在某一天超越世界樹！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TWIGGY_NUT_SAPLING
 msgid "Grow tall and strong."
@@ -14008,11 +14008,11 @@ msgstr "它在等待一棵大樹！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.ATTACKER
 msgid "%s packs a punch to rival a frost giant."
-msgstr "%s的重拳和雪怪有的一拼"
+msgstr "%s的重拳和冰霜巨人有的一拼"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.FIRESTARTER
 msgid "%s seems to have mistakenly fumbled a torch."
-msgstr "%s似乎有誤的握著火把。"
+msgstr "%s似乎用了錯誤的方式握著火把。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOLFGANG.GENERIC
 msgid "Health and strength to you, %s!"
@@ -14056,7 +14056,7 @@ msgstr "世界樹會照顧你的，%s。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.MURDERER
 msgid "By Yggdrasil, I will cut you down!"
-msgstr "我要通過伊格德拉西爾把你擊倒！"
+msgstr "我要通過世界樹把你擊倒！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WOODIE.REVIVER
 msgid "%s's heart is as mighty as his beard."
@@ -14132,7 +14132,7 @@ msgstr "一個黃黃的寶貝。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWMOONEYE
 msgid "Odin, lend us your sight!"
-msgstr "奧丁神，讓我們見你所見！"
+msgstr "奧丁，讓我們見你所見！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.YELLOWSTAFF
 msgid "It summons the stars!"
@@ -24648,7 +24648,7 @@ msgstr "我們可以把它放在祭壇上了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The goat lady said this was what the Gnaw wanted."
-msgstr "山羊女士說這是小山羊想要的。"
+msgstr "山羊女士說這是暴食者想要的。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "This is what it wants, but it's kinda puny."
@@ -33848,7 +33848,7 @@ msgstr "有聲響！為什麼我會聞到清晰的花香？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK
 msgid "OUCH! Who dares?!"
-msgstr "哎喲！吃了豹子膽了？！"
+msgstr "哎喲！是誰敢這麽做？！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD
 msgid "The ambient temperature is low."
@@ -43480,7 +43480,7 @@ msgstr "我猜裡面都是死東西"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "The vines coil away from my lighter... weird!"
-msgstr "那株葡萄藤繞開我的火生長…怪異的！"
+msgstr "那藤蔓避開了我的打火机…真奇怪！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MULTITOOL_AXE_PICKAXE
 msgid "It's so useful!"
@@ -59728,7 +59728,7 @@ msgstr "誰在那兒，啊？"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK
 msgid "Yeouch! That was rough!"
-msgstr "哎喲！那真粗糙！"
+msgstr "哎喲！那真粗魯！"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD
 msgid "It's a bit chilly out here!"
@@ -61584,7 +61584,7 @@ msgstr "啊啊啊！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN.GENERIC
 msgid "It's calling to me!"
-msgstr "它在叫我！"
+msgstr "它在呼喚我！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "Sorry!"
@@ -72312,7 +72312,7 @@ msgstr "作為曾經的暗影之王，麥斯威爾發現自己重\n新獲得了�
 
 #: STRINGS.CHARACTER_ABOUTME.webber
 msgid "Webber is a polite young monster who cares deeply for all his friends, human or otherwise."
-msgstr "韋伯是一個彬彬有禮的小怪物，他關心他的所\n有朋友，不論是人還是其他生物。"
+msgstr "韋伯是一個彬彬有禮的小怪物，他關心他的\n所有朋友，不論是人還是其他生物。"
 
 #: STRINGS.CHARACTER_ABOUTME.wendy
 msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
@@ -72356,7 +72356,7 @@ msgstr "\n隨機選擇一個角色"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Only eats meat"
-msgstr "*擅長戰鬥\n*吸收死掉的敵人的力量\n*只能吃肉食"
+msgstr "*擅長戰鬥\n*吸收击败的敵人的力量\n*只能吃肉食"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Was once the king of the world"
@@ -74784,7 +74784,7 @@ msgstr "%s的遺骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
@@ -75116,7 +75116,7 @@ msgstr "末日臨近！"
 
 #: STRINGS.NAMES.BOOK_ELEMENTAL
 msgid "Tome of Beckoning"
-msgstr "召喚"
+msgstr "召喚魔典"
 
 #: STRINGS.NAMES.BOOK_FOSSIL
 msgid "Petrifying Tome"
@@ -76472,7 +76472,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -77436,7 +77436,7 @@ msgstr "鹽池"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老的大門"
+msgstr "古老大門"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL_KEY
 msgid "Ancient Key"
@@ -84020,7 +84020,7 @@ msgstr "眾所周知，烏鴉群被稱為\"謀殺者\"。\n但鮮有人知它們
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wigfrid
 msgid "The valor and confidence of a Valkyrie didn't always come naturally to Wigfrid. She cultivated her strength and persona over many years through sheer force of will."
-msgstr "薇格弗德的勇氣和信心並不是與生俱來的，多年來她憑藉意志力造就了自己的力量。"
+msgstr "薇格弗德那瓦爾基里一般的勇氣和信心並不是與生俱來的，多年來她憑藉意志力造就了自己的力量。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgid "Sometimes in the cold and bitter night, one might imagine fantastical visions in the blaze of a lit match."
@@ -84380,7 +84380,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活古老的大門時，他們錯誤地將自己與這一空間連接在了一起。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活古老大門時，他們錯誤地將自己與這一空間連接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -86040,7 +86040,7 @@ msgstr "獨眼巨鹿上衣"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_formal
 msgid "Valkyrie Armor"
-msgstr "女武神鎧甲"
+msgstr "瓦爾基里鎧甲"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_gladiator
 msgid "Battlemaster's Chestplate"
@@ -91092,7 +91092,7 @@ msgstr "午間便飯"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活古老的大門並逃離暴食沼地"
+msgstr "激活古老大門並逃離暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -96436,7 +96436,7 @@ msgstr "更多mod"
 
 #: STRINGS.UI.MODSSCREEN.MORE_MODS
 msgid "Steam Workshop"
-msgstr "Workshop"
+msgstr "Steam創意工坊"
 
 #: STRINGS.UI.MODSSCREEN.NO
 msgid "No"
@@ -96748,11 +96748,11 @@ msgstr "生命回復"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills
 msgid "killing blows"
-msgstr "致命一擊"
+msgstr "擊殺數"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.kills2
 msgid "killing blows struck"
-msgstr "致命一擊"
+msgstr "擊殺數"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.none
 msgid "thanks for playing"
@@ -96772,7 +96772,7 @@ msgstr "摧毀戰旗"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.stepcounter
 msgid "steps taken"
-msgstr "行萬里路"
+msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
 msgid "damage dealt"
@@ -96808,11 +96808,11 @@ msgstr "專家誘餌"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.altattacks
 msgid "Powerful"
-msgstr "強制攻擊"
+msgstr "强而有力"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.attacks
 msgid "Combatant"
-msgstr "戰鬥"
+msgstr "戰士"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.blowdarts
 msgid "Sharpshooter"
@@ -96832,7 +96832,7 @@ msgstr "重生"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.guardsbroken
 msgid "Breacher"
-msgstr "衝擊機"
+msgstr "破壞者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.healingdone
 msgid "Healer"
@@ -96880,7 +96880,7 @@ msgstr "無情"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken
 msgid "Protector"
-msgstr "護甲"
+msgstr "防御者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.TITLES.total_damagetaken2
 msgid "Loyal Guardian"
@@ -96924,11 +96924,11 @@ msgstr "採集野生植物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs
 msgid "logs harvested"
-msgstr "收集木材"
+msgstr "收集的木材"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.logs2
 msgid "logs harvested"
-msgstr "收集木材"
+msgstr "收集的木材"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_burnt
 msgid "meals burnt to cinders"
@@ -96948,11 +96948,11 @@ msgstr "烹調好的美食"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved
 msgid "meals saved from the fire"
-msgstr "完好的食物"
+msgstr "從火中救出食物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.meals_saved2
 msgid "meals saved from the fire"
-msgstr "完好的食物"
+msgstr "從火中救出食物"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.none
 msgid "thanks for playing"
@@ -96960,11 +96960,11 @@ msgstr "感謝您的參與"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.stepcounter
 msgid "steps taken"
-msgstr "步數統計"
+msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.DESCRIPTIONS.tributes
 msgid "dishes sacrificed to the Altar"
-msgstr "祭台的盤子"
+msgstr "獻上的佳餚"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.NO_STAT_VALUE
 msgid "-"
@@ -97012,7 +97012,7 @@ msgstr "木材收割者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt
 msgid "Overcooker"
-msgstr "烹調過度"
+msgstr "烹調過度者"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_burnt2
 msgid "Kitchen Disaster"
@@ -97028,7 +97028,7 @@ msgstr "大廚"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved
 msgid "Meal Saver"
-msgstr "食物保存"
+msgstr "食物救星"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.meals_saved2
 msgid "Kitchen Rescuer"
@@ -98660,7 +98660,7 @@ msgstr "未知"
 
 #: STRINGS.UI.REDEEMDIALOG.ACCEPTED
 msgid "Success: Code Accepted!"
-msgstr "成功：序列號已受理！"
+msgstr "成功：兌換碼已受理！"
 
 #: STRINGS.UI.REDEEMDIALOG.ALREADY_REDEEMED
 msgid "This code has already been redeemed. Maybe by you?"
@@ -101456,7 +101456,7 @@ msgstr "沒有死亡"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_DEFEAT
 msgid "Mermified"
-msgstr "葬身魚腹"
+msgstr "化身爲魚"
 
 #: STRINGS.UI.WXPLOBBYPANEL.QUAGMIRE.TITLE_VICTORY
 msgid "Gateway Activated!"
@@ -102556,23 +102556,23 @@ msgstr "登上舞臺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品来改變你的人物背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_featherhatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品来改變你的人物背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品来改變你的人物背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個物品来改變你的人物背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景插圖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
-msgstr "將你的頭像設置為一個驚人的馬戲團鳥籠。"
+msgstr "將你的頭像設置為一個驚人的馬戲鳥籠。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_featherhat_circus
 msgid "Set your profile icon to an Equestrienne Headdress."
@@ -102600,7 +102600,7 @@ msgstr "來吧，全都來吧。"
 
 #: STRINGS.SKIN_NAMES.birdcage_circus
 msgid "The Amazing Sideshow"
-msgstr "驚人的馬戲團鳥籠"
+msgstr "驚人的馬戲鳥籠"
 
 #: STRINGS.SKIN_NAMES.featherhat_circus
 msgid "Equestrienne Headdress"
@@ -102608,7 +102608,7 @@ msgstr "馬戲團女騎手帽"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
-msgstr "驚人的馬戲團鳥籠背景"
+msgstr "驚人的馬戲鳥籠背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
 msgid "Portrait of the Equestrienne Headdress"
@@ -102616,7 +102616,7 @@ msgstr "馬戲團女騎手帽背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgid "The Magnificent Rainometer Portrait"
-msgstr "華麗雨量計背景"
+msgstr "華麗的雨量計背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_tophatcircus
 msgid "Amazing Ringmaster Hat Portrait"
@@ -102624,7 +102624,7 @@ msgstr "驚人的馴獸師帽背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
-msgstr "驚人的馬戲團鳥籠頭像"
+msgstr "驚人的馬戲鳥籠頭像"
 
 #: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
 msgid "Icon of the Equestrienne Headdress"

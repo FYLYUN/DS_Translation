@@ -204,7 +204,7 @@ msgstr "放置"
 
 #: STRINGS.ACTIONS.GIVE.READY
 msgid "Sacrifice"
-msgstr "献祭"
+msgstr "供奉"
 
 #: STRINGS.ACTIONS.GNAW
 msgid "Gnaw"
@@ -16916,7 +16916,7 @@ msgstr "我会在那结束时再试一次."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.DEAD
 msgid "They'll have better things in Valhalla."
-msgstr "他们在天堂将会得到更好的东西."
+msgstr "他们在英灵殿将会得到更好的东西."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.SLEEPING
 msgid "Such sweet slumber... Maybe later."
@@ -17304,7 +17304,7 @@ msgstr "随时赴死."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.GENERIC
 msgid "Odin will have you yet!"
-msgstr "最终欧丁神会拥有你的."
+msgstr "最终奥丁会拥有你的."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.COMBAT_QUIT.PIG
 msgid "I'll be back, pigskin!"
@@ -17400,7 +17400,7 @@ msgstr "来打我啊,恶魔!"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORRUINS
 msgid "Armor fit for Odin himself!"
-msgstr "主神奥丁的战甲!"
+msgstr "奥丁的战甲!"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORSEASHELL
 msgid "I shall not wash up on the shores of Valhalla wearing this!"
@@ -18912,7 +18912,7 @@ msgstr "如此的闪亮和通风！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.DEAD
 msgid "You're a bit slimy for Valhalla."
-msgstr "对瓦尔哈拉来说,你太黏黏糊糊的了"
+msgstr "对英灵殿来说,你太黏黏糊糊的了"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.FROG.GENERIC
 msgid "I'd like frog boots someday."
@@ -18972,11 +18972,11 @@ msgstr "一个雄伟的花生."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.DEAD
 msgid "It was once a wonder of the woods."
-msgstr "这里曾经是奇迹之森."
+msgstr "它曾经是森林的奇迹."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFLOWER.GENERIC
 msgid "A wonder of the woods."
-msgstr "奇迹之森."
+msgstr "森林的奇迹."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.GLOMMERFUEL
 msgid "This slop could be useful."
@@ -19272,7 +19272,7 @@ msgstr "这个海洋怪物做菜吃很好！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYFISH_DEAD
 msgid "The sea monster rides to Valhalla!"
-msgstr "水母怪物已经去英灵殿了！"
+msgstr "海怪已经去英灵殿了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.JELLYFISH_PLANTED
 msgid "I expected sea monsters to be bigger."
@@ -19456,7 +19456,7 @@ msgstr "烧掉这等灵物可能有点浪费."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE
 msgid "A tree of life, but it is not Yggdrasil."
-msgstr "活的树,不过和世界之树尤克特拉希尔没法比."
+msgstr "一颗生命之树,但它不是世界树."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LOBSTER
 msgid "You are dressed for battle, sea-dweller."
@@ -20136,7 +20136,7 @@ msgstr "猪啊,难道你不渴望战斗吗?"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGKING
 msgid "Is it pig-Odin?"
-msgstr "这是猪的女神?"
+msgstr "这是猪中的奥丁吗?"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGMAN.DEAD
 msgid "He died with honor."
@@ -20952,7 +20952,7 @@ msgstr "我并不是一个偷偷躲藏的坏人!难道我是吗?"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_LAUNCHER
 msgid "A gift from Odin!"
-msgstr "众神之王奥丁的礼物！"
+msgstr "奥丁的礼物！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_OBSIDIAN
 msgid "Feel the burn."
@@ -21144,7 +21144,7 @@ msgstr "不是我的尺寸."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SUPERTELESCOPE
 msgid "Odin has lent me his eye!"
-msgstr "众神之王奥丁把他的眼睛借给了我！"
+msgstr "奥丁把他的眼睛借给了我！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SURFNTURF
 msgid "Yuck! Turf!"
@@ -21552,7 +21552,7 @@ msgstr "一个奇怪的小人."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_5
 msgid "Will it take me to Asgard?"
-msgstr "它能带我去天宫么."
+msgstr "它能带我去阿斯加德么."
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRINKET_6
 msgid "Useless technology."
@@ -22212,7 +22212,7 @@ msgstr "查理?是我啊,麦斯威尔!"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_CHARLIE_ATTACK
 msgid "Ow! Charlie, that hurt!"
-msgstr "哦!查理,你受伤了!"
+msgstr "哦!查理,那很痛的!"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_COLD
 msgid "My heart grows cold."
@@ -38392,7 +38392,7 @@ msgstr "你听到了吗?"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_CHARLIE_ATTACK
 msgid "OUCH! Who dares?!"
-msgstr "哎哟！吃了豹子胆了？！"
+msgstr "哎哟！是谁敢这么做？！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_COLD
 msgid "The ambient temperature is low."
@@ -54744,7 +54744,7 @@ msgstr "谁在那儿,啊?"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_CHARLIE_ATTACK
 msgid "Yeouch! That was rough!"
-msgstr "哎哟!那真粗糙!"
+msgstr "哎哟!那真粗鲁!"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_COLD
 msgid "It's a bit chilly out here!"
@@ -56428,7 +56428,7 @@ msgstr "啊啊啊!"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN.GENERIC
 msgid "It's calling to me!"
-msgstr "它在叫我!"
+msgstr "它在呼唤我!"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "I'm sorry!"
@@ -70692,7 +70692,7 @@ msgstr "*有一个挑剔的舌头\n*有一个厨师专用工具\n*有一个时�
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Only eats meat"
-msgstr "*擅长战斗\n*吸收死掉的敌人的力量\n*只能吃肉食"
+msgstr "*擅长战斗\n*吸收击败的敌人的力量\n*只能吃肉食"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*On a first-name basis with the night"
