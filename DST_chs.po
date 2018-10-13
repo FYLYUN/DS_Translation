@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ABANDON
+#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -102846,3 +102846,10 @@ msgstr "错误：登入系统需要月球可见"
 msgid "Where There's a Wilson..."
 msgstr "威尔逊在哪里..."
 
+#: STRINGS.UI.SKIN_PRESETS.TITLE
+msgid "Clothing Presets"
+msgstr "皮肤预设"
+
+#: STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
+msgid "Weaveable Filter: {mode}"
+msgstr "仅显示可制作：{mode}"
