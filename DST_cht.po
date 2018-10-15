@@ -20224,7 +20224,7 @@ msgstr "%s被帶壞了…"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WENDY.FIRESTARTER
 msgid "Don't play with fire, Ms. %s."
-msgstr "不要玩火，Ms。%s。"
+msgstr "不要玩火，Ms.%s。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WENDY.GENERIC
 msgid "Greetings, Ms. %s. How are you?"
@@ -20292,7 +20292,7 @@ msgstr "肆意地破壞從來不是你的本色，女士"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "Good day, Ms. %s."
-msgstr "日安，Ms。%s。"
+msgstr "日安，Ms.%s。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WICKERBOTTOM.GHOST
 msgid "You know the price of revival as well as I do, %s."
@@ -20316,7 +20316,7 @@ msgstr "她是個縱火者，有著扭曲的一面，在那。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WILLOW.GENERIC
 msgid "Greetings, Ms. %s."
-msgstr "你好，Ms。%s。"
+msgstr "你好，Ms.%s。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WILLOW.GHOST
 msgid "We will require a heart to bring you back, %s."
@@ -26732,7 +26732,7 @@ msgstr "唔噢！我們和%s女士發生衝突了！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Ms. %s! We already had our combustion lessons!"
-msgstr "Ms。%s！我們已經有了我們的燃燒課！"
+msgstr "Ms.%s！我們已經有了我們的燃燒課！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "Hello Ms. %s!"
@@ -33172,7 +33172,7 @@ msgstr "%s女士…你要用你的智慧與我們對抗嗎？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Ms. %s, wreathed in flames."
-msgstr "Ms。%s，環繞著火焰"
+msgstr "Ms.%s，環繞著火焰"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "How do you do, Ms. %s?"
@@ -89196,7 +89196,7 @@ msgstr "\"這毫無樂趣可言。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_ice
 msgid "\"We all turn cold in time.\""
-msgstr "\"我們遲早會變得冰冷\""
+msgstr "\"我們遲早會變得冰冷。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant
 msgid "\"So alluring...\""
