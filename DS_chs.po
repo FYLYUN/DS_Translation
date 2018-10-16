@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
+#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgid "Wind"
 msgstr "风"
 
@@ -82882,3 +82882,1766 @@ msgstr "非常"
 msgid "Withered"
 msgstr "枯萎"
 
+#: STRINGS.MYSTERIOUS
+msgid "Peculiar"
+msgstr "怪异的"
+
+#: STRINGS.NAMES.ADULT_FLYTRAP
+msgid "Snaptooth Flytrap"
+msgstr "捕蝇草"
+
+#: STRINGS.NAMES.ALLOY
+msgid "Alloy"
+msgstr "合金"
+
+#: STRINGS.NAMES.ALOE
+msgid "Aloe"
+msgstr "芦荟"
+
+#: STRINGS.NAMES.ALOE_COOKED
+msgid "Cooked Aloe"
+msgstr "煮熟的芦荟"
+
+#: STRINGS.NAMES.ALOE_PLANTED
+msgid "Aloe"
+msgstr "芦荟苗"
+
+#: STRINGS.NAMES.ANCIENT_ROBOT_CLAW
+msgid "Iron Hulk"
+msgstr "废铁机器人"
+
+#: STRINGS.NAMES.ANCIENT_ROBOT_HEAD
+msgid "Iron Hulk"
+msgstr "废铁机器人"
+
+#: STRINGS.NAMES.ANCIENT_ROBOT_LEG
+msgid "Iron Hulk"
+msgstr "废铁机器人"
+
+#: STRINGS.NAMES.ANCIENT_ROBOT_RIBS
+msgid "Iron Hulk"
+msgstr "废铁机器人"
+
+#: STRINGS.NAMES.ANTCHEST
+msgid "Honey Chest"
+msgstr "蜂蜜储存箱"
+
+#: STRINGS.NAMES.ANTCOMBHOME
+msgid "Antcomb Home"
+msgstr "蚁巢"
+
+#: STRINGS.NAMES.ANTHILL
+msgid "Mant Hill"
+msgstr "蚁窝"
+
+#: STRINGS.NAMES.ANTMAN_WARRIOR_EGG
+msgid "Mant Warrior Egg"
+msgstr "蚂蚁战士卵"
+
+#: STRINGS.NAMES.ANTMASKHAT
+msgid "Mant Mask"
+msgstr "蚁盔"
+
+#: STRINGS.NAMES.ANTQUEEN
+msgid "Queen Womant"
+msgstr "蚁后"
+
+#: STRINGS.NAMES.ANTQUEEN_CHAMBERS
+msgid "Queen Womant Chambers"
+msgstr "蚁后窝"
+
+#: STRINGS.NAMES.ANTQUEEN_THRONE
+msgid "Stalacmite Throne"
+msgstr "石笋王座"
+
+#: STRINGS.NAMES.ANTSUIT
+msgid "Mant Suit"
+msgstr "蚁甲"
+
+#: STRINGS.NAMES.ANT_CAVE_LANTERN
+msgid "Lamp"
+msgstr "灯"
+
+#: STRINGS.NAMES.APOKALYPSE_HERALD
+msgid "Ancient Herald"
+msgstr "古代先驱"
+
+#: STRINGS.NAMES.APORKALYPSE_CLOCK
+msgid "Aporkalypse Calendar"
+msgstr "天启历"
+
+#: STRINGS.NAMES.ARMOR_METALPLATE
+msgid "Tin Suit"
+msgstr "锡甲"
+
+#: STRINGS.NAMES.ARMOR_WEEVOLE
+msgid "Weevole Mantle"
+msgstr "虫壳披风"
+
+#: STRINGS.NAMES.ASPARAGUS
+msgid "Asparagus"
+msgstr "芦笋"
+
+#: STRINGS.NAMES.ASPARAGUSSOUP
+msgid "Asparagus Soup"
+msgstr "芦笋汤"
+
+#: STRINGS.NAMES.ASPARAGUS_COOKED
+msgid "Cooked Asparagus"
+msgstr "煮熟的芦笋"
+
+#: STRINGS.NAMES.ASPARAGUS_PLANTED
+msgid "Asparagus"
+msgstr "芦笋苗"
+
+#: STRINGS.NAMES.BALLPEIN_HAMMER
+msgid "Ball Pein Hammer"
+msgstr "圆头锤"
+
+#: STRINGS.NAMES.BANDITHAT
+msgid "Swashy Hat"
+msgstr "强盗帽"
+
+#: STRINGS.NAMES.BANDITMAP
+msgid "Bandit Stash Map"
+msgstr "小偷藏匿地图"
+
+#: STRINGS.NAMES.BANDITTREASURE
+msgid "Secret Bandit Camp"
+msgstr "秘密营地"
+
+#: STRINGS.NAMES.BASEFAN
+msgid "Oscillating Fan"
+msgstr "转动的风扇"
+
+#: STRINGS.NAMES.BATHAT
+msgid "Cowl"
+msgstr "整流罩"
+
+#: STRINGS.NAMES.BAT_HIDE
+msgid "Pig Skin?"
+msgstr "猪皮?"
+
+#: STRINGS.NAMES.BILL
+msgid "Platapine"
+msgstr "鸭嘴豪猪"
+
+#: STRINGS.NAMES.BLUNDERBUSS
+msgid "Blunderbuss"
+msgstr "铳"
+
+#: STRINGS.NAMES.BRAMBLESPIKE
+msgid "Brambles"
+msgstr "荆棘"
+
+#: STRINGS.NAMES.BUGREPELLENT
+msgid "Bug B'Gone"
+msgstr "驱虫剂"
+
+#: STRINGS.NAMES.BURR
+msgid "Jungle Burr"
+msgstr "丛林毛刺"
+
+#: STRINGS.NAMES.BURR_SAPLING
+msgid "Rainforest Tree Sapling"
+msgstr "雨林树苗"
+
+#: STRINGS.NAMES.CANDLEHAT
+msgid "Cork Candle Hat"
+msgstr "软木蜡烛帽"
+
+#: STRINGS.NAMES.CHICKEN
+msgid "Chicken"
+msgstr "鸡"
+
+#: STRINGS.NAMES.CHITIN
+msgid "Chitin"
+msgstr "甲壳质"
+
+#: STRINGS.NAMES.CITY_LAMP
+msgid "Lamp Post"
+msgstr "路灯"
+
+#: STRINGS.NAMES.CLAWPALMTREE
+msgid "Claw Palm Tree"
+msgstr "棕榈爪树"
+
+#: STRINGS.NAMES.CLAWPALMTREE_SAPLING
+msgid "Claw Palm Sapling"
+msgstr "棕榈爪树苗"
+
+#: STRINGS.NAMES.CLIPPINGS
+msgid "Clippings"
+msgstr "剪刀"
+
+#: STRINGS.NAMES.CORK
+msgid "Cork"
+msgstr "软木"
+
+#: STRINGS.NAMES.CORKBOAT
+msgid "Cork Bowl Canoe"
+msgstr "碗状软木舟"
+
+#: STRINGS.NAMES.CORKCHEST
+msgid "Cork Barrel"
+msgstr "软木桶"
+
+#: STRINGS.NAMES.CORK_BAT
+msgid "Cork Bat"
+msgstr "软木棒"
+
+#: STRINGS.NAMES.CUTNETTLE
+msgid "Nettle"
+msgstr "荨麻"
+
+#: STRINGS.NAMES.DECO_ANTIQUITIES_BEEFALO
+msgid "Beefalo Mounting"
+msgstr "皮弗娄牛挂饰"
+
+#: STRINGS.NAMES.DECO_ANTIQUITIES_WALLFISH
+msgid "Tasteful Fish Mounting"
+msgstr "美味的鱼挂饰"
+
+#: STRINGS.NAMES.DECO_CAVE_BAT_BURROW
+msgid "Spooky Hole"
+msgstr "幽灵洞"
+
+#: STRINGS.NAMES.DECO_CAVE_BEAM_ROOM
+msgid "Unimportant Rock Pillar"
+msgstr "不重要的岩柱"
+
+#: STRINGS.NAMES.DECO_CHAIR_BENCH
+msgid "Bench"
+msgstr "长凳"
+
+#: STRINGS.NAMES.DECO_CHAIR_CLASSIC
+msgid "Classic Chair"
+msgstr "古典椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_CORNER
+msgid "Corner Chair"
+msgstr "角椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_FOOTREST
+msgid "Footrest"
+msgstr "踏板"
+
+#: STRINGS.NAMES.DECO_CHAIR_HORNED
+msgid "Horned Chair"
+msgstr "有角的椅子"
+
+#: STRINGS.NAMES.DECO_CHAIR_LOUNGE
+msgid "Lounge Chair"
+msgstr "休息椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_MASSAGER
+msgid "Massager Chair"
+msgstr "信使椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_OTTOMAN
+msgid "Ottoman Chair"
+msgstr "奥斯曼椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_ROCKING
+msgid "Rocking Chair"
+msgstr "摇椅"
+
+#: STRINGS.NAMES.DECO_CHAIR_STUFFED
+msgid "Stuffed Chair"
+msgstr "填充椅"
+
+#: STRINGS.NAMES.DECO_CHAISE
+msgid "Fancy Chaise"
+msgstr "花式躺椅"
+
+#: STRINGS.NAMES.DECO_LAMP_2EMBROIDERED
+msgid "Dual Embroidered Lamp"
+msgstr "双条纹灯"
+
+#: STRINGS.NAMES.DECO_LAMP_2FRINGES
+msgid "Dual Fringes Lamp"
+msgstr "双绣花灯"
+
+#: STRINGS.NAMES.DECO_LAMP_2UPTURNS
+msgid "Dual Upturn Lamp"
+msgstr "双重转灯"
+
+#: STRINGS.NAMES.DECO_LAMP_ADJUSTABLE
+msgid "Adjustable Lamp"
+msgstr "可调整灯"
+
+#: STRINGS.NAMES.DECO_LAMP_BELLSHADE
+msgid "Bellshade Lamp"
+msgstr "钟罩灯"
+
+#: STRINGS.NAMES.DECO_LAMP_CANDELABRA
+msgid "Candelabra Lamp"
+msgstr "烛台灯"
+
+#: STRINGS.NAMES.DECO_LAMP_CERAMIC
+msgid "Ceramic Lamp"
+msgstr "陶瓷灯"
+
+#: STRINGS.NAMES.DECO_LAMP_CRYSTALS
+msgid "Crystals Lamp"
+msgstr "水晶灯"
+
+#: STRINGS.NAMES.DECO_LAMP_DOWNBRIDGE
+msgid "Downbridge Lamp"
+msgstr "地下灯"
+
+#: STRINGS.NAMES.DECO_LAMP_EDISON
+msgid "Edison Lamp"
+msgstr "爱迪生灯"
+
+#: STRINGS.NAMES.DECO_LAMP_ELIZABETHAN
+msgid "Elizabethan Lamp"
+msgstr "伊丽莎白灯"
+
+#: STRINGS.NAMES.DECO_LAMP_FRINGE
+msgid "Fringe Lamp"
+msgstr "条纹灯"
+
+#: STRINGS.NAMES.DECO_LAMP_GLASS
+msgid "Glass Lamp"
+msgstr "玻璃灯"
+
+#: STRINGS.NAMES.DECO_LAMP_GOTHIC
+msgid "Gothic Lamp"
+msgstr "哥特灯"
+
+#: STRINGS.NAMES.DECO_LAMP_HOOFSPA
+msgid "Fancy Lamp"
+msgstr "花式灯"
+
+#: STRINGS.NAMES.DECO_LAMP_ORB
+msgid "Orb Lamp"
+msgstr "天体灯"
+
+#: STRINGS.NAMES.DECO_LAMP_RIGHTANGLES
+msgid "Right Angle Lamp"
+msgstr "直角灯"
+
+#: STRINGS.NAMES.DECO_LAMP_SPOOL
+msgid "Spool Lamp"
+msgstr "线轴灯"
+
+#: STRINGS.NAMES.DECO_LAMP_STAINGLASS
+msgid "Stainglass Lamp"
+msgstr "彩色玻璃灯"
+
+#: STRINGS.NAMES.DECO_LAMP_UPTURN
+msgid "Upturn Lamp"
+msgstr "翻转灯"
+
+#: STRINGS.NAMES.DECO_MARBLE
+msgid "Lit Marble Column"
+msgstr "发光大理石灯"
+
+#: STRINGS.NAMES.DECO_MILLINERY
+msgid "Millinery Column"
+msgstr "女帽柱"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_BASIC
+msgid "Basic Plantholder"
+msgstr "基本植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_BIRDCAGE
+msgid "Birdcage Plantholder"
+msgstr "基本植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_BONSAI
+msgid "Bonsai Plantholder"
+msgstr "盆景植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_DISHGARDEN
+msgid "Dishgarden Plantholder"
+msgstr "菜园植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_DRACEANA
+msgid "Draceana Plantholder"
+msgstr "龙血植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_FANCY
+msgid "Fancy Plantholder"
+msgstr "花俏植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_FERN
+msgid "Fern Plantholder"
+msgstr "蕨类植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_FERNSTAND
+msgid "Fernstand Plantholder"
+msgstr "蕨类植物种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_MARBLE
+msgid "Marble Plantholder"
+msgstr "大理石豆种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_ORCHID
+msgid "Orchid Plantholder"
+msgstr "兰花种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_PALM
+msgid "Palm Plantholder"
+msgstr "棕榈树种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_PHILODENDRON
+msgid "Philodendron Plantholder"
+msgstr "喜林芋种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_PITCHERS
+msgid "Pitcher Plantholder"
+msgstr "猪笼草种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_PLANTPET
+msgid "Plantpet Plantholder"
+msgstr "盆栽种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_TERRARIUM
+msgid "Terrarium Plantholder"
+msgstr "玻璃种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_TRAPS
+msgid "Traps Plantholder"
+msgstr "捕蝇草种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_WIP
+msgid "WIP Plantholder"
+msgstr "半成品种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_XEROGRAPHICA
+msgid "Xerographica Plantholder"
+msgstr "空气凤梨种植盆"
+
+#: STRINGS.NAMES.DECO_PLANTHOLDER_ZZ
+msgid "ZZ Plantholder"
+msgstr "金钱树种植盆"
+
+#: STRINGS.NAMES.DECO_ROUND
+msgid "Round Column"
+msgstr "圆柱"
+
+#: STRINGS.NAMES.DECO_RUINS_BEAM_ROOM
+msgid "Unimportant Pillar"
+msgstr "平凡的柱子"
+
+#: STRINGS.NAMES.DECO_RUINS_FOUNTAIN
+msgid "Wishing Well"
+msgstr "许愿井"
+
+#: STRINGS.NAMES.DECO_TABLE_BANKER
+msgid "Hard Wood Desk"
+msgstr "硬木桌"
+
+#: STRINGS.NAMES.DECO_TABLE_CHESS
+msgid "Chess Table"
+msgstr "象棋桌"
+
+#: STRINGS.NAMES.DECO_TABLE_CRATE
+msgid "Crate Table"
+msgstr "板条桌"
+
+#: STRINGS.NAMES.DECO_TABLE_DIY
+msgid "DIY Table"
+msgstr "手工桌"
+
+#: STRINGS.NAMES.DECO_TABLE_RAW
+msgid "College Table"
+msgstr "半成品桌"
+
+#: STRINGS.NAMES.DECO_TABLE_ROUND
+msgid "Round Table"
+msgstr "圆桌"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_AXE
+msgid "Axe"
+msgstr "斧子"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_BLACK_CAT
+msgid "Black Cat"
+msgstr "黑猫"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_CAPE
+msgid "Cape"
+msgstr "斗篷"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_EMBROIDERY_HOOP
+msgid "Embroidery Hoop"
+msgstr "绣花圈"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_FULLLENGTH_MIRROR
+msgid "Full Length Mirror"
+msgstr "穿衣镜"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_GEARS_ART
+msgid "Gears Art"
+msgstr "齿轮艺术"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_HUNT
+msgid "Hunt"
+msgstr "狩猎"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_MOSAIC
+msgid "Mosaic"
+msgstr "镶嵌工艺"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_NO_SMOKING
+msgid "No Smoking"
+msgstr "禁止吸烟"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_PERIODIC_TABLE
+msgid "Periodic Table"
+msgstr "元素周期表"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_PHOTO
+msgid "Photo"
+msgstr "照片"
+
+#: STRINGS.NAMES.DECO_WALLORNAMENT_WREATH
+msgid "Wreath"
+msgstr "花环"
+
+#: STRINGS.NAMES.DECO_WOOD
+msgid "Planed Wood Column"
+msgstr "被刨平的木柱"
+
+#: STRINGS.NAMES.DEED
+msgid "Deed of home ownership"
+msgstr "房契"
+
+#: STRINGS.NAMES.DISARMING_KIT
+msgid "Disarming Tools"
+msgstr "陷阱拆除工具"
+
+#: STRINGS.NAMES.DUG_NETTLE
+msgid "Nettle Plant"
+msgstr "荨麻簇"
+
+#: STRINGS.NAMES.DUNGBALL
+msgid "Dung Ball"
+msgstr "粪球"
+
+#: STRINGS.NAMES.DUNGBEETLE
+msgid "Dung Beetle"
+msgstr "蜣螂"
+
+#: STRINGS.NAMES.DUNGPILE
+msgid "Dung Pile"
+msgstr "粪堆"
+
+#: STRINGS.NAMES.FEATHER_THUNDER
+msgid "Thunder Feather"
+msgstr "闪电羽毛"
+
+#: STRINGS.NAMES.FEIJOADA
+msgid "Feijoada"
+msgstr "八宝饭"
+
+#: STRINGS.NAMES.FLOWER_RAINFOREST
+msgid "Exotic Flower"
+msgstr "奇异的花"
+
+#: STRINGS.NAMES.FROGLEGS_POISON
+msgid "Poison Dartfrog Legs"
+msgstr "箭毒蛙腿"
+
+#: STRINGS.NAMES.FROGLEGS_POISON_COOKED
+msgid "Cooked Dartfrog Legs"
+msgstr "烤箭毒蛙腿"
+
+#: STRINGS.NAMES.FROG_POISON
+msgid "Poison Dartfrog"
+msgstr "箭毒蛙"
+
+#: STRINGS.NAMES.GASCLOUD
+msgid "Noxious Cloud"
+msgstr "毒雾"
+
+#: STRINGS.NAMES.GASMASKHAT
+msgid "Gas Mask"
+msgstr "防毒面具"
+
+#: STRINGS.NAMES.GIANTGRUB
+msgid "Giant Grub"
+msgstr "巨型蛴螬"
+
+#: STRINGS.NAMES.GLOWFLY
+msgid "Glowfly"
+msgstr "萤火虫"
+
+#: STRINGS.NAMES.GLOWFLY_COCOON
+msgid "Glowfly Cocoon"
+msgstr "萤火虫茧"
+
+#: STRINGS.NAMES.GNAT
+msgid "Gnat Swarm"
+msgstr "蚋群"
+
+#: STRINGS.NAMES.GNATMOUND
+msgid "Gnat Mound"
+msgstr "蚋丘"
+
+#: STRINGS.NAMES.GOLDPAN
+msgid "Gold Pan"
+msgstr "蚋"
+
+#: STRINGS.NAMES.GOLD_DUST
+msgid "Gold Dust"
+msgstr "砂金"
+
+#: STRINGS.NAMES.GRABBING_VINE
+msgid "Hanging Vine"
+msgstr "爬藤"
+
+#: STRINGS.NAMES.GRASS_TALL
+msgid "Tall Grass"
+msgstr "高草丛"
+
+#: STRINGS.NAMES.GUMMY_CAKE
+msgid "Gummy Cake"
+msgstr "木糖蛋糕"
+
+#: STRINGS.NAMES.HALBERD
+msgid "Halberd"
+msgstr "战戟"
+
+#: STRINGS.NAMES.HANGING_VINE
+msgid "Hanging Vine"
+msgstr "悬藤"
+
+#: STRINGS.NAMES.HARDSHELL_TACOS
+msgid "Hard Shell Tacos"
+msgstr "硬壳玉米饼"
+
+#: STRINGS.NAMES.HAT_PIGCROWN
+msgid "Regal Scepter"
+msgstr "权杖"
+
+#: STRINGS.NAMES.HAYFEVERHAT
+msgid "Hay Fever Hat"
+msgstr "花粉热帽"
+
+#: STRINGS.NAMES.HEDGE
+msgid "Hedge"
+msgstr "树篱"
+
+#: STRINGS.NAMES.HIPPOPOTAMOOSE
+msgid "Hippopotamoose"
+msgstr "鹿角河马"
+
+#: STRINGS.NAMES.HOGUSPORKUSATOR
+msgid "Hogus Porkusator"
+msgstr "石猪引擎"
+
+#: STRINGS.NAMES.ICEDTEA
+msgid "Iced Tea"
+msgstr "冰茶"
+
+#: STRINGS.NAMES.INTERIOR_FLOOR_CHECK
+msgid "Checkered Flooring"
+msgstr "格子地板"
+
+#: STRINGS.NAMES.INTERIOR_FLOOR_MARBLE
+msgid "Marble Flooring"
+msgstr "大理石地板"
+
+#: STRINGS.NAMES.INTERIOR_FLOOR_PLAID_TILE
+msgid "Slate Flooring"
+msgstr "石地板"
+
+#: STRINGS.NAMES.INTERIOR_FLOOR_SHEET_METAL
+msgid "Sheet Metal Flooring"
+msgstr "金属地板"
+
+#: STRINGS.NAMES.INTERIOR_FLOOR_WOOD
+msgid "Wood Flooring"
+msgstr "木质地板"
+
+#: STRINGS.NAMES.INTERIOR_WALL_CHECKERED
+msgid "Checkered Wall Paper"
+msgstr "格子墙纸"
+
+#: STRINGS.NAMES.INTERIOR_WALL_FLORAL
+msgid "Floral Wall Paper"
+msgstr "碎花墙纸"
+
+#: STRINGS.NAMES.INTERIOR_WALL_HARLEQUIN
+msgid "Harlequin Wall Paper"
+msgstr "小丑墙纸"
+
+#: STRINGS.NAMES.INTERIOR_WALL_SUNFLOWER
+msgid "Sunflower Wall Paper"
+msgstr "向日葵墙纸"
+
+#: STRINGS.NAMES.INTERIOR_WALL_WOOD
+msgid "Wood Panelling"
+msgstr "木栅栏"
+
+#: STRINGS.NAMES.IRON
+msgid "Iron Ore"
+msgstr "铁矿石"
+
+#: STRINGS.NAMES.JELLYBUG
+msgid "Bean Bugs"
+msgstr "豆虫"
+
+#: STRINGS.NAMES.JELLYBUG_COOKED
+msgid "Cooked Bean Bugs"
+msgstr "烤豆虫"
+
+#: STRINGS.NAMES.KEY_TO_CITY
+msgid "Key to the City"
+msgstr "城市的钥匙"
+
+#: STRINGS.NAMES.KINGFISHER
+msgid "Kingfisher"
+msgstr "翠鸟"
+
+#: STRINGS.NAMES.LAWNORNAMENT
+msgid "Lawn Decoration"
+msgstr "草坪装饰"
+
+#: STRINGS.NAMES.LIFEPLANT
+msgid "Magic Flower"
+msgstr "魔法花"
+
+#: STRINGS.NAMES.LILYPAD
+msgid "Lily Pad"
+msgstr "睡莲叶"
+
+#: STRINGS.NAMES.LOTUS
+msgid "Lotus Plant"
+msgstr "睡莲"
+
+#: STRINGS.NAMES.LOTUS_FLOWER
+msgid "Lotus Flower"
+msgstr "睡莲花"
+
+#: STRINGS.NAMES.LOTUS_FLOWER_COOKED
+msgid "Cooked Lotus Root"
+msgstr "烤莲藕"
+
+#: STRINGS.NAMES.MAGNIFYING_GLASS
+msgid "Magnifying Glass"
+msgstr "放大镜"
+
+#: STRINGS.NAMES.MANDRAKEHOUSE
+msgid "Mandrake Hill"
+msgstr "曼德拉丘"
+
+#: STRINGS.NAMES.MANDRAKEMAN
+msgid "Elder Mandrake"
+msgstr "曼德拉精"
+
+#: STRINGS.NAMES.MEAN_FLYTRAP
+msgid "Snaptooth Seedling"
+msgstr "利齿幼苗"
+
+#: STRINGS.NAMES.METALPLATEHAT
+msgid "Fancy Helmet"
+msgstr "花哨的头盔"
+
+#: STRINGS.NAMES.NECTAR_POD
+msgid "Nectar"
+msgstr "花蜜"
+
+#: STRINGS.NAMES.NETTLE
+msgid "Nettle Vine"
+msgstr "荨麻藤"
+
+#: STRINGS.NAMES.NETTLELOSANGE
+msgid "Nettle Rolls"
+msgstr "荨麻卷"
+
+#: STRINGS.NAMES.OINC
+msgid "Oinc"
+msgstr "货币"
+
+#: STRINGS.NAMES.OINC10
+msgid "Tenpiece Oinc"
+msgstr "十元货币"
+
+#: STRINGS.NAMES.OINC_PL
+msgid "Oincs"
+msgstr "货币"
+
+#: STRINGS.NAMES.PANGOLDEN
+msgid "Pangolden"
+msgstr "淘金兽"
+
+#: STRINGS.NAMES.PARROT_BLUE
+msgid "Parrot"
+msgstr "鹦鹉"
+
+#: STRINGS.NAMES.PEAGAWK
+msgid "Peagawk"
+msgstr "傻孔雀"
+
+#: STRINGS.NAMES.PEAGAWKFEATHER
+msgid "Peagawk Plume"
+msgstr "孔雀羽毛"
+
+#: STRINGS.NAMES.PEAGAWKFEATHERHAT
+msgid "Peagawk Hat"
+msgstr "孔雀帽"
+
+#: STRINGS.NAMES.PEAGAWKFEATHER_PRISM
+msgid "Vibrant Peagawk Plume"
+msgstr "发光的孔雀羽毛"
+
+#: STRINGS.NAMES.PEAGAWK_BUSH
+msgid "Blinkbush"
+msgstr "眨眼的灌木丛"
+
+#: STRINGS.NAMES.PEDESTAL_KEY
+msgid "Royal Gallery Key"
+msgstr "皇家画廊钥匙"
+
+#: STRINGS.NAMES.PEEKHEN
+msgid "Peep Hen"
+msgstr "偷窥鸡"
+
+#: STRINGS.NAMES.PHEROMONESTONE
+msgid "Pherostone"
+msgstr "费罗石"
+
+#: STRINGS.NAMES.PIGBANDIT
+msgid "Masked Pig"
+msgstr "戴面具的猪"
+
+#: STRINGS.NAMES.PIGCROWNHAT
+msgid "Royal Crown"
+msgstr "王冠"
+
+#: STRINGS.NAMES.PIGEON
+msgid "Pigeon"
+msgstr "鸽子"
+
+#: STRINGS.NAMES.PIGGHOST
+msgid "Ancient Spirit"
+msgstr "远古之魄"
+
+#: STRINGS.NAMES.PIGHOUSE_CITY
+msgid "Town House"
+msgstr "猪房"
+
+#: STRINGS.NAMES.PIGHOUSE_DOOR
+msgid "House With Door"
+msgstr "有门的房子"
+
+#: STRINGS.NAMES.PIGHOUSE_FARM
+msgid "Farm House"
+msgstr "农场小屋"
+
+#: STRINGS.NAMES.PIGHOUSE_MINE
+msgid "Quarry Lodgings"
+msgstr "采石场小屋"
+
+#: STRINGS.NAMES.PIGMAN_BANKER
+msgid "Banker"
+msgstr "银行家"
+
+#: STRINGS.NAMES.PIGMAN_BEAUTICIAN
+msgid "Beautician"
+msgstr "美容师"
+
+#: STRINGS.NAMES.PIGMAN_COLLECTOR
+msgid "Collector"
+msgstr "收藏家"
+
+#: STRINGS.NAMES.PIGMAN_FARMER
+msgid "Farmer"
+msgstr "农民"
+
+#: STRINGS.NAMES.PIGMAN_FLORIST
+msgid "Florist"
+msgstr "花农"
+
+#: STRINGS.NAMES.PIGMAN_MAYOR
+msgid "Mayor Truffleston"
+msgstr "镇长"
+
+#: STRINGS.NAMES.PIGMAN_MECHANIC
+msgid "Worker"
+msgstr "工人"
+
+#: STRINGS.NAMES.PIGMAN_MINER
+msgid "Miner"
+msgstr "矿工"
+
+#: STRINGS.NAMES.PIGMAN_ROYALGUARD
+msgid "Royal Guard"
+msgstr "皇家守卫"
+
+#: STRINGS.NAMES.PIGMAN_STOREOWNER
+msgid "Shopkeep"
+msgstr "店长"
+
+#: STRINGS.NAMES.PIG_COIN
+msgid "Sty Piece"
+msgstr "猪皮币"
+
+#: STRINGS.NAMES.PIG_GUARD_TOWER
+msgid "Watch Tower"
+msgstr "瞭望塔"
+
+#: STRINGS.NAMES.PIG_GUARD_TOWER_PALACE
+msgid "Watch Tower"
+msgstr "瞭望塔"
+
+#: STRINGS.NAMES.PIG_LATIN_1
+msgid "Some strange pig scrawl"
+msgstr "一些奇怪的猪的涂鸦"
+
+#: STRINGS.NAMES.PIG_PALACE
+msgid "Palace"
+msgstr "宫殿"
+
+#: STRINGS.NAMES.PIG_QUEEN
+msgid "Pig Queen"
+msgstr "猪女王"
+
+#: STRINGS.NAMES.PIG_RUINS_ARTICHOKE
+msgid "Crumbling Carved Stone"
+msgstr "残破的雕像"
+
+#: STRINGS.NAMES.PIG_RUINS_CREEPING_VINES
+msgid "Vines"
+msgstr "藤蔓"
+
+#: STRINGS.NAMES.PIG_RUINS_DART_TRAP
+msgid "Striking Carving"
+msgstr "引人注目的雕像"
+
+#: STRINGS.NAMES.PIG_RUINS_ENTRANCE
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_ENTRANCE2
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_ENTRANCE3
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_ENTRANCE_SMALL
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_EXIT
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_EXIT2
+msgid "Ruinous Entrance"
+msgstr "废墟入口"
+
+#: STRINGS.NAMES.PIG_RUINS_EXTRACTED
+msgid "Chiseled Stone"
+msgstr "石雕"
+
+#: STRINGS.NAMES.PIG_RUINS_HEAD
+msgid "Crumbling Visage"
+msgstr "残破的面容"
+
+#: STRINGS.NAMES.PIG_RUINS_IDOL
+msgid "Tempting Idol"
+msgstr "吸引人的石像"
+
+#: STRINGS.NAMES.PIG_RUINS_PIG
+msgid "Crumbling Icon"
+msgstr "残破的硬币"
+
+#: STRINGS.NAMES.PIG_RUINS_PLAQUE
+msgid "Erroding Totem"
+msgstr "腐蚀的图腾"
+
+#: STRINGS.NAMES.PIG_RUINS_PRESSURE_PLATE
+msgid "Suspicious Stone"
+msgstr "可疑的石头"
+
+#: STRINGS.NAMES.PIG_RUINS_SPEAR_TRAP
+msgid "Decorative Holes?"
+msgstr "装饰孔？"
+
+#: STRINGS.NAMES.PIG_RUINS_SPEAR_TRAP_BROKEN
+msgid "Busted Spear Trap"
+msgstr "破损的钉坑"
+
+#: STRINGS.NAMES.PIG_RUINS_SPEAR_TRAP_TRIGGERED
+msgid "Nasty Spear Trap"
+msgstr "肮脏的钉坑"
+
+#: STRINGS.NAMES.PIG_RUINS_TORCH
+msgid "Crumbling Brazier"
+msgstr "破损的火盆"
+
+#: STRINGS.NAMES.PIG_RUINS_TORCH_WALL
+msgid "Wall Brazier"
+msgstr "壁炉"
+
+#: STRINGS.NAMES.PIG_SCEPTER
+msgid "Regal Scepter"
+msgstr "权杖"
+
+#: STRINGS.NAMES.PIG_SHOP_ACADEMY
+msgid "Swinesbury Academy"
+msgstr "小镇学会"
+
+#: STRINGS.NAMES.PIG_SHOP_ANTIQUITIES
+msgid "'The Sty' Oddities Emporium"
+msgstr "‘猪圈’市场"
+
+#: STRINGS.NAMES.PIG_SHOP_ARCANE
+msgid "The Flying Pig \nArcane Shop"
+msgstr "飞猪 \n神秘商店"
+
+#: STRINGS.NAMES.PIG_SHOP_CITYHALL
+msgid "Swinesbury City Hall"
+msgstr "小镇大厅"
+
+#: STRINGS.NAMES.PIG_SHOP_CITYHALL_PLAYER
+msgid "My City Hall"
+msgstr "我的城市大厅"
+
+#: STRINGS.NAMES.PIG_SHOP_DELI
+msgid "The Sterling Trough Deli"
+msgstr "高纯度熟猪食店"
+
+#: STRINGS.NAMES.PIG_SHOP_FLORIST
+msgid "Miss Sow's\nFloral Arrangements"
+msgstr "母猪小姐的\nFloral 花之约定"
+
+#: STRINGS.NAMES.PIG_SHOP_GENERAL
+msgid "Pigg and Pigglet's\nGeneral Store"
+msgstr "猪和小猪的\nGeneral 商店"
+
+#: STRINGS.NAMES.PIG_SHOP_HATSHOP
+msgid "The Sow's Ear \nHat Shop"
+msgstr "母猪耳 \n帽店"
+
+#: STRINGS.NAMES.PIG_SHOP_HOOFSPA
+msgid "Curly Tails\nMud Spa"
+msgstr "卷尾\n泥浆SPA"
+
+#: STRINGS.NAMES.PIG_SHOP_PRODUCE
+msgid "Swinesbury Fine Grocer's"
+msgstr "小镇杂货店"
+
+#: STRINGS.NAMES.PIG_SHOP_WEAPONS
+msgid "The Boar's Tusk \nWeapon Shop"
+msgstr "野猪獠牙 \n武器店"
+
+#: STRINGS.NAMES.PIKO
+msgid "Piko"
+msgstr "松鼠"
+
+#: STRINGS.NAMES.PIKO_ORANGE
+msgid "Orange Piko"
+msgstr "橙色松鼠"
+
+#: STRINGS.NAMES.PITHHAT
+msgid "Pith Hat"
+msgstr "木帽"
+
+#: STRINGS.NAMES.PLAYERHOUSE_BRICK
+msgid "Brick Home"
+msgstr "砖房"
+
+#: STRINGS.NAMES.PLAYERHOUSE_CITY
+msgid "Slanty Shanty"
+msgstr "歪斜的小木屋"
+
+#: STRINGS.NAMES.PLAYERHOUSE_COTTAGE
+msgid "Cozy Cottage"
+msgstr "舒适的小屋"
+
+#: STRINGS.NAMES.PLAYERHOUSE_GOTHIC
+msgid "Gothic Home"
+msgstr "哥特式房屋"
+
+#: STRINGS.NAMES.PLAYERHOUSE_MANOR
+msgid "Impressive Manor"
+msgstr "显赫的庄园"
+
+#: STRINGS.NAMES.PLAYERHOUSE_TUDOR
+msgid "Tudor Home"
+msgstr "都铎式房屋"
+
+#: STRINGS.NAMES.PLAYERHOUSE_TURRET
+msgid "Turreted Home"
+msgstr "塔状房屋"
+
+#: STRINGS.NAMES.PLAYERHOUSE_VILLA
+msgid "Glorious Villa"
+msgstr "豪华别墅"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_BRICK_CRAFT
+msgid "Brick Home Kit"
+msgstr "砖房配套家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_COTTAGE_CRAFT
+msgid "Cottage Kit"
+msgstr "小屋配套家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_GOTHIC_CRAFT
+msgid "Gothic Home Kit"
+msgstr "哥特式家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_MANOR_CRAFT
+msgid "Manor Kit"
+msgstr "庄园配套家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_TUDOR_CRAFT
+msgid "Tudor Home Kit"
+msgstr "都铎配套家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_TURRET_CRAFT
+msgid "Turreted Home Kit"
+msgstr "角塔配套家具"
+
+#: STRINGS.NAMES.PLAYER_HOUSE_VILLA_CRAFT
+msgid "Villa Kit"
+msgstr "别墅配套家具"
+
+#: STRINGS.NAMES.POG
+msgid "Pog"
+msgstr "帕格"
+
+#: STRINGS.NAMES.PORKLAND_ENTRANCE
+msgid "Skyworthy"
+msgstr "天空之椅"
+
+#: STRINGS.NAMES.PORKLAND_EXIT
+msgid "Skyworthy"
+msgstr "天空之椅"
+
+#: STRINGS.NAMES.PORKLAND_INTRO
+msgid "Maxameleon"
+msgstr "菱铁矿"
+
+#: STRINGS.NAMES.PROP_DOOR
+msgid "Door"
+msgstr "门"
+
+#: STRINGS.NAMES.PUGALISK
+msgid "Pugalisk"
+msgstr "泥虫"
+
+#: STRINGS.NAMES.PUGALISK_FOUNTAIN
+msgid "Fountain of Youth"
+msgstr "长生之泉"
+
+#: STRINGS.NAMES.PUGALISK_RUINS_PILLAR
+msgid "Teetering Pillar"
+msgstr "摇摇欲坠的矿柱"
+
+#: STRINGS.NAMES.PUGALISK_TRAP_DOOR
+msgid "Ominous Carving"
+msgstr "不祥的雕塑"
+
+#: STRINGS.NAMES.RABID_BEETLE
+msgid "Rabid Beetle"
+msgstr "狂热的甲虫"
+
+#: STRINGS.NAMES.RADISH
+msgid "Radish"
+msgstr "萝卜"
+
+#: STRINGS.NAMES.RADISH_COOKED
+msgid "Cooked Radish"
+msgstr "熟萝卜"
+
+#: STRINGS.NAMES.RADISH_PLANTED
+msgid "Radish"
+msgstr "萝卜"
+
+#: STRINGS.NAMES.RAINFORESTTREE
+msgid "Rainforest Tree"
+msgstr "雨林树"
+
+#: STRINGS.NAMES.REEDS_WATER
+msgid "Reeds"
+msgstr "芦苇"
+
+#: STRINGS.NAMES.RELIC_1
+msgid "Lost Idol"
+msgstr "遗失的神像"
+
+#: STRINGS.NAMES.RELIC_2
+msgid "Lost Totem"
+msgstr "遗失的图腾"
+
+#: STRINGS.NAMES.RELIC_3
+msgid "Relic Fragment"
+msgstr "遗迹碎片"
+
+#: STRINGS.NAMES.ROCK_ANTCAVE
+msgid "Stalactite"
+msgstr "钟乳石"
+
+#: STRINGS.NAMES.ROCK_FLIPPABLE
+msgid "Stone Slab"
+msgstr "小石板"
+
+#: STRINGS.NAMES.ROC_HEAD
+msgid "BFB"
+msgstr "大鹏的头"
+
+#: STRINGS.NAMES.ROC_LEG
+msgid "BFB"
+msgstr "大鹏的脚"
+
+#: STRINGS.NAMES.ROC_NEST_BRANCH1
+msgid "Weathered Branch"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_BRANCH2
+msgid "Weathered Branch"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_BUSH
+msgid "Weathered Shrub"
+msgstr "风化的灌木丛"
+
+#: STRINGS.NAMES.ROC_NEST_DEBRIS1
+msgid "Weathered Stick"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_DEBRIS2
+msgid "Weathered Stick"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_DEBRIS3
+msgid "Weathered Stick"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_DEBRIS4
+msgid "Weathered Stick"
+msgstr "风化的树枝"
+
+#: STRINGS.NAMES.ROC_NEST_EGG1
+msgid "Petrified Egg"
+msgstr "石化的蛋"
+
+#: STRINGS.NAMES.ROC_NEST_EGG2
+msgid "Petrified Egg"
+msgstr "石化的蛋"
+
+#: STRINGS.NAMES.ROC_NEST_EGG3
+msgid "Petrified Egg"
+msgstr "石化的蛋"
+
+#: STRINGS.NAMES.ROC_NEST_EGG4
+msgid "Petrified Egg"
+msgstr "石化的蛋"
+
+#: STRINGS.NAMES.ROC_NEST_HOUSE
+msgid "Weathered House"
+msgstr "饱经风霜的房子"
+
+#: STRINGS.NAMES.ROC_NEST_RUSTY_LAMP
+msgid "Rusty Lamp"
+msgstr "生锈的街灯"
+
+#: STRINGS.NAMES.ROC_NEST_TREE1
+msgid "Weathered Tree"
+msgstr "风化的树木"
+
+#: STRINGS.NAMES.ROC_NEST_TREE2
+msgid "Weathered Tree"
+msgstr "风化的树木"
+
+#: STRINGS.NAMES.ROC_NEST_TRUNK
+msgid "Weathered Trunk"
+msgstr "风化的树桩"
+
+#: STRINGS.NAMES.ROC_ROBIN_EGG
+msgid "Stone Egg"
+msgstr "岩蛋"
+
+#: STRINGS.NAMES.ROC_TAIL
+msgid "BFB"
+msgstr "大鹏的尾巴"
+
+#: STRINGS.NAMES.ROYAL_GALLERY
+msgid "Royal Gallery Exhibit"
+msgstr "皇家画廊展览"
+
+#: STRINGS.NAMES.RO_BIN
+msgid "Ro Bin"
+msgstr "露比"
+
+#: STRINGS.NAMES.RO_BIN_GIZZARD_STONE
+msgid "Ro Bin Gizzard Stone"
+msgstr "露比的砂囊石"
+
+#: STRINGS.NAMES.RUG_BEARD
+msgid "Beard Rug"
+msgstr "胡须地毯"
+
+#: STRINGS.NAMES.RUG_BRAID
+msgid "Braid Rug"
+msgstr "编织地毯"
+
+#: STRINGS.NAMES.RUG_CATCOON
+msgid "Catcoon Rug"
+msgstr "浣熊地毯"
+
+#: STRINGS.NAMES.RUG_CRIME
+msgid "Crime Rug"
+msgstr "不法者的地毯"
+
+#: STRINGS.NAMES.RUG_FUR
+msgid "Fur Throw Rug"
+msgstr "毛皮地毯"
+
+#: STRINGS.NAMES.RUG_HEDGEHOG
+msgid "Hedgehog Rug"
+msgstr "刺猬地毯"
+
+#: STRINGS.NAMES.RUG_HOOFPRINT
+msgid "Hoofprint Rug"
+msgstr "蹄印地毯"
+
+#: STRINGS.NAMES.RUG_METAL
+msgid "Metal Rug"
+msgstr "金属地毯"
+
+#: STRINGS.NAMES.RUG_NAILBED
+msgid "Nailbed Rug"
+msgstr "钉床地毯"
+
+#: STRINGS.NAMES.RUG_OCTAGON
+msgid "Octagon Rug"
+msgstr "八角地毯"
+
+#: STRINGS.NAMES.RUG_OVAL
+msgid "Oval Rug"
+msgstr "椭圆地毯"
+
+#: STRINGS.NAMES.RUG_PORCUPUSS
+msgid "Porcupus Hide"
+msgstr "鸭嘴兽地毯"
+
+#: STRINGS.NAMES.RUG_RECTANGLE
+msgid "Large Rug"
+msgstr "大地毯"
+
+#: STRINGS.NAMES.RUG_ROUND
+msgid "Eye Rug"
+msgstr "圆地毯"
+
+#: STRINGS.NAMES.RUG_RUBBERMAT
+msgid "Rubbermat Rug"
+msgstr "橡胶地毯"
+
+#: STRINGS.NAMES.RUG_SQUARE
+msgid "Square Throw Rug"
+msgstr "方形地毯"
+
+#: STRINGS.NAMES.RUG_SWIRL
+msgid "Swirl Rug"
+msgstr "漩涡地毯"
+
+#: STRINGS.NAMES.RUG_TILES
+msgid "Soccer Rug"
+msgstr "足球地毯"
+
+#: STRINGS.NAMES.RUG_WEB
+msgid "Web Rug"
+msgstr "网状地毯"
+
+#: STRINGS.NAMES.RUG_WORMHOLE
+msgid "Wormhole Rug"
+msgstr "虫洞地毯"
+
+#: STRINGS.NAMES.RUINS_ARTICHOKE
+msgid "Old Statue"
+msgstr "古老的雕像"
+
+#: STRINGS.NAMES.RUIN_GIANT_HEAD
+msgid "Massive Statue"
+msgstr "巨大的雕像"
+
+#: STRINGS.NAMES.SCORPION
+msgid "Scorpion"
+msgstr "毒蝎"
+
+#: STRINGS.NAMES.SECURITYCONTRACT
+msgid "Security Contract"
+msgstr "安保合同"
+
+#: STRINGS.NAMES.SEDIMENTPUDDLE
+msgid "Sparkling Pool"
+msgstr "闪光的水坑"
+
+#: STRINGS.NAMES.SHEARS
+msgid "Shears"
+msgstr "剪刀"
+
+#: STRINGS.NAMES.SHELVES_ADJUSTABLE
+msgid "Adjustable Shelf"
+msgstr "活动架"
+
+#: STRINGS.NAMES.SHELVES_AFRAME
+msgid "A-Frame Shelf"
+msgstr "A型架"
+
+#: STRINGS.NAMES.SHELVES_BASIC
+msgid "Basic Bookshelf"
+msgstr "书架"
+
+#: STRINGS.NAMES.SHELVES_CINDERBLOCKS
+msgid "Cinderblock Bookshelf"
+msgstr "砖砌书架"
+
+#: STRINGS.NAMES.SHELVES_CRATES
+msgid "Crates Shelf"
+msgstr "板条架"
+
+#: STRINGS.NAMES.SHELVES_FRIDGE
+msgid "Fridge"
+msgstr "冰箱"
+
+#: STRINGS.NAMES.SHELVES_GLASS
+msgid "Glass Shelf"
+msgstr "玻璃架"
+
+#: STRINGS.NAMES.SHELVES_HATTREE
+msgid "Hat Tree"
+msgstr "衣帽架"
+
+#: STRINGS.NAMES.SHELVES_HOOKS
+msgid "Hook Shelf"
+msgstr "挂钩架"
+
+#: STRINGS.NAMES.SHELVES_HUTCH
+msgid "Hutch Shelf"
+msgstr "储物架"
+
+#: STRINGS.NAMES.SHELVES_INDUSTRIAL
+msgid "Industrial Shelf"
+msgstr "工业货架"
+
+#: STRINGS.NAMES.SHELVES_LADDER
+msgid "Ladder Shelf"
+msgstr "梯架"
+
+#: STRINGS.NAMES.SHELVES_MARBLE
+msgid "Marble Shelf"
+msgstr "大理石架"
+
+#: STRINGS.NAMES.SHELVES_MIDCENTURY
+msgid "Windowed Cabinet"
+msgstr "玻璃柜"
+
+#: STRINGS.NAMES.SHELVES_PALLET
+msgid "Pallet Shelf"
+msgstr "托盘架"
+
+#: STRINGS.NAMES.SHELVES_PIPE
+msgid "Pipe Shelf"
+msgstr "水管架"
+
+#: STRINGS.NAMES.SHELVES_WALLMOUNT
+msgid "Wall Mounted Shelf"
+msgstr "墙上置物架"
+
+#: STRINGS.NAMES.SHELVES_WOOD
+msgid "Carved Bookshelf"
+msgstr "木刻书架"
+
+#: STRINGS.NAMES.SHOP_SELLER
+msgid "Sell"
+msgstr "出售"
+
+#: STRINGS.NAMES.SHOP_TRINKET
+msgid "Valuable Beads"
+msgstr "珍珠"
+
+#: STRINGS.NAMES.SLUGBUG
+msgid "Gummy Slug"
+msgstr "糖蛞蝓"
+
+#: STRINGS.NAMES.SLUGBUG_COOKED
+msgid "Cooked Gummy Slug"
+msgstr "烤蛞蝓"
+
+#: STRINGS.NAMES.SMASHINGPOT
+msgid "A Smashing Pot"
+msgstr "古代瓦罐"
+
+#: STRINGS.NAMES.SMELTER
+msgid "Smelter"
+msgstr "炼铁套装"
+
+#: STRINGS.NAMES.SNAKEBONESOUP
+msgid "Snake Bone Soup"
+msgstr "骨头汤"
+
+#: STRINGS.NAMES.SNAKE_AMPHIBIOUS
+msgid "Viper"
+msgstr "毒蛇"
+
+#: STRINGS.NAMES.SNAKE_BONE
+msgid "Snake Bone"
+msgstr "沙虫骨骼"
+
+#: STRINGS.NAMES.SNAPDRAGON
+msgid "Snap Dragon"
+msgstr "金鱼草"
+
+#: STRINGS.NAMES.SPICYVEGSTINGER
+msgid "Spicy Vegetable Stinger"
+msgstr "辛辣鸡尾酒"
+
+#: STRINGS.NAMES.SPIDER_MONKEY
+msgid "Spider Monkey"
+msgstr "蛛猩"
+
+#: STRINGS.NAMES.SPIDER_MONKEY_TREE
+msgid "Cocooned Tree"
+msgstr "布满蛛网的树"
+
+#: STRINGS.NAMES.SPRINKLER
+msgid "Sprinkler"
+msgstr "洒水器"
+
+#: STRINGS.NAMES.STEAMEDHAMSANDWICH
+msgid "Steamed Ham Sandwich"
+msgstr "蒸火腿三明治"
+
+#: STRINGS.NAMES.SUNKEN_RELIC
+msgid "Sunken Object"
+msgstr "沉落的物品"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_BASIC_BULB
+msgid "Wired Bulb"
+msgstr "诡异电灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_BASIC_METAL
+msgid "Metal Shade Lamp"
+msgstr "金属电灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_CHANDALIER_CANDLES
+msgid "Chandalier"
+msgstr "蜡烛灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_DERBY
+msgid "Derby Light"
+msgstr "帽灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_FLORAL_BLOOMER
+msgid "Hanging Floral Lamp"
+msgstr "花灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_FLORAL_BULB
+msgid "Blown Glass Bulb"
+msgstr "玻璃花灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_FLORAL_SCALLOP
+msgid "Hanging Blooming Lamp"
+msgstr "美丽花灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_PENDANT_CHERRIES
+msgid "Cherry Lamp Shade"
+msgstr "樱桃灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_ROPE_1
+msgid "Rope Light"
+msgstr "绳索吊灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_ROPE_2
+msgid "Dual Rope Light"
+msgstr "双绳吊灯"
+
+#: STRINGS.NAMES.SWINGING_LIGHT_TOPHAT
+msgid "Tophat Light"
+msgstr "高礼帽灯"
+
+#: STRINGS.NAMES.TEA
+msgid "Tea"
+msgstr "茶"
+
+#: STRINGS.NAMES.TEATREE
+msgid "Tea Tree"
+msgstr "茶树"
+
+#: STRINGS.NAMES.TEATREE_NUT
+msgid "Seed Pod"
+msgstr "茶树种子"
+
+#: STRINGS.NAMES.TEATREE_NUT_COOKED
+msgid "Cooked Seed Pod"
+msgstr "烤熟茶树种子"
+
+#: STRINGS.NAMES.TEATREE_SAPLING
+msgid "Tea Tree Sapling"
+msgstr "茶树苗"
+
+#: STRINGS.NAMES.THUNDERBIRD
+msgid "Thunderbird"
+msgstr "雷鸟"
+
+#: STRINGS.NAMES.THUNDERBIRDNEST
+msgid "Thundernest"
+msgstr "雷鸟巢"
+
+#: STRINGS.NAMES.THUNDERHAT
+msgid "Thunderhat"
+msgstr "避雷帽"
+
+#: STRINGS.NAMES.TOPIARY
+msgid "Intricate Topiary"
+msgstr "杂乱的植物"
+
+#: STRINGS.NAMES.TREE_PILLAR
+msgid "Great Leafy Stalk"
+msgstr "大树藤"
+
+#: STRINGS.NAMES.TRINKET_GIFTSHOP_1
+msgid "Queen Malfalfa"
+msgstr "王后皇冠"
+
+#: STRINGS.NAMES.TRINKET_GIFTSHOP_3
+msgid "Post Card of the Royal Palace"
+msgstr "皇室明信片"
+
+#: STRINGS.NAMES.TRINKET_GIFTSHOP_4
+msgid "Can of Silly String"
+msgstr "整蛊玩具"
+
+#: STRINGS.NAMES.TUBERTREE
+msgid "Tuber Tree"
+msgstr "块茎树"
+
+#: STRINGS.NAMES.TUBER_BLOOM_CROP
+msgid "Blooming Tuber"
+msgstr "块茎树花"
+
+#: STRINGS.NAMES.TUBER_BLOOM_CROP_COOKED
+msgid "Fried Blooming Tuber"
+msgstr "烤熟的块茎树花"
+
+#: STRINGS.NAMES.TUBER_CROP
+msgid "Tuber"
+msgstr "树茎"
+
+#: STRINGS.NAMES.TUBER_CROP_COOKED
+msgid "Fried Tuber"
+msgstr "烤熟的树茎"
+
+#: STRINGS.NAMES.TURF_COBBLEROAD
+msgid "Stone Road Turf"
+msgstr "卵石路地皮"
+
+#: STRINGS.NAMES.TURF_DEEPRAINFOREST
+msgid "Dense Rainforest Turf"
+msgstr "热带雨林地皮"
+
+#: STRINGS.NAMES.TURF_FIELDS
+msgid "Cultivated Turf"
+msgstr "草坪"
+
+#: STRINGS.NAMES.TURF_FOUNDATION
+msgid "Flat Stone Turf"
+msgstr "平整石路"
+
+#: STRINGS.NAMES.TURF_GASJUNGLE
+msgid "Toxic Turf"
+msgstr "沼气丛林地皮"
+
+#: STRINGS.NAMES.TURF_LAWN
+msgid "Lawn Turf"
+msgstr "地毯"
+
+#: STRINGS.NAMES.TURF_MOSS
+msgid "Mossy Turf"
+msgstr "沼泽地皮"
+
+#: STRINGS.NAMES.TURF_PIGRUINS
+msgid "Ancient Stone Turf"
+msgstr "遗迹地皮"
+
+#: STRINGS.NAMES.TURF_RAINFOREST
+msgid "Rainforest Turf"
+msgstr "雨林地皮"
+
+#: STRINGS.NAMES.VAMPIREBAT
+msgid "Vampire Bat"
+msgstr "吸血蝙蝠"
+
+#: STRINGS.NAMES.VAMPIREBATCAVE
+msgid "Cave Cleft"
+msgstr "蝙蝠地穴"
+
+#: STRINGS.NAMES.VENUS_STALK
+msgid "Flytrap Stalk"
+msgstr "捕蝇草根"
+
+#: STRINGS.NAMES.WALKINGSTICK
+msgid "Stalking Stick"
+msgstr "潜行杖"
+
+#: STRINGS.NAMES.WALL_PIG_RUINS
+msgid "Ancient Wall"
+msgstr "古代墙壁"
+
+#: STRINGS.NAMES.WARBUCKS
+msgid "Warbucks"
+msgstr "沃尔巴克斯"
+
+#: STRINGS.NAMES.WATERDROP
+msgid "Magic Water"
+msgstr "魔力泉水"
+
+#: STRINGS.NAMES.WEEVOLE
+msgid "Weevole"
+msgstr "象鼻鼠虫"
+
+#: STRINGS.NAMES.WEEVOLE_CARAPACE
+msgid "Weevole Carapace"
+msgstr "象鼻鼠虫壳"
+
+#: STRINGS.NAMES.WILBA
+msgid "Wilba"
+msgstr "威尔巴"
+
+#: STRINGS.NAMES.WINDOW_LARGE_SQUARE
+msgid "Square Window"
+msgstr "方形窗户"
+
+#: STRINGS.NAMES.WINDOW_LARGE_SQUARE_CURTAIN
+msgid "Large Square Curtain Window"
+msgstr "大方形窗帘"
+
+#: STRINGS.NAMES.WINDOW_ROUND_BURLAP
+msgid "Round Burlap Window"
+msgstr "麻布窗帘"
+
+#: STRINGS.NAMES.WINDOW_ROUND_CURTAINS_NAILS
+msgid "Round Window"
+msgstr "圆形窗户"
+
+#: STRINGS.NAMES.WINDOW_SMALL_PEAKED
+msgid "Peaked Window"
+msgstr "椭圆拱窗"
+
+#: STRINGS.NAMES.WINDOW_SMALL_PEAKED_CURTAIN
+msgid "Peaked Curtain Window"
+msgstr "椭圆窗帘"
+
+#: STRINGS.NAMES.WINDOW_TALL
+msgid "Tall Window"
+msgstr "椭圆玻璃窗"
+
+#: STRINGS.NAMES.WINDOW_TALL_CURTAIN
+msgid "Tall Curtain Window"
+msgstr "椭圆玻璃窗帘"
+
+#: STRINGS.NAMES.ZEB
+msgid "Zeb"
+msgstr "斑马骑士"
