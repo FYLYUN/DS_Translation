@@ -72364,7 +72364,7 @@ msgstr "风衣"
 
 #: STRINGS.NAMES.ARMOUREDBOAT
 msgid "Armored Boat"
-msgstr "装甲的船"
+msgstr "装甲船"
 
 #: STRINGS.NAMES.ASH
 msgid "Ashes"
