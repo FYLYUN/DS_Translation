@@ -83528,7 +83528,7 @@ msgstr "树篱"
 
 #: STRINGS.NAMES.HIPPOPOTAMOOSE
 msgid "Hippopotamoose"
-msgstr "鹿角河马"
+msgstr "鹿河马"
 
 #: STRINGS.NAMES.HOGUSPORKUSATOR
 msgid "Hogus Porkusator"
@@ -83708,7 +83708,7 @@ msgstr "费罗石"
 
 #: STRINGS.NAMES.PIGBANDIT
 msgid "Masked Pig"
-msgstr "戴面具的猪"
+msgstr "蒙面的猪"
 
 #: STRINGS.NAMES.PIGCROWNHAT
 msgid "Royal Crown"
@@ -83724,11 +83724,11 @@ msgstr "远古之魄"
 
 #: STRINGS.NAMES.PIGHOUSE_CITY
 msgid "Town House"
-msgstr "猪房"
+msgstr "小镇房屋"
 
 #: STRINGS.NAMES.PIGHOUSE_DOOR
 msgid "House With Door"
-msgstr "有门的房子"
+msgstr "有门的房屋"
 
 #: STRINGS.NAMES.PIGHOUSE_FARM
 msgid "Farm House"
@@ -83900,11 +83900,11 @@ msgstr "飞猪 \n神秘商店"
 
 #: STRINGS.NAMES.PIG_SHOP_CITYHALL
 msgid "Swinesbury City Hall"
-msgstr "小镇大厅"
+msgstr "小镇市政厅"
 
 #: STRINGS.NAMES.PIG_SHOP_CITYHALL_PLAYER
 msgid "My City Hall"
-msgstr "我的城市大厅"
+msgstr "我的市政厅"
 
 #: STRINGS.NAMES.PIG_SHOP_DELI
 msgid "The Sterling Trough Deli"
@@ -84700,7 +84700,7 @@ msgstr "购买"
 
 #: STRINGS.ACTIONS.SHOP_LONG
 msgid "Buy {wantitem}\nfor {qty} {payitem}"
-msgstr "花费 {qty} {payitem}\n购买 {wantitem}"
+msgstr "花费 {qty} {payitem}\n换取 {wantitem}"
 
 #: STRINGS.ACTIONS.SHOP_TAKE
 msgid "Take {wantitem}"
