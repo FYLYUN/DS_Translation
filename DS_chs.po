@@ -70743,7 +70743,7 @@ msgid "*Has a lovely axe \n*And a terrible secret \n*Celebrates Thanksgiving too
 msgstr "*有一个可爱的斧子\n*和一个可怕的秘密\n*在正确的时间庆祝感恩节"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodlegs
-msgid "*Can sniff out treasure\n*Captain of the \"Sea Legs\"\n*Pirate"
+msgid "*Can sniff out treasure\n*Captain of the \"*Sea Legs\"\n*Pirate"
 msgstr "*可以嗅到宝藏\n*海腿号的船长\n*是一个海盗"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wx78
@@ -84760,7 +84760,7 @@ msgstr "热带花卉"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GLOWFLYCYCLE
 msgid "Glowfy Cycle"
-msgstr "辉光的周期"
+msgstr "萤火虫"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.GRASS_BUNCHES
 msgid "Tall Grass Fields"
@@ -84985,4 +84985,36 @@ msgstr "街头生活..."
 #: STRINGS.UI.WORLDGEN.PORKLANDTITTLE
 msgid "GENERATING PLATEAU"
 msgstr "生成高原"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.warbucks
+msgid "*Is an explorer\n*Loves his fortune\n*Picky eater"
+msgstr "*他是一个探险家\n*非常爱惜他的钱\n*胃口挑剔"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.wilba
+msgid "*Is a pig\n*Is royalty\n*Is afraid of the dark"
+msgstr "*他是一头猪\n*他是皇室成员\n*他害怕黑暗"
+
+#: STRINGS.CHARACTER_NAMES.warbucks
+msgid "Warbucks"
+msgstr "沃尔巴克斯"
+
+#: STRINGS.CHARACTER_NAMES.wilba
+msgid "Wilba"
+msgstr "威尔巴"
+
+#: STRINGS.CHARACTER_QUOTES.warbucks
+msgid "\"I say Ol' chap! This will be a game to remember!\""
+msgstr "\"大兄弟！这将是一场难忘的冒险！\""
+
+#: STRINGS.CHARACTER_QUOTES.wilba
+msgid "\"MAKE KINGDOM PROUD!\""
+msgstr "\"要让我的王国为我骄傲！\""
+
+#: STRINGS.CHARACTER_TITLES.warbucks
+msgid "The Gentleman Hunter"
+msgstr "沃尔巴克斯"
+
+#: STRINGS.CHARACTER_TITLES.wilba
+msgid "The Royal Adventurer"
+msgstr "威尔巴"
 
