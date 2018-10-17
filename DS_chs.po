@@ -85016,5 +85016,5 @@ msgstr "沃尔巴克斯 绅士猎人"
 
 #: STRINGS.CHARACTER_TITLES.wilba
 msgid "The Royal Adventurer"
-msgstr "威尔巴 皇室冒险者"
+msgstr "威尔巴 皇室冒险家"
 
