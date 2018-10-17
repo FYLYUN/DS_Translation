@@ -83028,7 +83028,7 @@ msgstr "鸭嘴豪猪"
 
 #: STRINGS.NAMES.BLUNDERBUSS
 msgid "Blunderbuss"
-msgstr "铳"
+msgstr "火枪"
 
 #: STRINGS.NAMES.BRAMBLESPIKE
 msgid "Brambles"
@@ -83476,15 +83476,15 @@ msgstr "萤火虫茧"
 
 #: STRINGS.NAMES.GNAT
 msgid "Gnat Swarm"
-msgstr "蚋群"
+msgstr "虫群"
 
 #: STRINGS.NAMES.GNATMOUND
 msgid "Gnat Mound"
-msgstr "蚋丘"
+msgstr "虫丘"
 
 #: STRINGS.NAMES.GOLDPAN
 msgid "Gold Pan"
-msgstr "蚋"
+msgstr "淘金盘"
 
 #: STRINGS.NAMES.GOLD_DUST
 msgid "Gold Dust"
@@ -83912,11 +83912,11 @@ msgstr "高纯度熟猪食店"
 
 #: STRINGS.NAMES.PIG_SHOP_FLORIST
 msgid "Miss Sow's\nFloral Arrangements"
-msgstr "母猪小姐的\nFloral 花之约定"
+msgstr "母猪小姐的\n花卉店"
 
 #: STRINGS.NAMES.PIG_SHOP_GENERAL
 msgid "Pigg and Pigglet's\nGeneral Store"
-msgstr "猪和小猪的\nGeneral 商店"
+msgstr "猪和小猪的\n杂货店"
 
 #: STRINGS.NAMES.PIG_SHOP_HATSHOP
 msgid "The Sow's Ear \nHat Shop"
@@ -83924,7 +83924,7 @@ msgstr "母猪耳 \n帽店"
 
 #: STRINGS.NAMES.PIG_SHOP_HOOFSPA
 msgid "Curly Tails\nMud Spa"
-msgstr "卷尾\n泥浆SPA"
+msgstr "卷尾\n泥浆水疗店"
 
 #: STRINGS.NAMES.PIG_SHOP_PRODUCE
 msgid "Swinesbury Fine Grocer's"
@@ -84188,7 +84188,7 @@ msgstr "编织地毯"
 
 #: STRINGS.NAMES.RUG_CATCOON
 msgid "Catcoon Rug"
-msgstr "浣熊地毯"
+msgstr "浣猫地毯"
 
 #: STRINGS.NAMES.RUG_CRIME
 msgid "Crime Rug"
