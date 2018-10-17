@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
+﻿#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgid "Wind"
 msgstr "风"
 
@@ -70884,7 +70884,7 @@ msgstr "\"移情组件无响应\""
 
 #: STRINGS.CHARACTER_TITLES.hidden
 msgid "The Unfinished"
-msgstr "未完成的"
+msgstr "未完成的角色"
 
 #: STRINGS.CHARACTER_TITLES.walani
 msgid "The Unperturbable"
@@ -70892,59 +70892,59 @@ msgstr "瓦拉尼"
 
 #: STRINGS.CHARACTER_TITLES.warly
 msgid "The Culinarian"
-msgstr "沃利"
+msgstr "沃利 大厨"
 
 #: STRINGS.CHARACTER_TITLES.wathgrithr
 msgid "The Performance Artist"
-msgstr "薇格弗德"
+msgstr "薇格弗德 表演艺术家"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
-msgstr "麦斯威尔"
+msgstr "麦斯威尔 傀儡之王"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "韦伯"
+msgstr "韦伯 难以消化"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "温蒂"
+msgstr "温蒂 丧失亲人者"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "维斯"
+msgstr "维斯 沉默者"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
-msgstr "维克波顿"
+msgstr "维克波顿 图书馆管理员"
 
 #: STRINGS.CHARACTER_TITLES.wilbur
 msgid "The Monkey King"
-msgstr "威尔伯"
+msgstr "威尔伯 猴王"
 
 #: STRINGS.CHARACTER_TITLES.willow
 msgid "The Firestarter"
-msgstr "薇洛"
+msgstr "薇洛 纵火者"
 
 #: STRINGS.CHARACTER_TITLES.wilson
 msgid "The Gentleman Scientist"
-msgstr "威尔逊"
+msgstr "威尔逊 绅士科学家"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "沃尔夫冈"
+msgstr "沃尔夫冈 大力士"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
-msgstr "伍迪"
+msgstr "伍迪 伐木工"
 
 #: STRINGS.CHARACTER_TITLES.woodlegs
 msgid "The Pirate Captain"
-msgstr "伍德莱格"
+msgstr "伍德莱格 海盗船长"
 
 #: STRINGS.CHARACTER_TITLES.wx78
 msgid "The Soulless Automaton"
-msgstr "WX-78"
+msgstr "WX-78 没有灵魂的机器人"
 
 #: STRINGS.DESCRIBE_NULL
 msgid "IT'S A THING!"
@@ -82840,7 +82840,7 @@ msgstr "熔岩生成中"
 
 #: STRINGS.WALLY_SANDBOXINTROS.ONE
 msgid "Nice sailing."
-msgstr "美好的航行."
+msgstr "船开的不错."
 
 #: STRINGS.WALLY_SANDBOXINTROS.TWO
 msgid "Chump."
@@ -83376,7 +83376,7 @@ msgstr "穿衣镜"
 
 #: STRINGS.NAMES.DECO_WALLORNAMENT_GEARS_ART
 msgid "Gears Art"
-msgstr "齿轮艺术"
+msgstr "齿轮艺术品"
 
 #: STRINGS.NAMES.DECO_WALLORNAMENT_HUNT
 msgid "Hunt"
@@ -83384,7 +83384,7 @@ msgstr "狩猎"
 
 #: STRINGS.NAMES.DECO_WALLORNAMENT_MOSAIC
 msgid "Mosaic"
-msgstr "镶嵌工艺"
+msgstr "镶嵌工艺品"
 
 #: STRINGS.NAMES.DECO_WALLORNAMENT_NO_SMOKING
 msgid "No Smoking"
@@ -83432,7 +83432,7 @@ msgstr "粪堆"
 
 #: STRINGS.NAMES.FEATHER_THUNDER
 msgid "Thunder Feather"
-msgstr "闪电羽毛"
+msgstr "雷电羽毛"
 
 #: STRINGS.NAMES.FEIJOADA
 msgid "Feijoada"
@@ -83592,7 +83592,7 @@ msgstr "烤豆虫"
 
 #: STRINGS.NAMES.KEY_TO_CITY
 msgid "Key to the City"
-msgstr "城市的钥匙"
+msgstr "去往城市的钥匙"
 
 #: STRINGS.NAMES.KINGFISHER
 msgid "Kingfisher"
@@ -83800,7 +83800,7 @@ msgstr "宫殿"
 
 #: STRINGS.NAMES.PIG_QUEEN
 msgid "Pig Queen"
-msgstr "猪女王"
+msgstr "猪人女王"
 
 #: STRINGS.NAMES.PIG_RUINS_ARTICHOKE
 msgid "Crumbling Carved Stone"
@@ -84036,7 +84036,7 @@ msgstr "长生之泉"
 
 #: STRINGS.NAMES.PUGALISK_RUINS_PILLAR
 msgid "Teetering Pillar"
-msgstr "摇摇欲坠的矿柱"
+msgstr "摇摇欲坠的支柱"
 
 #: STRINGS.NAMES.PUGALISK_TRAP_DOOR
 msgid "Ominous Carving"
@@ -84380,7 +84380,7 @@ msgstr "炼铁套装"
 
 #: STRINGS.NAMES.SNAKEBONESOUP
 msgid "Snake Bone Soup"
-msgstr "骨头汤"
+msgstr "蛇骨汤"
 
 #: STRINGS.NAMES.SNAKE_AMPHIBIOUS
 msgid "Viper"
@@ -84388,7 +84388,7 @@ msgstr "毒蛇"
 
 #: STRINGS.NAMES.SNAKE_BONE
 msgid "Snake Bone"
-msgstr "沙虫骨骼"
+msgstr "蛇骨"
 
 #: STRINGS.NAMES.SNAPDRAGON
 msgid "Snap Dragon"
@@ -84400,7 +84400,7 @@ msgstr "辛辣鸡尾酒"
 
 #: STRINGS.NAMES.SPIDER_MONKEY
 msgid "Spider Monkey"
-msgstr "蛛猩"
+msgstr "蛛猴"
 
 #: STRINGS.NAMES.SPIDER_MONKEY_TREE
 msgid "Cocooned Tree"
@@ -84588,7 +84588,7 @@ msgstr "潜行杖"
 
 #: STRINGS.NAMES.WALL_PIG_RUINS
 msgid "Ancient Wall"
-msgstr "古代墙壁"
+msgstr "古代墙"
 
 #: STRINGS.NAMES.WARBUCKS
 msgid "Warbucks"
@@ -84644,7 +84644,7 @@ msgstr "椭圆玻璃窗帘"
 
 #: STRINGS.NAMES.ZEB
 msgid "Zeb"
-msgstr "斑马骑士"
+msgstr "斑马"
 
 #: STRINGS.ACTIONS.DISARM
 msgid "Disarm"
@@ -84700,7 +84700,7 @@ msgstr "购买"
 
 #: STRINGS.ACTIONS.SHOP_LONG
 msgid "Buy {wantitem}\nfor {qty} {payitem}"
-msgstr "购买 {wantitem}\n花掉 {qty} {payitem}"
+msgstr "花费 {qty} {payitem}\n购买 {wantitem}"
 
 #: STRINGS.ACTIONS.SHOP_TAKE
 msgid "Take {wantitem}"
@@ -84864,15 +84864,15 @@ msgstr "数据收集"
 
 #: STRINGS.UI.SANDBOXMENU.HUMID
 msgid "Humid"
-msgstr "潮湿"
+msgstr "潮湿季"
 
 #: STRINGS.UI.SANDBOXMENU.LUSH
 msgid "Lush"
-msgstr "茂盛"
+msgstr "繁茂季"
 
 #: STRINGS.UI.SANDBOXMENU.TEMPERATE
 msgid "Temperate"
-msgstr "温带"
+msgstr "温和季"
 
 #: STRINGS.UI.SAVEINTEGRATION.CHOOSE_DEST_BODY
 msgid "Where would you like to travel to?"
@@ -84940,7 +84940,7 @@ msgstr "繁茂的树叶..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.12
 msgid "civilization..."
-msgstr "建造文明..."
+msgstr "文明社会..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.13
 msgid "economy..."
@@ -84964,7 +84964,7 @@ msgstr "食肉花..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.5
 msgid "cursed temples..."
-msgstr "诅咒的寺庙..."
+msgstr "被诅咒的神庙..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.6
 msgid "death defining adventure..."
@@ -84988,11 +84988,11 @@ msgstr "生成高原"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.warbucks
 msgid "*Is an explorer\n*Loves his fortune\n*Picky eater"
-msgstr "*他是一个探险家\n*非常爱惜他的钱\n*胃口挑剔"
+msgstr "*是一个探险家\n*非常爱惜他的钱\n*胃口挑剔"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilba
 msgid "*Is a pig\n*Is royalty\n*Is afraid of the dark"
-msgstr "*他是一头猪\n*他是皇室成员\n*他害怕黑暗"
+msgstr "*是一头猪\n*是皇室成员\n*害怕黑暗"
 
 #: STRINGS.CHARACTER_NAMES.warbucks
 msgid "Warbucks"
@@ -85012,9 +85012,9 @@ msgstr "\"要让我的王国为我骄傲！\""
 
 #: STRINGS.CHARACTER_TITLES.warbucks
 msgid "The Gentleman Hunter"
-msgstr "沃尔巴克斯"
+msgstr "沃尔巴克斯 绅士猎人"
 
 #: STRINGS.CHARACTER_TITLES.wilba
 msgid "The Royal Adventurer"
-msgstr "威尔巴"
+msgstr "威尔巴 皇室冒险者"
 
