@@ -102853,3 +102853,587 @@ msgstr "皮膚預設"
 #: STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgid "Weaveable Filter: {mode}"
 msgstr "僅顯示可製作：{mode}"
+
+#: STRINGS.ACTIONS.MIX
+msgid "Mix"
+msgstr "配製"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE
+msgid "Brew of Phobic Abrogation"
+msgstr "無畏藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_SMALL
+msgid "Brew of Phobic Abatement"
+msgstr "勇氣藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_EMBERS
+msgid "Sulfuric Crystals of Lime"
+msgstr "石灰硫酸鹽晶體"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_HEALTH_LARGE
+msgid "Canteen of Sanguine Mixture"
+msgstr "大瓶生命藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_HEALTH_SMALL
+msgid "Flask of Sanguine Mixture"
+msgstr "小瓶生命藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_SANITY_LARGE
+msgid "Tumblerful of Psychic Fortitude"
+msgstr "大杯堅定藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_SANITY_SMALL
+msgid "Dram of Psychic Fortitude"
+msgstr "小杯堅定藥水"
+
+#: STRINGS.NAMES.HALLOWEENPOTION_SPARKS
+msgid "Sulfuric Crystals of Saltpeter"
+msgstr "硝酸晶體"
+
+#: STRINGS.NAMES.HALLOWEEN_EXPERIMENT_BRAVERY
+msgid "Phobic Experiment"
+msgstr "恐懼實驗"
+
+#: STRINGS.NAMES.HALLOWEEN_EXPERIMENT_HEALTH
+msgid "Sanguine Experiment"
+msgstr "血色實驗"
+
+#: STRINGS.NAMES.HALLOWEEN_EXPERIMENT_ROOT
+msgid "Arboretum Experiment"
+msgstr "植物實驗"
+
+#: STRINGS.NAMES.HALLOWEEN_EXPERIMENT_SANITY
+msgid "Psychosis Experiment"
+msgstr "精神實驗"
+
+#: STRINGS.NAMES.HALLOWEEN_EXPERIMENT_VOLATILE
+msgid "Sulfuric Experiment"
+msgstr "化學實驗"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_1
+msgid "Ghost Decoration"
+msgstr "幽靈飾品"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_2
+msgid "Bat Decoration"
+msgstr "蝙蝠飾品"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_3
+msgid "Spider Decoration"
+msgstr "蜘蛛飾品"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_4
+msgid "Tentacle Decoration"
+msgstr "觸手飾品"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_5
+msgid "Dangling Depth Dweller Decoration"
+msgstr "洞穴懸蛛飾品"
+
+#: STRINGS.NAMES.HALLOWEEN_ORNAMENT_6
+msgid "Crow Decoration"
+msgstr "烏鴉飾品"
+
+#: STRINGS.NAMES.LIVINGTREE_ROOT
+msgid "Totally Normal Root"
+msgstr "「完全正常的」根"
+
+#: STRINGS.NAMES.LIVINGTREE_SAPLING
+msgid "Totally Normal Sapling"
+msgstr "「完全正常的」樹苗"
+
+#: STRINGS.NAMES.MADSCIENCE_LAB
+msgid "Mad Scientist Lab"
+msgstr "煉藥鍋"
+
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_BRAVERY
+msgid "Liquid courage."
+msgstr "液態的勇氣"
+
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_HEALTH
+msgid "Good for your heart."
+msgstr "對你的心有好處"
+
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_ROOT
+msgid "Spine-chilling saplings."
+msgstr "毛骨悚然的樹苗"
+
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_SANITY
+msgid "Put your mind at ease."
+msgstr "緩解你的壓力"
+
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE
+msgid "Crystalized incandescence."
+msgstr "熾熱的結晶"
+
+#: STRINGS.RECIPE_DESC.MADSCIENCE_LAB
+msgid "Mad science has no limits. Except sanity."
+msgstr "理智是瘋狂煉藥的唯一界限"
+
+#: STRINGS.TABS.MADSCIENCE
+msgid "Mad Science"
+msgstr "瘋狂的科學"
+
+#: STRINGS.UI.CRAFTING.TABACTION.MADSCIENCE
+msgid "Mix"
+msgstr "配製"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.NO_DEATHS
+msgid "No survivor deaths on record."
+msgstr "沒有死亡記錄"
+
+#: STRINGS.SKIN_DESCRIPTIONS.batbat_scythe
+msgid "Reap some grim bodies with this bat scythe."
+msgstr "用這把鐮刀收割一些冷酷的屍體。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
+msgid "For the fashionably morose."
+msgstr "為憂鬱又時尚的人準備。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_webber_punk
+msgid "Spiderpunk. It's a thing now."
+msgstr "蜘蛛的垃圾，不過現在是一件衣服了。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wendy_creepy
+msgid "A dress for a supernatural child."
+msgstr "一件給超自然孩子穿的衣服。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wes_clown
+msgid "The veneers of a clown."
+msgstr "小丑專屬外衣。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_dowdy
+msgid "You have more important things to worry about than your appearance."
+msgstr "你有一件比外表更重要的事情去擔心"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wilson_madscientist
+msgid "A lab coat for doing science in. Keeps the stains off your clothes."
+msgstr "在實驗室里做研究需要穿的外套。記得把污漬洗掉。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wx78_wip
+msgid "A partially constructed robot body. You can see the gears inside."
+msgstr "殘缺的機器人身體。你可以看見裡面正在運轉的齒輪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_webber_punk
+msgid "Arachnid combat boots."
+msgstr "蛛形綱生物的戰鬥靴。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wendy_creepy
+msgid "Supernatural footware."
+msgstr "超自然鞋襪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wes_clown
+msgid "Schadenfreuded shoes."
+msgstr "幸災樂禍的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_willow_dowdy
+msgid "A homely way to seize."
+msgstr "一種樸素的穿鞋方式。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wx78_wip
+msgid "Archaic foundational apparatuses."
+msgstr "古老的基礎設備。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
+msgid "The spikes on these cuffs look scary, but they're actually quite soft."
+msgstr "這些袖口看起來很瘮人，但實際上很柔軟舒適。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist
+msgid "Laboratory gloves impregnated with mercury, to encourage madness. (Don't try this at home.)"
+msgstr "實驗室里的手套上全是水銀，讓人崩潰。（不要在家裡搗鼓這個。）"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip
+msgid "Just wires and bolts."
+msgstr "只是一些電線和螺絲釘。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icebox_coffin
+msgid "Send your food to an icy grave."
+msgstr "把你的食物送進冰冷的墳墓。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.kitten_black
+msgid "Bad luck. Good luck. Either way it's still adorable."
+msgstr "霉運，好運。不管怎麼說，它仍然是可愛的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
+msgid "missing description"
+msgstr "不可描述。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
+msgid "An electrical resonant transformer circuit that provides light."
+msgstr "用一種電諧振變壓器電路來提供光亮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_wendy_creepy
+msgid "She can't escape her monomaniacal obsession with death.\nNeither can you."
+msgstr "她無法擺脫對死亡的偏執痴迷。\n你也不能。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_willow_bats
+msgid "Woeful Willow took an axe.\nGave a tree forty whacks."
+msgstr "可憐的薇洛拿起了一把斧子。\n給了一顆樹四十下。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience
+msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
+msgstr "知識可以通過消耗理智來滋潤心靈。\n消耗靈魂來滋潤心靈。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_all
+msgid "This Hallowed Nights Chest contains the complete survivors Hallowed Nights series. Contains skins for: Wilson, Willow, Wendy, Webber, Wes, and WX-78."
+msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列人物皮膚。包括：威爾遜，薇洛，溫蒂，韋伯，韋斯和WX-78。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_bundle
+msgid "This Hallowed Nights Chest contains the complete Hallowed Nights series of survivor and belongings skins."
+msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_items
+msgid "This Hallowed Nights Chest contains all Hallowed Nights belongings skin items."
+msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列物品皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
+msgid "The Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
+msgstr "這個反叛者寶箱包含韋伯的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
+msgid "The Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
+msgstr "這個超自然寶箱包含溫蒂的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
+msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
+msgstr "這個小丑寶箱包含維斯的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
+msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
+msgstr "這個悲慘寶箱包含薇洛的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
+msgid "The Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
+msgstr "這個瘋狂科學家寶箱包含威爾遜的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
+msgid "The Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
+msgstr "這個未完成的寶箱包含WX-78的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
+msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n所有的東西都會死去，但並不是所有的東西都是死的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments
+msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
+msgstr ""使用這個藏品來改變你的角色背景圖案。\n\n可怕的飾品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
+msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n通過裝飾一個怪物來歡度萬聖節。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab
+msgid "Equip this item to change your character's background portrait.\n\nA troubled mind makes a troubled Laboratory."
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n煩惱的思想造就煩惱的實驗室。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern
+msgid "Equip this item to change your character's background portrait.\n\nIf you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n如果你長時間盯著南瓜燈的深淵大嘴，它也會盯著你。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
+msgid "Set your profile icon to a haunting Living Halloween Tree."
+msgstr "將你的頭像設置為萬聖節樹。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_mad_science
+msgid "Set your profile icon to the apparatus of mad science."
+msgstr "將你的頭像設置為瘋狂科學家。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_potion_sanity
+msgid "Set your profile icon to the entirely rational Sensible Potion."
+msgstr "將你的頭像設置為理智藥水。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_treasurechest_monster
+msgid "Set your profile icon to a vicious way to contain your belongings."
+msgstr "將你的頭像設置為邪惡寶箱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
+msgid "Set your profile icon to a fashionable way to wander this world."
+msgstr "將你的頭像設置為南瓜燈。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre
+msgid "A symbol of stake-burnt sisterhood."
+msgstr "標誌著姐妹友誼的火焰樹狀。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster
+msgid "An evil place to put your goods."
+msgstr "一個用來存放你東西的邪惡地方"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
+msgid "You'll never know when you arach-need one."
+msgstr "你永遠不知道你什麼時候需要呼叫援助。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
+msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
+msgstr "給在萬聖節的晚上被迫於這個世界上遊盪的人的時尚配飾"
+
+#: STRINGS.SKIN_DESCRIPTIONS.webber_punk
+msgid "Don't let the man get you down, man."
+msgstr "別讓那傢伙打倒你，夥計。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wendy_creepy
+msgid "Wendy's supernatural powers makes her a supernatural hero. Or villian."
+msgstr "溫迪的超自然力量讓她成為了一個超自然英雄。或者敵人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wes_clown
+msgid "A hopelessly romantic clown."
+msgstr "絕望又浪漫的小丑"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_dowdy
+msgid "Willow can't be bothered to try to look nice."
+msgstr "薇洛為了打扮自己費盡心思。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wilson_madscience
+msgid "Watch out! He knows SCIENCE and he's not afraid to use it."
+msgstr "小心！他懂科學，而且他毫不害怕於使喚它。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wx78_wip
+msgid "A partially constructed automaton."
+msgstr "一個殘缺不堪的機器人。"
+
+#: STRINGS.SKIN_NAMES.batbat_scythe
+msgid "Bat Scythe"
+msgstr "蝙蝠鐮刀"
+
+#: STRINGS.SKIN_NAMES.beehat_mourning
+msgid "Mourning Veil"
+msgstr "哀悼面紗"
+
+#: STRINGS.SKIN_NAMES.body_webber_punk
+msgid "Punk Shirt"
+msgstr "殘破襯衫"
+
+#: STRINGS.SKIN_NAMES.body_wendy_creepy
+msgid "Supernatural Frock"
+msgstr "超自然連衣裙"
+
+#: STRINGS.SKIN_NAMES.body_wes_clown
+msgid "Pierrot Suit"
+msgstr "小丑外套"
+
+#: STRINGS.SKIN_NAMES.body_willow_dowdy
+msgid "Woeful Dress"
+msgstr "糟糕的衣服"
+
+#: STRINGS.SKIN_NAMES.body_wilson_madscientist
+msgid "Mad Lab Coat"
+msgstr "瘋狂實驗服"
+
+#: STRINGS.SKIN_NAMES.body_wx78_wip
+msgid "Unfinished Robot Body"
+msgstr "未完成的機器人身體"
+
+#: STRINGS.SKIN_NAMES.feet_webber_punk
+msgid "Punk Boots"
+msgstr "廢舊靴子"
+
+#: STRINGS.SKIN_NAMES.feet_wendy_creepy
+msgid "Supernatural Dress Shoes"
+msgstr "超自然皮鞋"
+
+#: STRINGS.SKIN_NAMES.feet_wes_clown
+msgid "Pierrot Shoes"
+msgstr "小丑鞋"
+
+#: STRINGS.SKIN_NAMES.feet_willow_dowdy
+msgid "Woeful Boots"
+msgstr "悲傷靴"
+
+#: STRINGS.SKIN_NAMES.feet_wx78_wip
+msgid "Unfinished Robot Feet"
+msgstr "未完成的機器人腳"
+
+#: STRINGS.SKIN_NAMES.hand_webber_punk
+msgid "Spiked Cuffs"
+msgstr "尖袖口"
+
+#: STRINGS.SKIN_NAMES.hand_wilson_madscientist
+msgid "Mad Lab Gloves"
+msgstr "瘋狂實驗手套"
+
+#: STRINGS.SKIN_NAMES.hand_wx78_wip
+msgid "Unfinished Robot Hands"
+msgstr "未完成的機器人手"
+
+#: STRINGS.SKIN_NAMES.icebox_coffin
+msgid "Icy Grave"
+msgstr "冰霜墳墓"
+
+#: STRINGS.SKIN_NAMES.kitten_black
+msgid "Black Kittykit"
+msgstr "黑貓工具包"
+
+#: STRINGS.SKIN_NAMES.kitten_black_builder
+msgid "kitten_black_builder"
+msgstr "黑貓工人"
+
+#: STRINGS.SKIN_NAMES.lantern_tesla
+msgid "Tesla Coil Lantern"
+msgstr "特斯拉線圈燈"
+
+#: STRINGS.SKIN_NAMES.loading_wendy_creepy
+msgid "Supernatural Wendy"
+msgstr "超自然溫迪"
+
+#: STRINGS.SKIN_NAMES.loading_willow_bats
+msgid "Woeful Willow"
+msgstr "悲傷的薇洛"
+
+#: STRINGS.SKIN_NAMES.loading_wilson_madscience
+msgid "Mad Science Wilson"
+msgstr "瘋狂科學家威爾遜"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_all
+msgid "Hallowed Nights Survivors Chest"
+msgstr "倖存者的萬聖夜寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_bundle
+msgid "Complete Hallowed Nights Chest"
+msgstr "完整的萬聖夜寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_items
+msgid "Hallowed Nights Belongings Chest"
+msgstr "萬聖夜物品寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_webber
+msgid "The Rebel Chest"
+msgstr "反叛者寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_wendy
+msgid "The Supernatural Chest"
+msgstr "超自然寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_wes
+msgid "The Pierrot Chest"
+msgstr "小丑寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_willow
+msgid "The Woeful Chest"
+msgstr "悲慘寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_wilson
+msgid "The Mad Scientist Chest"
+msgstr "瘋狂科學家寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hallowed_wx78
+msgid "The Unfinished Chest"
+msgstr "未完成的寶箱"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard2
+msgid "Cemetery Portrait"
+msgstr "墓地背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments
+msgid "Hanging Horrors Portrait"
+msgstr "懸掛恐怖物品的背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
+msgid "Haunted Forest Portait"
+msgstr "鬧鬼的森林背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_messylab
+msgid "Mad Scientific Portrait"
+msgstr "瘋狂科學家背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
+msgid "Jack O' Portrait"
+msgstr "南瓜燈背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_living_wood
+msgid "Living Halloween Tree"
+msgstr "萬聖夜活木"
+
+#: STRINGS.SKIN_NAMES.profileflair_mad_science
+msgid "Mad Scientist Lab"
+msgstr "瘋狂科學家實驗室"
+
+#: STRINGS.SKIN_NAMES.profileflair_potion_sanity
+msgid "Sensible Potion"
+msgstr "理智藥水"
+
+#: STRINGS.SKIN_NAMES.profileflair_treasurechest_monster
+msgid "Brute Case"
+msgstr "邪惡寶箱"
+
+#: STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
+msgid "Fashionable Pumpkin Hat"
+msgstr ""時尚南瓜帽
+
+#: STRINGS.SKIN_NAMES.tophat_witch_pyre
+msgid "Fiery Witch's Hat"
+msgstr "誇張女巫帽"
+
+#: STRINGS.SKIN_NAMES.treasurechest_monster
+msgid "Brute Case"
+msgstr "邪惡寶箱"
+
+#: STRINGS.SKIN_NAMES.umbrella_spider
+msgid "Webrolly"
+msgstr "蛛絲傘"
+
+#: STRINGS.SKIN_NAMES.watermelonhat_pumpkin
+msgid "Fashion Pumpkin"
+msgstr "時尚南瓜帽"
+
+#: STRINGS.SKIN_NAMES.webber_punk
+msgid "The Rebel"
+msgstr "反叛者"
+
+#: STRINGS.SKIN_NAMES.wendy_creepy
+msgid "The Supernatural"
+msgstr "靈媒"
+
+#: STRINGS.SKIN_NAMES.wes_clown
+msgid "The Pierrot"
+msgstr "喜劇小丑"
+
+#: STRINGS.SKIN_NAMES.willow_dowdy
+msgid "The Woeful"
+msgstr "悲慘主婦"
+
+#: STRINGS.SKIN_NAMES.wilson_madscience
+msgid "The Mad Scientist"
+msgstr "瘋狂科學家"
+
+#: STRINGS.SKIN_NAMES.wx78_wip
+msgid "The Unfinished"
+msgstr "未完成組件"
+
+#: STRINGS.SKIN_QUOTES.webber_punk
+msgid "\"Don't mess with us.\""
+msgstr "\"不要惹我們。\""
+
+#: STRINGS.SKIN_QUOTES.wendy_creepy
+msgid "\"I am coming for you!\""
+msgstr "\"我來找你了！\""
+
+#: STRINGS.SKIN_QUOTES.willow_dowdy
+msgid "\"I didn't do it. Really.\""
+msgstr "\"我沒有那樣做，真的。\""
+
+#: STRINGS.SKIN_QUOTES.wilson_madscience
+msgid "\"Stand back. I'm going to do SCIENCE!\""
+msgstr "\"退後，我要開始做科學實驗了！\""
+
+#: STRINGS.SKIN_QUOTES.wx78_wip
+msgid "\"THEY HAVE NOT INSTALLED A HEART\""
+msgstr "\"他們沒有安裝心臟\""
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HALLOWED
+msgid "Hallowed Nights Collection"
+msgstr "萬聖夜藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEHAT
+msgid "Beekeeper Hat"
+msgstr "養蜂人的帽子"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.LANTERN
+msgid "Lantern"
+msgstr "提燈"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.UMBRELLA
+msgid "Umbrella"
+msgstr "雨傘"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT
+msgid "Fashion Melon"
+msgstr "時尚西瓜帽"
