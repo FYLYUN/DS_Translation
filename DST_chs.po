@@ -102944,7 +102944,7 @@ msgstr "完全正常的树苗"
 
 #: STRINGS.NAMES.MADSCIENCE_LAB
 msgid "Mad Scientist Lab"
-msgstr "疯狂科学家实验室"
+msgstr "疯狂科学实验室"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_BRAVERY
 msgid "Liquid courage."
@@ -103344,7 +103344,7 @@ msgstr "万圣节生命树"
 
 #: STRINGS.SKIN_NAMES.profileflair_mad_science
 msgid "Mad Scientist Lab"
-msgstr "疯狂科学家实验室"
+msgstr "疯狂科学实验室"
 
 #: STRINGS.SKIN_NAMES.profileflair_potion_sanity
 msgid "Sensible Potion"
