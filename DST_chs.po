@@ -9408,7 +9408,7 @@ msgstr "与汝之战乃吾之荣耀。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MUSE
 msgid "A Valkyrie's spirit dwells within."
-msgstr "此中蕴含瓦尔基里之精神。"
+msgstr "此中蕴含女武神之意志。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_PAWN
 msgid "Tis a noble foot soldier."
@@ -10704,7 +10704,7 @@ msgstr "彩虹之桥敞开了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_LIGHTDAMAGERHAT
 msgid "Horns, sharp as the spear of the Valkyrie."
-msgstr "它的角，就像瓦尔基里的长矛一样锋利。"
+msgstr "它的角，就像女武神的长矛一样锋利。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_LUCY
 msgid "Thy axe is filled with burning passion this day!"
@@ -11872,11 +11872,11 @@ msgstr "这是一把适合击剑时使用的长矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_ANGEL
 msgid "'Tis a Valkyrie."
-msgstr "一座瓦尔基里的雕像。"
+msgstr "一座女武神的雕像。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_ANGEL2
 msgid "'Tis a Valkyrie."
-msgstr "一座瓦尔基里的雕像。"
+msgstr "一座女武神的雕像。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_FOUNTAIN
 msgid "Water of life! But no water!"
@@ -12456,7 +12456,7 @@ msgstr "现在去找个忠诚的坐骑好了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SADDLE_RACE
 msgid "Oh to fly on the wings of Valkyrie!"
-msgstr "噢！乘着瓦尔基里的翅膀翱翔吧！"
+msgstr "噢！乘着女武神的翅膀翱翔吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SADDLE_WAR
 msgid "I ride to victory or death!"
@@ -12752,7 +12752,7 @@ msgstr "这不是我趁手的长矛，但技巧同样奏效。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_GUNGNIR
 msgid "The weapon of a brazen Valkyrie!"
-msgstr "一把坚硬无比的瓦尔基里的武器！"
+msgstr "一把坚硬无比的女武神的武器！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_LANCE
 msgid "Tis a divine spear!"
@@ -82580,7 +82580,7 @@ msgstr "一个穿着闪亮盔甲的骑士，或者至少看起来像。（这只
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_gladiator
 msgid "This decorative battle armor is sure to strike fear into the foes of the Valkyrie."
-msgstr "这个战甲会使瓦尔基里的敌人感到恐惧。"
+msgstr "这个战甲会使女武神的敌人感到恐惧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_nature
 msgid "The folds of this fabric sway in the breeze, reminding the wearer of leaves on the wind."
@@ -84020,7 +84020,7 @@ msgstr "众所周知，乌鸦群被称为\"谋杀者\"。\n但鲜有人知它们
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wigfrid
 msgid "The valor and confidence of a Valkyrie didn't always come naturally to Wigfrid. She cultivated her strength and persona over many years through sheer force of will."
-msgstr "薇格弗德那瓦尔基里一般的勇气和信心并不是与生俱来的，多年来她凭借意志力造就了自己的力量。"
+msgstr "薇格弗德那女武神一般的勇气和信心并不是与生俱来的，多年来她凭借意志力造就了自己的力量。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgid "Sometimes in the cold and bitter night, one might imagine fantastical visions in the blaze of a lit match."
@@ -84208,59 +84208,59 @@ msgstr "这个暴食宝箱包含每个幸存者的维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle
 msgid "This Gorge Chest contains every survivor's complete set of Victorian skin items and all Victorian belongings skin items."
-msgstr "这个暴食宝箱包含了每个幸存者的维多利亚系列皮肤和所有维多利亚系列物品皮肤。"
+msgstr "这个暴食宝箱包含每个幸存者的维多利亚系列皮肤和所有维多利亚系列物品皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items
 msgid "This Gorge Chest contains all Victorian belongings skin items."
-msgstr "这个暴食宝箱包含了所有维多利亚系列物品皮肤。"
+msgstr "这个暴食宝箱包含所有维多利亚系列物品皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wathgrithr
 msgid "This Gorge Chest contains Wigfrid's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n薇格弗德的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n薇格弗德的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_waxwell
 msgid "This Gorge Chest contains Maxwell's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n麦斯威尔的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n麦斯威尔的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_webber
 msgid "This Gorge Chest contains Webber's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n韦伯的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n韦伯的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wendy
 msgid "This Gorge Chest contains Wendy's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n温蒂的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n温蒂的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wes
 msgid "This Gorge Chest contains Wes' complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n韦斯的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n韦斯的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wickerbottom
 msgid "This Gorge Chest contains Wickerbottom's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n维克波顿的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n维克波顿的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_willow
 msgid "This Gorge Chest contains Willow's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n薇洛的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n薇洛的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wilson
 msgid "This Gorge Chest contains Wilson's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n威尔逊的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n威尔逊的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_winona
 msgid "This Gorge Chest contains Winona's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n薇诺娜的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n薇诺娜的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wolfgang
 msgid "This Gorge Chest contains Wolfgang's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n沃尔夫冈的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n沃尔夫冈的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_woodie
 msgid "This Gorge Chest contains Woodie's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\n伍迪的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\n伍迪的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78
 msgid "This Gorge Chest contains WX-78's complete set of Victorian skin items."
-msgstr "这个暴食宝箱包含了\nWX-78的全套维多利亚系列皮肤。"
+msgstr "这个暴食宝箱包含\nWX-78的全套维多利亚系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.perdling_rooster
 msgid "If you wanted a bouncy rooster companion by your side, then you're in cluck!"
@@ -86040,7 +86040,7 @@ msgstr "独眼巨鹿上衣"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_formal
 msgid "Valkyrie Armor"
-msgstr "瓦尔基里铠甲"
+msgstr "女武神铠甲"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_gladiator
 msgid "Battlemaster's Chestplate"
