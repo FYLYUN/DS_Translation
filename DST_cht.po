@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -9408,7 +9408,7 @@ msgstr "與汝之戰乃吾之榮耀。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_MUSE
 msgid "A Valkyrie's spirit dwells within."
-msgstr "此中蘊含瓦爾基里之精神。"
+msgstr "此中蘊含女武神之意志。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_PAWN
 msgid "Tis a noble foot soldier."
@@ -10704,7 +10704,7 @@ msgstr "彩虹之橋敞開了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_LIGHTDAMAGERHAT
 msgid "Horns, sharp as the spear of the Valkyrie."
-msgstr "它的角，就像瓦爾基里的長矛一樣鋒利。"
+msgstr "它的角，就像女武神的長矛一樣鋒利。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_LUCY
 msgid "Thy axe is filled with burning passion this day!"
@@ -11872,11 +11872,11 @@ msgstr "這是一把適合擊劍時使用的長矛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_ANGEL
 msgid "'Tis a Valkyrie."
-msgstr "一座瓦爾基里的雕像。"
+msgstr "一座女武神的雕像。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_ANGEL2
 msgid "'Tis a Valkyrie."
-msgstr "一座瓦爾基里的雕像。"
+msgstr "一座女武神的雕像。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_PARK_FOUNTAIN
 msgid "Water of life! But no water!"
@@ -12456,7 +12456,7 @@ msgstr "現在去找個忠誠的坐騎好了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SADDLE_RACE
 msgid "Oh to fly on the wings of Valkyrie!"
-msgstr "噢！乘著瓦爾基里的翅膀翱翔吧！"
+msgstr "噢！乘著女武神的翅膀翱翔吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SADDLE_WAR
 msgid "I ride to victory or death!"
@@ -12752,7 +12752,7 @@ msgstr "這不是我趁手的長矛，但技巧同樣奏效。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_GUNGNIR
 msgid "The weapon of a brazen Valkyrie!"
-msgstr "一把堅硬無比的瓦爾基里的武器！"
+msgstr "一把堅硬無比的女武神的武器！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPEAR_LANCE
 msgid "Tis a divine spear!"
@@ -45656,7 +45656,7 @@ msgstr "我從來都不喜歡泡在水裡。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRINKET_9
 msgid "Cute as Wendy's lil nose."
-msgstr "和溫迪的小鼻子一樣可愛。"
+msgstr "和溫蒂的小鼻子一樣可愛。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TRUNKVEST_SUMMER
 msgid "Now my friend will never leave."
@@ -66952,7 +66952,7 @@ msgstr "糞便中有纖維殘留。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALOWOOL
 msgid "EXTRUDED BEEFALO DISGUSTINGNESS"
-msgstr "噁心的水牛突出物"
+msgstr "噁心的皮膚樓牛突出物"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEGUARD
 msgid "LOYAL MINIONS OF THE QUEEN"
@@ -66996,7 +66996,7 @@ msgstr "蜜蜂造的"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BELL
 msgid "BZZ BZZ BZZ"
-msgstr "BZZBZZBZZ"
+msgstr "BZZ BZZ BZZ"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_ACTIVE
 msgid "HANG IN THERE, BEAR!"
@@ -82580,7 +82580,7 @@ msgstr "一個穿著閃亮盔甲的騎士，或者至少看起來像。（這只
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_gladiator
 msgid "This decorative battle armor is sure to strike fear into the foes of the Valkyrie."
-msgstr "這個戰甲會使瓦爾基里的敵人感到恐懼。"
+msgstr "這個戰甲會使女武神的敵人感到恐懼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_nature
 msgid "The folds of this fabric sway in the breeze, reminding the wearer of leaves on the wind."
@@ -84000,11 +84000,11 @@ msgstr "韋伯本應把自己獨特的困境看成是一種折磨或詛咒。然
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wendy
 msgid "Wendy clings fiercely to the grief over her sister's death, for fear that moving on would cause Abigail's memory to fade."
-msgstr "溫迪沉溺於姐姐離開的悲痛之中，時常擔心時間會抹去她對姐姐的記憶。"
+msgstr "溫蒂沉溺於姐姐離開的悲痛之中，時常擔心時間會抹去她對姐姐的記憶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
-msgstr "溫迪在精心製作的悼念儀式中尋求了一種奇怪的慰藉。\n它在悲傷中映射著猜疑。"
+msgstr "溫蒂在精心製作的悼念儀式中尋求了一種奇怪的慰藉。\n它在悲傷中映射著猜疑。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wes_victorian
 msgid "There are few more satisfying feelings in life than knowing one's work is done for the day."
@@ -84020,7 +84020,7 @@ msgstr "眾所周知，烏鴉群被稱為\"謀殺者\"。\n但鮮有人知它們
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wigfrid
 msgid "The valor and confidence of a Valkyrie didn't always come naturally to Wigfrid. She cultivated her strength and persona over many years through sheer force of will."
-msgstr "薇格弗德那瓦爾基里一般的勇氣和信心並不是與生俱來的，多年來她憑藉意志力造就了自己的力量。"
+msgstr "薇格弗德那女武神一般的勇氣和信心並不是與生俱來的，多年來她憑藉意志力造就了自己的力量。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willow_victorian
 msgid "Sometimes in the cold and bitter night, one might imagine fantastical visions in the blaze of a lit match."
@@ -84208,59 +84208,59 @@ msgstr "這個暴食寶箱包含每個倖存者的維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_bundle
 msgid "This Gorge Chest contains every survivor's complete set of Victorian skin items and all Victorian belongings skin items."
-msgstr "這個暴食寶箱包含了每個倖存者的維多利亞系列皮膚和所有維多利亞系列物品皮膚。"
+msgstr "這個暴食寶箱包含每個倖存者的維多利亞系列皮膚和所有維多利亞系列物品皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_items
 msgid "This Gorge Chest contains all Victorian belongings skin items."
-msgstr "這個暴食寶箱包含了所有維多利亞系列物品皮膚。"
+msgstr "這個暴食寶箱包含所有維多利亞系列物品皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wathgrithr
 msgid "This Gorge Chest contains Wigfrid's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n薇格弗德的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n薇格弗德的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_waxwell
 msgid "This Gorge Chest contains Maxwell's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n麥斯威爾的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n麥斯威爾的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_webber
 msgid "This Gorge Chest contains Webber's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n韋伯的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n韋伯的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wendy
 msgid "This Gorge Chest contains Wendy's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n溫蒂的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n溫蒂的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wes
 msgid "This Gorge Chest contains Wes' complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n韋斯的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n韋斯的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wickerbottom
 msgid "This Gorge Chest contains Wickerbottom's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n維克波頓的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n維克波頓的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_willow
 msgid "This Gorge Chest contains Willow's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n薇洛的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n薇洛的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wilson
 msgid "This Gorge Chest contains Wilson's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n威爾遜的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n威爾遜的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_winona
 msgid "This Gorge Chest contains Winona's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n薇諾娜的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n薇諾娜的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wolfgang
 msgid "This Gorge Chest contains Wolfgang's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n沃爾夫岡的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n沃爾夫岡的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_woodie
 msgid "This Gorge Chest contains Woodie's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\n伍迪的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\n伍迪的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_victorian_wx78
 msgid "This Gorge Chest contains WX-78's complete set of Victorian skin items."
-msgstr "這個暴食寶箱包含了\nWX-78的維多利亞系列皮膚。"
+msgstr "這個暴食寶箱包含\nWX-78的全套維多利亞系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.perdling_rooster
 msgid "If you wanted a bouncy rooster companion by your side, then you're in cluck!"
@@ -85200,7 +85200,7 @@ msgstr "溫蒂一向很喜歡黑暗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_survivor
 msgid "Wendy is actually pretty good at surviving."
-msgstr "實際上溫迪的生存能力還是很強的。"
+msgstr "實際上溫蒂的生存能力還是很強的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_victorian
 msgid "Wendy is the queen of socially mandated mourning practices."
@@ -86040,7 +86040,7 @@ msgstr "獨眼巨鹿上衣"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_formal
 msgid "Valkyrie Armor"
-msgstr "瓦爾基里鎧甲"
+msgstr "女武神鎧甲"
 
 #: STRINGS.SKIN_NAMES.body_wathgrithr_gladiator
 msgid "Battlemaster's Chestplate"
@@ -89176,7 +89176,7 @@ msgstr "\"我想回家，但我們找不到路。\""
 
 #: STRINGS.SKIN_QUOTES.webber_victorian
 msgid "\"Look, we lost a tooth!\""
-msgstr "\"看，我們掉了一顆牙!\""
+msgstr "\"看，我們掉了一顆牙！\""
 
 #: STRINGS.SKIN_QUOTES.wendy_combatant
 msgid "\"Abigail and I never fight.\""
@@ -89600,7 +89600,7 @@ msgstr "遠古藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COSTUME
 msgid "Costume Collection"
-msgstr "萬聖夜藏品"
+msgstr "萬聖節藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
 msgid "Formal Collection"
@@ -101148,7 +101148,7 @@ msgstr "WX-78的齒輪……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.18
 msgid "Winona's tools..."
-msgstr "薇洛娜的修補工具……"
+msgstr "薇諾娜的修補工具……"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.19
 msgid "a monarch's sorrow..."
@@ -102880,11 +102880,11 @@ msgstr "小瓶生命藥水"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_SANITY_LARGE
 msgid "Tumblerful of Psychic Fortitude"
-msgstr "大杯堅定藥水"
+msgstr "大杯精神藥水"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_SANITY_SMALL
 msgid "Dram of Psychic Fortitude"
-msgstr "小杯堅定藥水"
+msgstr "小杯精神藥水"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_SPARKS
 msgid "Sulfuric Crystals of Saltpeter"
@@ -102936,39 +102936,39 @@ msgstr "烏鴉飾品"
 
 #: STRINGS.NAMES.LIVINGTREE_ROOT
 msgid "Totally Normal Root"
-msgstr "「完全正常的」根"
+msgstr "完全正常的樹根"
 
 #: STRINGS.NAMES.LIVINGTREE_SAPLING
 msgid "Totally Normal Sapling"
-msgstr "「完全正常的」樹苗"
+msgstr "完全正常的樹苗"
 
 #: STRINGS.NAMES.MADSCIENCE_LAB
 msgid "Mad Scientist Lab"
-msgstr "煉藥鍋"
+msgstr "瘋狂科學家實驗室"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_BRAVERY
 msgid "Liquid courage."
-msgstr "液態的勇氣"
+msgstr "液態的勇氣。"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_HEALTH
 msgid "Good for your heart."
-msgstr "對你的心有好處"
+msgstr "對你的心臟有好處。"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_ROOT
 msgid "Spine-chilling saplings."
-msgstr "毛骨悚然的樹苗"
+msgstr "毛骨悚然的樹苗。"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_SANITY
 msgid "Put your mind at ease."
-msgstr "緩解你的壓力"
+msgstr "緩解你的壓力。"
 
 #: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE
 msgid "Crystalized incandescence."
-msgstr "熾熱的結晶"
+msgstr "熾熱的結晶。"
 
 #: STRINGS.RECIPE_DESC.MADSCIENCE_LAB
 msgid "Mad science has no limits. Except sanity."
-msgstr "理智是瘋狂煉藥的唯一界限"
+msgstr "理智是瘋狂煉藥的唯一界限。"
 
 #: STRINGS.TABS.MADSCIENCE
 msgid "Mad Science"
@@ -102984,7 +102984,7 @@ msgstr "沒有死亡記錄"
 
 #: STRINGS.SKIN_DESCRIPTIONS.batbat_scythe
 msgid "Reap some grim bodies with this bat scythe."
-msgstr "用這把鐮刀收割一些冷酷的屍體。"
+msgstr "用這把蝙蝠鐮刀收割一些冰冷的屍體。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.beehat_mourning
 msgid "For the fashionably morose."
@@ -102992,11 +102992,11 @@ msgstr "為憂鬱又時尚的人準備。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_webber_punk
 msgid "Spiderpunk. It's a thing now."
-msgstr "蜘蛛的垃圾，不過現在是一件衣服了。"
+msgstr "蜘蛛朋克，現在是實物了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_creepy
 msgid "A dress for a supernatural child."
-msgstr "一件給超自然孩子穿的衣服。"
+msgstr "一件給超自然孩子穿的裙子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_clown
 msgid "The veneers of a clown."
@@ -103004,7 +103004,7 @@ msgstr "小丑專屬外衣。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_dowdy
 msgid "You have more important things to worry about than your appearance."
-msgstr "你有一件比外表更重要的事情去擔心"
+msgstr "你有一件比外表更重要的事情去擔心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_madscientist
 msgid "A lab coat for doing science in. Keeps the stains off your clothes."
@@ -103032,7 +103032,7 @@ msgstr "一種樸素的穿鞋方式。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wx78_wip
 msgid "Archaic foundational apparatuses."
-msgstr "古老的基礎設備。"
+msgstr "陳舊的基礎設備。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
 msgid "The spikes on these cuffs look scary, but they're actually quite soft."
@@ -103056,7 +103056,7 @@ msgstr "霉運，好運。不管怎麼說，它仍然是可愛的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
 msgid "missing description"
-msgstr "不可描述。"
+msgstr "丟失描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgid "An electrical resonant transformer circuit that provides light."
@@ -103068,11 +103068,11 @@ msgstr "她無法擺脫對死亡的偏執痴迷。\n你也不能。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willow_bats
 msgid "Woeful Willow took an axe.\nGave a tree forty whacks."
-msgstr "可憐的薇洛拿起了一把斧子。\n給了一顆樹四十下。"
+msgstr "悲傷的薇洛拿起了一把斧子。\n給了一顆樹四十下。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wilson_madscience
 msgid "Knowledge can consume the mind to feed the soul.\nAnd consume the soul to feed the mind."
-msgstr "知識可以通過消耗理智來滋潤心靈。\n消耗靈魂來滋潤心靈。"
+msgstr "知識可以消耗理智來滋潤靈魂。\n也可以消耗靈魂來滋潤理智。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_all
 msgid "This Hallowed Nights Chest contains the complete survivors Hallowed Nights series. Contains skins for: Wilson, Willow, Wendy, Webber, Wes, and WX-78."
@@ -103080,7 +103080,7 @@ msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列人物皮膚。包括
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_bundle
 msgid "This Hallowed Nights Chest contains the complete Hallowed Nights series of survivor and belongings skins."
-msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列皮膚。"
+msgstr "這個萬聖夜寶箱包含所有的萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_items
 msgid "This Hallowed Nights Chest contains all Hallowed Nights belongings skin items."
@@ -103088,7 +103088,7 @@ msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列物品皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
 msgid "The Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
-msgstr "這個反叛者寶箱包含韋伯的全套萬聖夜系列皮膚。"
+msgstr "這個叛逆者寶箱包含韋伯的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
 msgid "The Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
@@ -103096,11 +103096,11 @@ msgstr "這個超自然寶箱包含溫蒂的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "這個小丑寶箱包含維斯的全套萬聖夜系列皮膚。"
+msgstr "這個喜劇小丑寶箱包含維斯的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
-msgstr "這個悲慘寶箱包含薇洛的全套萬聖夜系列皮膚。"
+msgstr "這個悲傷主婦寶箱包含薇洛的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
 msgid "The Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
@@ -103108,15 +103108,15 @@ msgstr "這個瘋狂科學家寶箱包含威爾遜的全套萬聖夜系列皮膚
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
 msgid "The Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
-msgstr "這個未完成的寶箱包含WX-78的全套萬聖夜系列皮膚。"
+msgstr "這個未完成品寶箱包含WX-78的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
 msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n所有的東西都會死去，但並不是所有的東西都是死的。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n所有的東西都會死去，但並不是所有的東西都是一直死的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_hallowedornaments
 msgid "Equip this item to change your character's background portrait.\n\nOrnaments of dread."
-msgstr ""使用這個藏品來改變你的角色背景圖案。\n\n可怕的飾品。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n可怕的飾品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_livingforest
 msgid "Equip this item to change your character's background portrait.\n\nCelebrate this Halloween Season by decorating a monstrosity."
@@ -103124,7 +103124,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。\n\n通過裝飾�
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_messylab
 msgid "Equip this item to change your character's background portrait.\n\nA troubled mind makes a troubled Laboratory."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n煩惱的思想造就煩惱的實驗室。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n雜亂的思想造就雜亂的實驗室。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pumpkinlantern
 msgid "Equip this item to change your character's background portrait.\n\nIf you stare long into the abyss of a Jack O' Lantern mouth, it will also stare into you."
@@ -103132,11 +103132,11 @@ msgstr "使用這個藏品來改變你的角色背景圖案。\n\n如果你長�
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_living_wood
 msgid "Set your profile icon to a haunting Living Halloween Tree."
-msgstr "將你的頭像設置為萬聖節樹。"
+msgstr "將你的頭像設置為萬聖節生命樹。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mad_science
 msgid "Set your profile icon to the apparatus of mad science."
-msgstr "將你的頭像設置為瘋狂科學家。"
+msgstr "將你的頭像設置為瘋狂的科學設備。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_potion_sanity
 msgid "Set your profile icon to the entirely rational Sensible Potion."
@@ -103144,11 +103144,11 @@ msgstr "將你的頭像設置為理智藥水。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_treasurechest_monster
 msgid "Set your profile icon to a vicious way to contain your belongings."
-msgstr "將你的頭像設置為邪惡寶箱。"
+msgstr "將你的頭像設置為一種充滿惡意的保存財產的手段。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
 msgid "Set your profile icon to a fashionable way to wander this world."
-msgstr "將你的頭像設置為南瓜燈。"
+msgstr "將你的頭像設置為時尚的在世界上游蕩的方式。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.tophat_witch_pyre
 msgid "A symbol of stake-burnt sisterhood."
@@ -103168,27 +103168,27 @@ msgstr "給在萬聖節的晚上被迫於這個世界上遊盪的人的時尚配
 
 #: STRINGS.SKIN_DESCRIPTIONS.webber_punk
 msgid "Don't let the man get you down, man."
-msgstr "別讓那傢伙打倒你，夥計。"
+msgstr "別讓那傢伙給你放倒了，兄弟。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_creepy
 msgid "Wendy's supernatural powers makes her a supernatural hero. Or villian."
-msgstr "溫迪的超自然力量讓她成為了一個超自然英雄。或者敵人。"
+msgstr "溫蒂的超自然力量讓她成為了一個超自然英雄。或者反派。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wes_clown
 msgid "A hopelessly romantic clown."
-msgstr "絕望又浪漫的小丑"
+msgstr "絕望又浪漫的小丑。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.willow_dowdy
 msgid "Willow can't be bothered to try to look nice."
-msgstr "薇洛為了打扮自己費盡心思。"
+msgstr "薇洛顧不上把自己打扮的好看一點。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_madscience
 msgid "Watch out! He knows SCIENCE and he's not afraid to use it."
-msgstr "小心！他懂科學，而且他毫不害怕於使喚它。"
+msgstr "小心！他懂得科學，而且毫不畏於利用它。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_wip
 msgid "A partially constructed automaton."
-msgstr "一個殘缺不堪的機器人。"
+msgstr "一個只被組裝了一部分的機器人。"
 
 #: STRINGS.SKIN_NAMES.batbat_scythe
 msgid "Bat Scythe"
@@ -103200,7 +103200,7 @@ msgstr "哀悼面紗"
 
 #: STRINGS.SKIN_NAMES.body_webber_punk
 msgid "Punk Shirt"
-msgstr "殘破襯衫"
+msgstr "朋克襯衫"
 
 #: STRINGS.SKIN_NAMES.body_wendy_creepy
 msgid "Supernatural Frock"
@@ -103212,11 +103212,11 @@ msgstr "小丑外套"
 
 #: STRINGS.SKIN_NAMES.body_willow_dowdy
 msgid "Woeful Dress"
-msgstr "糟糕的衣服"
+msgstr "悲傷長裙"
 
 #: STRINGS.SKIN_NAMES.body_wilson_madscientist
 msgid "Mad Lab Coat"
-msgstr "瘋狂實驗服"
+msgstr "瘋狂實驗大褂"
 
 #: STRINGS.SKIN_NAMES.body_wx78_wip
 msgid "Unfinished Robot Body"
@@ -103224,7 +103224,7 @@ msgstr "未完成的機器人身體"
 
 #: STRINGS.SKIN_NAMES.feet_webber_punk
 msgid "Punk Boots"
-msgstr "廢舊靴子"
+msgstr "朋克靴子"
 
 #: STRINGS.SKIN_NAMES.feet_wendy_creepy
 msgid "Supernatural Dress Shoes"
@@ -103236,7 +103236,7 @@ msgstr "小丑鞋"
 
 #: STRINGS.SKIN_NAMES.feet_willow_dowdy
 msgid "Woeful Boots"
-msgstr "悲傷靴"
+msgstr "悲傷靴子"
 
 #: STRINGS.SKIN_NAMES.feet_wx78_wip
 msgid "Unfinished Robot Feet"
@@ -103244,7 +103244,7 @@ msgstr "未完成的機器人腳"
 
 #: STRINGS.SKIN_NAMES.hand_webber_punk
 msgid "Spiked Cuffs"
-msgstr "尖袖口"
+msgstr "尖刺袖口"
 
 #: STRINGS.SKIN_NAMES.hand_wilson_madscientist
 msgid "Mad Lab Gloves"
@@ -103260,11 +103260,11 @@ msgstr "冰霜墳墓"
 
 #: STRINGS.SKIN_NAMES.kitten_black
 msgid "Black Kittykit"
-msgstr "黑貓工具包"
+msgstr "黑貓Kitty"
 
 #: STRINGS.SKIN_NAMES.kitten_black_builder
 msgid "kitten_black_builder"
-msgstr "黑貓工人"
+msgstr "kitten_black_builder"
 
 #: STRINGS.SKIN_NAMES.lantern_tesla
 msgid "Tesla Coil Lantern"
@@ -103272,7 +103272,7 @@ msgstr "特斯拉線圈燈"
 
 #: STRINGS.SKIN_NAMES.loading_wendy_creepy
 msgid "Supernatural Wendy"
-msgstr "超自然溫迪"
+msgstr "超自然溫蒂"
 
 #: STRINGS.SKIN_NAMES.loading_willow_bats
 msgid "Woeful Willow"
@@ -103296,7 +103296,7 @@ msgstr "萬聖夜物品寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_webber
 msgid "The Rebel Chest"
-msgstr "反叛者寶箱"
+msgstr "叛逆者寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wendy
 msgid "The Supernatural Chest"
@@ -103304,11 +103304,11 @@ msgstr "超自然寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wes
 msgid "The Pierrot Chest"
-msgstr "小丑寶箱"
+msgstr "戲劇小丑寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_willow
 msgid "The Woeful Chest"
-msgstr "悲慘寶箱"
+msgstr "悲傷主婦寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wilson
 msgid "The Mad Scientist Chest"
@@ -103316,7 +103316,7 @@ msgstr "瘋狂科學家寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wx78
 msgid "The Unfinished Chest"
-msgstr "未完成的寶箱"
+msgstr "未完成品寶箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard2
 msgid "Cemetery Portrait"
@@ -103332,15 +103332,15 @@ msgstr "鬧鬼的森林背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_messylab
 msgid "Mad Scientific Portrait"
-msgstr "瘋狂科學家背景"
+msgstr "瘋狂科學背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
 msgid "Jack O' Portrait"
-msgstr "南瓜燈背景"
+msgstr "傑克南瓜燈背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_living_wood
 msgid "Living Halloween Tree"
-msgstr "萬聖夜活木"
+msgstr "萬聖夜生命樹"
 
 #: STRINGS.SKIN_NAMES.profileflair_mad_science
 msgid "Mad Scientist Lab"
@@ -103352,11 +103352,11 @@ msgstr "理智藥水"
 
 #: STRINGS.SKIN_NAMES.profileflair_treasurechest_monster
 msgid "Brute Case"
-msgstr "邪惡寶箱"
+msgstr "野蠻怪獸寶箱"
 
 #: STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
 msgid "Fashionable Pumpkin Hat"
-msgstr ""時尚南瓜帽
+msgstr "時尚南瓜帽"
 
 #: STRINGS.SKIN_NAMES.tophat_witch_pyre
 msgid "Fiery Witch's Hat"
@@ -103364,7 +103364,7 @@ msgstr "誇張女巫帽"
 
 #: STRINGS.SKIN_NAMES.treasurechest_monster
 msgid "Brute Case"
-msgstr "邪惡寶箱"
+msgstr "野蠻怪獸寶箱"
 
 #: STRINGS.SKIN_NAMES.umbrella_spider
 msgid "Webrolly"
@@ -103376,11 +103376,11 @@ msgstr "時尚南瓜帽"
 
 #: STRINGS.SKIN_NAMES.webber_punk
 msgid "The Rebel"
-msgstr "反叛者"
+msgstr "叛逆者"
 
 #: STRINGS.SKIN_NAMES.wendy_creepy
 msgid "The Supernatural"
-msgstr "靈媒"
+msgstr "超自然"
 
 #: STRINGS.SKIN_NAMES.wes_clown
 msgid "The Pierrot"
@@ -103388,7 +103388,7 @@ msgstr "喜劇小丑"
 
 #: STRINGS.SKIN_NAMES.willow_dowdy
 msgid "The Woeful"
-msgstr "悲慘主婦"
+msgstr "悲傷主婦"
 
 #: STRINGS.SKIN_NAMES.wilson_madscience
 msgid "The Mad Scientist"
@@ -103396,7 +103396,7 @@ msgstr "瘋狂科學家"
 
 #: STRINGS.SKIN_NAMES.wx78_wip
 msgid "The Unfinished"
-msgstr "未完成組件"
+msgstr "未完成品"
 
 #: STRINGS.SKIN_QUOTES.webber_punk
 msgid "\"Don't mess with us.\""
@@ -103404,7 +103404,7 @@ msgstr "\"不要惹我們。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_creepy
 msgid "\"I am coming for you!\""
-msgstr "\"我來找你了！\""
+msgstr "\"我要來找你了！\""
 
 #: STRINGS.SKIN_QUOTES.willow_dowdy
 msgid "\"I didn't do it. Really.\""
@@ -103412,7 +103412,7 @@ msgstr "\"我沒有那樣做，真的。\""
 
 #: STRINGS.SKIN_QUOTES.wilson_madscience
 msgid "\"Stand back. I'm going to do SCIENCE!\""
-msgstr "\"退後，我要開始做科學實驗了！\""
+msgstr "\"退後，我要開始做些科學了！\""
 
 #: STRINGS.SKIN_QUOTES.wx78_wip
 msgid "\"THEY HAVE NOT INSTALLED A HEART\""

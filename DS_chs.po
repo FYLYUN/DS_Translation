@@ -46436,11 +46436,11 @@ msgstr "一个恶心,又坚硬的植物."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTBULB
 msgid "It's called a \"lightbulb\" but it's kinda heavy."
-msgstr "这就是所谓的\"电灯泡\"它好重啊."
+msgstr "虽然叫“荧光果”,但好重哦."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTER
 msgid "It's my lucky lighter!"
-msgstr "这是我的幸运火把!"
+msgstr "这是我的幸运打火机!"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIGHTNINGGOAT.CHARGED
 msgid "You're crazy!"
@@ -83424,7 +83424,7 @@ msgstr "粪球"
 
 #: STRINGS.NAMES.DUNGBEETLE
 msgid "Dung Beetle"
-msgstr "蜣螂"
+msgstr "屎壳郎"
 
 #: STRINGS.NAMES.DUNGPILE
 msgid "Dung Pile"
@@ -83528,7 +83528,7 @@ msgstr "树篱"
 
 #: STRINGS.NAMES.HIPPOPOTAMOOSE
 msgid "Hippopotamoose"
-msgstr "鹿角河马"
+msgstr "鹿河马"
 
 #: STRINGS.NAMES.HOGUSPORKUSATOR
 msgid "Hogus Porkusator"
@@ -83708,7 +83708,7 @@ msgstr "费罗石"
 
 #: STRINGS.NAMES.PIGBANDIT
 msgid "Masked Pig"
-msgstr "戴面具的猪"
+msgstr "蒙面的猪"
 
 #: STRINGS.NAMES.PIGCROWNHAT
 msgid "Royal Crown"
@@ -83724,11 +83724,11 @@ msgstr "远古之魄"
 
 #: STRINGS.NAMES.PIGHOUSE_CITY
 msgid "Town House"
-msgstr "猪房"
+msgstr "小镇房屋"
 
 #: STRINGS.NAMES.PIGHOUSE_DOOR
 msgid "House With Door"
-msgstr "有门的房子"
+msgstr "有门的房屋"
 
 #: STRINGS.NAMES.PIGHOUSE_FARM
 msgid "Farm House"
@@ -83900,11 +83900,11 @@ msgstr "飞猪 \n神秘商店"
 
 #: STRINGS.NAMES.PIG_SHOP_CITYHALL
 msgid "Swinesbury City Hall"
-msgstr "小镇大厅"
+msgstr "小镇市政厅"
 
 #: STRINGS.NAMES.PIG_SHOP_CITYHALL_PLAYER
 msgid "My City Hall"
-msgstr "我的城市大厅"
+msgstr "我的市政厅"
 
 #: STRINGS.NAMES.PIG_SHOP_DELI
 msgid "The Sterling Trough Deli"
@@ -84608,7 +84608,7 @@ msgstr "象鼻鼠虫壳"
 
 #: STRINGS.NAMES.WILBA
 msgid "Wilba"
-msgstr "威尔巴"
+msgstr "维尔巴"
 
 #: STRINGS.NAMES.WINDOW_LARGE_SQUARE
 msgid "Square Window"
@@ -84676,7 +84676,7 @@ msgstr "挖掘"
 
 #: STRINGS.ACTIONS.PICK.FLIP
 msgid "Flip"
-msgstr "按"
+msgstr "翻开"
 
 #: STRINGS.ACTIONS.PICK.GENERIC
 msgid "Pick"
@@ -84688,7 +84688,7 @@ msgstr "武装"
 
 #: STRINGS.ACTIONS.RENOVATE
 msgid "Renovate"
-msgstr "修复"
+msgstr "整修"
 
 #: STRINGS.ACTIONS.SHEAR
 msgid "Shear"
@@ -84700,7 +84700,7 @@ msgstr "购买"
 
 #: STRINGS.ACTIONS.SHOP_LONG
 msgid "Buy {wantitem}\nfor {qty} {payitem}"
-msgstr "花费 {qty} {payitem}\n购买 {wantitem}"
+msgstr "花费 {qty} {payitem}\n换取 {wantitem}"
 
 #: STRINGS.ACTIONS.SHOP_TAKE
 msgid "Take {wantitem}"
@@ -84716,7 +84716,7 @@ msgstr "压低"
 
 #: STRINGS.TABS.ARCHAEOLOGY
 msgid "Treasure Hunting"
-msgstr "寻找宝藏"
+msgstr "寻宝"
 
 #: STRINGS.TABS.CITY
 msgid "City Planning"
@@ -84724,7 +84724,7 @@ msgstr "城镇规划"
 
 #: STRINGS.TABS.HOME
 msgid "Renovate"
-msgstr "修复"
+msgstr "整修"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.65
 msgid "Flip Facing"
@@ -84768,7 +84768,7 @@ msgstr "高草丛田"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.HUMID_SEASON
 msgid "Humid Season"
-msgstr "潮湿季节"
+msgstr "潮湿季"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.JUNGLE_BORDER_VINE
 msgid "Jungle Canopy Vines"
@@ -84780,7 +84780,7 @@ msgstr "失落的遗迹"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.LUSH_SEASON
 msgid "Lush Season"
-msgstr "繁盛季节"
+msgstr "繁茂季"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.RUINED_SCULPTURES
 msgid "Ruined Sculptures"
@@ -84792,7 +84792,7 @@ msgstr "长矛陷阱"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.NAMES.TEMPERATE_SEASON
 msgid "Temperate Season"
-msgstr "温带季节"
+msgstr "温和季"
 
 #: STRINGS.UI.HUD.FLIP
 msgid "Rotate (Q) and (E)"
@@ -84900,7 +84900,7 @@ msgstr "只有与%s兼容的MODS才会在这个存档中起作用。"
 
 #: STRINGS.UI.SAVEINTEGRATION.PORKLAND
 msgid "Hamlet"
-msgstr "哈姆雷特"
+msgstr "小镇"
 
 #: STRINGS.UI.SAVEINTEGRATION.PORK_COMP
 msgid "Hamlet Compatibility"
@@ -84944,7 +84944,7 @@ msgstr "文明社会..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.13
 msgid "economy..."
-msgstr "经济体系..."
+msgstr "金融体系..."
 
 #: STRINGS.UI.WORLDGEN.NOUNS.PORKLAND.14
 msgid "royalty..."
@@ -84988,7 +84988,7 @@ msgstr "生成高原"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.warbucks
 msgid "*Is an explorer\n*Loves his fortune\n*Picky eater"
-msgstr "*是一个探险家\n*非常爱惜他的钱\n*胃口挑剔"
+msgstr "*是一个探险家\n*非常爱惜他的财产\n*胃口挑剔"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilba
 msgid "*Is a pig\n*Is royalty\n*Is afraid of the dark"
@@ -85000,7 +85000,7 @@ msgstr "沃尔巴克斯"
 
 #: STRINGS.CHARACTER_NAMES.wilba
 msgid "Wilba"
-msgstr "威尔巴"
+msgstr "维尔巴"
 
 #: STRINGS.CHARACTER_QUOTES.warbucks
 msgid "\"I say Ol' chap! This will be a game to remember!\""
@@ -85016,5 +85016,5 @@ msgstr "沃尔巴克斯 绅士猎人"
 
 #: STRINGS.CHARACTER_TITLES.wilba
 msgid "The Royal Adventurer"
-msgstr "威尔巴 皇室冒险者"
+msgstr "维尔巴 皇室冒险家"
 
