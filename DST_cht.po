@@ -103052,7 +103052,7 @@ msgstr "把你的食物送進冰冷的墳墓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_black
 msgid "Bad luck. Good luck. Either way it's still adorable."
-msgstr "霉運，好運。不管怎麼說，它仍然是可愛的。"
+msgstr "幸運亦或祥瑞，都無法否認它可愛的外表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
 msgid "missing description"
@@ -103156,7 +103156,7 @@ msgstr "標誌著姐妹友誼的火焰樹狀。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster
 msgid "An evil place to put your goods."
-msgstr "一個用來存放你東西的邪惡地方"
+msgstr "一個用來存放你東西的邪惡寶箱"
 
 #: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
 msgid "You'll never know when you arach-need one."
@@ -103244,7 +103244,7 @@ msgstr "未完成的機器人腳"
 
 #: STRINGS.SKIN_NAMES.hand_webber_punk
 msgid "Spiked Cuffs"
-msgstr "尖刺袖口"
+msgstr "尖刺腕輪"
 
 #: STRINGS.SKIN_NAMES.hand_wilson_madscientist
 msgid "Mad Lab Gloves"
@@ -103260,7 +103260,7 @@ msgstr "冰霜墳墓"
 
 #: STRINGS.SKIN_NAMES.kitten_black
 msgid "Black Kittykit"
-msgstr "黑貓Kitty"
+msgstr "黑羅Kitty"
 
 #: STRINGS.SKIN_NAMES.kitten_black_builder
 msgid "kitten_black_builder"
