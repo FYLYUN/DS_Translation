@@ -103437,3 +103437,664 @@ msgstr "雨傘"
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERMELONHAT
 msgid "Fashion Melon"
 msgstr "時尚西瓜帽"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BRAVERY_POTION
+msgid "Those trees don't seem so spooky anymore."
+msgstr "那些樹看起來不那麼叫人毛骨悚然了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SPOOKED
+msgid "Did you see that?!"
+msgstr "你看見了嗎？！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Full of grit."
+msgstr "充滿了決心。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "A potent potion."
+msgstr "十分強力的藥水。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "I was hoping for something bigger."
+msgstr "我希望能有更大杯的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Crystalized inferno."
+msgstr "地獄的結晶。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "A spectornament I could hang in a tree."
+msgstr "一個我可以到樹上的光學裝飾品。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Completely batty decoration."
+msgstr "完全蝠了的裝飾。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "This wood look good hanging somewhere."
+msgstr "它掛在什麼地方應該會很好看。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Almost i-tentacle to the real ones."
+msgstr "真正觸手可及的觸手。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "Eight-armed adornment."
+msgstr "有著八個手臂的裝飾。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Everyone's raven about tree decorations these days."
+msgstr "現在每個人都會對樹上的裝飾品讚不絕口。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_ROOT
+msgid "Something's in there! I'll have to root it out."
+msgstr "有什麼東西在裡面！我得把它弄出來。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LIVINGTREE_SAPLING
+msgid "It'll grow up big and horrifying."
+msgstr "它會長得高大又可怕。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MADSCIENCE_LAB
+msgid "Sanity is a small price to pay for science!"
+msgstr "理智只是科學的小小代價。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BRAVERY_POTION
+msgid "Fear! I hath bested you!"
+msgstr "恐懼！我已經打倒了恐懼！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_SPOOKED
+msgid "Doth mine eyes deceive me?"
+msgstr "是我的眼睛在騙我嗎？"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "'tis Berserker magic."
+msgstr "這是狂戰士的力量。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "Fortune hath smiled upon me today!"
+msgstr "今天幸運之神在向我微笑！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "A meager reward for my troubles."
+msgstr "對我麻煩工作的微小回報。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Hel's fuel."
+msgstr "海姆冥界的燃料。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Meant to hang from Yggdrasil's kin!"
+msgstr "我打算掛在世界樹的親戚那！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Decoration! Prepare to be hung from something!"
+msgstr "裝飾！準備被吊在什麼上吧！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "It shall strike fear unto the hearts of mine foes!"
+msgstr "它會讓我的敵人們心生恐懼！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "'tis but a decoration!"
+msgstr "但它只是裝飾！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "It shalt be hung from the highest branch!"
+msgstr "它應該被懸掛在最高的樹枝上！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Huginn? Or Muninn?"
+msgstr "福金？還是霧尼？"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_ROOT
+msgid "I hath birthed the root of terror!"
+msgstr "我創造了恐怖之根！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LIVINGTREE_SAPLING
+msgid "It bears the promise of horridness!"
+msgstr "它註定是可怕的！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MADSCIENCE_LAB
+msgid "Be there method to this madness?"
+msgstr "怎會有這種瘋狂的手段？"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BRAVERY_POTION
+msgid "I was never really scared of those trees anyhow."
+msgstr "我從來就沒真正怕過那些樹。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_SPOOKED
+msgid "Quite an expert illusion."
+msgstr "非常專業的錯覺。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Takes away the horrors. But who would want that?"
+msgstr "驅趕恐懼，但誰會想要這個呢？"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "Ah. This'll do the trick."
+msgstr "啊，這應該足夠了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Could be a little stronger."
+msgstr "應該再強效一點。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Might as well throw it in the fire."
+msgstr "不如直接扔進火里。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Oh joy. Is there really need for decoration?"
+msgstr "哦，它真的需要裝飾嗎？"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Such a burden to carry it. If only there were a place to leave it."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "I like the real ones better."
+msgstr "我更喜歡真的。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Shouldn't it be hanging from somewhere."
+msgstr "就不該被掛在什麼地方。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "Ugh. These guys again."
+msgstr "噫，又是這些傢伙。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Why do I hear \"Nevermore\"?"
+msgstr "為什麼我會聽到「絕不再來」？"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_ROOT
+msgid "Ah. A chance to grow something horrible."
+msgstr "啊，一個播撒恐怖的機會。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Just days away from dreadful."
+msgstr "離可怕只剩幾天了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MADSCIENCE_LAB
+msgid "How maddening."
+msgstr "多麼瘋狂。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BRAVERY_POTION
+msgid "Hey, those trees aren't so scary anymore!"
+msgstr "嘿，那些樹再也不那麼嚇人了。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_SPOOKED
+msgid "Are we seeing things?!"
+msgstr "我們是看到了什麼了嗎？！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Makes us feel big and strong!"
+msgstr "讓我們覺得自己高大強壯！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "It's pretty powerful."
+msgstr "它有點太強了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "It's only a little powerful."
+msgstr "只有一點點藥效。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Neat! It's like firecrackers."
+msgstr "整齊！就像鞭炮一樣。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Oooh. Spooky. We should decorate!"
+msgstr "哦哦，真嚇人，我們應該拿來作裝飾。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Gosh. That almost looks real."
+msgstr "天啊，看起來像真的一樣。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Aw. It's not real. Let's hang it somewhere."
+msgstr "噢...那不是真的，我們把它掛起來吧。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Let's hang it somewhere for Halloween!"
+msgstr "讓我們把它掛在什麼地方過萬聖節吧！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "We should put this guy in a tree!"
+msgstr "我們應該把這傢伙放到樹上！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "If we put it in a tree it'd look almost real."
+msgstr "如果我們把它放到樹上看起來就像真的一樣。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_ROOT
+msgid "We should plant this somewhere."
+msgstr "我們應該找個地方把它種下。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE_SAPLING
+msgid "It's a monster kid. Like me!"
+msgstr "它和我一樣是個小怪物！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MADSCIENCE_LAB
+msgid "Wow. Look at it bubble."
+msgstr "哇噢，看那些泡泡。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_BRAVERY_POTION
+msgid "Bats can't scare me anymore. I can return to my melancholy."
+msgstr "蝙蝠再也嚇不到我了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_SPOOKED
+msgid "Did you see that, Abigail?"
+msgstr "阿比蓋爾，你看到那個了嗎？"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Things seem less horrifying with this."
+msgstr "這些事似乎不那麼可怕了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "If only life was so potent."
+msgstr "若是生命如此強大就好了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Like life, it's a bit disappointing."
+msgstr "有些令人失望，像生命一樣。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "I wish I possessed such burning within my heart."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "It reminds me of Abigail. I'll hang it somewhere."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "It longs to be hung somewhere."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Decoration for a devilish day."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "A memorial for a monster."
+msgstr "一個怪物的紀念品。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "It descends into darkness."
+msgstr "來自黑暗的裝飾。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Crows in trees mean souls trapped between worlds."
+msgstr "樹上的烏鴉代表著被困在兩個世界間的靈魂。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_ROOT
+msgid "Potential horror."
+msgstr "潛伏的恐懼。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIVINGTREE_SAPLING
+msgid "It'll grow up big and abhorrent."
+msgstr "它會變得巨大而恐怖。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MADSCIENCE_LAB
+msgid "Madness lies within."
+msgstr "瘋狂蘊含其中。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_BRAVERY_POTION
+msgid "My intestinal fortitude has returned!"
+msgstr "我的勇氣又回來了！"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_SPOOKED
+msgid "Curious. I seem to be hallucinating."
+msgstr "奇怪。我好像產生幻覺了。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Bottled valor."
+msgstr "瓶裝的英勇。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "A impressive elixer."
+msgstr "令人印象深刻的萬靈藥。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Not as potent as I would have liked."
+msgstr "沒有我希望的那麼強力。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "It appears combustible."
+msgstr "它似乎是可燃的。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "An ornamental poltergeist meant to be hung somewhere."
+msgstr "一個本應掛在什麼地方的惡作劇裝飾。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "A flourish of flying mammal."
+msgstr "一個飛行哺乳動物的裝飾品。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "An arborator adornment of the arachnid variety."
+msgstr "一種節肢動物的裝飾品。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "I really should decorate."
+msgstr "我真的應該裝飾一下。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "An ornament such as this should be hung up."
+msgstr "像這樣的裝飾品應該掛起來。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "A corvus such as this would do better in a tree."
+msgstr "像這樣的烏鴉在樹上會更好。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_ROOT
+msgid "The root cutting of a beastly tree."
+msgstr "一塊從野獸般的樹上切下的樹根。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Ah. Its horror has taken root."
+msgstr "啊，恐怖已經紮根了。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MADSCIENCE_LAB
+msgid "Mad science indeed!"
+msgstr "真正的瘋狂科學！"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_BRAVERY_POTION
+msgid "Haha! Those bats don't scare me anymore!"
+msgstr "哈哈！那些蝙蝠再也嚇不到我了。"
+
+#: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_SPOOKED
+msgid "Were those bats, or am I just seeing things."
+msgstr "我剛剛看到的是蝙蝠嗎。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "It's like there's a fire in my belly."
+msgstr "這就像我心中有了一團火。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "Ah. The strong stuff."
+msgstr "啊，強烈的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "I wish it was a little stronger."
+msgstr "我還以為它會更強烈一點的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "I didn't think it was possible to make fire better."
+msgstr "我不覺得火焰還能比現在更好。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Can I set it on fire?"
+msgstr "我能把它放進火里嗎？"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "I should decorate for Halloween."
+msgstr "我應該為萬聖節做做裝飾。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Ugh. I hate those jerks."
+msgstr "噫，我恨這幫混蛋。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Wish it was flammable."
+msgstr "希望它能被點著。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "I should hang it somewhere and scare people."
+msgstr "我應該把它掛在什麼地方來嚇唬人。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "I'm gonna stick you in a tree."
+msgstr "我要把你綁在樹上。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_ROOT
+msgid "It's a stick. But I can't even set it on fire."
+msgstr "是樹枝，但我不能把它扔進火里。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Should I wait until it gets bigger to set it on fire?"
+msgstr "我應該等他長大更大再燒嗎？"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MADSCIENCE_LAB
+msgid "I like the fire!"
+msgstr "我喜歡火焰！"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_BRAVERY_POTION
+msgid "I got my moxie back. Now to tackle those trees."
+msgstr "我的勇氣回來了，現在去解決那些樹吧。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_SPOOKED
+msgid "I'm seein' things!"
+msgstr "我看到了什麼！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Makes ya plucky."
+msgstr "讓你更勇敢。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "I got lucky and got the big bottle."
+msgstr "我幸運的拿到了大杯。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Aw, I was hoping for a little more."
+msgstr "啊，我還希望會更多一點。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Ohh. This'll make a spark."
+msgstr "哦，這會產生火花的。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Ha! Ya almost fooled me."
+msgstr "哈，你差點就騙倒我了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "I should hang this somewhere."
+msgstr "我應該把它掛到什麼地方。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Time to decorate."
+msgstr "裝修時間到。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Time for decoratin'!"
+msgstr "是時候裝飾一下了！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "Hey, it's them hanging guys."
+msgstr "嘿，這就是他們掛起來的人。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "It needs to be in a tree."
+msgstr "它應該在一棵樹上。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_ROOT
+msgid "Oh hey! There's a little stick in there."
+msgstr "哦，嘿！這裡面有根小樹枝。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Keep growin' little guy! I'm gonna decorate you."
+msgstr "繼續長大，小傢伙！我還要裝飾你呢。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.MADSCIENCE_LAB
+msgid "I can do some experimentin' with that."
+msgstr "我可以用它做一些實驗。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_BRAVERY_POTION
+msgid "Wolfgang is brave! Not scared of spooky tree!"
+msgstr "沃爾夫岡很勇敢！不會被可怕的樹嚇到！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_SPOOKED
+msgid "Wolfgang's eyes is playing tricky!"
+msgstr "沃爾夫岡的眼睛在耍花招！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "Wolfgang is brave. Is making Wolfgang braver."
+msgstr "沃爾夫岡很勇敢，它能讓沃爾夫岡更勇敢。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "Is strong like Wolfgang!"
+msgstr "它就像沃爾夫岡一樣強大！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Is okay, but big Wolfgang need big drink!"
+msgstr "還不錯，但沃爾夫岡需要更大杯的飲料。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Is making fire go boom boom!"
+msgstr "發射砰砰砰的火焰！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "Wolfgang should be hanging it somewhere."
+msgstr "沃爾夫岡應該把它掛到什麼地方。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Is real bat?! Is not real bat."
+msgstr "是真的蝙蝠？！不是真的蝙蝠。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Is for decorating."
+msgstr "是用來裝飾的。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "Wolfgang needs to be decorating."
+msgstr "沃爾夫岡要用它來裝飾。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "Wolfgang could hang somewheres."
+msgstr "沃爾夫岡應該把它掛到某處。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Little fake birdy is needing tree!"
+msgstr "假小鳥需要一顆樹！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_ROOT
+msgid "Hello little sticky!"
+msgstr "你好啊小樹枝！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Grow big and strong so Wolfgang can decorate!"
+msgstr "長得又大又壯吧，這樣沃爾夫岡才能裝飾一下。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MADSCIENCE_LAB
+msgid "Is making Wolfgang brain hurt."
+msgstr "它叫沃爾夫岡頭疼。"
+
+#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BRAVERY_POTION
+msgid "Glad that's over. Never thought I'd be scared of trees."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED
+msgid "You see that, Lucy?"
+msgstr "露西你看到那個了嗎？"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "A good hardy drink."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "That's a lot, eh."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Not bad."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "It'll never replace a good hunk of wood."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "It's just fake, eh."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "That's nice. I should hang it somewhere."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "This would look good in a tree somewhere."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "You wanna decorate, Lucy?"
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "Hang in there, eh."
+msgstr "掛在這裡，嗯。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Argh! I'd sure like to hang a real one like that."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_ROOT
+msgid "Hey there's a piece of wood in there."
+msgstr ""
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_SAPLING
+msgid "Yep. That'll be a fine tree one day."
+msgstr "嗯，總有一天會成為一顆不錯的樹。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MADSCIENCE_LAB
+msgid "I prefer simpler things."
+msgstr "我更喜歡簡單點的東西。"
+
+#: STRINGS.CHARACTERS.WX78.ANNOUNCE_BRAVERY_POTION
+msgid "FLYING FLESHLINGS NO LONGER ACTIVATE FEAR UNITS"
+msgstr "飛行肉塊將不再激活恐懼單元"
+
+#: STRINGS.CHARACTERS.WX78.ANNOUNCE_SPOOKED
+msgid "WARNING: VISUAL COMPONENTS MALFUNCTIONING"
+msgstr "警告：視覺組件故障"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "A FIX FOR BRAVERY PERFORMANCE ISSUES"
+msgstr "用於修復勇敢性能問題"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "LARGE UPGRADE"
+msgstr "大型升級"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "SMALL UPGRADE"
+msgstr "小型升級"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "SPECTACLE INDUCING CRYSTALS"
+msgstr "奇觀觸發晶體"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "ERROR: DOES NOT FUNCTION IN INVENTORY"
+msgstr "錯誤：無法在庫存中運行"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "ACCESSORY FOR HORRIFIC TREE"
+msgstr "恐怖樹木的額外插件"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "A FAKE FLESHSACK USED FOR DECORATION"
+msgstr "用於裝飾的假肉袋"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "NEEDS TREE TO PERFORM DECORATING TASKS"
+msgstr "需要樹木以執行裝飾任務"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_5
+msgid "NEEDS HANGING TO INDUCE HORROR"
+msgstr "需要被吊起以引發恐懼"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "FLESHLESS FLESHSACK"
+msgstr "無肉的肉塊"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_ROOT
+msgid "DIMINUTIVE WOOD BASED LIFE FORM"
+msgstr ""
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_SAPLING
+msgid "A GROWING HORROR"
+msgstr "在成長的恐怖"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB
+msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
+msgstr "兄弟！是什麼在驅動你的瘋狂！"
+
