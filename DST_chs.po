@@ -103586,10 +103586,6 @@ msgstr "不如直接扔进火里。"
 msgid "Oh joy. Is there really need for decoration?"
 msgstr "哦，它真的需要装饰吗？"
 
-#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2
-msgid "Such a burden to carry it. If only there were a place to leave it."
-msgstr ""
-
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgid "I like the real ones better."
 msgstr "我更喜欢真的。"
@@ -103697,22 +103693,6 @@ msgstr "若是生命如此强大就好了。"
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgid "Like life, it's a bit disappointing."
 msgstr "有些令人失望，像生命一样。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_FIRE_FX
-msgid "I wish I possessed such burning within my heart."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1
-msgid "It reminds me of Abigail. I'll hang it somewhere."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2
-msgid "It longs to be hung somewhere."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_3
-msgid "Decoration for a devilish day."
-msgstr ""
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgid "A memorial for a monster."
@@ -103978,57 +103958,13 @@ msgstr "长得又大又壮吧，这样沃尔夫冈才能装饰一下。"
 msgid "Is making Wolfgang brain hurt."
 msgstr "它叫沃尔夫冈头疼。"
 
-#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BRAVERY_POTION
-msgid "Glad that's over. Never thought I'd be scared of trees."
-msgstr ""
-
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED
 msgid "You see that, Lucy?"
 msgstr "露西你看到那个了吗？"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_BRAVERY
-msgid "A good hardy drink."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
-msgid "That's a lot, eh."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
-msgid "Not bad."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_FIRE_FX
-msgid "It'll never replace a good hunk of wood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1
-msgid "It's just fake, eh."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2
-msgid "That's nice. I should hang it somewhere."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_3
-msgid "This would look good in a tree somewhere."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_4
-msgid "You wanna decorate, Lucy?"
-msgstr ""
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgid "Hang in there, eh."
 msgstr "挂在这里，嗯。"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6
-msgid "Argh! I'd sure like to hang a real one like that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_ROOT
-msgid "Hey there's a piece of wood in there."
-msgstr ""
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_SAPLING
 msgid "Yep. That'll be a fine tree one day."
@@ -104086,10 +104022,6 @@ msgstr "需要被吊起以引发恐惧"
 msgid "FLESHLESS FLESHSACK"
 msgstr "无肉的肉块"
 
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_ROOT
-msgid "DIMINUTIVE WOOD BASED LIFE FORM"
-msgstr ""
-
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_SAPLING
 msgid "A GROWING HORROR"
 msgstr "在成长的恐怖"
@@ -104097,4 +104029,3 @@ msgstr "在成长的恐怖"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB
 msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什么在驱动你的疯狂！"
-
