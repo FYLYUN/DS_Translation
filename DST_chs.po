@@ -4,7 +4,7 @@ msgstr "遗弃"
 
 #: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgid "Wind"
-msgstr "风"
+msgstr "上发条"
 
 #: STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgid "Climb"
@@ -18068,7 +18068,7 @@ msgstr "这是什么邪恶的表现？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKIN
 msgid "Hallowe'en was always my favorite."
-msgstr "我一直很喜欢万圣夜。"
+msgstr "我一直很喜欢万圣节。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PUMPKINCOOKIE
 msgid "It's been eons since I had a good biscuit."
@@ -29004,7 +29004,7 @@ msgstr "一切都死了"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgid "This tree is spooky. I bet it likes Halloween."
-msgstr "这些树真恐怖，我打赌它很像万圣夜的那些玩意儿。"
+msgstr "这些树真恐怖，我打赌它很像万圣节的那些玩意儿。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DECIDUOUSTREE.POISON
 msgid "Extra-spooky!"
@@ -36640,7 +36640,7 @@ msgstr "这根圆木很特别"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LIVINGTREE
 msgid "This tree is special."
-msgstr "动物还是蔬菜？"
+msgstr "这棵树很特别。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LOG.BURNING
 msgid "An axial section of tree trunk. On fire."
@@ -49316,7 +49316,7 @@ msgstr "嘿，你看起来真有趣！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KRAMPUS
 msgid "Some sort of... festive devil?"
-msgstr "一些……万圣夜的魔鬼？"
+msgstr "一些……万圣节的魔鬼？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KRAMPUS_SACK
 msgid "I could carry a whole warehouse in that thing!"
@@ -82612,7 +82612,7 @@ msgstr "穿着这件炼金术士的衣服炼金真是别具一格。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_krampus
 msgid "Dress up as a spooky Krampus for Hallowed Nights."
-msgstr "在万圣夜晚会上装扮成一个吓人的坎普斯。"
+msgstr "在万圣夜装扮成一个吓人的坎普斯。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_nature
 msgid "The leaves on this tunic never wilt nor die, but neither do they grow."
@@ -82708,7 +82708,7 @@ msgstr "击晕你的敌人，让他们安静"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_mandrake
 msgid "A Hallowed Nights costume fashioned after a delightfully annoying vegetable."
-msgstr "在装扮成一株烦人的植物后终于符合了万圣夜晚会的风格。"
+msgstr "在装扮成一株烦人的植物后终于符合了万圣夜的风格。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_nature
 msgid "These artist's tools are mostly for show. It's not easy to get ahold of paints in the wilderness."
@@ -82764,7 +82764,7 @@ msgstr "在客厅里休息或用来体现他们地位的完美时装。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_dragonfly
 msgid "Be a terrifying Dragonfly for Hallowed Nights!"
-msgstr "在万圣夜晚会上变成一只可怕的龙蝇！"
+msgstr "在万圣夜变成一只恐怖的龙蝇！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_formal
 msgid "Everybody needs a little black dress. (Conveniently, it hides ash stains.)"
@@ -82808,7 +82808,7 @@ msgstr "这个结霜的外套上面有新鲜的雪的味道。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_pigguard
 msgid "Dress up like an intimidating Pig Guard for Hallowed Nights!"
-msgstr "为了万圣夜晚会打扮成一头可怕的猪人守卫！"
+msgstr "为了万圣夜打扮成一头可怕的猪人守卫！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_rose
 msgid "Rose cultivation is truly a most delicate science."
@@ -82836,7 +82836,7 @@ msgstr "为抵御熔炉的烈火而穿的板甲。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_grassgecko
 msgid "Dress up like a cute Grass Gekko for Hallowed Nights."
-msgstr "为了万圣夜晚会打扮成一只可爱的草蜥蜴。"
+msgstr "为了万圣夜而打扮成一只可爱的草蜥蜴。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_nature
 msgid "This delightful frock is cool and comfortable, perfect for an afternoon of gardening."
@@ -82888,7 +82888,7 @@ msgstr "适合当你在下午茶后一小时内有一场比赛预定的时候穿
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_walrus
 msgid "Dress up as an old MacTusk for Hallowed Nights!"
-msgstr "为了万圣夜晚会打扮成一头海象！"
+msgstr "为了万圣夜打扮成一头海象！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_formal
 msgid "A real Canadian Jacket, made for real Canadians. (Not out of real Canadians.)"
@@ -82964,7 +82964,7 @@ msgstr "为暴雪而生！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_yuled_coat
 msgid "Put another log on the fire! No, seriously, it's about to go out."
-msgstr "快把木头放在火上！哦不，说真的，它要消失了。"
+msgstr "再添一根木头进去！我说真的，它就快灭了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_yuled_dress
 msgid "A dashing frock for dashing through the snow!"
@@ -83928,7 +83928,7 @@ msgstr "如果铁匠铺的地板上全是干草，那么你永远不知道什么
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_gladiator
 msgid "Berserkers have no need of pants!"
-msgstr "战士不需要裤子。"
+msgstr "狂战士不需要裤子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_ice
 msgid "An old, traditional pair of trousers in a 'monastral blue' hue."
@@ -85044,7 +85044,7 @@ msgstr "独眼巨鹿套装"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_deerclops_d
 msgid "Wigfrid chose to be one of her favorite foes to battle for Hallowed Nights."
-msgstr "薇格弗德决定在万圣夜之夜装作她最喜爱的敌人去战斗。"
+msgstr "薇格弗德决定在万圣之夜装作她最喜爱的敌人去战斗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_formal
 msgid "She resembles a Visigothic princess."
@@ -89600,7 +89600,7 @@ msgstr "远古藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.COSTUME
 msgid "Costume Collection"
-msgstr "万圣节藏品"
+msgstr "装扮藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FORMAL
 msgid "Formal Collection"
