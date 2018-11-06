@@ -98112,7 +98112,7 @@ msgstr "开启的Mod"
 
 #: STRINGS.UI.PLAYERSTATUSSCREEN.MUTE
 msgid "Mute"
-msgstr "禁音"
+msgstr "屏蔽"
 
 #: STRINGS.UI.PLAYERSTATUSSCREEN.OK
 msgid "Do it!"
@@ -98152,7 +98152,7 @@ msgstr "生存"
 
 #: STRINGS.UI.PLAYERSTATUSSCREEN.UNMUTE
 msgid "Unmute"
-msgstr "开启声音"
+msgstr "解除屏蔽"
 
 #: STRINGS.UI.PLAYERSTATUSSCREEN.USERACTIONS
 msgid "More Actions..."
