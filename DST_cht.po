@@ -102996,7 +102996,7 @@ msgstr "蜘蛛朋克，現在是實物了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_creepy
 msgid "A dress for a supernatural child."
-msgstr "一件給超自然孩子穿的裙子。"
+msgstr "一件給靈異孩子穿的裙子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_clown
 msgid "The veneers of a clown."
@@ -103092,7 +103092,7 @@ msgstr "這個叛逆者寶箱包含\n韋伯的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
 msgid "The Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
-msgstr "這個超自然寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
+msgstr "這個靈異寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
@@ -103204,7 +103204,7 @@ msgstr "朋克襯衫"
 
 #: STRINGS.SKIN_NAMES.body_wendy_creepy
 msgid "Supernatural Frock"
-msgstr "超自然連衣裙"
+msgstr "靈異連衣裙"
 
 #: STRINGS.SKIN_NAMES.body_wes_clown
 msgid "Pierrot Suit"
@@ -103228,7 +103228,7 @@ msgstr "朋克靴子"
 
 #: STRINGS.SKIN_NAMES.feet_wendy_creepy
 msgid "Supernatural Dress Shoes"
-msgstr "超自然皮鞋"
+msgstr "靈異皮鞋"
 
 #: STRINGS.SKIN_NAMES.feet_wes_clown
 msgid "Pierrot Shoes"
@@ -103272,7 +103272,7 @@ msgstr "特斯拉線圈燈"
 
 #: STRINGS.SKIN_NAMES.loading_wendy_creepy
 msgid "Supernatural Wendy"
-msgstr "超自然溫蒂"
+msgstr "靈異溫蒂"
 
 #: STRINGS.SKIN_NAMES.loading_willow_bats
 msgid "Woeful Willow"
@@ -103300,7 +103300,7 @@ msgstr "叛逆者寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wendy
 msgid "The Supernatural Chest"
-msgstr "超自然寶箱"
+msgstr "靈異寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wes
 msgid "The Pierrot Chest"
@@ -103380,7 +103380,7 @@ msgstr "叛逆者"
 
 #: STRINGS.SKIN_NAMES.wendy_creepy
 msgid "The Supernatural"
-msgstr "超自然"
+msgstr "靈異"
 
 #: STRINGS.SKIN_NAMES.wes_clown
 msgid "The Pierrot"
@@ -103586,6 +103586,10 @@ msgstr "不如直接扔進火里。"
 msgid "Oh joy. Is there really need for decoration?"
 msgstr "哦，它真的需要裝飾嗎？"
 
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "Such a burden to carry it. If only there were a place to leave it."
+msgstr "只有一個地方能放下這沉重的負擔。"
+
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HALLOWEEN_ORNAMENT_3
 msgid "I like the real ones better."
 msgstr "我更喜歡真的。"
@@ -103693,6 +103697,22 @@ msgstr "若是生命如此強大就好了。"
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgid "Like life, it's a bit disappointing."
 msgstr "有些令人失望，像生命一樣。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "I wish I possessed such burning within my heart."
+msgstr "我希望我的心也像這樣燃燒。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "It reminds me of Abigail. I'll hang it somewhere."
+msgstr "這讓我想起了阿比蓋爾，我應該把它掛到什麼地方。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "It longs to be hung somewhere."
+msgstr "它渴望著被吊在某處。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "Decoration for a devilish day."
+msgstr "裝飾魔鬼般的一天。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HALLOWEEN_ORNAMENT_4
 msgid "A memorial for a monster."
@@ -103958,13 +103978,57 @@ msgstr "長得又大又壯吧，這樣沃爾夫岡才能裝飾一下。"
 msgid "Is making Wolfgang brain hurt."
 msgstr "它叫沃爾夫岡頭疼。"
 
+#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_BRAVERY_POTION
+msgid "Glad that's over. Never thought I'd be scared of trees."
+msgstr "很高興一切都結束了。我從沒想過我居然會怕樹。 "
+
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_SPOOKED
 msgid "You see that, Lucy?"
 msgstr "露西你看到那個了嗎？"
 
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_BRAVERY
+msgid "A good hardy drink."
+msgstr "很好的禦寒飲品。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "That's a lot, eh."
+msgstr "這還挺多，唔。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
+msgid "Not bad."
+msgstr "還不錯。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "It'll never replace a good hunk of wood."
+msgstr "它永遠都取代不了一大塊木材。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_1
+msgid "It's just fake, eh."
+msgstr "這只是假的，嗯。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_2
+msgid "That's nice. I should hang it somewhere."
+msgstr "這挺好的，我該把它挂到什麽地方。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_3
+msgid "This would look good in a tree somewhere."
+msgstr "這在樹上應該會很好看。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_4
+msgid "You wanna decorate, Lucy?"
+msgstr "你想裝飾一下嗎，露西？"
+
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_5
 msgid "Hang in there, eh."
 msgstr "掛在這裡，嗯。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.HALLOWEEN_ORNAMENT_6
+msgid "Argh! I'd sure like to hang a real one like that."
+msgstr "啊！我想挂一個像這樣的真東西。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_ROOT
+msgid "Hey there's a piece of wood in there."
+msgstr "嘿，這裏面有一小塊木頭。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LIVINGTREE_SAPLING
 msgid "Yep. That'll be a fine tree one day."
@@ -104021,6 +104085,10 @@ msgstr "需要被吊起以引發恐懼"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.HALLOWEEN_ORNAMENT_6
 msgid "FLESHLESS FLESHSACK"
 msgstr "無肉的肉塊"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_ROOT
+msgid "DIMINUTIVE WOOD BASED LIFE FORM"
+msgstr "小樹的基本生命形態"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.LIVINGTREE_SAPLING
 msgid "A GROWING HORROR"
