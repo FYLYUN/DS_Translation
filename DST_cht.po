@@ -740,7 +740,7 @@ msgstr "不！我的熔爐，被王座的走狗擊敗了！"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.2
 msgid "Please. No more, Gatekeepers. We surrender."
-msgstr "求求你。別打了，守門者。我們投降。"
+msgstr "求求你。別打了，守門人。我們投降。"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.3
 msgid "The day is yours, as is the Gateway."
@@ -836,7 +836,7 @@ msgstr "為了熔爐！"
 
 #: STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2
 msgid "Give the Gatekeepers no quarter!"
-msgstr "對守門者絕不手軟！"
+msgstr "對守門人絕不手軟！"
 
 #: STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3
 msgid "Fly your banners proudly, warriors!"
@@ -852,7 +852,7 @@ msgstr "我們被和王座切斷了！"
 
 #: STRINGS.BOARLORD_ROUND3_END.3
 msgid "Trapped in a realm of stone and fire, with no scepter to provide."
-msgstr "禁錮在石與火的世界裡，沒有授予任何王權。"
+msgstr "囚禁在石與火的世界裡，沒有授予任何王權。"
 
 #: STRINGS.BOARLORD_ROUND3_END.4
 msgid "Why serve a power that deserted my people?"
@@ -868,7 +868,7 @@ msgstr "這就是為什麼我們不能讓你們贏。"
 
 #: STRINGS.BOARLORD_ROUND4_END.1
 msgid "Know this, Gatekeepers:"
-msgstr "知道嗎，守門者："
+msgstr "知道嗎，守門人："
 
 #: STRINGS.BOARLORD_ROUND4_END.2
 msgid "Once you are dead, we will activate the Gateway."
@@ -892,7 +892,7 @@ msgstr "我們…不能失去熔爐…"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.1
 msgid "The Gatekeepers must not take the Forge!"
-msgstr "不能讓守門者奪走熔爐！"
+msgstr "不能讓守門人奪走熔爐！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.2
 msgid "Drive the interlopers back!"
@@ -904,7 +904,7 @@ msgstr "不要手軟！幹掉他們！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.1
 msgid "Why are the Gatekeepers still not dead?!"
-msgstr "為什麼守門者還沒有死？"
+msgstr "為什麼守門人還沒有死？"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.2
 msgid "Destroy them!!"
@@ -924,7 +924,7 @@ msgstr "看看我們這有什麼？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.2
 msgid "Gatekeepers? Have you come to return us to the Throne?"
-msgstr "守門者？你們是來送我們回王座的嗎？"
+msgstr "守門人？你們是來送我們回王座的嗎？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.3
 msgid "Ha! Laughable."
@@ -73124,7 +73124,7 @@ msgstr "你的出現轉移了它對我們的注意力。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.7
 msgid "Are you... Gatekeepers, by chance?"
-msgstr "你們……是守門者，這只是個巧合嗎？"
+msgstr "你們……是守門人，這只是個巧合嗎？"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.1
 msgid "Hurry, please!"
@@ -76212,7 +76212,7 @@ msgstr "治療藥膏"
 
 #: STRINGS.NAMES.HEALINGSTAFF
 msgid "Living Staff"
-msgstr "守護法杖"
+msgstr "生命法杖"
 
 #: STRINGS.NAMES.HEATROCK
 msgid "Thermal Stone"
@@ -76432,7 +76432,7 @@ msgstr "戰神帕格納"
 
 #: STRINGS.NAMES.LAVAARENA_CROWNDAMAGERHAT
 msgid "Resplendent Nox Helm"
-msgstr "鍛金介胄"
+msgstr "華麗諾克斯戰盔"
 
 #: STRINGS.NAMES.LAVAARENA_ELEMENTAL
 msgid "Magma Golem"
@@ -90440,7 +90440,7 @@ msgstr "在比賽結束時授予取得的成就。"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
 msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
-msgstr "在團隊受到傷害少於800的情況下通過深淵豬關卡"
+msgstr "在團隊受到傷害少於800的情況下通過煉獄豬關卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
 msgid "Down But Not Snout"
@@ -90448,7 +90448,7 @@ msgstr "斬下豬鼻"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
 msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
-msgstr "在團隊受到傷害少於600的情況下通過深淵豬關卡"
+msgstr "在團隊受到傷害少於600的情況下通過煉獄豬關卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
 msgid "Hair Of Their Chinny, Chin, Chin"
@@ -90748,7 +90748,7 @@ msgstr "在20分鐘以內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE
 msgid "Gold Speed Run"
-msgstr "金速突擊"
+msgstr "金牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC
 msgid "Win a Forge match in under 25 minutes"
@@ -90756,7 +90756,7 @@ msgstr "在25分鐘以內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE
 msgid "Silver Speed Run"
-msgstr "銀速突擊"
+msgstr "銀牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC
 msgid "Win a Forge match in under 30 minutes"
@@ -90764,7 +90764,7 @@ msgstr "在30分鐘內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE
 msgid "Bronze Speed Run"
-msgstr "銅速突擊"
+msgstr "銅牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC
 msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
