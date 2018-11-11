@@ -97512,7 +97512,7 @@ msgstr "正在重試"
 
 #: STRINGS.UI.NOTIFICATION.SERVER_WORLDGEN
 msgid "Server is Generating World"
-msgstr "生成世界中"
+msgstr "服務器世界生成中"
 
 #: STRINGS.UI.NOTIFICATION.WORLDGENERATING_SERVER
 msgid "Generating World"
