@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -796,7 +796,7 @@ msgstr "但是我们的军队是为了协同作战而训练的。"
 
 #: STRINGS.BOARLORD_ROUND1_END.3
 msgid "Can you do the same? Crocommanders, to the ring!"
-msgstr "你也能做到嘛？鳄人指挥，上场！"
+msgstr "你也能做到嘛？鳄鱼指挥，上场！"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1
 msgid "It's good to have a challenge once again!"
@@ -78132,7 +78132,7 @@ msgstr "小块肉干"
 
 #: STRINGS.NAMES.SNAPPER
 msgid "Crocommander"
-msgstr "鳄人指挥"
+msgstr "鳄鱼指挥"
 
 #: STRINGS.NAMES.SNURTLE
 msgid "Snurtle"
@@ -87486,6 +87486,10 @@ msgstr "威尔逊的盛宴宝箱"
 msgid "Wolfgang Feast Chest"
 msgstr "沃尔夫冈的盛宴宝箱"
 
+#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom
+msgid "Wickerbottom Feast Chest"
+msgstr "维克波顿的盛宴宝箱"
+
 #: STRINGS.SKIN_NAMES.pack_nature_all
 msgid "All Verdant Spring Chest"
 msgstr "全部熙春宝箱"
@@ -87573,6 +87577,14 @@ msgstr "伍迪的暴食宝箱"
 #: STRINGS.SKIN_NAMES.pack_victorian_wx78
 msgid "WX-78 Gorge Chest"
 msgstr "WX-78的暴食宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
+msgid "Wickerbottom Gorge Chest"
+msgstr "维克波顿的暴食宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang
+msgid "Wolfgang Gorge Chest"
+msgstr "沃尔夫冈的暴食宝箱"
 
 #: STRINGS.SKIN_NAMES.perdling_rooster
 msgid "Rooslet"
@@ -90472,7 +90484,7 @@ msgstr "挑战胜利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC
 msgid "Destroy 3 or more Battle Standards in a single match"
-msgstr "在一场挑战中毁坏3个或更多鳄人指挥的战旗"
+msgstr "在一场挑战中毁坏3个或更多鳄鱼指挥的战旗"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE
 msgid "Unspoken Standard"
@@ -90544,7 +90556,7 @@ msgstr "挑战胜利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC
 msgid "Destroy 3 or more Battle Standards in a single match"
-msgstr "在一场挑战中毁坏3个或更多鳄人指挥的战旗"
+msgstr "在一场挑战中毁坏3个或更多鳄鱼指挥的战旗"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE
 msgid "Standard Deviations"
@@ -101352,7 +101364,7 @@ msgstr "击杀炼狱猪"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
 msgid "Crocommanders Defeated"
-msgstr "击杀鳄人指挥"
+msgstr "击杀鳄鱼指挥"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3
 msgid "Snortoises Defeated"
@@ -103156,7 +103168,7 @@ msgstr "墓地背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments
 msgid "Hanging Horrors Portrait"
-msgstr "悬挂恐怖物品的背景"
+msgstr "悬挂的恐怖物品背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_messylab
 msgid "Mad Scientific Portrait"
@@ -103165,6 +103177,10 @@ msgstr "疯狂的科学背景"
 #: STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
 msgid "Jack O' Portrait"
 msgstr "杰克南瓜灯背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
+msgid "Haunted Forest Portrait"
+msgstr "闹鬼的森林背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_living_wood
 msgid "Living Halloween Tree"
@@ -103952,7 +103968,7 @@ msgstr "但是我们的军队是为了协同作战而训练的。"
 
 #: STRINGS.BOARLORD_ROUND2_START.3
 msgid "Can you do the same? Crocommanders, to the ring!"
-msgstr "你也能做到嘛？鳄人指挥，上场！"
+msgstr "你也能做到嘛？鳄鱼指挥，上场！"
 
 #: STRINGS.BOARLORD_ROUND3_START.1
 msgid "We've endured more here than you know."
@@ -104284,7 +104300,7 @@ msgstr "将你的头像设置为举行武装战斗的旗帜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandardattack
 msgid "Set your profile icon to the Standard of a Crocommander."
-msgstr "将你的头像设置为鳄人指挥的战旗。"
+msgstr "将你的头像设置为鳄鱼指挥的战旗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandardheal
 msgid "Set your profile icon to a restorative symbol of health."
@@ -104368,7 +104384,7 @@ msgstr "将你的头像设置为冲劲十足的犀牛兄弟。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_snapper
 msgid "Set your profile icon to a tyrannous Crocommander."
-msgstr "将你的头像设置为暴虐的鳄人指挥。"
+msgstr "将你的头像设置为暴虐的鳄鱼指挥。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tails
 msgid "Set your profile icon to a brutish Boarilla."
@@ -104708,7 +104724,7 @@ msgstr "古老大门背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard
 msgid "Crocommander Standard"
-msgstr "鳄人指挥战旗"
+msgstr "鳄鱼指挥战旗"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandardattack
 msgid "Attack Standard"
@@ -104796,7 +104812,7 @@ msgstr "犀牛兄弟"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_snapper
 msgid "Crocommander"
-msgstr "鳄人指挥"
+msgstr "鳄鱼指挥"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tails
 msgid "Boarilla"
@@ -104884,7 +104900,7 @@ msgstr "\"火山之力令人陶醉。\""
 
 #: STRINGS.SKIN_QUOTES.webber_magma
 msgid "\"We're like a walking volcano.\""
-msgstr "\"我们喜欢在火山散步。\""
+msgstr "\"我们就像是行走的火山。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_magma
 msgid "\"My volcanic smoke shall encase the world in darkness.\""
@@ -105004,7 +105020,7 @@ msgstr "走你的路，大哥"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC
 msgid "Complete the Crocommander round"
-msgstr "通过鳄人指挥关卡"
+msgstr "通过鳄鱼指挥关卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE
 msgid "Crocommand the Room"
@@ -105528,7 +105544,7 @@ msgstr "击杀炼狱猪"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_2
 msgid "Crocommanders Defeated"
-msgstr "击杀鳄人指挥"
+msgstr "击杀鳄鱼指挥"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_3
 msgid "Snortoises Defeated"
@@ -105563,166 +105579,116 @@ msgid "Victory"
 msgstr "胜利"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
-msgid "More! Overwhelm them!"（旧文本，检查后请删除此行）
 msgid "More pigs! Overwhelm them!"
 msgstr "更多的！压倒他们！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
-msgid "This Forge Chest contains every survivor's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains every survivor's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含每个幸存者的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
-msgid "This Forge Chest contains Wigfrid's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wigfrid's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇格弗德的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
-msgid "This Forge Chest contains Maxwell's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Maxwell's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n麦斯威尔的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber
-msgid "This Forge Chest contains Webber's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Webber's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n韦伯的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy
-msgid "This Forge Chest contains Wendy's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wendy's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n温蒂的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes
-msgid "This Forge Chest contains Wes' complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wes' complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n韦斯的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
-msgid "This Forge Chest contains Wickerbottom's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wickerbottom's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n维克波顿的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
-msgid "This Forge Chest contains Willow's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Willow's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇洛的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
-msgid "This Forge Chest contains Wilson's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
-msgid "This Gladiator Chest contains Wilson's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n威尔逊的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
-msgid "This Forge Chest contains Winona's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Winona's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇诺娜的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang
-msgid "This Forge Chest contains Wolfgang's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wolfgang's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n沃尔夫冈的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
-msgid "This Forge Chest contains Woodie's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Woodie's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n伍迪的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
-msgid "This Forge Chest contains WX-78's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains WX-78's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n机器人的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_all
-msgid "All Survivors Forge Chest"（旧文本，检查后请删除此行）
 msgid "All Survivors Gladiator Chest"
 msgstr "所有幸存者的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr
-msgid "Wigfrid Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wigfrid Gladiator Chest"
 msgstr "薇格弗德的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_waxwell
-msgid "Maxwell Forge Chest"（旧文本，检查后请删除此行）
 msgid "Maxwell Gladiator Chest"
 msgstr "麦斯威尔的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_webber
-msgid "Webber Forge Chest"（旧文本，检查后请删除此行）
 msgid "Webber Gladiator Chest"
 msgstr "韦伯的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wendy
-msgid "Wendy Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wendy Gladiator Chest"
 msgstr "温蒂的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wes
-msgid "Wes Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wes Gladiator Chest"
 msgstr "韦斯的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
-msgid "Wickerbottom\nForge Chest"（旧文本，检查后请删除此行）
 msgid "Wickerbottom Gladiator Chest"
 msgstr "维克波顿的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_willow
-msgid "Willow Forge Chest"（旧文本，检查后请删除此行）
 msgid "Willow Gladiator Chest"
 msgstr "薇洛的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wilson
-msgid "Wilson Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wilson Gladiator Chest"
 msgstr "威尔逊的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_winona
-msgid "Winona Forge Chest"（旧文本，检查后请删除此行）
 msgid "Winona Gladiator Chest"
 msgstr "薇诺娜的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang
-msgid "Wolfgang Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wolfgang Gladiator Chest"
 msgstr "沃尔夫冈的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_woodie
-msgid "Woodie Forge Chest"（旧文本，检查后请删除此行）
 msgid "Woodie Gladiator Chest"
 msgstr "伍迪的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wx78
-msgid "WX-78 Forge Chest"（旧文本，检查后请删除此行）
 msgid "WX-78 Gladiator Chest"
 msgstr "WX-78的角斗士宝箱"
 
-#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom
-msgid "Wickerbottom\nFeast Chest"（旧文本，检查后请删除此行）
-msgid "Wickerbottom Feast Chest"
-msgstr "维克波顿的盛宴宝箱"
-
-#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
-msgid "Wickerbottom\nGorge Chest"（旧文本，检查后请删除此行）
-msgid "Wickerbottom Gorge Chest"
-msgstr "维克波顿的暴食宝箱"
-
-#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang
-msgid "Wolfgang\nGorge Chest"（旧文本，检查后请删除此行）
-msgid "Wolfgang Gorge Chest"
-msgstr "沃尔夫冈的暴食宝箱"
-
-#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
-msgid "Haunted Forest Portait"（旧文本，检查后请删除此行）
-msgid "Haunted Forest Portrait"
-msgstr "闹鬼的森林背景"
-
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
-msgid "No servers are currently available for your game version."（旧文本，检查后请删除此行）
 msgid "No servers are currently available for your game version. Please update and try again."
 msgstr "当前没有可用的符合你游戏版本的服务器。请更新后再来试试。"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
-msgid "Purchase: {price}"（旧文本，检查后请删除此行）
 msgid "Buy Now"
 msgstr "现在购买"
