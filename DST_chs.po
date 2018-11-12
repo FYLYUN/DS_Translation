@@ -104996,7 +104996,7 @@ msgstr "每日首胜奖励"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC
 msgid "Achieve the Expert Decoy card at the end of the match"
-msgstr "在游戏结束时获得”专家级诱饵“评价"
+msgstr "在游戏结束时获得“专家级诱饵”评价"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE
 msgid "Bundle of Decoy"
@@ -105036,7 +105036,7 @@ msgstr "猩猩必须死"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC
 msgid "Achieve the Distraction or Expert Decoy card at the end of the match"
-msgstr "在游戏结束时获得”集中注意力“评价"
+msgstr "在游戏结束时获得“集中注意力”评价"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE
 msgid "Welcome Distraction"
@@ -105044,7 +105044,7 @@ msgstr "欢迎分心"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC
 msgid "Achieve the Doctor card at the end of the match"
-msgstr "在游戏结束时获得”医生“评价"
+msgstr "在游戏结束时获得“医生”评价"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE
 msgid "Win Doctor"
@@ -105108,7 +105108,7 @@ msgstr "把它砸开"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC
 msgid "Achieve the Merciless card at the end of the match"
-msgstr "在游戏结束时获得”无情“评价"
+msgstr "在游戏结束时获得“无情”评价"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE
 msgid "Cry Mercy"
