@@ -104140,11 +104140,11 @@ msgstr "豪华丝带铠甲"
 
 #: STRINGS.NAMES.RHINODRILL
 msgid "Rhinocebro Snapback"
-msgstr "犀牛兄弟快速回复"
+msgstr "犀牛兄弟Snapback"
 
 #: STRINGS.NAMES.RHINODRILL2
 msgid "Rhinocebro Flat Top"
-msgstr "犀牛兄弟平顶(?)"
+msgstr "犀牛兄弟Flat Top"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
 msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
@@ -105236,7 +105236,7 @@ msgstr "不要钻头"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC
 msgid "Defeat the Rhinocebros without allowing either of them to be revived"
-msgstr "在让他们中的任何一个都没法复活的情况下击败犀牛兄弟"
+msgstr "在不让他们中的任何一个复活的情况下击败犀牛兄弟"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE
 msgid "Night of the Drilling Dead"
