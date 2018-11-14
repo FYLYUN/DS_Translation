@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -740,7 +740,7 @@ msgstr "不！我的熔爐，被王座的走狗擊敗了！"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.2
 msgid "Please. No more, Gatekeepers. We surrender."
-msgstr "求求你。別打了，守門者。我們投降。"
+msgstr "求求你。別打了，守門人。我們投降。"
 
 #: STRINGS.BOARLORD_DEFEATED_BATTLECRY.3
 msgid "The day is yours, as is the Gateway."
@@ -796,7 +796,7 @@ msgstr "但是我們的軍隊是為了協同作戰而訓練的。"
 
 #: STRINGS.BOARLORD_ROUND1_END.3
 msgid "Can you do the same? Crocommanders, to the ring!"
-msgstr "你也能做到嘛？鱷人指揮，上場！"
+msgstr "你也能做到嘛？鰐魚指揮，上場！"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1
 msgid "It's good to have a challenge once again!"
@@ -832,7 +832,7 @@ msgstr "為了熔爐！"
 
 #: STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2
 msgid "Give the Gatekeepers no quarter!"
-msgstr "對守門者絕不手軟！"
+msgstr "對守門人絕不手軟！"
 
 #: STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3
 msgid "Fly your banners proudly, warriors!"
@@ -848,7 +848,7 @@ msgstr "我們被和王座切斷了！"
 
 #: STRINGS.BOARLORD_ROUND3_END.3
 msgid "Trapped in a realm of stone and fire, with no scepter to provide."
-msgstr "禁錮在石與火的世界裡，沒有授予任何王權。"
+msgstr "囚禁在石與火的世界裡，沒有授予任何王權。"
 
 #: STRINGS.BOARLORD_ROUND3_END.4
 msgid "Why serve a power that deserted my people?"
@@ -864,7 +864,7 @@ msgstr "這就是為什麼我們不能讓你們贏。"
 
 #: STRINGS.BOARLORD_ROUND4_END.1
 msgid "Know this, Gatekeepers:"
-msgstr "知道嗎，守門者："
+msgstr "知道嗎，守門人："
 
 #: STRINGS.BOARLORD_ROUND4_END.2
 msgid "Once you are dead, we will activate the Gateway."
@@ -888,7 +888,7 @@ msgstr "我們…不能失去熔爐…"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.1
 msgid "The Gatekeepers must not take the Forge!"
-msgstr "不能讓守門者奪走熔爐！"
+msgstr "不能讓守門人奪走熔爐！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.2
 msgid "Drive the interlopers back!"
@@ -900,7 +900,7 @@ msgstr "不要手軟！幹掉他們！"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.1
 msgid "Why are the Gatekeepers still not dead?!"
-msgstr "為什麼守門者還沒有死？"
+msgstr "為什麼守門人還沒有死？"
 
 #: STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.2
 msgid "Destroy them!!"
@@ -920,7 +920,7 @@ msgstr "看看我們這有什麼？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.2
 msgid "Gatekeepers? Have you come to return us to the Throne?"
-msgstr "守門者？你們是來送我們回王座的嗎？"
+msgstr "守門人？你們是來送我們回王座的嗎？"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.3
 msgid "Ha! Laughable."
@@ -65614,6 +65614,10 @@ msgstr "那東西怪怪的。"
 msgid "All the taste and none of the splinters!"
 msgstr "有滋有味不含木刺！"
 
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_FOOD6
+msgid "Hard to complain aboot this whole \"Feast\" business."
+msgstr "很難讓人對這“盛宴”有所不滿。"
+
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_FOOD7
 msgid "Doesn't fall far from the cider tree."
 msgstr "剛從樹上摘下來沒多久。"
@@ -73088,7 +73092,7 @@ msgstr "你的出現轉移了它對我們的注意力。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.7
 msgid "Are you... Gatekeepers, by chance?"
-msgstr "你們……是守門者，這只是個巧合嗎？"
+msgstr "你們……是守門人，這只是個巧合嗎？"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.1
 msgid "Hurry, please!"
@@ -76176,7 +76180,7 @@ msgstr "治療藥膏"
 
 #: STRINGS.NAMES.HEALINGSTAFF
 msgid "Living Staff"
-msgstr "守護法杖"
+msgstr "生命法杖"
 
 #: STRINGS.NAMES.HEATROCK
 msgid "Thermal Stone"
@@ -76396,7 +76400,7 @@ msgstr "戰神帕格納"
 
 #: STRINGS.NAMES.LAVAARENA_CROWNDAMAGERHAT
 msgid "Resplendent Nox Helm"
-msgstr "鍛金介胄"
+msgstr "華麗諾克斯戰盔"
 
 #: STRINGS.NAMES.LAVAARENA_ELEMENTAL
 msgid "Magma Golem"
@@ -78132,7 +78136,7 @@ msgstr "小塊肉乾"
 
 #: STRINGS.NAMES.SNAPPER
 msgid "Crocommander"
-msgstr "鱷人指揮"
+msgstr "鰐魚指揮"
 
 #: STRINGS.NAMES.SNURTLE
 msgid "Snurtle"
@@ -87486,6 +87490,10 @@ msgstr "威爾遜的盛宴寶箱"
 msgid "Wolfgang Feast Chest"
 msgstr "沃爾夫岡的盛宴寶箱"
 
+#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom
+msgid "Wickerbottom Feast Chest"
+msgstr "維克波頓的盛宴寶箱"
+
 #: STRINGS.SKIN_NAMES.pack_nature_all
 msgid "All Verdant Spring Chest"
 msgstr "全部熙春寶箱"
@@ -87573,6 +87581,14 @@ msgstr "伍迪的暴食寶箱"
 #: STRINGS.SKIN_NAMES.pack_victorian_wx78
 msgid "WX-78 Gorge Chest"
 msgstr "WX-78的暴食寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
+msgid "Wickerbottom Gorge Chest"
+msgstr "維克波頓的暴食寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang
+msgid "Wolfgang Gorge Chest"
+msgstr "沃爾夫岡的暴食寶箱"
 
 #: STRINGS.SKIN_NAMES.perdling_rooster
 msgid "Rooslet"
@@ -90288,7 +90304,7 @@ msgstr "在比賽結束時授予取得的成就。"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
 msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
-msgstr "在團隊受到傷害少於800的情況下通過深淵豬關卡"
+msgstr "在團隊受到傷害少於800的情況下通過煉獄豬關卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
 msgid "Down But Not Snout"
@@ -90296,7 +90312,7 @@ msgstr "斬下豬鼻"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
 msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
-msgstr "在團隊受到傷害少於600的情況下通過深淵豬關卡"
+msgstr "在團隊受到傷害少於600的情況下通過煉獄豬關卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
 msgid "Hair Of Their Chinny, Chin, Chin"
@@ -90472,7 +90488,7 @@ msgstr "挑戰勝利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC
 msgid "Destroy 3 or more Battle Standards in a single match"
-msgstr "在一場挑戰中毀壞3個或更多鱷人指揮的戰旗"
+msgstr "在一場挑戰中毀壞3個或更多鰐魚指揮的戰旗"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE
 msgid "Unspoken Standard"
@@ -90544,7 +90560,7 @@ msgstr "挑戰勝利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC
 msgid "Destroy 3 or more Battle Standards in a single match"
-msgstr "在一場挑戰中毀壞3個或更多鱷人指揮的戰旗"
+msgstr "在一場挑戰中毀壞3個或更多鰐魚指揮的戰旗"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE
 msgid "Standard Deviations"
@@ -90596,7 +90612,7 @@ msgstr "在20分鐘以內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE
 msgid "Gold Speed Run"
-msgstr "金速突擊"
+msgstr "金牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC
 msgid "Win a Forge match in under 25 minutes"
@@ -90604,7 +90620,7 @@ msgstr "在25分鐘以內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE
 msgid "Silver Speed Run"
-msgstr "銀速突擊"
+msgstr "銀牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC
 msgid "Win a Forge match in under 30 minutes"
@@ -90612,7 +90628,7 @@ msgstr "在30分鐘內贏得一場熔爐挑戰"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE
 msgid "Bronze Speed Run"
-msgstr "銅速突擊"
+msgstr "銅牌速通"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC
 msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
@@ -97500,7 +97516,7 @@ msgstr "正在重試"
 
 #: STRINGS.UI.NOTIFICATION.SERVER_WORLDGEN
 msgid "Server is Generating World"
-msgstr "生成世界中"
+msgstr "服務器世界生成中"
 
 #: STRINGS.UI.NOTIFICATION.WORLDGENERATING_SERVER
 msgid "Generating World"
@@ -101348,7 +101364,7 @@ msgstr "擊殺煉獄豬"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_2
 msgid "Crocommanders Defeated"
-msgstr "擊殺鱷人指揮"
+msgstr "擊殺鰐魚指揮"
 
 #: STRINGS.UI.WXP_DETAILS.LAVA_ARENA_MILESTONE_3
 msgid "Snortoises Defeated"
@@ -102798,6 +102814,10 @@ msgstr "緩解你的壓力。"
 msgid "Mad science has no limits. Except sanity."
 msgstr "理智是瘋狂煉藥的唯一界限。"
 
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE
+msgid "Crystallized incandescence."
+msgstr "晶化的白熱。"
+
 #: STRINGS.TABS.MADSCIENCE
 msgid "Mad Science"
 msgstr "瘋狂的科學"
@@ -103152,7 +103172,7 @@ msgstr "墓地背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_hallowedornaments
 msgid "Hanging Horrors Portrait"
-msgstr "懸掛恐怖物品的背景"
+msgstr "懸掛的恐怖物品背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_messylab
 msgid "Mad Scientific Portrait"
@@ -103161,6 +103181,10 @@ msgstr "瘋狂科學背景"
 #: STRINGS.SKIN_NAMES.playerportrait_bg_pumpkinlantern
 msgid "Jack O' Portrait"
 msgstr "傑克南瓜燈背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
+msgid "Haunted Forest Portrait"
+msgstr "鬧鬼的森林背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_living_wood
 msgid "Living Halloween Tree"
@@ -103281,6 +103305,10 @@ msgstr "十分強力的藥水。"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgid "I was hoping for something bigger."
 msgstr "我希望能有更大杯的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Crystallized inferno."
+msgstr "地獄的結晶。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgid "A spectornament I could hang in a tree."
@@ -103915,12 +103943,12 @@ msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什麼在驅動你的瘋狂！"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
-msgid "???"
-msgstr ""
+msgid "Hearthsfire Bomb"
+msgstr "爐火爆破"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
-msgid "???"
-msgstr ""
+msgid "Parry"
+msgstr "格擋"
 
 #: STRINGS.BOARLORD_ROUND1_START.1
 msgid "What have we here?"
@@ -103948,7 +103976,7 @@ msgstr "但是我們的軍隊是為了協同作戰而訓練的。"
 
 #: STRINGS.BOARLORD_ROUND2_START.3
 msgid "Can you do the same? Crocommanders, to the ring!"
-msgstr "你也能做到嘛？鱷人指揮，上場！"
+msgstr "你也能做到嘛？鰐魚指揮，上場！"
 
 #: STRINGS.BOARLORD_ROUND3_START.1
 msgid "We've endured more here than you know."
@@ -104011,8 +104039,8 @@ msgid "What?! My champion!?!"
 msgstr "什麼？！我的勇士！？！"
 
 #: STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2
-msgid "Gatekeepers you have proven yourself mighty."
-msgstr "守門人，你已經證明了你的強大。"
+msgid "I see. You've demonstrated your might."
+msgstr "你已經證明了你的強大，我明白了。"
 
 #: STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.3
 msgid "...But we will live to fight again!!"
@@ -104047,8 +104075,8 @@ msgid "We are not ready to give up yet."
 msgstr "我們現在還沒打算放棄呢。"
 
 #: STRINGS.BOARLORD_ROUND6_START.1
-msgid "We do not fear you, Gatekeepers!"
-msgstr "我們不怕你，守門人！"
+msgid "We do not fear you."
+msgstr "我們不會怕你。"
 
 #: STRINGS.BOARLORD_ROUND6_START.2
 msgid "But you will fear us!"
@@ -104056,7 +104084,7 @@ msgstr "而你將會害怕我們！"
 
 #: STRINGS.BOARLORD_ROUND6_START.3
 msgid "Fear my new champions! Fear the Rhinocebros!"
-msgstr "害怕我的新勇士！害怕犀牛哥！"
+msgstr "害怕我的新勇士！害怕犀牛兄弟！"
 
 #: STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.1
 msgid "No! My Forge, felled by the Throne's lapdogs!"
@@ -104098,6 +104126,10 @@ msgstr "聞起來像是硫磺。"
 msgid "A sharp looking instrument."
 msgstr "一把看起來很鋒利的武器。"
 
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RHINODRILL
+msgid "He's got a nose for this kind of work."
+msgstr "他有一個尖鼻子來幹這事。"
+
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
 msgstr "地獄獨眼巨豬"
@@ -104120,11 +104152,19 @@ msgstr "豪華絲帶鎧甲"
 
 #: STRINGS.NAMES.RHINODRILL
 msgid "Rhinocebro Snapback"
-msgstr "犀牛兄弟快速回復"
+msgstr "犀牛哥哥Snapback"
 
 #: STRINGS.NAMES.RHINODRILL2
-msgid "Rhinocebro Flat Top"
-msgstr "犀牛兄弟平頂(?)"
+msgid "Rhinocebro Flatbrim"
+msgstr "犀牛弟弟Flatbrim"
+
+#: STRINGS.NAMES.LAVAARENA_FIREBOMB
+msgid "Hearthsfire Crystals"
+msgstr "爐火結晶"
+
+#: STRINGS.NAMES.LAVAARENA_HEAVYBLADE
+msgid "Blacksmith's Edge"
+msgstr "匠魂之刃"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
 msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
@@ -104162,9 +104202,49 @@ msgstr "無論你做什麼，千萬不要低頭！"
 msgid "Shroud yourself with the burning fires of Ragnarok."
 msgstr "讓諸神黃昏的烈焰包裹你。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_magma
+msgid "Armor that barely contains your firey anger."
+msgstr "像這樣的鎧甲才剛好能容納你的怒火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_webber_magma
+msgid "Add some much needed fire to your fur."
+msgstr "爲你的毛皮添加一些火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wendy_magma
+msgid "A frock of flames to rise from the ashes."
+msgstr "從灰燼中重生的火焰連衣裙。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wes_magma
+msgid "A passion for justice fuels the fire within this blouse."
+msgstr "對正義的激情引燃了這件襯衫上的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_magma
+msgid "The arm wrappings and leather robe protect when scrutinizing lava flows."
+msgstr "讓你檢查岩漿流的手臂有所保護。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_magma
+msgid "A frock with the power to appease the Fire Gods."
+msgstr "蘊含能夠安撫火神的力量的連衣裙。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wilson_magma
+msgid "Use this armor for obsidious purposes."
+msgstr "用這件鎧甲塑造十勝石一般的意志。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_magma
+msgid "Multipurpose armor that also works as welding gear."
+msgstr "多功能鎧甲，可以當作焊接裝置。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_magma
+msgid "Incinerate your competition with the strength of an inferno."
+msgstr "用地獄的力量焚燒你的對手。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma
+msgid "Sport a hot new look in this cool jacket and T-shirt combo."
+msgstr "很酷的夾克和T賉結合體，用來做些火熱的運動。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_magma
 msgid "Stoke the fires of this furnace carapace."
-msgstr "為這個爐子的外殼點上火。"
+msgstr "給這個爐子的外殼也點上火。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm2
 msgid "Behold its terrifying curly horns!"
@@ -104280,7 +104360,7 @@ msgstr "將你的頭像設置為舉行武裝戰鬥的旗幟。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandardattack
 msgid "Set your profile icon to the Standard of a Crocommander."
-msgstr "將你的頭像設置為鱷人指揮的戰旗。"
+msgstr "將你的頭像設置為鰐魚指揮的戰旗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_battlestandardheal
 msgid "Set your profile icon to a restorative symbol of health."
@@ -104364,7 +104444,7 @@ msgstr "將你的頭像設置為衝勁十足的犀牛兄弟。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_snapper
 msgid "Set your profile icon to a tyrannous Crocommander."
-msgstr "將你的頭像設置為暴虐的鱷人指揮。"
+msgstr "將你的頭像設置為暴虐的鰐魚指揮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tails
 msgid "Set your profile icon to a brutish Boarilla."
@@ -104704,7 +104784,7 @@ msgstr "古老大門背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard
 msgid "Crocommander Standard"
-msgstr "鱷人指揮戰旗"
+msgstr "鰐魚指揮戰旗"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandardattack
 msgid "Attack Standard"
@@ -104792,7 +104872,7 @@ msgstr "犀牛兄弟"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_snapper
 msgid "Crocommander"
-msgstr "鱷人指揮"
+msgstr "鰐魚指揮"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tails
 msgid "Boarilla"
@@ -104818,9 +104898,41 @@ msgstr "守門人之槌"
 msgid "Pith Pike"
 msgstr "髓棘長矛"
 
+#: STRINGS.SKIN_NAMES.firestaff_gungnir
+msgid "Fiery Pith Staff"
+msgstr "髓棘火魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir
+msgid "firestaff_gungnir"
+msgstr "firestaff_gungnir"
+
+#: STRINGS.SKIN_NAMES.icestaff_gungnir
+msgid "Icy Pith Staff"
+msgstr "髓棘冰魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir
+msgid "icestaff_gungnir"
+msgstr "icestaff_gungnir"
+
 #: STRINGS.SKIN_NAMES.spear_forge_lance
 msgid "Spiral Spear"
 msgstr "螺旋槍"
+
+#: STRINGS.SKIN_NAMES.firestaff_lance
+msgid "Fiery Spiral Staff"
+msgstr "螺旋火魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.firestaff_lance
+msgid "firestaff_lance"
+msgstr "firestaff_lance"
+
+#: STRINGS.SKIN_NAMES.icestaff_lance
+msgid "Icy Spiral Staff"
+msgstr "螺旋冰魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icestaff_lance
+msgid "icestaff_lance"
+msgstr "icestaff_lance"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_magma
 msgid "The Magmatic"
@@ -104880,7 +104992,7 @@ msgstr "\"火山之力令人陶醉。\""
 
 #: STRINGS.SKIN_QUOTES.webber_magma
 msgid "\"We're like a walking volcano.\""
-msgstr "\"我們喜歡在火山散步。\""
+msgstr "\"我們就像是行走的火山。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_magma
 msgid "\"My volcanic smoke shall encase the world in darkness.\""
@@ -104976,7 +105088,7 @@ msgstr "每日首勝獎勵"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC
 msgid "Achieve the Expert Decoy card at the end of the match"
-msgstr "在遊戲結束時獲得」專家級誘餌「評價"
+msgstr "在遊戲結束時獲得「專家級誘餌」評價"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE
 msgid "Bundle of Decoy"
@@ -105000,7 +105112,7 @@ msgstr "走你的路，大哥"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC
 msgid "Complete the Crocommander round"
-msgstr "通過鱷人指揮關卡"
+msgstr "通過鰐魚指揮關卡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE
 msgid "Crocommand the Room"
@@ -105016,7 +105128,7 @@ msgstr "猩猩必須死"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC
 msgid "Achieve the Distraction or Expert Decoy card at the end of the match"
-msgstr "在遊戲結束時獲得」集中注意力「評價"
+msgstr "在遊戲結束時獲得「集中注意力」評價"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE
 msgid "Welcome Distraction"
@@ -105024,7 +105136,7 @@ msgstr "歡迎分心"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC
 msgid "Achieve the Doctor card at the end of the match"
-msgstr "在遊戲結束時獲得」醫生「評價"
+msgstr "在遊戲結束時獲得「醫生」評價"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE
 msgid "Win Doctor"
@@ -105071,8 +105183,8 @@ msgid "Strike A Match"
 msgstr "打擊比賽"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
-msgid "???"
-msgstr ""
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
+msgstr "在一場游戲中使用匠魂之刃格擋15次特殊攻擊"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
 msgid "Best Blade Plans"
@@ -105080,7 +105192,7 @@ msgstr "最好的劍刃"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC
 msgid "Land 10 or more killing blows in a single match"
-msgstr "在一場比賽中打出至少10次致命一擊"
+msgstr "在一場游戲中打出至少10次致命一擊"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE
 msgid "Blow It Wide Open"
@@ -105088,7 +105200,7 @@ msgstr "把它砸開"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC
 msgid "Achieve the Merciless card at the end of the match"
-msgstr "在遊戲結束時獲得」無情「評價"
+msgstr "在遊戲結束時獲得「無情」評價"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE
 msgid "Cry Mercy"
@@ -105111,8 +105223,8 @@ msgid "Meteor Your Match"
 msgstr "痛擊對手"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
-msgid "Avoid being hit by a dashing Pit Pig until the end of round 2"
-msgstr "在第二回合之前不要被煉獄豬頂中"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
+msgstr "在披甲岩龜登場之前不要被煉獄豬頂中"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
 msgid "Dash Their Hopes"
@@ -105216,7 +105328,7 @@ msgstr "不要鑽頭"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC
 msgid "Defeat the Rhinocebros without allowing either of them to be revived"
-msgstr "在讓他們中的任何一個都沒法復活的情況下擊敗犀牛兄弟"
+msgstr "在不讓他們中的任何一個復活的情況下擊敗犀牛兄弟"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE
 msgid "Night of the Drilling Dead"
@@ -105328,11 +105440,11 @@ msgstr "已完成{num}個任務"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT
 msgid "{num} Daily Match Bonuses"
-msgstr "{num}次獲得每日首次遊戲獎勵"
+msgstr "已獲得{num}次每日首次遊戲獎勵"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET
 msgid "Daily bonuses reset in: {hours}h {minutes}m"
-msgstr "在{hours}小時{minutes}分鐘後刷新"
+msgstr "每日獎勵將在{hours}小時{minutes}分鐘後刷新"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON
 msgid "Daily bonuses will reset soon."
@@ -105344,7 +105456,7 @@ msgstr "每日獎勵將在下一場遊戲後重置"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT
 msgid "{num} Daily Victory Bonuses"
-msgstr "{num}次獲得每日首勝獎勵"
+msgstr "已獲得{num}次獲得每日首勝獎勵"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
 msgid "Contribute to the community progression by defeating the {boss}."
@@ -105376,7 +105488,7 @@ msgstr "獲取任務失敗"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
 msgid "Posting new quests in: {hours}h {minutes}m"
-msgstr "在 {hours}小時{minutes}分鐘 後發布新的任務"
+msgstr "新的任務將在{hours}小時{minutes}分鐘後發布"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON
 msgid "New quests will be posted soon."
@@ -105408,7 +105520,7 @@ msgstr "社區解鎖內容"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN
 msgid "Unknown"
-msgstr 未知""
+msgstr "未知"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR
 msgid "Summoned to the arena for the final round!"
@@ -105420,7 +105532,7 @@ msgstr "在猩猩戰士戰敗之後被召喚到競技場"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
 msgid "Summon a Magma Golum or dive bomb your opponents with a Sky Lunge"
-msgstr "召喚岩漿傀儡或用高空突刺轟炸你的對手"
+msgstr "召喚岩漿傀儡或用强大的高空突刺轟炸對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
 msgid "80% Protection, +50 Max Health,\n+20% Physical Damage"
@@ -105432,19 +105544,19 @@ msgstr "90% 護甲，+100 生命上限，\n抗擊退。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
 msgid "80% Protection, +50 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
-msgstr "80% 護甲，+50 生命上限，增強小蜘蛛，阿比蓋爾或伯尼的效果。"
+msgstr "80% 護甲，+50 生命上限，\n增強小蜘蛛，阿比蓋爾或伯尼的效果。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
 msgstr "80% 護甲，+50生命上限，\n+15% 冷卻"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
-msgid "???"
-msgstr ""
+msgid "Bombard your opponents with searing Hearthsfire"
+msgstr "用熾熱的爐火灼燒你的對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
-msgid "???"
-msgstr ""
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
+msgstr "用全能的匠魂之刃抵擋你的對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
 msgid "Summoned to the arena when the Grand Forge Boarrior is defeated"
@@ -105486,10 +105598,6 @@ msgstr "下一個"
 msgid "{mode} - Round {num}"
 msgstr "{mode} - 第{num}回合"
 
-#: STRINGS.UI.PURCHASEPACKSCREEN.INFO_BTN
-msgid "?"
-msgstr ""
-
 #: STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
 msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
 msgstr "包含 {total_sets}套皮膚！共{total_items}件皮膚物品！"
@@ -105524,7 +105632,7 @@ msgstr "擊殺煉獄豬"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_2
 msgid "Crocommanders Defeated"
-msgstr "擊殺鱷人指揮"
+msgstr "擊殺鰐魚指揮"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_3
 msgid "Snortoises Defeated"
@@ -105558,134 +105666,130 @@ msgstr "無重複獎勵"
 msgid "Victory"
 msgstr "勝利"
 
-#: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3暴食者
+#: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
 msgid "More pigs! Overwhelm them!"
 msgstr "更多的！壓倒他們！"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
 msgid "This Gladiator Chest contains every survivor's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含每個倖存者的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
 msgid "This Gladiator Chest contains Wigfrid's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇格弗德的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
 msgid "This Gladiator Chest contains Maxwell's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n麥斯威爾的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber
 msgid "This Gladiator Chest contains Webber's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n韋伯的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy
 msgid "This Gladiator Chest contains Wendy's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n溫蒂的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes
 msgid "This Gladiator Chest contains Wes' complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n韋斯的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
 msgid "This Gladiator Chest contains Wickerbottom's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n維克波頓的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
 msgid "This Gladiator Chest contains Willow's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇洛的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
 msgid "This Gladiator Chest contains Wilson's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n威爾遜的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
 msgid "This Gladiator Chest contains Winona's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇諾娜的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang
 msgid "This Gladiator Chest contains Wolfgang's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n沃爾夫岡的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
 msgid "This Gladiator Chest contains Woodie's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n伍迪的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78暴食者
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
 msgid "This Gladiator Chest contains WX-78's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n機器人的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_all暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_all
 msgid "All Survivors Gladiator Chest"
 msgstr "所有倖存者的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr
 msgid "Wigfrid Gladiator Chest"
 msgstr "薇格弗德的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_waxwell暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_waxwell
 msgid "Maxwell Gladiator Chest"
 msgstr "麥斯威爾的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_webber暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_webber
 msgid "Webber Gladiator Chest"
 msgstr "韋伯的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wendy暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wendy
 msgid "Wendy Gladiator Chest"
 msgstr "溫蒂的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wes暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wes
 msgid "Wes Gladiator Chest"
 msgstr "韋斯的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
 msgid "Wickerbottom Gladiator Chest"
 msgstr "維克波頓的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_willow暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_willow
 msgid "Willow Gladiator Chest"
 msgstr "薇洛的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wilson暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wilson
 msgid "Wilson Gladiator Chest"
 msgstr "威爾遜的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_winona暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_winona
 msgid "Winona Gladiator Chest"
 msgstr "薇諾娜的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang
 msgid "Wolfgang Gladiator Chest"
 msgstr "沃爾夫岡的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_woodie暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_woodie
 msgid "Woodie Gladiator Chest"
 msgstr "伍迪的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wx78暴食者
+#: STRINGS.SKIN_NAMES.pack_gladiator_wx78
 msgid "WX-78 Gladiator Chest"
 msgstr "WX-78的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom暴食者
-msgid "Wickerbottom Feast Chest"
-msgstr "維克波頓的盛宴寶箱"
-
-#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom暴食者
-msgid "Wickerbottom Gorge Chest"
-msgstr "維克波頓的暴食寶箱"
-
-#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang暴食者
-msgid "Wolfgang Gorge Chest"
-msgstr "沃爾夫岡的暴食寶箱"
-
-#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest暴食者
-msgid "Haunted Forest Portrait"
-msgstr "鬧鬼的森林背景"
-
-#: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY暴食者
+#: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
 msgid "No servers are currently available for your game version. Please update and try again."
 msgstr "當前沒有可用的符合你遊戲版本的伺服器。請更新後再來試試。"
 
-#: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN暴食者
+#: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
 msgid "Buy Now"
 msgstr "現在購買"
+
+#: STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "拆散這件藏品會破壞你的“{ensemble_name}”收集，你會失去收集獎勵“{reward_name}”。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgid "This server is incompatible with your version. Please try another server."
+msgstr "這個伺服器與你的游戲版本不兼容，請嘗試其它伺服器。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgid "Version Mismatch"
+msgstr "版本不匹配"
