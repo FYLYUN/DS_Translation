@@ -105558,167 +105558,134 @@ msgstr "無重複獎勵"
 msgid "Victory"
 msgstr "勝利"
 
-#: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
-msgid "More! Overwhelm them!"（舊文本，檢查後請刪除此行）
+#: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3暴食者
 msgid "More pigs! Overwhelm them!"
 msgstr "更多的！壓倒他們！"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
-msgid "This Forge Chest contains every survivor's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all暴食者
 msgid "This Gladiator Chest contains every survivor's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含每個倖存者的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
-msgid "This Forge Chest contains Wigfrid's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr暴食者
 msgid "This Gladiator Chest contains Wigfrid's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇格弗德的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
-msgid "This Forge Chest contains Maxwell's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell暴食者
 msgid "This Gladiator Chest contains Maxwell's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n麥斯威爾的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber
-msgid "This Forge Chest contains Webber's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber暴食者
 msgid "This Gladiator Chest contains Webber's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n韋伯的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy
-msgid "This Forge Chest contains Wendy's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy暴食者
 msgid "This Gladiator Chest contains Wendy's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n溫蒂的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes
-msgid "This Forge Chest contains Wes' complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes暴食者
 msgid "This Gladiator Chest contains Wes' complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n韋斯的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
-msgid "This Forge Chest contains Wickerbottom's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom暴食者
 msgid "This Gladiator Chest contains Wickerbottom's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n維克波頓的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
-msgid "This Forge Chest contains Willow's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow暴食者
 msgid "This Gladiator Chest contains Willow's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇洛的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
-msgid "This Forge Chest contains Wilson's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson暴食者
 msgid "This Gladiator Chest contains Wilson's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n威爾遜的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
-msgid "This Forge Chest contains Winona's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona暴食者
 msgid "This Gladiator Chest contains Winona's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n薇諾娜的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang
-msgid "This Forge Chest contains Wolfgang's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang暴食者
 msgid "This Gladiator Chest contains Wolfgang's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n沃爾夫岡的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
-msgid "This Forge Chest contains Woodie's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie暴食者
 msgid "This Gladiator Chest contains Woodie's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n伍迪的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
-msgid "This Forge Chest contains WX-78's complete set of Gladiator skin items."（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78暴食者
 msgid "This Gladiator Chest contains WX-78's complete set of Gladiator skin items."
 msgstr "這個角鬥士寶箱包含\n機器人的全套角鬥士系列皮膚。"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_all
-msgid "All Survivors Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_all暴食者
 msgid "All Survivors Gladiator Chest"
 msgstr "所有倖存者的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr
-msgid "Wigfrid Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr暴食者
 msgid "Wigfrid Gladiator Chest"
 msgstr "薇格弗德的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_waxwell
-msgid "Maxwell Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_waxwell暴食者
 msgid "Maxwell Gladiator Chest"
 msgstr "麥斯威爾的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_webber
-msgid "Webber Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_webber暴食者
 msgid "Webber Gladiator Chest"
 msgstr "韋伯的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wendy
-msgid "Wendy Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wendy暴食者
 msgid "Wendy Gladiator Chest"
 msgstr "溫蒂的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wes
-msgid "Wes Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wes暴食者
 msgid "Wes Gladiator Chest"
 msgstr "韋斯的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
-msgid "Wickerbottom\nForge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom暴食者
 msgid "Wickerbottom Gladiator Chest"
 msgstr "維克波頓的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_willow
-msgid "Willow Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_willow暴食者
 msgid "Willow Gladiator Chest"
 msgstr "薇洛的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wilson
-msgid "Wilson Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wilson暴食者
 msgid "Wilson Gladiator Chest"
 msgstr "威爾遜的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_winona
-msgid "Winona Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_winona暴食者
 msgid "Winona Gladiator Chest"
 msgstr "薇諾娜的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang
-msgid "Wolfgang Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang暴食者
 msgid "Wolfgang Gladiator Chest"
 msgstr "沃爾夫岡的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_woodie
-msgid "Woodie Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_woodie暴食者
 msgid "Woodie Gladiator Chest"
 msgstr "伍迪的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_gladiator_wx78
-msgid "WX-78 Forge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_gladiator_wx78暴食者
 msgid "WX-78 Gladiator Chest"
 msgstr "WX-78的角鬥士寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom
-msgid "Wickerbottom\nFeast Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_ice_wickerbottom暴食者
 msgid "Wickerbottom Feast Chest"
 msgstr "維克波頓的盛宴寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
-msgid "Wickerbottom\nGorge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom暴食者
 msgid "Wickerbottom Gorge Chest"
 msgstr "維克波頓的暴食寶箱"
 
-#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang
-msgid "Wolfgang\nGorge Chest"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.pack_victorian_wolfgang暴食者
 msgid "Wolfgang Gorge Chest"
 msgstr "沃爾夫岡的暴食寶箱"
 
-#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
-msgid "Haunted Forest Portait"（舊文本，檢查後請刪除此行）
+#: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest暴食者
 msgid "Haunted Forest Portrait"
 msgstr "鬧鬼的森林背景"
 
-#: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
-msgid "No servers are currently available for your game version."（舊文本，檢查後請刪除此行）
+#: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY暴食者
 msgid "No servers are currently available for your game version. Please update and try again."
 msgstr "當前沒有可用的符合你遊戲版本的伺服器。請更新後再來試試。"
 
-#: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
-msgid "Purchase: {price}"（舊文本，檢查後請刪除此行）
+#: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN暴食者
 msgid "Buy Now"
 msgstr "現在購買"

@@ -105563,166 +105563,133 @@ msgid "Victory"
 msgstr "胜利"
 
 #: STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
-msgid "More! Overwhelm them!"（旧文本，检查后请删除此行）
 msgid "More pigs! Overwhelm them!"
 msgstr "更多的！压倒他们！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
-msgid "This Forge Chest contains every survivor's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains every survivor's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含每个幸存者的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
-msgid "This Forge Chest contains Wigfrid's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wigfrid's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇格弗德的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_waxwell
-msgid "This Forge Chest contains Maxwell's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Maxwell's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n麦斯威尔的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_webber
-msgid "This Forge Chest contains Webber's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Webber's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n韦伯的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wendy
-msgid "This Forge Chest contains Wendy's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wendy's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n温蒂的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wes
-msgid "This Forge Chest contains Wes' complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wes' complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n韦斯的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wickerbottom
-msgid "This Forge Chest contains Wickerbottom's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wickerbottom's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n维克波顿的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_willow
-msgid "This Forge Chest contains Willow's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Willow's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇洛的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
-msgid "This Forge Chest contains Wilson's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wilson's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n威尔逊的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
-msgid "This Forge Chest contains Winona's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Winona's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n薇诺娜的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wolfgang
-msgid "This Forge Chest contains Wolfgang's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Wolfgang's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n沃尔夫冈的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
-msgid "This Forge Chest contains Woodie's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains Woodie's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n伍迪的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
-msgid "This Forge Chest contains WX-78's complete set of Gladiator skin items."（旧文本，检查后请删除此行）
 msgid "This Gladiator Chest contains WX-78's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n机器人的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_all
-msgid "All Survivors Forge Chest"（旧文本，检查后请删除此行）
 msgid "All Survivors Gladiator Chest"
 msgstr "所有幸存者的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wathgrithr
-msgid "Wigfrid Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wigfrid Gladiator Chest"
 msgstr "薇格弗德的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_waxwell
-msgid "Maxwell Forge Chest"（旧文本，检查后请删除此行）
 msgid "Maxwell Gladiator Chest"
 msgstr "麦斯威尔的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_webber
-msgid "Webber Forge Chest"（旧文本，检查后请删除此行）
 msgid "Webber Gladiator Chest"
 msgstr "韦伯的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wendy
-msgid "Wendy Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wendy Gladiator Chest"
 msgstr "温蒂的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wes
-msgid "Wes Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wes Gladiator Chest"
 msgstr "韦斯的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
-msgid "Wickerbottom\nForge Chest"（旧文本，检查后请删除此行）
 msgid "Wickerbottom Gladiator Chest"
 msgstr "维克波顿的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_willow
-msgid "Willow Forge Chest"（旧文本，检查后请删除此行）
 msgid "Willow Gladiator Chest"
 msgstr "薇洛的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wilson
-msgid "Wilson Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wilson Gladiator Chest"
 msgstr "威尔逊的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_winona
-msgid "Winona Forge Chest"（旧文本，检查后请删除此行）
 msgid "Winona Gladiator Chest"
 msgstr "薇诺娜的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wolfgang
-msgid "Wolfgang Forge Chest"（旧文本，检查后请删除此行）
 msgid "Wolfgang Gladiator Chest"
 msgstr "沃尔夫冈的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_woodie
-msgid "Woodie Forge Chest"（旧文本，检查后请删除此行）
 msgid "Woodie Gladiator Chest"
 msgstr "伍迪的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_gladiator_wx78
-msgid "WX-78 Forge Chest"（旧文本，检查后请删除此行）
 msgid "WX-78 Gladiator Chest"
 msgstr "WX-78的角斗士宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_ice_wickerbottom
-msgid "Wickerbottom\nFeast Chest"（旧文本，检查后请删除此行）
 msgid "Wickerbottom Feast Chest"
 msgstr "维克波顿的盛宴宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_victorian_wickerbottom
-msgid "Wickerbottom\nGorge Chest"（旧文本，检查后请删除此行）
 msgid "Wickerbottom Gorge Chest"
 msgstr "维克波顿的暴食宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_victorian_wolfgang
-msgid "Wolfgang\nGorge Chest"（旧文本，检查后请删除此行）
 msgid "Wolfgang Gorge Chest"
 msgstr "沃尔夫冈的暴食宝箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_livingforest
-msgid "Haunted Forest Portait"（旧文本，检查后请删除此行）
 msgid "Haunted Forest Portrait"
 msgstr "闹鬼的森林背景"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
-msgid "No servers are currently available for your game version."（旧文本，检查后请删除此行）
 msgid "No servers are currently available for your game version. Please update and try again."
 msgstr "当前没有可用的符合你游戏版本的服务器。请更新后再来试试。"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
-msgid "Purchase: {price}"（旧文本，检查后请删除此行）
 msgid "Buy Now"
 msgstr "现在购买"
