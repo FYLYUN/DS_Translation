@@ -65614,6 +65614,10 @@ msgstr "那東西怪怪的。"
 msgid "All the taste and none of the splinters!"
 msgstr "有滋有味不含木刺！"
 
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_FOOD6
+msgid "Hard to complain aboot this whole \"Feast\" business."
+msgstr "很難讓人對這“盛宴”有所不滿。"
+
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_FOOD7
 msgid "Doesn't fall far from the cider tree."
 msgstr "剛從樹上摘下來沒多久。"
@@ -102810,6 +102814,10 @@ msgstr "緩解你的壓力。"
 msgid "Mad science has no limits. Except sanity."
 msgstr "理智是瘋狂煉藥的唯一界限。"
 
+#: STRINGS.RECIPE_DESC.HALLOWEEN_EXPERIMENT_VOLATILE
+msgid "Crystallized incandescence."
+msgstr "晶化的白熱。"
+
 #: STRINGS.TABS.MADSCIENCE
 msgid "Mad Science"
 msgstr "瘋狂的科學"
@@ -103297,6 +103305,10 @@ msgstr "十分強力的藥水。"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgid "I was hoping for something bigger."
 msgstr "我希望能有更大杯的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEENPOTION_FIRE_FX
+msgid "Crystallized inferno."
+msgstr "地獄的結晶。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HALLOWEEN_ORNAMENT_1
 msgid "A spectornament I could hang in a tree."
@@ -103931,12 +103943,12 @@ msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什麼在驅動你的瘋狂！"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
-msgid "???"
-msgstr ""
+msgid "Hearthsfire Bomb"
+msgstr "爐火爆破"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
-msgid "???"
-msgstr ""
+msgid "Parry"
+msgstr "格擋"
 
 #: STRINGS.BOARLORD_ROUND1_START.1
 msgid "What have we here?"
@@ -104027,8 +104039,8 @@ msgid "What?! My champion!?!"
 msgstr "什麼？！我的勇士！？！"
 
 #: STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2
-msgid "Gatekeepers you have proven yourself mighty."
-msgstr "守門人，你已經證明了你的強大。"
+msgid "I see. You've demonstrated your might."
+msgstr "你已經證明了你的強大，我明白了。"
 
 #: STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.3
 msgid "...But we will live to fight again!!"
@@ -104063,8 +104075,8 @@ msgid "We are not ready to give up yet."
 msgstr "我們現在還沒打算放棄呢。"
 
 #: STRINGS.BOARLORD_ROUND6_START.1
-msgid "We do not fear you, Gatekeepers!"
-msgstr "我們不怕你，守門人！"
+msgid "We do not fear you."
+msgstr "我們不會怕你。"
 
 #: STRINGS.BOARLORD_ROUND6_START.2
 msgid "But you will fear us!"
@@ -104072,7 +104084,7 @@ msgstr "而你將會害怕我們！"
 
 #: STRINGS.BOARLORD_ROUND6_START.3
 msgid "Fear my new champions! Fear the Rhinocebros!"
-msgstr "害怕我的新勇士！害怕犀牛哥！"
+msgstr "害怕我的新勇士！害怕犀牛兄弟！"
 
 #: STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.1
 msgid "No! My Forge, felled by the Throne's lapdogs!"
@@ -104114,6 +104126,10 @@ msgstr "聞起來像是硫磺。"
 msgid "A sharp looking instrument."
 msgstr "一把看起來很鋒利的武器。"
 
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RHINODRILL
+msgid "He's got a nose for this kind of work."
+msgstr "他有一個尖鼻子來幹這事。"
+
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
 msgstr "地獄獨眼巨豬"
@@ -104136,11 +104152,19 @@ msgstr "豪華絲帶鎧甲"
 
 #: STRINGS.NAMES.RHINODRILL
 msgid "Rhinocebro Snapback"
-msgstr "犀牛兄弟Snapback"
+msgstr "犀牛哥哥Snapback"
 
 #: STRINGS.NAMES.RHINODRILL2
-msgid "Rhinocebro Flat Top"
-msgstr "犀牛兄弟Flat Top"
+msgid "Rhinocebro Flatbrim"
+msgstr "犀牛弟弟Flatbrim"
+
+#: STRINGS.NAMES.LAVAARENA_FIREBOMB
+msgid "Hearthsfire Crystals"
+msgstr "爐火結晶"
+
+#: STRINGS.NAMES.LAVAARENA_HEAVYBLADE
+msgid "Blacksmith's Edge"
+msgstr "匠魂之刃"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
 msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
@@ -104834,9 +104858,25 @@ msgstr "守門人之槌"
 msgid "Pith Pike"
 msgstr "髓棘長矛"
 
+#: STRINGS.SKIN_NAMES.firestaff_gungnir
+msgid "Fiery Pith Staff"
+msgstr "髓棘火魔杖"
+
+#: STRINGS.SKIN_NAMES.icestaff_gungnir
+msgid "Icy Pith Staff"
+msgstr "髓棘冰魔杖"
+
 #: STRINGS.SKIN_NAMES.spear_forge_lance
 msgid "Spiral Spear"
 msgstr "螺旋槍"
+
+#: STRINGS.SKIN_NAMES.firestaff_lance
+msgid "Fiery Spiral Staff"
+msgstr "螺旋火魔杖"
+
+#: STRINGS.SKIN_NAMES.icestaff_lance
+msgid "Icy Spiral Staff"
+msgstr "螺旋冰魔杖"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_magma
 msgid "The Magmatic"
@@ -105087,8 +105127,8 @@ msgid "Strike A Match"
 msgstr "打擊比賽"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
-msgid "???"
-msgstr ""
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
+msgstr "在一場游戲中使用匠魂之刃格擋15次特殊攻擊"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
 msgid "Best Blade Plans"
@@ -105096,7 +105136,7 @@ msgstr "最好的劍刃"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC
 msgid "Land 10 or more killing blows in a single match"
-msgstr "在一場比賽中打出至少10次致命一擊"
+msgstr "在一場游戲中打出至少10次致命一擊"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE
 msgid "Blow It Wide Open"
@@ -105127,8 +105167,8 @@ msgid "Meteor Your Match"
 msgstr "痛擊對手"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
-msgid "Avoid being hit by a dashing Pit Pig until the end of round 2"
-msgstr "在第二回合之前不要被煉獄豬頂中"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
+msgstr "在披甲岩龜登場之前不要被煉獄豬頂中"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
 msgid "Dash Their Hopes"
@@ -105344,11 +105384,11 @@ msgstr "已完成{num}個任務"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_MATCHES_FMT
 msgid "{num} Daily Match Bonuses"
-msgstr "{num}次獲得每日首次遊戲獎勵"
+msgstr "已獲得{num}次每日首次遊戲獎勵"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET
 msgid "Daily bonuses reset in: {hours}h {minutes}m"
-msgstr "在{hours}小時{minutes}分鐘後刷新"
+msgstr "每日獎勵將在{hours}小時{minutes}分鐘後刷新"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_RESET_SOON
 msgid "Daily bonuses will reset soon."
@@ -105360,7 +105400,7 @@ msgstr "每日獎勵將在下一場遊戲後重置"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DAILY_WINS_FMT
 msgid "{num} Daily Victory Bonuses"
-msgstr "{num}次獲得每日首勝獎勵"
+msgstr "已獲得{num}次獲得每日首勝獎勵"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
 msgid "Contribute to the community progression by defeating the {boss}."
@@ -105392,7 +105432,7 @@ msgstr "獲取任務失敗"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
 msgid "Posting new quests in: {hours}h {minutes}m"
-msgstr "在 {hours}小時{minutes}分鐘 後發布新的任務"
+msgstr "新的任務將在{hours}小時{minutes}分鐘後發布"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET_SOON
 msgid "New quests will be posted soon."
@@ -105424,7 +105464,7 @@ msgstr "社區解鎖內容"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNKNOWN
 msgid "Unknown"
-msgstr 未知""
+msgstr "未知"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BEETLETAUR
 msgid "Summoned to the arena for the final round!"
@@ -105436,7 +105476,7 @@ msgstr "在猩猩戰士戰敗之後被召喚到競技場"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
 msgid "Summon a Magma Golum or dive bomb your opponents with a Sky Lunge"
-msgstr "召喚岩漿傀儡或用高空突刺轟炸你的對手"
+msgstr "召喚岩漿傀儡或用强大的高空突刺轟炸對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
 msgid "80% Protection, +50 Max Health,\n+20% Physical Damage"
@@ -105448,19 +105488,19 @@ msgstr "90% 護甲，+100 生命上限，\n抗擊退。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
 msgid "80% Protection, +50 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
-msgstr "80% 護甲，+50 生命上限，增強小蜘蛛，阿比蓋爾或伯尼的效果。"
+msgstr "80% 護甲，+50 生命上限，\n增強小蜘蛛，阿比蓋爾或伯尼的效果。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
 msgstr "80% 護甲，+50生命上限，\n+15% 冷卻"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
-msgid "???"
-msgstr ""
+msgid "Bombard your opponents with searing Hearthsfire"
+msgstr "用熾熱的爐火灼燒你的對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_HEAVYBLADE
-msgid "???"
-msgstr ""
+msgid "Hinder your opponents with the almighty Blacksmith's Edge"
+msgstr "用全能的匠魂之刃抵擋你的對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.RHINODRILL
 msgid "Summoned to the arena when the Grand Forge Boarrior is defeated"
