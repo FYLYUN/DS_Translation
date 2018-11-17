@@ -105016,7 +105016,7 @@ msgstr "\"真叫人讨厌。\""
 
 #: STRINGS.SKIN_QUOTES.winona_magma
 msgid "\"Tough as obsidian.\""
-msgstr "\坚韧如十胜石。\"""
+msgstr "\"坚韧如十胜石。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_magma
 msgid "\"Wolfgang is on the fire.\""
