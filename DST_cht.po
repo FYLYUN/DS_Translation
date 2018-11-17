@@ -104202,9 +104202,49 @@ msgstr "無論你做什麼，千萬不要低頭！"
 msgid "Shroud yourself with the burning fires of Ragnarok."
 msgstr "讓諸神黃昏的烈焰包裹你。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_magma
+msgid "Armor that barely contains your firey anger."
+msgstr "像這樣的鎧甲才剛好能容納你的怒火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_webber_magma
+msgid "Add some much needed fire to your fur."
+msgstr "爲你的毛皮添加一些火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wendy_magma
+msgid "A frock of flames to rise from the ashes."
+msgstr "從灰燼中重生的火焰連衣裙。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wes_magma
+msgid "A passion for justice fuels the fire within this blouse."
+msgstr "對正義的激情引燃了這件襯衫上的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_magma
+msgid "The arm wrappings and leather robe protect when scrutinizing lava flows."
+msgstr "讓你檢查岩漿流的手臂有所保護。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_magma
+msgid "A frock with the power to appease the Fire Gods."
+msgstr "蘊含能夠安撫火神的力量的連衣裙。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wilson_magma
+msgid "Use this armor for obsidious purposes."
+msgstr "用這件鎧甲塑造十勝石一般的意志。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_magma
+msgid "Multipurpose armor that also works as welding gear."
+msgstr "多功能鎧甲，可以當作焊接裝置。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_magma
+msgid "Incinerate your competition with the strength of an inferno."
+msgstr "用地獄的力量焚燒你的對手。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_woodie_magma
+msgid "Sport a hot new look in this cool jacket and T-shirt combo."
+msgstr "很酷的夾克和T賉結合體，用來做些火熱的運動。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_magma
 msgid "Stoke the fires of this furnace carapace."
-msgstr "為這個爐子的外殼點上火。"
+msgstr "給這個爐子的外殼也點上火。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm2
 msgid "Behold its terrifying curly horns!"
@@ -104862,9 +104902,17 @@ msgstr "髓棘長矛"
 msgid "Fiery Pith Staff"
 msgstr "髓棘火魔杖"
 
+#: STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir
+msgid "firestaff_gungnir"
+msgstr "firestaff_gungnir"
+
 #: STRINGS.SKIN_NAMES.icestaff_gungnir
 msgid "Icy Pith Staff"
 msgstr "髓棘冰魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir
+msgid "icestaff_gungnir"
+msgstr "icestaff_gungnir"
 
 #: STRINGS.SKIN_NAMES.spear_forge_lance
 msgid "Spiral Spear"
@@ -104874,9 +104922,17 @@ msgstr "螺旋槍"
 msgid "Fiery Spiral Staff"
 msgstr "螺旋火魔杖"
 
+#: STRINGS.SKIN_DESCRIPTIONS.firestaff_lance
+msgid "firestaff_lance"
+msgstr "firestaff_lance"
+
 #: STRINGS.SKIN_NAMES.icestaff_lance
 msgid "Icy Spiral Staff"
 msgstr "螺旋冰魔杖"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icestaff_lance
+msgid "icestaff_lance"
+msgstr "icestaff_lance"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_magma
 msgid "The Magmatic"
@@ -105542,10 +105598,6 @@ msgstr "下一個"
 msgid "{mode} - Round {num}"
 msgstr "{mode} - 第{num}回合"
 
-#: STRINGS.UI.PURCHASEPACKSCREEN.INFO_BTN
-msgid "?"
-msgstr ""
-
 #: STRINGS.UI.PURCHASEPACKSCREEN.MEGAPACK_SHORT_DESC
 msgid "Includes {total_sets} skin sets! {total_items} total skin items!"
 msgstr "包含 {total_sets}套皮膚！共{total_items}件皮膚物品！"
@@ -105729,3 +105781,15 @@ msgstr "當前沒有可用的符合你遊戲版本的伺服器。請更新後再
 #: STRINGS.UI.PURCHASEPACKSCREEN.PURCHASE_BTN
 msgid "Buy Now"
 msgstr "現在購買"
+
+#: STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "拆散這件藏品會破壞你的“{ensemble_name}”收集，你會失去收集獎勵“{reward_name}”。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.BODY.PLATFORM_MISMATCH
+msgid "This server is incompatible with your version. Please try another server."
+msgstr "這個伺服器與你的游戲版本不兼容，請嘗試其它伺服器。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
+msgid "Version Mismatch"
+msgstr "版本不匹配"
