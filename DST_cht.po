@@ -102404,19 +102404,35 @@ msgstr "登上舞臺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_birdcagecircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個藏品来改變你的角色背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_featherhatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個藏品来改變你的角色背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_rainometercircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個藏品来改變你的角色背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tophatcircus
 msgid "Equip this item to change your character's background portrait."
-msgstr "使用這個藏品来改變你的角色背景插圖。"
+msgstr "使用這個藏品来改變你的角色背景圖案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_arrowsignpostcircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個藏品来改變你的角色背景圖案"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_tentcircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個藏品来改變你的角色背景圖案"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_umbrellacircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個藏品来改變你的角色背景圖案"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winterometercircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用這個藏品来改變你的角色背景圖案"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_birdcage_circus
 msgid "Set your profile icon to the Amazing Sideshow."
@@ -102434,6 +102450,22 @@ msgstr "將你的頭像設置為一個華麗的雨量計。"
 msgid "Set your profile icon to an Amazing Ringmaster Hat."
 msgstr "將你的頭像設置為一個驚人的馴獸師帽子。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
+msgid "Set your profile icon to a Spectracular Stationary Wayfinder."
+msgstr "將你的頭像設置爲一個壯觀的引路牌。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_tent_circus
+msgid "Set your profile icon to the World's Greatest Big Top Tent."
+msgstr "將你的頭像設置爲世界上最宏偉的大帳篷。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_umbrella_circus
+msgid "Set your profile icon to a Big Top Umbrella."
+msgstr "將你的頭像設置爲一把頭等大雨傘。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_winterometer_circus
+msgid "Set your profile icon to a Thermal Strength Measurer."
+msgstr "將你的頭像設置爲一個熱能測力器。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.rainometer_circus
 msgid "Guess the rainfall."
 msgstr "來猜猜會不會下雨。"
@@ -102446,6 +102478,22 @@ msgstr "researchlab4_tophat_circus"
 msgid "Come one, come all."
 msgstr "來吧，全都來吧。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.tent_circus
+msgid "Have the World's Greatest Dreams."
+msgstr "做個世界上最宏偉的好夢。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_circus
+msgid "Keeping dry is the main attraction."
+msgstr "保持乾燥是主要賣點。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winterometer_circus
+msgid "Step right up."
+msgstr "一步到位。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_circus
+msgid "Restrooms over here."
+msgstr "衛生間在這邊。"
+
 #: STRINGS.SKIN_NAMES.birdcage_circus
 msgid "The Amazing Sideshow"
 msgstr "驚人的馬戲鳥籠"
@@ -102453,6 +102501,26 @@ msgstr "驚人的馬戲鳥籠"
 #: STRINGS.SKIN_NAMES.featherhat_circus
 msgid "Equestrienne Headdress"
 msgstr "馬戲團女騎手帽"
+
+#: STRINGS.SKIN_NAMES.arrowsign_post_circus
+msgid "Spectacular Stationary Wayfinder"
+msgstr "壯觀的引路牌"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_arrowsignpostcircus
+msgid "Spectacular Stationary Wayfinder Portrait"
+msgstr "壯觀的引路牌背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_tentcircus
+msgid "World's Greatest Big Top Tent Portrait"
+msgstr "世界上最宏偉的大帳篷背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus
+msgid "Umbrella the Big Top Portrait"
+msgstr "頭等大雨傘背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_winterometercircus
+msgid "Thermal Strength Measurer Portrait"
+msgstr "熱能測力器背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
@@ -102470,6 +102538,22 @@ msgstr "華麗的雨量計背景"
 msgid "Amazing Ringmaster Hat Portrait"
 msgstr "驚人的馴獸師帽背景"
 
+#: STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
+msgid "Spectacular Stationary Wayfinder Icon"
+msgstr "壯觀的引路牌頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_tent_circus
+msgid "World's Greatest Big Top Tent Icon "
+msgstr "世界上最宏偉的大帳篷頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_umbrella_circus
+msgid "Umbrella the Big Top Icon"
+msgstr "頭等大雨傘頭像"
+
+#: STRINGS.SKIN_NAMES.profileflair_winterometer_circus
+msgid "Thermal Strength Measurer Icon"
+msgstr "熱能測力器頭像"
+
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
 msgstr "驚人的馬戲鳥籠頭像"
@@ -102486,13 +102570,25 @@ msgstr "華麗的雨量計頭像"
 msgid "Amazing Ringmaster Hat Icon"
 msgstr "驚人的馴獸師帽頭像"
 
+#: STRINGS.SKIN_NAMES.tent_circus
+msgid "World's Greatest Big Top Tent"
+msgstr "世界上最宏偉的大帳篷"
+
+#: STRINGS.SKIN_NAMES.umbrella_circus
+msgid "Umbrella the Big Top"
+msgstr "头等大雨傘"
+
+#: STRINGS.SKIN_NAMES.winterometer_circus
+msgid "Thermal Strength Measurer"
+msgstr "熱能測力器"
+
 #: STRINGS.SKIN_NAMES.rainometer_circus
 msgid "The Magnificent Rainometer"
 msgstr "華麗的雨量計"
 
 #: STRINGS.SKIN_NAMES.researchlab4_tophat_circus
 msgid "Prestiringmastatator"
-msgstr "威嚴的馬戲團高禮帽"
+msgstr "戲法大師帽子"
 
 #: STRINGS.SKIN_NAMES.tophat_circus
 msgid "Amazing Ringmaster Hat"
@@ -102509,6 +102605,18 @@ msgstr "羽毛帽"
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.RAINOMETER
 msgid "Rainometer"
 msgstr "雨量計"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST
+msgid "Directional Sign"
+msgstr "路標"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.TENT
+msgid "Tent"
+msgstr "帳篷"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.WINTEROMETER
+msgid "Thermal Measurer"
+msgstr "溫度測量器"
 
 #: STRINGS.TABS.CELESTIAL
 msgid "Celestial"
@@ -104257,6 +104365,26 @@ msgstr "當心那個小尖刺。"
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma
 msgid "Battle gloves to withstand the flames that will consume this world."
 msgstr "為了抵禦吞噬世界的烈火而戴上的戰鬥手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_webber_magma
+msgid "Hot-foot it into the ring."
+msgstr "戰場上的急忙脚步。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wendy_magma
+msgid "Tip-toe across the ashes you rose from."
+msgstr "踮起腳走過你重生的灰燼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wes_magma
+msgid "Tip-toe across the ashes you rose from
+msgstr "踮起腳走過你重生的灰燼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wickerbottom_magma
+msgid "Gold tipped lava leapers."
+msgstr "從岩漿上越過。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wx78_magma
+msgid "For iron puddling jumping."
+msgstr "一邊蹦躂一邊冶鐵。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_magma
 msgid "Fly fleet footed to the end of the world."
