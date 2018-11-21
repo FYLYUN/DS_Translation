@@ -124,7 +124,7 @@ msgstr "鐵砧攻擊"
 
 #: STRINGS.ACTIONS.CASTAOE.HEALINGSTAFF
 msgid "Cast Life Blossom"
-msgstr "施放活力綻放"
+msgstr "施放生命之花"
 
 #: STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY
 msgid "Chuck Lucy"
@@ -140,7 +140,7 @@ msgstr "高空突刺"
 
 #: STRINGS.ACTIONS.CASTSPELL.GENERIC
 msgid "Cast Spell"
-msgstr "施放符咒"
+msgstr "施放咒語"
 
 #: STRINGS.ACTIONS.CASTSPELL.SCIENCE
 msgid "Use Gadget"
@@ -4192,7 +4192,7 @@ msgstr "勇士們，戰勝戰鬥大師！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_BERNIE
 msgid "He might make a good distraction for us."
-msgstr "他可能會使我們分散注意力。"
+msgstr "他可能會幫我們吸引注意力。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_BOARLORD
 msgid "That's the guy in charge here."
@@ -4224,7 +4224,7 @@ msgstr "這頂花環會使我恢復一些活力。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_KEYHOLE
 msgid "It needs a key."
-msgstr "我需要一把鑰匙激活它。"
+msgstr "它需要一把鑰匙。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_KEYHOLE_FULL
 msgid "That should do it."
@@ -36464,7 +36464,7 @@ msgstr "天吶，我什麼都不想穿。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_ELEMENTAL
 msgid "It is bound to our service."
-msgstr "這是我們改做的。"
+msgstr "這是我們該做的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_EYECIRCLETHAT
 msgid "An enviable magic relic, I must say."
@@ -36480,7 +36480,7 @@ msgstr "這個可以提升治療魔法的效果。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_HEALINGGARLANDHAT
 msgid "Proximity to the blossoms produces a restorative effect for the user."
-msgstr "接近治療花可以產生治療的效果。"
+msgstr "接近花簇可以產生治療的效果。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_KEYHOLE
 msgid "It requires a key."
@@ -53596,7 +53596,7 @@ msgstr "讓我感到還活著！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_WORMS
 msgid "Earth is tremble beneath Wolfgang's mighty feet!"
-msgstr "在沃爾夫岡強壯的腳地球在顫抖！"
+msgstr "地球在沃爾夫岡強壯的腳下顫抖！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.BATTLECRY.DEER
 msgid "I will make fight quick!"
@@ -53644,11 +53644,11 @@ msgstr "他知道我比他厲害"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL
 msgid "Are you friendly ghost?"
-msgstr "你是友好的幽靈嗎？"
+msgstr "你是個友好的幽靈嗎？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.GENERIC
 msgid "Is pretty."
-msgstr "猴看。"
+msgstr "很好看。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND
 msgid "Does it want to fight?"
@@ -53660,11 +53660,11 @@ msgstr "這讓沃爾夫岡怕怕！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgid "Is pretty."
-msgstr "猴看。"
+msgstr "很好看。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
 msgid "Little flower gives Wolfgang the \"heebie jeebies\"."
-msgstr "小小花朵給沃爾夫岡「heebiejeebies」。"
+msgstr "小小花朵讓沃爾夫岡「有點緊張」。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ABIGAIL_FLOWER.SOON
 msgid "I do not like."
@@ -53828,7 +53828,7 @@ msgstr "有很弱的光。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ATRIUM_KEY
 msgid "Little key is for make door."
-msgstr "小鑰匙是為了做門。"
+msgstr "小鑰匙是為了門而做的。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ATRIUM_LIGHT.OFF
 msgid "Is place for light."
@@ -76416,11 +76416,11 @@ msgstr "羽翼花冠"
 
 #: STRINGS.NAMES.LAVAARENA_HEALINGFLOWERHAT
 msgid "Flower Headband"
-msgstr "藍雪髮帶"
+msgstr "鮮花髮帶"
 
 #: STRINGS.NAMES.LAVAARENA_HEALINGGARLANDHAT
 msgid "Blossomed Wreath"
-msgstr "聖佑花環"
+msgstr "綻放花冠"
 
 #: STRINGS.NAMES.LAVAARENA_KEYHOLE
 msgid "Ancient Anchor"
@@ -79032,7 +79032,7 @@ msgstr "糖果手杖"
 
 #: STRINGS.NAMES.WINTER_FOOD4
 msgid "Eternal Fruitcake"
-msgstr "維多利亞麵包"
+msgstr "不朽的水果蛋糕"
 
 #: STRINGS.NAMES.WINTER_FOOD5
 msgid "Chocolate Log Cake"
@@ -83480,7 +83480,7 @@ msgstr "這頂羽毛帽摸起來太奢華了！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.flowerhat_healing
 msgid "This lovely wreath of Life Blossoms have lost their magic, but they still look divine."
-msgstr "雖然這個可愛的花環已經失去了魔力，但它看起來依然神聖。"
+msgstr "雖然這個生命之花製成的可愛花冠已經失去了魔力，但它看起來依然神聖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.flowerhat_holly_wreath
 msgid "A jolly holly laurel to wear on your head. How winter-y!"
@@ -86892,7 +86892,7 @@ msgstr "羽翼花冠"
 
 #: STRINGS.SKIN_NAMES.flowerhat_healing
 msgid "Life Blossom Garland"
-msgstr "福佑花環"
+msgstr "生命之花環"
 
 #: STRINGS.SKIN_NAMES.flowerhat_holly_wreath
 msgid "Holly Wreath"
@@ -88888,7 +88888,7 @@ msgstr "蒼翠"
 
 #: STRINGS.SKIN_NAMES.wx78_rhinorook
 msgid "Rook Costume"
-msgstr "犀牛服裝"
+msgstr "戰車服裝"
 
 #: STRINGS.SKIN_NAMES.wx78_rhinorook_d
 msgid "Rookiebot Headplate"
@@ -90512,7 +90512,7 @@ msgstr "挑戰勝利"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC
 msgid "Cast 3 amplified Life Blossoms within 60 seconds"
-msgstr "在60秒內施展3次強化生命花簇"
+msgstr "在60秒內施放3次強化生命之花"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE
 msgid "Spell It Out"
@@ -105272,7 +105272,7 @@ msgstr "勝利醫生"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC
 msgid "Cast 4 Life Blossoms within 60 seconds"
-msgstr "在60秒內召喚4次生命花簇"
+msgstr "在60秒內施放4次生命之花"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE
 msgid "Fight Four Their Life"
@@ -105520,7 +105520,7 @@ msgstr "在它們的墳里旋轉"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC
 msgid "Cast 3 amplified Life Blossoms within 60 seconds"
-msgstr "在60秒內召喚3次生命花簇"
+msgstr "在60秒內施放3次生命之花"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE
 msgid "Spell It Out"
