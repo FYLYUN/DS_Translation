@@ -104283,8 +104283,8 @@ msgid "90% Protection\n+100 Max Health\nKnockback Resistance"
 msgstr "90% 護甲\n+100 生命上限\n抗擊退"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
-msgid "80% Protection\n+50 Max Health\nCompanion Buff"
-msgstr "80% 護甲\n+50 生命上限\n增強同伴"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
+msgstr "80% 護甲\n+75 生命上限\n增強同伴"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
@@ -104715,16 +104715,16 @@ msgid "Furnace Vent"
 msgstr "火爐通風口"
 
 #: STRINGS.SKIN_NAMES.feet_webber_magma
-msgid "Incombustible's Legs"
-msgstr "不可燃的腿部"
+msgid "Incombustible's Feet"
+msgstr "不可燃的足部"
 
 #: STRINGS.SKIN_NAMES.feet_wendy_magma
 msgid "Phoenix's Shoes"
 msgstr "不死鳥鞋"
 
 #: STRINGS.SKIN_NAMES.feet_wes_magma
-msgid "Sulphur Pimpernel's Legs"
-msgstr "硫磺鞋子"
+msgid "Sulphur Pimpernel's Boots"
+msgstr "硫磺短靴"
 
 #: STRINGS.SKIN_NAMES.feet_wickerbottom_magma
 msgid "Volcanologist's Boots"
@@ -104795,8 +104795,8 @@ msgid "Surtr's Leggings"
 msgstr "蘇爾特緊身褲"
 
 #: STRINGS.SKIN_NAMES.legs_waxwell_magma
-msgid "Fissure's Shoes"
-msgstr "裂縫鞋子"
+msgid "Fissure's Cloths"
+msgstr "裂縫袍子"
 
 #: STRINGS.SKIN_NAMES.legs_willow_magma
 msgid "Pyrestarter's Socks"
@@ -104807,8 +104807,8 @@ msgid "Obsidian's Legs"
 msgstr "十勝石護腿"
 
 #: STRINGS.SKIN_NAMES.legs_winona_magma
-msgid "Welder's Boots"
-msgstr "焊工靴"
+msgid "Welder's Lowers"
+msgstr "焊工下裝"
 
 #: STRINGS.SKIN_NAMES.legs_wolfgang_magma
 msgid "Inferno's Anklets"
@@ -105388,10 +105388,10 @@ msgstr "在擊敗熔爐豬魁之前沒有隊友倒下"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE
 msgid "On the Boarrior Path"
-msgstr "行走在豬魁之路"
+msgstr "踏上豬魁之路"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC
-msgid "Survive with no team deaths until all Rhinocebros are defeated"
+msgid "Survive with no team deaths until both Rhinocebros are defeated"
 msgstr "在擊敗犀牛兄弟之前沒有隊友倒下"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE
@@ -105587,7 +105587,7 @@ msgid "{num} Daily Victory Bonuses"
 msgstr "已獲得{num}次獲得每日首勝獎勵"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.DESCRIPTION
-msgid "Contribute to the community progression by defeating the {boss}."
+msgid "Contribute to the community's progression by defeating the {boss}."
 msgstr "擊敗{boss}來為社區進度做出貢獻。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.EVERYTHING_UNLOCKED
@@ -105607,11 +105607,11 @@ msgid "Locked Item"
 msgstr "待解所的物品"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.PROGRESSION_QUERY_FAILURE
-msgid "Failed to retrive community progression data."
+msgid "Failed to retrieve community progression data."
 msgstr "獲取社區數據失敗"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_QUERY_FAILURE
-msgid "Failed to retrive your quests."
+msgid "Failed to retrieve your quests."
 msgstr "獲取任務失敗"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.QUEST_RESET
@@ -105659,7 +105659,7 @@ msgid "Summoned to the arena while defeating the Boarillas"
 msgstr "在猩猩戰士戰敗之後被召喚到競技場"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
-msgid "Summon a Magma Golum or dive bomb your opponents with a Sky Lunge"
+msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
 msgstr "召喚岩漿傀儡或用强大的高空突刺轟炸對手"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPDAMAGER
@@ -105671,8 +105671,8 @@ msgid "90% Protection, +100 Max Health,\nKnockback Resistance"
 msgstr "90% 護甲，+100 生命上限，\n抗擊退。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPPETMASTERY
-msgid "80% Protection, +50 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
-msgstr "80% 護甲，+50 生命上限，\n增強小蜘蛛，阿比蓋爾或伯尼的效果。"
+msgid "80% Protection, +75 Max Health, Increases effectiveness of Baby Spiders, Abigail or Bernie"
+msgstr "80% 護甲，+75 生命上限，\n增強小蜘蛛，阿比蓋爾或伯尼。"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
@@ -105771,7 +105771,7 @@ msgid "Formidable Team"
 msgstr "強大的戰隊"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_5
-msgid "Grand Forge Boarior Defeated"
+msgid "Grand Forge Boarrior Defeated"
 msgstr "擊殺熔爐豬魁"
 
 #: STRINGS.UI.WXP_DETAILS.LAB_MILESTONE_6
