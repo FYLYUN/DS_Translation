@@ -104260,11 +104260,11 @@ msgstr "豪華絲帶鎧甲"
 
 #: STRINGS.NAMES.RHINODRILL
 msgid "Rhinocebro Snapback"
-msgstr "犀牛哥哥Snapback"
+msgstr "犀牛哥哥 鋒背"
 
 #: STRINGS.NAMES.RHINODRILL2
 msgid "Rhinocebro Flatbrim"
-msgstr "犀牛弟弟Flatbrim"
+msgstr "犀牛弟弟 平刃"
 
 #: STRINGS.NAMES.LAVAARENA_FIREBOMB
 msgid "Hearthsfire Crystals"
@@ -104393,6 +104393,10 @@ msgstr "健步走向世界的終結。"
 #: STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
 msgstr "戰神帕格納以讓戰士們在他那充斥著石頭與火焰的競技場中戰鬥為樂。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_magma2
+msgid "To escape the fiery Forge, our Survivors must triumph in battle against Battlemaster Pugna's fearsome champions."
+msgstr "爲了逃離熔爐，求生者們必須在戰鬥中擊敗戰神帕格納的勇士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma
 msgid "Furnace WX78\ncan't wait to incinerate."
@@ -104821,6 +104825,10 @@ msgstr "火力褲子"
 #: STRINGS.SKIN_NAMES.loading_magma
 msgid "Magmatic Assembly"
 msgstr "岩漿組合"
+
+#: STRINGS.SKIN_NAMES.loading_magma2
+msgid "The Forge Saga"
+msgstr "熔爐的冒險"
 
 #: STRINGS.SKIN_NAMES.loading_wx_magma
 msgid "The Magmatic Automaton"
@@ -105921,3 +105929,11 @@ msgstr "這個伺服器與你的游戲版本不兼容，請嘗試其它伺服器
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
 msgid "Version Mismatch"
 msgstr "版本不匹配"
+
+#: STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgid "The Forge - Season 2"
+msgstr "熔爐 - 第二季"
+
+#: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgid "Rhinocebros, Snapback and Flatbrim"
+msgstr "犀牛兄弟，鋒背和平刃"

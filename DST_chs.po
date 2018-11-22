@@ -104264,11 +104264,11 @@ msgstr "豪华丝带铠甲"
 
 #: STRINGS.NAMES.RHINODRILL
 msgid "Rhinocebro Snapback"
-msgstr "犀牛哥哥Snapback"
+msgstr "犀牛哥哥 锋背"
 
 #: STRINGS.NAMES.RHINODRILL2
 msgid "Rhinocebro Flatbrim"
-msgstr "犀牛弟弟Flatbrim"
+msgstr "犀牛弟弟 平刃"
 
 #: STRINGS.NAMES.LAVAARENA_FIREBOMB
 msgid "Hearthsfire Crystals"
@@ -104397,6 +104397,10 @@ msgstr "健步走向世界的终结。"
 #: STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
 msgstr "战神帕格纳以让战士们在他那充斥着石头与火焰的竞技场中战斗为乐。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_magma2
+msgid "To escape the fiery Forge, our Survivors must triumph in battle against Battlemaster Pugna's fearsome champions."
+msgstr "为了逃离熔炉，求生者们必须在战斗中击败战神帕格纳的勇士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wx_magma
 msgid "Furnace WX78\ncan't wait to incinerate."
@@ -104825,6 +104829,10 @@ msgstr "火力裤子"
 #: STRINGS.SKIN_NAMES.loading_magma
 msgid "Magmatic Assembly"
 msgstr "岩浆组合"
+
+#: STRINGS.SKIN_NAMES.loading_magma2
+msgid "The Forge Saga"
+msgstr "熔炉的冒险"
 
 #: STRINGS.SKIN_NAMES.loading_wx_magma
 msgid "The Magmatic Automaton"
@@ -105835,6 +105843,7 @@ msgid "This Gladiator Chest contains Willow's complete set of Gladiator skin ite
 msgstr "这个角斗士宝箱包含\n薇洛的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wilson
+msgid "This Gladiator Chest contains Wilson's complete set of Gladiator skin items."
 msgstr "这个角斗士宝箱包含\n威尔逊的全套角斗士系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_winona
@@ -105924,3 +105933,11 @@ msgstr "这个服务器与你的游戏版本不兼容，请尝试其它服务器
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.PLATFORM_MISMATCH
 msgid "Version Mismatch"
 msgstr "版本不匹配"
+
+#: STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgid "The Forge - Season 2"
+msgstr "熔炉 - 第二季"
+
+#: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
+msgid "Rhinocebros, Snapback and Flatbrim"
+msgstr "犀牛兄弟，锋背和平刃"
