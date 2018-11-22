@@ -8552,7 +8552,7 @@ msgstr "一種盾牌。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMORWOOD
 msgid "A borrowed tree vest."
-msgstr "一件借來的樹葉背心。"
+msgstr "一件取材於樹木的背心。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ARMOR_SANITY
 msgid "Strong, but such a headache it gives..."
