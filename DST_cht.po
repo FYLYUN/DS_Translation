@@ -912,7 +912,7 @@ msgstr "我們不會活在王座的陰影之下的！"
 
 #: STRINGS.BOARLORD_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
-msgstr "放出猩猩戰士。"
+msgstr "放出豬猩戰士。"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.1
 msgid "What have we here?"
@@ -78472,15 +78472,15 @@ msgstr "水果雜燴"
 
 #: STRINGS.NAMES.TRAILS
 msgid "Boarilla"
-msgstr "猩猩戰士"
+msgstr "豬猩戰士"
 
 #: STRINGS.NAMES.TRAILS1
 msgid "Boarilla"
-msgstr "猩猩戰士"
+msgstr "豬猩戰士"
 
 #: STRINGS.NAMES.TRAILS2
 msgid "Boarilla"
-msgstr "猩猩戰士"
+msgstr "豬猩戰士"
 
 #: STRINGS.NAMES.TRANSISTOR
 msgid "Electrical Doodad"
@@ -90336,7 +90336,7 @@ msgstr "生存大師"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
 msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
-msgstr "在猩猩戰士登場前沒有任何隊友倒下並在之後擊敗它"
+msgstr "在豬猩戰士登場前沒有任何隊友倒下並在之後擊敗它"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
 msgid "Hard To Kill"
@@ -104108,7 +104108,7 @@ msgstr "不！這怎麼可能？！"
 
 #: STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.2
 msgid "You have defeated the mighty Boarilla!"
-msgstr "你打敗了強大的猩猩戰士！"
+msgstr "你打敗了強大的豬猩戰士！"
 
 #: STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.3
 msgid "You may have won the battle, Gatekeepers... but not the war!"
@@ -104132,7 +104132,7 @@ msgstr "這就是為什麼我們不能讓你們贏。"
 
 #: STRINGS.BOARLORD_ROUND4_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
-msgstr "放出猩猩戰士。"
+msgstr "放出豬猩戰士。"
 
 #: STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.1
 msgid "Grand Forge Boarrior!"
@@ -104580,11 +104580,11 @@ msgstr "將你的頭像設置為暴虐的鰐魚指揮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tails
 msgid "Set your profile icon to a brutish Boarilla."
-msgstr "將你的頭像設置為粗野的猩猩戰士。"
+msgstr "將你的頭像設置為粗野的豬猩戰士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tailsguard
 msgid "Set your profile icon to a guarded Boarilla."
-msgstr "將你的頭像設置為正在防禦的猩猩戰士。"
+msgstr "將你的頭像設置為正在防禦的豬猩戰士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_turtillus
 msgid "Set your profile icon to a dizzying Snortoise."
@@ -104900,7 +104900,7 @@ msgstr "WX-78的岩漿寶箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_boarilla
 msgid "Boarilla Portrait"
-msgstr "猩猩戰士背景"
+msgstr "豬猩戰士背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_boarlord
 msgid "Battlemaster's Seat Portrait"
@@ -105012,11 +105012,11 @@ msgstr "鰐魚指揮"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tails
 msgid "Boarilla"
-msgstr "猩猩戰士"
+msgstr "豬猩戰士"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tailsguard
 msgid "Guarded Boarilla"
-msgstr "正在防禦的猩猩戰士"
+msgstr "正在防禦的豬猩戰士"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_turtillus
 msgid "Snortoise"
@@ -105256,7 +105256,7 @@ msgstr "鱷魚指揮部"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC
 msgid "Defeat the Boarilla"
-msgstr "打敗猩猩戰士"
+msgstr "打敗豬猩戰士"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE
 msgid "Boarilla'd To Death"
@@ -105384,7 +105384,7 @@ msgstr "毒蠍居民"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC
 msgid "Survive with no team deaths until a Boarilla is defeated"
-msgstr "在擊敗猩猩戰士之前沒有隊友倒下"
+msgstr "在擊敗豬猩戰士之前沒有隊友倒下"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE
 msgid "Mindless Violence"
@@ -105408,7 +105408,7 @@ msgstr "鑽頭落地"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC
 msgid "Avoid death before the Boarilla arrives"
-msgstr "在猩猩戰士登場前避開死亡"
+msgstr "在豬猩戰士登場前避開死亡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE
 msgid "Live To See the Fray"
@@ -105664,7 +105664,7 @@ msgstr "在最後一輪被召喚到競技場"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR
 msgid "Summoned to the arena while defeating the Boarillas"
-msgstr "在猩猩戰士戰敗之後被召喚到競技場"
+msgstr "在豬猩戰士戰敗之後被召喚到競技場"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
 msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
