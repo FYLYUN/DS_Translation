@@ -88600,7 +88600,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_lightninggoat
 msgid "Volt Goat Costume"
-msgstr "伏特羊羊服裝"
+msgstr "伏特羊服裝"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_lightninggoat_d
 msgid "Ms. Voltbottom Antlers"
@@ -101112,91 +101112,91 @@ msgstr "世界生成中"
 
 #: STRINGS.UI.WORLDGEN.VERBS.1
 msgid "Wrangling"
-msgstr "正在處理"
+msgstr "處理"
 
 #: STRINGS.UI.WORLDGEN.VERBS.10
 msgid "Crafting"
-msgstr "正在製作"
+msgstr "製作"
 
 #: STRINGS.UI.WORLDGEN.VERBS.11
 msgid "Imbuing"
-msgstr "正在澆灌"
+msgstr "澆灌"
 
 #: STRINGS.UI.WORLDGEN.VERBS.12
 msgid "Randomizing"
-msgstr "正在隨機選擇"
+msgstr "隨機選擇"
 
 #: STRINGS.UI.WORLDGEN.VERBS.13
 msgid "Redecorating"
-msgstr "正在重新裝飾"
+msgstr "重新裝飾"
 
 #: STRINGS.UI.WORLDGEN.VERBS.14
 msgid "Sprucing up"
-msgstr "正在打理"
+msgstr "打理"
 
 #: STRINGS.UI.WORLDGEN.VERBS.15
 msgid "Manifesting"
-msgstr "正在維護"
+msgstr "維護"
 
 #: STRINGS.UI.WORLDGEN.VERBS.16
 msgid "Summoning"
-msgstr "正在召喚"
+msgstr "召喚"
 
 #: STRINGS.UI.WORLDGEN.VERBS.17
 msgid "Compiling"
-msgstr "正在編譯"
+msgstr "編譯"
 
 #: STRINGS.UI.WORLDGEN.VERBS.18
 msgid "Building"
-msgstr "正在建造"
+msgstr "建造"
 
 #: STRINGS.UI.WORLDGEN.VERBS.19
 msgid "Spawning"
-msgstr "正在孵化"
+msgstr "孵化"
 
 #: STRINGS.UI.WORLDGEN.VERBS.2
 msgid "Generating"
-msgstr "正在生成"
+msgstr "生成"
 
 #: STRINGS.UI.WORLDGEN.VERBS.20
 msgid "Rendering"
-msgstr "正在渲染"
+msgstr "渲染"
 
 #: STRINGS.UI.WORLDGEN.VERBS.21
 msgid "Enchanting"
-msgstr "正在施法"
+msgstr "施法"
 
 #: STRINGS.UI.WORLDGEN.VERBS.22
 msgid "Solving"
-msgstr "正在解決"
+msgstr "解決"
 
 #: STRINGS.UI.WORLDGEN.VERBS.3
 msgid "Herding"
-msgstr "正在放養"
+msgstr "畜牧"
 
 #: STRINGS.UI.WORLDGEN.VERBS.4
 msgid "Embiggening"
-msgstr "正在擴大"
+msgstr "擴大"
 
 #: STRINGS.UI.WORLDGEN.VERBS.5
 msgid "Iterating upon"
-msgstr "正在遍歷"
+msgstr "循環訪問"
 
 #: STRINGS.UI.WORLDGEN.VERBS.6
 msgid "Insinuating"
-msgstr "正在映射"
+msgstr "映射"
 
 #: STRINGS.UI.WORLDGEN.VERBS.7
 msgid "Reticulating"
-msgstr "正在網路化"
+msgstr "網狀化"
 
 #: STRINGS.UI.WORLDGEN.VERBS.8
 msgid "Inserting"
-msgstr "正在插入"
+msgstr "插入"
 
 #: STRINGS.UI.WORLDGEN.VERBS.9
 msgid "Framing"
-msgstr "正在構造"
+msgstr "構造"
 
 #: STRINGS.UI.WORLDRESETDIALOG.BUTTONPROMPT1
 msgid "Hold "
@@ -105937,3 +105937,11 @@ msgstr "熔爐 - 第二季"
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
 msgid "Rhinocebros, Snapback and Flatbrim"
 msgstr "犀牛兄弟，鋒背和平刃"
+
+#: STRINGS.NAMES.WINTER_ORNAMENTFORGE
+msgid "Champion Adornment"
+msgstr "勇士裝飾"
+
+#: STRINGS.NAMES.WINTER_ORNAMENTGORGE
+msgid "Appeasing Adornment"
+msgstr "安撫裝飾"
