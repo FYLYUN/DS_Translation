@@ -104,7 +104,7 @@ msgstr "熾熱吹箭"
 
 #: STRINGS.ACTIONS.CASTAOE.BOOK_ELEMENTAL
 msgid "Summon Magma Golem"
-msgstr "召喚熔岩傀儡"
+msgstr "召喚岩漿傀儡"
 
 #: STRINGS.ACTIONS.CASTAOE.BOOK_FOSSIL
 msgid "Petrify"
@@ -30716,7 +30716,7 @@ msgstr "它看見了一切，卻什麼也沒有。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGESTAFF
 msgid "With each use the wielder dies and is again reborn."
-msgstr "使用者死了每次都可以從這裡再次重生。"
+msgstr "每次用它的時候使用者都會死去并重生。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PANDORASCHEST
 msgid "Life is a gamble."
@@ -39064,11 +39064,11 @@ msgstr "叫它「城堡」明顯不對。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_3
 msgid "Oh, I just love the bard."
-msgstr "哦，我好喜歡吟遊詩人。"
+msgstr "哦，我正好喜歡吟遊詩人。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_30
 msgid "Knights are better pieces when they're active in the center."
-msgstr "騎士是更好的部分當它們在中間很活躍的時候。"
+msgstr "位於棋盤中央的騎士是最好的棋。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_31
 msgid "In German it is referred to as the \"springer\"."
@@ -39092,7 +39092,7 @@ msgstr "沒有氣味。我相信它很可能已經變成糖水了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_36
 msgid "Dunk those in boiling water before wearing them, dear."
-msgstr "在穿之前把它們在沸水中浸泡一下，親愛的。"
+msgstr "在戴之前把它們在沸水中浸泡一下，親愛的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_37
 msgid "Luckily it is much too brittle to inflict any real damage."
@@ -39144,7 +39144,7 @@ msgstr "這部太空船的熱能控制器好像不夠。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_6
 msgid "I do hope WX-78 is feeling alright."
-msgstr "我希望WX-78不會受傷"
+msgstr "我希望WX-78不會受傷。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_7
 msgid "I think I'll keep this. I know someone who might like it."
@@ -39160,23 +39160,23 @@ msgstr "多麼奇妙啊。我的毛衣上正缺個扣子！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_SUMMER
 msgid "Durable outerwear."
-msgstr "耐用的外套"
+msgstr "耐用的外套。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_WINTER
 msgid "Ample protection against the elements."
-msgstr "對抗自然的足夠防護"
+msgstr "對抗自然的足夠防護。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_COOKED
 msgid "Unpalatable, but high in protein."
-msgstr "雖然不好吃，但是蛋白質含量很高"
+msgstr "雖然不好吃，但是蛋白質含量很高。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_SUMMER
 msgid "A utilitarian proboscis."
-msgstr "一個實用的鼻子"
+msgstr "一個實用的鼻子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_WINTER
 msgid "A specimen of leather and fur."
-msgstr "一組皮毛樣品"
+msgstr "一組皮毛樣品。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TUMBLEWEED
 msgid "A dried collection of plant matter."
@@ -39184,31 +39184,31 @@ msgstr "一些植物的干收藏。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_BADLANDS
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CARPETFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CAVE
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CHECKERFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DECIDUOUS
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DESERTDIRT
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那種。"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DIRT
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DRAGONFLY
 msgid "This substance is imbued with a sort of natural fire deterrent."
@@ -39216,59 +39216,59 @@ msgstr "這種物質充滿了某種自然火焰的力量。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FOREST
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那種。"
+msgstr "土地，讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS_RED
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那種。"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_GRASS
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_MARSH
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_MUD
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_ROAD
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_ROCKY
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SANDY
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SAVANNA
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_UNDERROCK
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_WOODFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。讓人踩的"
+msgstr "土地。讓人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURKEYDINNER
 msgid "What a nice roast."
