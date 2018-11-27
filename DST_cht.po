@@ -75348,11 +75348,11 @@ msgstr "國王棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA
 msgid "Carved Hornucopia"
-msgstr "龍角燴雕塑"
+msgstr "豐饒角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA_BUILDER
 msgid "Carved Hornucopia"
-msgstr "龍角燴雕塑"
+msgstr "豐饒角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT
 msgid "Knight Figure"
