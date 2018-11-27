@@ -73296,7 +73296,7 @@ msgstr "*复活队友的速度是其他人的两倍\n*使救起的队友拥有�
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgid "*All ability cooldowns are 10% faster\n\n\n\nExpertise:\nMelee, Darts, Staves"
-msgstr "*所有技能冷却时间缩短10%\n\n\n\n可使用武器种类：\n近战武器，吹箭，法杖"
+msgstr "*所有技能冷却速度加快10%\n\n\n\n可使用武器种类：\n近战武器，吹箭，法杖"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang
 msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\nExpertise:\nMelee"
@@ -79144,7 +79144,7 @@ msgstr "85% 护甲"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
 msgid "50% Protection\n+5% Faster Cooldown"
-msgstr "50% 护甲\n+5% 冷却"
+msgstr "50% 护甲\n+5% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
 msgid "60% Protection\n+10% Move Speed"
@@ -79160,15 +79160,15 @@ msgstr "75% 护甲\n+10% 物理伤害"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
 msgid "75% Protection\n+10% Faster Cooldown"
-msgstr "75% 护甲\n+10% 冷却"
+msgstr "75% 护甲\n+10% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
 msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+15% 物理伤害\n+10% 冷却\n+10% 移动速度"
+msgstr "+15% 物理伤害\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
 msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+25% 魔法伤害\n+10% 冷却\n+10% 移动速度"
+msgstr "+25% 魔法伤害\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
 msgid "+20% Move Speed"
@@ -79180,7 +79180,7 @@ msgstr "+25% 生命恢复"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
 msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+2 HP/s (上限：80% HP)\n+10% 冷却\n+10% 移动速度"
+msgstr "+2 HP/s (上限：80% HP)\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
 msgid "+10% Physical Damage"
@@ -79188,7 +79188,7 @@ msgstr "+10% 物理伤害"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
 msgid "+10% Faster Cooldown"
-msgstr "+10% 冷却"
+msgstr "+10% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
 msgid "+15% Physical Damage"
@@ -104288,11 +104288,11 @@ msgstr "90% 护甲\n+100 生命上限\n抗击退"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
 msgid "80% Protection\n+75 Max Health\nCompanion Buff"
-msgstr "80% 护甲\n+75 生命上限\n增强同伴"
+msgstr "80% 护甲\n+75 生命上限\n增强随从"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
-msgstr "80% 护甲\n+50 生命上限\n+15% 冷却"
+msgstr "80% 护甲\n+50 生命上限\n+15% 冷却速度"
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_ruins_arcane
 msgid "This suit of armor is keeping an eye out for your well-being."
@@ -105688,7 +105688,7 @@ msgstr "80% 护甲，+75 生命上限，\n增强小蜘蛛，阿比盖尔或伯�
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
-msgstr "80% 护甲，+50生命上限，\n+15% 冷却"
+msgstr "80% 护甲，+50生命上限，\n+15% 冷却速度"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
 msgid "Bombard your opponents with searing Hearthsfire"
