@@ -104512,15 +104512,15 @@ msgstr "将你的头像设置为带来死亡的吹管。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudienceboo
 msgid "Set your profile icon to a catcalling Boar."
-msgstr "将你的头像设置为喝倒彩的野猪。"
+msgstr "将你的头像设置为一头正在喝倒彩的野猪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudiencecheer
 msgid "Set your profile icon to a supportive spectator."
-msgstr "将你的头像设置为应援的观众。"
+msgstr "将你的头像设置为一位应援的围观群众。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudienceeat
 msgid "Set your profile icon to an amused audience member."
-msgstr "将你的头像设置为被逗乐的观众。"
+msgstr "将你的头像设置为一个被逗乐的观众。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boarlord
 msgid "Set your profile icon to brutal Battlemaster Pugna."
@@ -104528,7 +104528,7 @@ msgstr "将你的头像设置为蛮不讲理的战神帕格纳。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaron
 msgid "Set your profile icon to a lunging lackey Pit Pig."
-msgstr "将你的头像设置为炼狱猪。"
+msgstr "将你的头像设置为下等兵炼狱猪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boarrior
 msgid "Set your profile icon to the champion Grand Forge Boarrior."
@@ -104832,7 +104832,7 @@ msgstr "岩浆组合"
 
 #: STRINGS.SKIN_NAMES.loading_magma2
 msgid "The Forge Saga"
-msgstr "熔炉的冒险"
+msgstr "熔炉之战"
 
 #: STRINGS.SKIN_NAMES.loading_wx_magma
 msgid "The Magmatic Automaton"
@@ -104944,7 +104944,7 @@ msgstr "战斗吹箭"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_boaraudienceboo
 msgid "Jeering Boar"
-msgstr "喝倒彩的野猪"
+msgstr "发嘘声的野猪"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_boaraudiencecheer
 msgid "Cheering Boar"
