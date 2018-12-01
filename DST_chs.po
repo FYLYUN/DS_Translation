@@ -96568,19 +96568,19 @@ msgstr "吸引生物注意的秒数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks
 msgid "special attacks used"
-msgstr "使用特殊攻击"
+msgstr "使用特殊攻击次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks
 msgid "swings landed"
-msgstr "旋转着陆"
+msgstr "攻击次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts
 msgid "darts hit their mark"
-msgstr "吹箭击中目标"
+msgstr "吹箭命中次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2
 msgid "darts hit their mark"
-msgstr "吹箭击中目标"
+msgstr "吹箭命中次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived
 msgid "allies revived"
@@ -96592,7 +96592,7 @@ msgstr "死亡"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken
 msgid "enemy guards broken"
-msgstr "击溃敌方护卫"
+msgstr "击破敌方防御"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone
 msgid "health restored"
@@ -96632,11 +96632,11 @@ msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
 msgid "damage dealt"
-msgstr "打断攻击"
+msgstr "造成伤害"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2
 msgid "damage dealt"
-msgstr "打断攻击"
+msgstr "造成伤害"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken
 msgid "damage taken"
