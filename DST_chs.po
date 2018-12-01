@@ -104,7 +104,7 @@ msgstr "炽热吹箭"
 
 #: STRINGS.ACTIONS.CASTAOE.BOOK_ELEMENTAL
 msgid "Summon Magma Golem"
-msgstr "召唤熔岩傀儡"
+msgstr "召唤岩浆傀儡"
 
 #: STRINGS.ACTIONS.CASTAOE.BOOK_FOSSIL
 msgid "Petrify"
@@ -912,7 +912,7 @@ msgstr "我们不会活在王座的阴影之下的！"
 
 #: STRINGS.BOARLORD_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
-msgstr "放出猩猩战士。"
+msgstr "放出猪猩战士。"
 
 #: STRINGS.BOARLORD_WELCOME_INTRO.1
 msgid "What have we here?"
@@ -30716,7 +30716,7 @@ msgstr "它看见了一切，却什么也没有。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGESTAFF
 msgid "With each use the wielder dies and is again reborn."
-msgstr "使用者死了每次都可以从这里再次重生。"
+msgstr "每次用它的时候使用者都会死去并重生。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PANDORASCHEST
 msgid "Life is a gamble."
@@ -39064,11 +39064,11 @@ msgstr "叫它“城堡”明显不对。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_3
 msgid "Oh, I just love the bard."
-msgstr "哦，我好喜欢吟游诗人。"
+msgstr "哦，我正好喜欢吟游诗人。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_30
 msgid "Knights are better pieces when they're active in the center."
-msgstr "骑士是更好的部分当它们在中间很活跃的时候。"
+msgstr "位于棋盘中央的骑士是最好的棋。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_31
 msgid "In German it is referred to as the \"springer\"."
@@ -39092,7 +39092,7 @@ msgstr "没有气味。我相信它很可能已经变成糖水了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_36
 msgid "Dunk those in boiling water before wearing them, dear."
-msgstr "在穿之前把它们在沸水中浸泡一下，亲爱的。"
+msgstr "在戴之前把它们在沸水中浸泡一下，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_37
 msgid "Luckily it is much too brittle to inflict any real damage."
@@ -39144,7 +39144,7 @@ msgstr "这部太空船的热能控制器好像不够。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_6
 msgid "I do hope WX-78 is feeling alright."
-msgstr "我希望WX-78不会受伤"
+msgstr "我希望WX-78不会受伤。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRINKET_7
 msgid "I think I'll keep this. I know someone who might like it."
@@ -39160,23 +39160,23 @@ msgstr "多么奇妙啊。我的毛衣上正缺个扣子！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_SUMMER
 msgid "Durable outerwear."
-msgstr "耐用的外套"
+msgstr "耐用的外套。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNKVEST_WINTER
 msgid "Ample protection against the elements."
-msgstr "对抗自然的足够防护"
+msgstr "对抗自然的足够防护。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_COOKED
 msgid "Unpalatable, but high in protein."
-msgstr "虽然不好吃，但是蛋白质含量很高"
+msgstr "虽然不好吃，但是蛋白质含量很高。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_SUMMER
 msgid "A utilitarian proboscis."
-msgstr "一个实用的鼻子"
+msgstr "一个实用的鼻子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TRUNK_WINTER
 msgid "A specimen of leather and fur."
-msgstr "一组皮毛样品"
+msgstr "一组皮毛样品。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TUMBLEWEED
 msgid "A dried collection of plant matter."
@@ -39184,31 +39184,31 @@ msgstr "一些植物的干收藏。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_BADLANDS
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CARPETFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CAVE
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_CHECKERFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DECIDUOUS
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DESERTDIRT
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那种。"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DIRT
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_DRAGONFLY
 msgid "This substance is imbued with a sort of natural fire deterrent."
@@ -39216,59 +39216,59 @@ msgstr "这种物质充满了某种自然火焰的力量。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FOREST
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那种。"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_FUNGUS_RED
 msgid "The ground. You step on it."
-msgstr "土地。你可以踩的那种。"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_GRASS
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_MARSH
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_MUD
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_ROAD
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_ROCKY
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SANDY
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SAVANNA
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_SINKHOLE
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_UNDERROCK
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURF_WOODFLOOR
 msgid "The ground. You step on it."
-msgstr "土地。让人踩的"
+msgstr "土地。让人踩的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TURKEYDINNER
 msgid "What a nice roast."
@@ -73296,7 +73296,7 @@ msgstr "*复活队友的速度是其他人的两倍\n*使救起的队友拥有�
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.winona
 msgid "*All ability cooldowns are 10% faster\n\n\n\nExpertise:\nMelee, Darts, Staves"
-msgstr "*所有技能冷却时间缩短10%\n\n\n\n可使用武器种类：\n近战武器，吹箭，法杖"
+msgstr "*所有技能冷却速度加快10%\n\n\n\n可使用武器种类：\n近战武器，吹箭，法杖"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wolfgang
 msgid "*Becomes Mighty when health is low, increasing attack power, defense, and movement speed for 10 seconds\n\nExpertise:\nMelee"
@@ -75348,11 +75348,11 @@ msgstr "国王棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA
 msgid "Carved Hornucopia"
-msgstr "龙角烩雕塑"
+msgstr "丰饶角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA_BUILDER
 msgid "Carved Hornucopia"
-msgstr "龙角烩雕塑"
+msgstr "丰饶角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT
 msgid "Knight Figure"
@@ -78472,15 +78472,15 @@ msgstr "水果杂烩"
 
 #: STRINGS.NAMES.TRAILS
 msgid "Boarilla"
-msgstr "猩猩战士"
+msgstr "猪猩战士"
 
 #: STRINGS.NAMES.TRAILS1
 msgid "Boarilla"
-msgstr "猩猩战士"
+msgstr "猪猩战士"
 
 #: STRINGS.NAMES.TRAILS2
 msgid "Boarilla"
-msgstr "猩猩战士"
+msgstr "猪猩战士"
 
 #: STRINGS.NAMES.TRANSISTOR
 msgid "Electrical Doodad"
@@ -79144,7 +79144,7 @@ msgstr "85% 护甲"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
 msgid "50% Protection\n+5% Faster Cooldown"
-msgstr "50% 护甲\n+5% 冷却"
+msgstr "50% 护甲\n+5% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
 msgid "60% Protection\n+10% Move Speed"
@@ -79160,15 +79160,15 @@ msgstr "75% 护甲\n+10% 物理伤害"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
 msgid "75% Protection\n+10% Faster Cooldown"
-msgstr "75% 护甲\n+10% 冷却"
+msgstr "75% 护甲\n+10% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
 msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+15% 物理伤害\n+10% 冷却\n+10% 移动速度"
+msgstr "+15% 物理伤害\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
 msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+25% 魔法伤害\n+10% 冷却\n+10% 移动速度"
+msgstr "+25% 魔法伤害\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
 msgid "+20% Move Speed"
@@ -79180,7 +79180,7 @@ msgstr "+25% 生命恢复"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
 msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
-msgstr "+2 HP/s (上限：80% HP)\n+10% 冷却\n+10% 移动速度"
+msgstr "+2 HP/s (上限：80% HP)\n+10% 冷却速度\n+10% 移动速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
 msgid "+10% Physical Damage"
@@ -79188,7 +79188,7 @@ msgstr "+10% 物理伤害"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
 msgid "+10% Faster Cooldown"
-msgstr "+10% 冷却"
+msgstr "+10% 冷却速度"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
 msgid "+15% Physical Damage"
@@ -90336,7 +90336,7 @@ msgstr "生存大师"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
 msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
-msgstr "在猩猩战士登场前没有任何队友倒下并在之后击败它"
+msgstr "在猪猩战士登场前没有任何队友倒下并在之后击败它"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
 msgid "Hard To Kill"
@@ -96568,19 +96568,19 @@ msgstr "吸引生物注意的秒数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.altattacks
 msgid "special attacks used"
-msgstr "使用特殊攻击"
+msgstr "使用特殊攻击次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.attacks
 msgid "swings landed"
-msgstr "旋转着陆"
+msgstr "攻击次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts
 msgid "darts hit their mark"
-msgstr "吹箭击中目标"
+msgstr "吹箭命中次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.blowdarts2
 msgid "darts hit their mark"
-msgstr "吹箭击中目标"
+msgstr "吹箭命中次数"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.corpsesrevived
 msgid "allies revived"
@@ -96592,7 +96592,7 @@ msgstr "死亡"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.guardsbroken
 msgid "enemy guards broken"
-msgstr "击溃敌方护卫"
+msgstr "击破敌方防御"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.healingdone
 msgid "health restored"
@@ -96632,11 +96632,11 @@ msgstr "行走路程"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt
 msgid "damage dealt"
-msgstr "打断攻击"
+msgstr "造成伤害"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagedealt2
 msgid "damage dealt"
-msgstr "打断攻击"
+msgstr "造成伤害"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.LAVAARENA.DESCRIPTIONS.total_damagetaken
 msgid "damage taken"
@@ -104112,7 +104112,7 @@ msgstr "不！这怎么可能？！"
 
 #: STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.2
 msgid "You have defeated the mighty Boarilla!"
-msgstr "你打败了强大的猩猩战士！"
+msgstr "你打败了强大的猪猩战士！"
 
 #: STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.3
 msgid "You may have won the battle, Gatekeepers... but not the war!"
@@ -104136,7 +104136,7 @@ msgstr "这就是为什么我们不能让你们赢。"
 
 #: STRINGS.BOARLORD_ROUND4_TRAILS_INTRO.1
 msgid "Send in the Boarilla."
-msgstr "放出猩猩战士。"
+msgstr "放出猪猩战士。"
 
 #: STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.1
 msgid "Grand Forge Boarrior!"
@@ -104288,11 +104288,11 @@ msgstr "90% 护甲\n+100 生命上限\n抗击退"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
 msgid "80% Protection\n+75 Max Health\nCompanion Buff"
-msgstr "80% 护甲\n+75 生命上限\n增强同伴"
+msgstr "80% 护甲\n+75 生命上限\n增强随从"
 
 #: STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
-msgstr "80% 护甲\n+50 生命上限\n+15% 冷却"
+msgstr "80% 护甲\n+50 生命上限\n+15% 冷却速度"
 
 #: STRINGS.SKIN_DESCRIPTIONS.armor_ruins_arcane
 msgid "This suit of armor is keeping an eye out for your well-being."
@@ -104512,15 +104512,15 @@ msgstr "将你的头像设置为带来死亡的吹管。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudienceboo
 msgid "Set your profile icon to a catcalling Boar."
-msgstr "将你的头像设置为喝倒彩的野猪。"
+msgstr "将你的头像设置为一头正在喝倒彩的野猪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudiencecheer
 msgid "Set your profile icon to a supportive spectator."
-msgstr "将你的头像设置为应援的观众。"
+msgstr "将你的头像设置为一位应援的围观群众。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaraudienceeat
 msgid "Set your profile icon to an amused audience member."
-msgstr "将你的头像设置为被逗乐的观众。"
+msgstr "将你的头像设置为一个被逗乐的观众。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boarlord
 msgid "Set your profile icon to brutal Battlemaster Pugna."
@@ -104528,7 +104528,7 @@ msgstr "将你的头像设置为蛮不讲理的战神帕格纳。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boaron
 msgid "Set your profile icon to a lunging lackey Pit Pig."
-msgstr "将你的头像设置为炼狱猪。"
+msgstr "将你的头像设置为下等兵炼狱猪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_boarrior
 msgid "Set your profile icon to the champion Grand Forge Boarrior."
@@ -104584,11 +104584,11 @@ msgstr "将你的头像设置为暴虐的鳄鱼指挥。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tails
 msgid "Set your profile icon to a brutish Boarilla."
-msgstr "将你的头像设置为粗野的猩猩战士。"
+msgstr "将你的头像设置为粗野的猪猩战士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_tailsguard
 msgid "Set your profile icon to a guarded Boarilla."
-msgstr "将你的头像设置为正在防御的猩猩战士。"
+msgstr "将你的头像设置为正在防御的猪猩战士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_theforge_turtillus
 msgid "Set your profile icon to a dizzying Snortoise."
@@ -104832,7 +104832,7 @@ msgstr "岩浆组合"
 
 #: STRINGS.SKIN_NAMES.loading_magma2
 msgid "The Forge Saga"
-msgstr "熔炉的冒险"
+msgstr "熔炉之战"
 
 #: STRINGS.SKIN_NAMES.loading_wx_magma
 msgid "The Magmatic Automaton"
@@ -104904,7 +104904,7 @@ msgstr "WX-78的岩浆宝箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_boarilla
 msgid "Boarilla Portrait"
-msgstr "猩猩战士背景"
+msgstr "猪猩战士背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_boarlord
 msgid "Battlemaster's Seat Portrait"
@@ -104944,7 +104944,7 @@ msgstr "战斗吹箭"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_boaraudienceboo
 msgid "Jeering Boar"
-msgstr "喝倒彩的野猪"
+msgstr "发嘘声的野猪"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_boaraudiencecheer
 msgid "Cheering Boar"
@@ -105016,11 +105016,11 @@ msgstr "鳄鱼指挥"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tails
 msgid "Boarilla"
-msgstr "猩猩战士"
+msgstr "猪猩战士"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_tailsguard
 msgid "Guarded Boarilla"
-msgstr "正在防御的猩猩战士"
+msgstr "正在防御的猪猩战士"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_turtillus
 msgid "Snortoise"
@@ -105260,7 +105260,7 @@ msgstr "鳄鱼指挥部"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC
 msgid "Defeat the Boarilla"
-msgstr "打败猩猩战士"
+msgstr "打败猪猩战士"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE
 msgid "Boarilla'd To Death"
@@ -105388,7 +105388,7 @@ msgstr "毒蝎居民"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC
 msgid "Survive with no team deaths until a Boarilla is defeated"
-msgstr "在击败猩猩战士之前没有队友倒下"
+msgstr "在击败猪猩战士之前没有队友倒下"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE
 msgid "Mindless Violence"
@@ -105412,7 +105412,7 @@ msgstr "钻头落地"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC
 msgid "Avoid death before the Boarilla arrives"
-msgstr "在猩猩战士登场前避开死亡"
+msgstr "在猪猩战士登场前避开死亡"
 
 #: STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE
 msgid "Live To See the Fray"
@@ -105668,7 +105668,7 @@ msgstr "在最后一轮被召唤到竞技场"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOARRIOR
 msgid "Summoned to the arena while defeating the Boarillas"
-msgstr "在猩猩战士战败之后被召唤到竞技场"
+msgstr "在猪猩战士战败之后被召唤到竞技场"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.BOOK_ELEMENTAL
 msgid "Summon a Magma Golem or divebomb opponents with a powerful Sky Lunge"
@@ -105688,7 +105688,7 @@ msgstr "80% 护甲，+75 生命上限，\n增强小蜘蛛，阿比盖尔或伯�
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_ARMOR_HPRECHARGER
 msgid "80% Protection, +50 Max Health,\n+15% Faster Cooldown"
-msgstr "80% 护甲，+50生命上限，\n+15% 冷却"
+msgstr "80% 护甲，+50生命上限，\n+15% 冷却速度"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_DESC.LAVAARENA_FIREBOMB
 msgid "Bombard your opponents with searing Hearthsfire"
