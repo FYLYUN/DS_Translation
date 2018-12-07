@@ -98364,7 +98364,7 @@ msgstr "忠诚"
 
 #: STRINGS.UI.RARITY.Lustrous
 msgid "Lustrous"
-msgstr "光电"
+msgstr "光泽"
 
 #: STRINGS.UI.RARITY.ProofOfPurchase
 msgid "Proof Of Purchase"
@@ -99348,7 +99348,7 @@ msgstr "服务器名称无效"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
 msgid "Account"
-msgstr "个人资料"
+msgstr "账户信息"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MAXPLAYERS
 msgid "Players:"

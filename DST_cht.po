@@ -98360,7 +98360,7 @@ msgstr "忠誠"
 
 #: STRINGS.UI.RARITY.Lustrous
 msgid "Lustrous"
-msgstr "光電"
+msgstr "光澤"
 
 #: STRINGS.UI.RARITY.ProofOfPurchase
 msgid "Proof Of Purchase"
@@ -99344,7 +99344,7 @@ msgstr "伺服器名稱無效"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
 msgid "Account"
-msgstr "個人資料"
+msgstr "賬戶信息"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MAXPLAYERS
 msgid "Players:"
