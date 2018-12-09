@@ -70412,11 +70412,11 @@ msgstr "也許它太強大了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.BURNT
 msgid "I HAVE LOST MY ADDITIONAL POWER"
-msgstr "我失去了附加的力量。"
+msgstr "我失去了附加的能量。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.GENERIC
 msgid "WITH THIS EXTRA POWER I HAVE... MORE POWER!"
-msgstr "在擁有了這些額外的能量之後我就可以有……更多地能量了！"
+msgstr "在擁有了這些額外的能量之後我就可以有……更多的能量了！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESURRECTIONSTATUE.BURNT
 msgid "HE'S DEAD"
@@ -70476,7 +70476,7 @@ msgstr "水無用的物理變化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_ICE_MELTED
 msgid "USELESS CONFIGURATION OF WATER ROCK"
-msgstr "水石無用的物理變化。"
+msgstr "水石無用的物理變化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.GENERIC
 msgid "A PIT OF CRUSTED LAVA"
@@ -70484,7 +70484,7 @@ msgstr "冷卻的熔岩坑。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.LOW
 msgid "WARNING: LAVA LEVEL LOW"
-msgstr "警告：演講水平低"
+msgstr "警告：熔岩水平低"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.NORMAL
 msgid "THIS LAVA PIT IS FULLY OPERATIONAL"
@@ -70496,15 +70496,15 @@ msgstr "它需要重啟"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_MOON
 msgid "A ROCK. FROM THE MOON"
-msgstr "一塊岩石。來自月球。"
+msgstr "一塊岩石。來自月球"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_PETRIFIED_TREE
 msgid "LESS ORGANIC. IT'S AN IMPROVEMENT."
-msgstr "減少了有機物的比例，算是一種進化吧。"
+msgstr "減少了有機物的比例，算是一種進化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_PETRIFIED_TREE_OLD
 msgid "LESS ORGANIC. IT'S AN IMPROVEMENT."
-msgstr "減少了有機物的比例，算是一種進化吧。"
+msgstr "減少了有機物的比例，算是一種進化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK
 msgid "ROOK AUTOMATON"
@@ -70528,7 +70528,7 @@ msgstr "我將擁有蜜蜂的力量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUBBLE
 msgid "A DISMANTLED RELIC."
-msgstr "一個可拆卸的廢墟。"
+msgstr "一個可拆卸的廢墟"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUINSHAT
 msgid "A HEAD-MOUNTED DYNAMIC DAMAGE MITIGATION DEVICE"
@@ -70552,7 +70552,7 @@ msgstr "我將輕鬆通過它的審判"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLEHORN
 msgid "HAHA, IT SHALL BE NAKED"
-msgstr "哈哈，它將變的赤果果的"
+msgstr "哈哈，它將變的赤裸裸的"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_BASIC
 msgid "SELF ESTEEM RISING"
@@ -70560,7 +70560,7 @@ msgstr "自尊上升"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_RACE
 msgid "DOZENS OF CREATURES WERE MAIMED FOR THIS. HAHA"
-msgstr "好幾十人為此受傷，哈哈。"
+msgstr "好幾十人為此受傷，哈哈"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_WAR
 msgid "DOMINATE ALL CREATURES"
@@ -70724,7 +70724,7 @@ msgstr "臨時修復裝置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOWDIGGER
 msgid "HE'S GOT THEM DOING HIS BIDDING. I RESPECT THAT."
-msgstr "他強迫他們完成自己的要求，我喜歡那樣233。"
+msgstr "他強迫他們完成自己的要求，我喜歡那樣。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOWHEART
 msgid "THIS FLESHLING ORGAN PULSES WITH PURE EVIL!"
@@ -89752,11 +89752,11 @@ msgstr "疊加"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.1
 msgid "A pity."
-msgstr "真是可憐。"
+msgstr "真可惜。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.2
 msgid "You will not suffer."
-msgstr "死後的你就不會再痛苦了。"
+msgstr "你不會忍受痛苦了。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.3
 msgid "It must be this way."
@@ -89764,11 +89764,11 @@ msgstr "只能這樣做了。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.4
 msgid "My world... threadbare."
-msgstr "我的世界…殘破不堪。"
+msgstr "我的世界...殘破不堪。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.5
 msgid "My city... in tatters..."
-msgstr "我的城市…支離破碎…"
+msgstr "我的城市...支離破碎..."
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.6
 msgid "This will be quick."
@@ -89792,11 +89792,11 @@ msgstr "放開我，暗影！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.4
 msgid "You are not Them..."
-msgstr "你不是它們…"
+msgstr "你不是它們..."
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.5
 msgid "Are you so easily deceived? Ha..."
-msgstr "你就這樣受騙了嗎？蛤蛤…"
+msgstr "你就這樣受騙了嗎？呵..."
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.6
 msgid "You deserve this."
@@ -89808,7 +89808,7 @@ msgstr "這是你自找的。"
 
 #: STRINGS.STALKER_ATRIUM_DECAYCRY.1
 msgid "Please..."
-msgstr "拜託了…"
+msgstr "拜託了..."
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.1
 msgid "You will fall as we did."
@@ -89848,11 +89848,11 @@ msgstr "你贏不了的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.3
 msgid "Lend me your power, one last time."
-msgstr "把你的力量借給我的吧，最後一次了。"
+msgstr "把你的力量借給我吧，最後一次。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.4
 msgid "You cannot hurt me."
-msgstr "你無法對我造成傷害的。"
+msgstr "你傷不到我的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.5
 msgid "Protect me."
@@ -89860,7 +89860,7 @@ msgstr "保護我。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.6
 msgid "You have been betrayed."
-msgstr "你被我背叛了。"
+msgstr "你被背叛了。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.7
 msgid "I must do this. For your sake."
@@ -89868,7 +89868,7 @@ msgstr "我必須這樣做，這可是為了你好。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.1
 msgid "Be woven."
-msgstr "準備好構造了。"
+msgstr "準備編織了。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.2
 msgid "How long have I slumbered?"
@@ -89888,7 +89888,7 @@ msgstr "我會讓你明白的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.6
 msgid "Let us end it."
-msgstr "讓這一切終結吧。"
+msgstr "讓我們結束這一切吧。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.7
 msgid "You will rip apart at the seams."
@@ -89896,7 +89896,7 @@ msgstr "你會被撕碎的。"
 
 #: STRINGS.STALKER_ATRIUM_USEGATE.1
 msgid "I will save us."
-msgstr "我會拯救各位的。"
+msgstr "我會拯救我們的。"
 
 #: STRINGS.STALKER_ATRIUM_USEGATE.2
 msgid "Curse Their name!"
