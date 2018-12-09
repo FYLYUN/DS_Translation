@@ -14158,6 +14158,10 @@ msgstr "天空之神被激怒了！"
 msgid "Alas! If I'd only grabbed it sooner."
 msgstr "唉！如果我能早點抓住它。"
 
+#: STRINGS.CHARACTERS.WATHGRITHR.QUAGMIRE_ANNOUNCE_NOTRECIPE
+msgid "T'were not meant to be a meal."
+msgstr "它就不該當作食物。"
+
 #: STRINGS.CHARACTERS.WATHGRITHR.QUAGMIRE_ANNOUNCE_WIN
 msgid "We shall live to fight another day!"
 msgstr "我們還能活到明天！"
@@ -26836,7 +26840,7 @@ msgstr "冰冰冰！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD3
 msgid "Eat twenty candy canes! There's no candy shame!"
-msgstr "吃二十根糖果手杖！我們不羞於吃糖！"
+msgstr "吃二十根拐杖糖！我們不羞於吃糖！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD4
 msgid "Yuck! What is that??"
@@ -37442,6 +37446,10 @@ msgstr "當我準備下一道菜的時候，應該把它翻過來。"
 msgid "What is this \"Gnaw\", I wonder?"
 msgstr "我想知道這「暴食者」究竟是什麼？"
 
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
+msgid "A nice enough bollard."
+msgstr "一個漂亮的護柱。"
+
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR_IVY
 msgid "Something in the Hedera family."
 msgstr "常春藤屬的某些東西。"
@@ -37773,6 +37781,10 @@ msgstr "它倒塌了。"
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_RUBBLE_CLOCK
 msgid "Antiquated but not without sophistication."
 msgstr "古色古香。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_RUBBLE_CLOCKTOWER
+msgid "The clockwork has seized as well."
+msgstr "鐘錶也走不動了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_RUBBLE_HOUSE.1
 msgid "What creatures once lived here?"
@@ -61538,6 +61550,10 @@ msgstr "燒掉的木質桌子。"
 msgid "Such a beaut of a wood table shouldn't be hidden by a cloth."
 msgstr "這麼美的木桌不應該被一塊布遮住。"
 
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ENDTABLE.FRESHLIGHT
+msgid "Aboot time we brightened this place up, eh?"
+msgstr "我們早該把這裏點亮，不是嗎？"
+
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ENDTABLE.GENERIC
 msgid "A little bit of nature makes everything nicer."
 msgstr "一點綠意讓一切更美好。"
@@ -62813,6 +62829,10 @@ msgstr "月亮逐漸變小，這讓我感到寧靜。"
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.NIGHT_WAX
 msgid "The moon's waxing again."
 msgstr "月亮又圓起來了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONDIAL.WEREBEAVER
+msgid "Just aboot time again, Lucy."
+msgstr "又是一次，露西。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOONROCKCRATER
 msgid "I think it's missing something."
@@ -64892,15 +64912,19 @@ msgstr "它需要被清理，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_18
 msgid "I would have liked this when I was a boy."
-msgstr "如果我還是個男孩，我想我會喜歡這個。"
+msgstr "如果我還是個小男孩，我想我會喜歡這個。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_19
 msgid "It keeps falling over, eh?"
 msgstr "它一直在繼續，嗯？"
 
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_2
+msgid "Much kazoo aboot nothing."
+msgstr "卡祖笛一點用都沒有。"
+
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_20
 msgid "Wigfrid keeps using it to \"spar\" with me and Lucy. We're afraid."
-msgstr "維格弗瑞老師用這玩意來閃我和露西。咱們都挺怕的。"
+msgstr "薇格弗德老是用這玩意來戳我和露西。咱們都挺怕的。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TRINKET_21
 msgid "It belongs in a kitchen, not in the woods."
@@ -69752,7 +69776,7 @@ msgstr "有點奇怪"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PURPLEMOONEYE
 msgid "MOONBASE ADDON DETECTED"
-msgstr "檢測到月之底座附屬物"
+msgstr "檢測到月球基地附屬插件"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_ALTAR.FULL
 msgid "IT IS CURRENTLY REFUELING"
@@ -69765,6 +69789,10 @@ msgstr "它需要燃料儲備"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
 msgid "LOG POST"
 msgstr "原木杆"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_ALTAR_IVY
+msgid "INVADING ORGANIC LIFEFORMS!"
+msgstr "有機生物入侵！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_ALTAR_QUEEN
 msgid "EXCESSIVE ORNAMENTATION"
@@ -70412,11 +70440,11 @@ msgstr "也許它太強大了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.BURNT
 msgid "I HAVE LOST MY ADDITIONAL POWER"
-msgstr "我失去了附加的力量。"
+msgstr "我失去了附加的能量。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.GENERIC
 msgid "WITH THIS EXTRA POWER I HAVE... MORE POWER!"
-msgstr "在擁有了這些額外的能量之後我就可以有……更多地能量了！"
+msgstr "在擁有了這些額外的能量之後我就可以有……更多的能量了！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESURRECTIONSTATUE.BURNT
 msgid "HE'S DEAD"
@@ -70476,7 +70504,7 @@ msgstr "水無用的物理變化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_ICE_MELTED
 msgid "USELESS CONFIGURATION OF WATER ROCK"
-msgstr "水石無用的物理變化。"
+msgstr "水石無用的物理變化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.GENERIC
 msgid "A PIT OF CRUSTED LAVA"
@@ -70484,7 +70512,7 @@ msgstr "冷卻的熔岩坑。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.LOW
 msgid "WARNING: LAVA LEVEL LOW"
-msgstr "警告：演講水平低"
+msgstr "警告：熔岩水平低"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_LIGHT.NORMAL
 msgid "THIS LAVA PIT IS FULLY OPERATIONAL"
@@ -70496,15 +70524,15 @@ msgstr "它需要重啟"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_MOON
 msgid "A ROCK. FROM THE MOON"
-msgstr "一塊岩石。來自月球。"
+msgstr "一塊岩石。來自月球"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_PETRIFIED_TREE
 msgid "LESS ORGANIC. IT'S AN IMPROVEMENT."
-msgstr "減少了有機物的比例，算是一種進化吧。"
+msgstr "減少了有機物的比例，算是一種進化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROCK_PETRIFIED_TREE_OLD
 msgid "LESS ORGANIC. IT'S AN IMPROVEMENT."
-msgstr "減少了有機物的比例，算是一種進化吧。"
+msgstr "減少了有機物的比例，算是一種進化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK
 msgid "ROOK AUTOMATON"
@@ -70528,7 +70556,7 @@ msgstr "我將擁有蜜蜂的力量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUBBLE
 msgid "A DISMANTLED RELIC."
-msgstr "一個可拆卸的廢墟。"
+msgstr "一個可拆卸的廢墟"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUINSHAT
 msgid "A HEAD-MOUNTED DYNAMIC DAMAGE MITIGATION DEVICE"
@@ -70552,7 +70580,7 @@ msgstr "我將輕鬆通過它的審判"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLEHORN
 msgid "HAHA, IT SHALL BE NAKED"
-msgstr "哈哈，它將變的赤果果的"
+msgstr "哈哈，它將變的赤裸裸的"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_BASIC
 msgid "SELF ESTEEM RISING"
@@ -70560,7 +70588,7 @@ msgstr "自尊上升"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_RACE
 msgid "DOZENS OF CREATURES WERE MAIMED FOR THIS. HAHA"
-msgstr "好幾十人為此受傷，哈哈。"
+msgstr "好幾十人為此受傷，哈哈"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SADDLE_WAR
 msgid "DOMINATE ALL CREATURES"
@@ -70724,7 +70752,7 @@ msgstr "臨時修復裝置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOWDIGGER
 msgid "HE'S GOT THEM DOING HIS BIDDING. I RESPECT THAT."
-msgstr "他強迫他們完成自己的要求，我喜歡那樣233。"
+msgstr "他強迫他們完成自己的要求，我喜歡那樣。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SHADOWHEART
 msgid "THIS FLESHLING ORGAN PULSES WITH PURE EVIL!"
@@ -79028,7 +79056,7 @@ msgstr "糖屑曲奇"
 
 #: STRINGS.NAMES.WINTER_FOOD3
 msgid "Candy Cane"
-msgstr "糖果手杖"
+msgstr "拐杖糖"
 
 #: STRINGS.NAMES.WINTER_FOOD4
 msgid "Eternal Fruitcake"
@@ -79036,7 +79064,7 @@ msgstr "不朽的水果蛋糕"
 
 #: STRINGS.NAMES.WINTER_FOOD5
 msgid "Chocolate Log Cake"
-msgstr "巧克力木頭蛋糕"
+msgstr "巧克力原木蛋糕"
 
 #: STRINGS.NAMES.WINTER_FOOD6
 msgid "Plum Pudding"
@@ -79064,7 +79092,7 @@ msgstr "豪華裝飾"
 
 #: STRINGS.NAMES.WINTER_ORNAMENTLIGHT
 msgid "Festive Light"
-msgstr "紫色節日彩燈"
+msgstr "節日彩燈"
 
 #: STRINGS.NAMES.WINTER_TREE
 msgid "Winter's Feast Tree"
@@ -88256,27 +88284,27 @@ msgstr "鍊金術列印艙"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
-msgstr "有浣貓帽裝扮的魔法帽子"
+msgstr "魔法浣貓帽"
 
 #: STRINGS.SKIN_NAMES.researchlab4_chester_costume
 msgid "Chestihatator"
-msgstr "有切斯特帽裝扮的魔法帽子"
+msgstr "魔法切斯特帽"
 
 #: STRINGS.SKIN_NAMES.researchlab4_derby
 msgid "Prestibowlerhatator"
-msgstr "有高禮帽裝扮的魔法帽子"
+msgstr "魔法圓頂禮帽"
 
 #: STRINGS.SKIN_NAMES.researchlab4_festive_bell_red_firehound
 msgid "Jingly Prestihatator"
-msgstr "有歡快鈴聲和火獵犬裝扮的魔法帽子"
+msgstr "叮鈴響的魔法帽子"
 
 #: STRINGS.SKIN_NAMES.researchlab4_glommer_costume
 msgid "Prestihataglommer"
-msgstr "有格羅姆帽裝扮的魔法帽子"
+msgstr "魔法格羅姆帽"
 
 #: STRINGS.SKIN_NAMES.researchlab4_hutch_costume
 msgid "Prestihutchatator"
-msgstr "有哈奇帽裝扮的魔法帽子"
+msgstr "魔法哈奇帽"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid
 msgid "Cherub's Heart"
@@ -89752,11 +89780,11 @@ msgstr "疊加"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.1
 msgid "A pity."
-msgstr "真是可憐。"
+msgstr "真可惜。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.2
 msgid "You will not suffer."
-msgstr "死後的你就不會再痛苦了。"
+msgstr "你不會忍受痛苦了。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.3
 msgid "It must be this way."
@@ -89764,11 +89792,11 @@ msgstr "只能這樣做了。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.4
 msgid "My world... threadbare."
-msgstr "我的世界…殘破不堪。"
+msgstr "我的世界...殘破不堪。"
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.5
 msgid "My city... in tatters..."
-msgstr "我的城市…支離破碎…"
+msgstr "我的城市...支離破碎..."
 
 #: STRINGS.STALKER_ATRIUM_BATTLECRY.6
 msgid "This will be quick."
@@ -89792,11 +89820,11 @@ msgstr "放開我，暗影！"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.4
 msgid "You are not Them..."
-msgstr "你不是它們…"
+msgstr "你不是它們..."
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.5
 msgid "Are you so easily deceived? Ha..."
-msgstr "你就這樣受騙了嗎？蛤蛤…"
+msgstr "你就這樣受騙了嗎？呵..."
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.6
 msgid "You deserve this."
@@ -89808,7 +89836,7 @@ msgstr "這是你自找的。"
 
 #: STRINGS.STALKER_ATRIUM_DECAYCRY.1
 msgid "Please..."
-msgstr "拜託了…"
+msgstr "拜託了..."
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.1
 msgid "You will fall as we did."
@@ -89848,11 +89876,11 @@ msgstr "你贏不了的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.3
 msgid "Lend me your power, one last time."
-msgstr "把你的力量借給我的吧，最後一次了。"
+msgstr "把你的力量借給我吧，最後一次。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.4
 msgid "You cannot hurt me."
-msgstr "你無法對我造成傷害的。"
+msgstr "你傷不到我的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.5
 msgid "Protect me."
@@ -89860,7 +89888,7 @@ msgstr "保護我。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.6
 msgid "You have been betrayed."
-msgstr "你被我背叛了。"
+msgstr "你被背叛了。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_CHANNELERS.7
 msgid "I must do this. For your sake."
@@ -89868,7 +89896,7 @@ msgstr "我必須這樣做，這可是為了你好。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.1
 msgid "Be woven."
-msgstr "準備好構造了。"
+msgstr "準備編織了。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.2
 msgid "How long have I slumbered?"
@@ -89888,7 +89916,7 @@ msgstr "我會讓你明白的。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.6
 msgid "Let us end it."
-msgstr "讓這一切終結吧。"
+msgstr "讓我們結束這一切吧。"
 
 #: STRINGS.STALKER_ATRIUM_SUMMON_MINIONS.7
 msgid "You will rip apart at the seams."
@@ -89896,7 +89924,7 @@ msgstr "你會被撕碎的。"
 
 #: STRINGS.STALKER_ATRIUM_USEGATE.1
 msgid "I will save us."
-msgstr "我會拯救各位的。"
+msgstr "我會拯救我們的。"
 
 #: STRINGS.STALKER_ATRIUM_USEGATE.2
 msgid "Curse Their name!"
@@ -98360,7 +98388,7 @@ msgstr "忠誠"
 
 #: STRINGS.UI.RARITY.Lustrous
 msgid "Lustrous"
-msgstr "光電"
+msgstr "光澤"
 
 #: STRINGS.UI.RARITY.ProofOfPurchase
 msgid "Proof Of Purchase"
@@ -99344,7 +99372,7 @@ msgstr "伺服器名稱無效"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MANAGE_ACCOUNT
 msgid "Account"
-msgstr "個人資料"
+msgstr "賬戶信息"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.MAXPLAYERS
 msgid "Players:"
@@ -103706,6 +103734,10 @@ msgstr "奇怪。我好像產生幻覺了。"
 msgid "Bottled valor."
 msgstr "瓶裝的英勇。"
 
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_POTENT
+msgid "An impressive elixir."
+msgstr "令人難忘的煉金術藥劑。"
+
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HALLOWEENPOTION_DRINKS_WEAK
 msgid "Not as potent as I would have liked."
 msgstr "沒有我希望的那麼強力。"
@@ -104237,6 +104269,26 @@ msgstr "一把看起來很鋒利的武器。"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RHINODRILL
 msgid "He's got a nose for this kind of work."
 msgstr "他有一個尖鼻子來幹這事。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEETLETAUR
+msgid "You shall be chained again, foe!"
+msgstr "你會被再綁起來的，敵人！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "I shall armor myself for battle!"
+msgstr "我將武裝自己進行戰鬥！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "A barrage of Hel's fire."
+msgstr "發射海姆冥界的火焰。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "A mighty blade for a mighty battle!"
+msgstr "爲史詩戰鬥而生的强大劍刃！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.RHINODRILL
+msgid "Thy machismo frighten me not!"
+msgstr "你們兩個嚇不倒我！"
 
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
