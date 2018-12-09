@@ -97812,7 +97812,7 @@ msgstr "是"
 
 #: STRINGS.UI.PAUSEMENU.AFK
 msgid "Go AFK"
-msgstr "去一下（挂机）"
+msgstr "暂时离开"
 
 #: STRINGS.UI.PAUSEMENU.CLIENTQUITBODY
 msgid "Are you sure you want to leave the server?"
@@ -106001,3 +106001,283 @@ msgstr "勇士装饰"
 #: STRINGS.NAMES.WINTER_ORNAMENTGORGE
 msgid "Appeasing Adornment"
 msgstr "安抚装饰"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "I should hang this one over a fire."
+msgstr "我应该把这个挂在火上。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "For some reason it makes me hungry."
+msgstr "不知为何这让我有点饿了。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "Hath been forged in fires."
+msgstr "在炉火中锻造而成。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "It feeds the festive spirit."
+msgstr "它滋养着节日氛围。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "A volatile decoration."
+msgstr "一个不稳定的装饰。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "There's something familiar about this..."
+msgstr "一些似曾相识的东西..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "Not so scary when they're like this."
+msgstr "当他们变成这样就不那么可怕了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "Huh. It kinda looks...goaty!"
+msgstr "嗯，它看起来...像山羊！"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "A remembrance of past carnage."
+msgstr "对大屠杀的回忆。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "Should old acquaintance be forgot."
+msgstr "老朋友终会被遗忘。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "A harrowing handicraft."
+msgstr "一个令人痛心的手工工艺品。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "The needlework on this is quite intricate."
+msgstr "这件刺绣相当复杂。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "I should toast this over an open fire."
+msgstr "我真该把它放在火上烤。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "So cute I don't even wanna burn it."
+msgstr "真可爱，我都不想烧掉它了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "Reminds me of somthin'."
+msgstr "这让我想起了什么。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "Look at that fancy pants decoration."
+msgstr "看那花哨的装饰。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "Decoration of mighty enemy."
+msgstr "一个强大敌人的装饰。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "Hello, little friend!"
+msgstr "你好，小朋友！"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "Kinda familiar eh, Lucy?"
+msgstr "有点眼熟是吗，露西？"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "That's nice."
+msgstr "挺好看。"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINTER_ORNAMENTFORGE
+msgid "REDUNDANT FLESHLING ORNAMENTATION"
+msgstr "多余的肉块的装饰"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINTER_ORNAMENTGORGE
+msgid "THIS FLESHLING IS NOT COMPOSED OF FLESH"
+msgstr "这肉块不是由肉组成的"
+
+#: STRINGS.SKIN_DESCRIPTIONS.lantern_winter
+msgid "A lovely stained glass lantern to illuminate your winter nights."
+msgstr "让这个可爱的玻璃彩灯来照亮你的冬夜。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast
+msgid "\"We're super excited to watch everyone open the presents we got them.\""
+msgstr "\"看着每个人都打开我们送的礼物，我们超兴奋的。\""
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_wilson_feast
+msgid "\"Science says I'll be nipping at your nose.\""
+msgstr "\"科学说我会吹向你的鼻子。\""
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_wolfgang_feast
+msgid "\"A mighty Winter's Feast makes Wolfgang even mightier!\""
+msgstr "\"给力的冬季盛宴让沃尔夫冈更给力了。\""
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule4
+msgid "Equip this item to change your character's background portrait.\n\nFestering with festiveness."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n每况愈下的节日。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule5
+msgid "Equip this item to change your character's background portrait.\n\nYou never know what's lurking inside."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n你永远猜不到里面装的是什么。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule6
+msgid "Equip this item to change your character's background portrait.\n\nThe colored lights keep the darkness at bay."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n彩色的灯光让黑暗不再逼近。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yule7
+msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n抓紧吃喝吧，吃饱了好上路。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
+msgid "Set your profile icon to a festive Golden Present"
+msgstr "将你的头像设置为金色的节日赠礼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
+msgid "Set your profile icon to a jolly Green Gift"
+msgstr "将你的头像设置为欢乐的绿色礼物。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
+msgid "Set your profile icon to a Poorly Wrapped Package"
+msgstr "将你的头像设置为低质量的包裹。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_14
+msgid "Set your profile icon to a festive Deerclops Ornament."
+msgstr "将你的头像设置为喜庆的独眼巨鹿饰品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_15
+msgid "Set your profile icon to an adorable Moose/Goose Ornament"
+msgstr "将你的头像设置为可敬的麋鹿鹅饰品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_16
+msgid "Set your profile icon to a dangerous Bee Queen Ornament"
+msgstr "将你的头像设置为危险的女王蜂饰品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_candycane
+msgid "Set your profile icon to a sweet Candy Cane."
+msgstr "将你的头像设置为一根甜甜的拐杖糖。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_chocolatelog
+msgid "Set your profile icon to some decadent Chocolate Log Cake."
+msgstr "将你的头像设置为一块巧克力原木蛋糕。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_eggnog
+msgid "Set your profile icon to some rich and creamy Heavenly Eggnog."
+msgstr "将你的头像设置为富含奶油的神圣蛋奶酒。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_fruitcake
+msgid "Set your profile icon to a timeless Eternal Fruitcake."
+msgstr "将你的头像设置为不朽的水果蛋糕。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_gingerbreadman
+msgid "Set your profile icon to a jolly Gingerbread Cookie."
+msgstr "将你的头像设置为欢乐的姜饼人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_glommer
+msgid "Set your profile icon to a frosty Ice Glomglom."
+msgstr "将你的头像设置为雪花格罗姆。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_hotchocolate
+msgid "Set your profile icon to a warm cup of Hot Cocoa."
+msgstr "将你的头像设置为一杯温暖的热可可。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_puppington
+msgid "Set your profile icon to a Winterized Vargling."
+msgstr "将你的头像设置为北极小犬。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_sugarcookie
+msgid "Set your profile icon to a delicious Sugar Cookie."
+msgstr "将你的头像设置为美味的糖屑曲奇。"
+
+#: STRINGS.SKIN_NAMES.lantern_winter
+msgid "Winter's Feast Lantern"
+msgstr "冬季盛宴提灯"
+
+#: STRINGS.SKIN_NAMES.loading_webber_feast
+msgid "Wrapping Webber"
+msgstr "包礼物的韦伯"
+
+#: STRINGS.SKIN_NAMES.loading_wilson_feast
+msgid "Snowfallen Wilson"
+msgstr "落雪威尔逊"
+
+#: STRINGS.SKIN_NAMES.loading_wolfgang_feast
+msgid "Feasting Wolfgang"
+msgstr "盛宴沃尔夫冈"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yule4
+msgid "Decorated Tree"
+msgstr "挂满装饰的树"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yule5
+msgid "Wrapped Gifts"
+msgstr "礼物包裹"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yule6
+msgid "Festive Lights"
+msgstr "节日彩灯"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yule7
+msgid "Winter's Feast Foods"
+msgstr "冬季盛宴美食"
+
+#: STRINGS.SKIN_NAMES.profileflair_gift_1
+msgid "Golden Present"
+msgstr "金色的礼物"
+
+#: STRINGS.SKIN_NAMES.profileflair_gift_2
+msgid "Green Gift"
+msgstr "绿色的赠礼"
+
+#: STRINGS.SKIN_NAMES.profileflair_gift_3
+msgid "Poorly Wrapped Package"
+msgstr "低质量的包裹"
+
+#: STRINGS.SKIN_NAMES.profileflair_ornaments_14
+msgid "Deerclops Ornament"
+msgstr "独眼巨鹿饰品"
+
+#: STRINGS.SKIN_NAMES.profileflair_ornaments_15
+msgid "Moose/Goose Ornament"
+msgstr "麋鹿鹅饰品"
+
+#: STRINGS.SKIN_NAMES.profileflair_ornaments_16
+msgid "Bee Queen Ornament"
+msgstr "女王蜂饰品"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_candycane
+msgid "Candy Cane"
+msgstr "拐杖糖"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_chocolatelog
+msgid "Chocolate Log Cake"
+msgstr "巧克力原木蛋糕"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_eggnog
+msgid "Heavenly Eggnog"
+msgstr "神圣的蛋奶酒"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_fruitcake
+msgid "Eternal Fruitcake"
+msgstr "不朽的水果蛋糕"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_gingerbreadman
+msgid "Gingerbread Cookie"
+msgstr "姜饼人"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_glommer
+msgid "Ice Glomglom"
+msgstr "雪花格罗姆"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_hotchocolate
+msgid "Hot Cocoa"
+msgstr "热可可"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_puppington
+msgid "Winterized Vargling"
+msgstr "北极小犬"
+
+#: STRINGS.SKIN_NAMES.profileflair_yule_sugarcookie
+msgid "Sugar Cookie"
+msgstr "糖屑曲奇"
+
+#: STRINGS.THANKS_POPUP.WINTER
+msgid "Happy Winter's Feast\nfrom your friends at Klei"
+msgstr "冬季盛宴快乐\n您的好朋友Klei"
+
+#: STRINGS.UI.EMOTES.CAROL
+msgid "Carol"
+msgstr "赞歌"
