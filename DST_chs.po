@@ -12816,7 +12816,7 @@ msgstr "再胜一次！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgid "The champion of the spiders. To battle!"
-msgstr "蜘蛛中的王者，战斗吧！"
+msgstr "蜘蛛中的勇者，战斗吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "It is cowardly to attack a sleeping enemy."
@@ -12824,7 +12824,7 @@ msgstr "攻击正在熟睡的敌人是懦夫的表现。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPOILED_FOOD
 msgid "Age has only made this food gross, not wise."
-msgstr "时间只会使食物腐败，而不是博学。"
+msgstr "岁月只会使食物腐败，这并不明智。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.SPORE_MEDIUM.GENERIC
 msgid "At peace, benevolent flame spirit."
@@ -12972,7 +12972,7 @@ msgstr "不是你死就是我亡，臭鸟！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
 msgid "This egg would not survive a Norse winter."
-msgstr "这些蛋估计熬不过挪威的冬天。"
+msgstr "这个蛋估计熬不过北欧的冬季。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgid "Fight your way out, bird!"
@@ -13040,7 +13040,7 @@ msgstr "彩虹桥的秘密大抵隐藏在其中。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_CRANK
 msgid "A sturdy crank."
-msgstr "一个坚固的曲柄"
+msgstr "一个坚固的曲柄。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TELEPORTATO_POTATO
 msgid "No decency. It's not even metal meat."
@@ -15488,7 +15488,7 @@ msgstr "它已经结冰了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BLUEGEM
 msgid "Blue brings ice."
-msgstr "蓝色就会带来冰"
+msgstr "蓝色带来冰。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BLUEMOONEYE
 msgid "That reminds me, I must practice my cold glare tonight!"
@@ -17764,7 +17764,7 @@ msgstr "啊哈哈，真提神。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTMARELIGHT
 msgid "The overuse of fuel was their downfall."
-msgstr "燃料的过度使用就是他们的败亡。"
+msgstr "过度使用燃料就是他们的灭亡的原因。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
 msgid "The heart of the city is still."
@@ -18084,11 +18084,11 @@ msgstr "就这样在我的脚下劳动着。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PURPLEAMULET
 msgid "It speaks with the shadow."
-msgstr "它用影子来表达。"
+msgstr "它能与阴影交谈。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PURPLEGEM
 msgid "Purple brings great power."
-msgstr "紫色能带来强大的力量"
+msgstr "紫色带来强大的力量。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PURPLEMOONEYE
 msgid "A decent enough use of the gem's power, I suppose."
@@ -18104,7 +18104,7 @@ msgstr "如果我们想活，最好给它点什么。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
 msgid "It's a post."
-msgstr "他是根柱子"
+msgstr "这是根柱子"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_ALTAR_IVY
 msgid "Creeping ivy."
@@ -18676,7 +18676,7 @@ msgstr "要是这世上只有一块地该多好"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.REDGEM
 msgid "Red brings fire."
-msgstr "红色带来火焰。"
+msgstr "红色带来火。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.REDLANTERN
 msgid "Not having a light would certainly be unlucky."
@@ -53296,7 +53296,7 @@ msgstr "很有趣的味道"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_EAT.YUCKY
 msgid "Stomach is not strong enough for that."
-msgstr "胃不够大。"
+msgstr "我的胃还不够强壮。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_ENCUMBERED.1
 msgid "Is good... for muscles..."
@@ -57872,19 +57872,19 @@ msgstr "把可怕的图片装进沃尔夫冈的脑子里。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON_PLAYER.DEFAULT
 msgid "Hah. %s did not have enough muscle to survive %s."
-msgstr "哈哈哈。%s没有足够的肌肉来确保%s能活下去。"
+msgstr "哈哈哈。%s没有足够的肌肉来确保能在%s面前活下去。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON_PLAYER.FEMALE
 msgid "Hah. %s did not have enough muscle to survive %s."
-msgstr "哈哈哈。%s没有足够的肌肉来确保%s能活下去。"
+msgstr "哈哈哈。%s没有足够的肌肉来确保能在%s面前活下去。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON_PLAYER.MALE
 msgid "Hah. %s did not have enough muscle to survive %s."
-msgstr "哈哈哈。%s没有足够的肌肉来确保%s能活下去。"
+msgstr "哈哈哈。%s没有足够的肌肉来确保能在%s面前活下去。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKELETON_PLAYER.ROBOT
 msgid "Hah. %s did not have enough muscle to survive %s."
-msgstr "哈哈哈。%s没有足够的肌肉来确保%s能活下去。"
+msgstr "哈哈哈。%s没有足够的肌肉来确保能在%s面前活下去。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SKETCH
 msgid "Picture will help Wolfgang carve nice rocks!"
@@ -95188,7 +95188,7 @@ msgstr "你收到了"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_ROGR
 msgid "Thank you for buying the Reign of Giants DLC"
-msgstr "感谢你购买“巨人的统治（RoG）”DLC"
+msgstr "感谢你购买“巨兽统治（RoG）”DLC"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_SECONDTITLE.EARLY_ACCESS
 msgid "Early\nAccess"
@@ -95208,7 +95208,7 @@ msgstr "感谢赏玩"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_STORE
 msgid "Enjoy your gift"
-msgstr "喜欢你的礼物"
+msgstr "享受你的赠品"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
 msgid "Thanks for watching Twitch"
@@ -95280,7 +95280,7 @@ msgstr "改造你的角色"
 
 #: STRINGS.UI.LOBBYSCREEN.CUSTOMIZE_SCARECROW
 msgid "Customize Your Scarecrow"
-msgstr "定制你的稻草人"
+msgstr "改造你的稻草人"
 
 #: STRINGS.UI.LOBBYSCREEN.DISCONNECT
 msgid "Disconnect"
@@ -95508,7 +95508,7 @@ msgstr "取消"
 
 #: STRINGS.UI.MAINSCREEN.CANT_LOAD_ROG
 msgid "Reign of Giants is not installed. Unable to load."
-msgstr "“巨人国”DLC未安装，无法加载。"
+msgstr "“巨兽统治”DLC未安装，无法加载。"
 
 #: STRINGS.UI.MAINSCREEN.CANT_LOAD_TITLE
 msgid "Load Failed"
@@ -96270,9 +96270,9 @@ msgstr "崩溃！已禁用。"
 msgid "This mod is disabled."
 msgstr "Mod已禁用"
 
-#: STRINGS.UI.MODSSCREEN.DOWNLOADINGMOD
+#: 
 msgid "Downloading:\n{name}"
-msgstr "下载：\n{name}"
+msgstr "正在下载：\n{name}"
 
 #: STRINGS.UI.MODSSCREEN.DST_COMPAT_WARNING
 msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
@@ -105988,7 +105988,7 @@ msgstr "版本不匹配"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
 msgid "The Forge - Season 2"
-msgstr "熔炉 - 第二季"
+msgstr "熔炉：第二季"
 
 #: STRINGS.UI.LAVAARENA_COMMUNITY_UNLOCKS.UNLOCKED_TITLE.RHINODRILL
 msgid "Rhinocebros, Snapback and Flatbrim"
