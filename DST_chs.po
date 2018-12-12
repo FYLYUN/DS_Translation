@@ -40592,7 +40592,7 @@ msgstr "感谢你们帮助我！"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_REVIVED_OTHER_CORPSE
 msgid "You got this!"
-msgstr "你应该作祟这里！"
+msgstr "你能搞定！"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_REVIVING_CORPSE
 msgid "Hey! Get back up!"
@@ -58820,7 +58820,7 @@ msgstr "哈哈。胖的搞笑的人。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUSHAT
 msgid "Sea cow man hat!"
-msgstr "海牛仔的帽子！"
+msgstr "海牛人的帽子！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUS_CAMP.EMPTY
 msgid "Is locked."
@@ -58832,23 +58832,23 @@ msgstr "他们怎么都做到的？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WALRUS_TUSK
 msgid "Sea cow man tooth!"
-msgstr "海牛男的牙齿！"
+msgstr "海牛人的牙齿！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WARDROBE.BURNING
 msgid "Box of fire!"
-msgstr "箱子着火了！"
+msgstr "柜子着火了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WARDROBE.BURNT
 msgid "Box all gone."
-msgstr "柜子满了。"
+msgstr "柜子没了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WARDROBE.GENERIC
 msgid "Box of clothes!"
-msgstr "海澜之家！"
+msgstr "满柜子衣服！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WARG
 msgid "Big puppy!"
-msgstr "大的小狗！（23333）"
+msgstr "大的小狗！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WARGSHRINE.BURNT
 msgid "Puppy box is burned."
@@ -70424,7 +70424,7 @@ msgstr "妈妈？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB2.BURNT
 msgid "GOODBYE, FRIEND"
-msgstr "再见，朋友。"
+msgstr "再见，朋友"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB2.GENERIC
 msgid "HELLO, FRIEND"
@@ -70432,15 +70432,15 @@ msgstr "你好，朋友"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB3.BURNT
 msgid "IT HAS LOST ITS POWER"
-msgstr "它丧失了力量。"
+msgstr "它丧失了力量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB3.GENERIC
 msgid "PERHAPS IT IS TOO POWERFUL."
-msgstr "也许它太强大了"
+msgstr "也许它太强大了。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.BURNT
 msgid "I HAVE LOST MY ADDITIONAL POWER"
-msgstr "我失去了附加的能量。"
+msgstr "我失去了额外的能量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RESEARCHLAB4.GENERIC
 msgid "WITH THIS EXTRA POWER I HAVE... MORE POWER!"
