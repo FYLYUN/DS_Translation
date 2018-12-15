@@ -53404,7 +53404,7 @@ msgstr "沃爾夫岡對小鹿朋友很抱歉！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KLAUS_UNCHAINED
 msgid "Do not hold back! Wolfgang can take you!"
-msgstr "別退縮！沃爾夫岡會幫你！"
+msgstr "不要退縮！沃爾夫岡能搞定你！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT
 msgid "Ugh, I must have hit head."
@@ -53424,7 +53424,7 @@ msgstr "我又得餵飽我奇大無比的肚皮了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MOSQUITOS
 msgid "Wolfgang need blood, get away sucking bugs!"
-msgstr "獵狼需要血液，滾遠點，吸血的蟲子！"
+msgstr "沃爾夫岡需要血液，滾遠點，吸血的蟲子！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_MOUNT_LOWHEALTH
 msgid "What is wrong, hair beast? Feeling not-so-mighty?"
@@ -53708,15 +53708,11 @@ msgstr "很可愛"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.BROKEN
 msgid "Is broken altar."
-msgstr "損壞的聖壇。"
+msgstr "損壞的祭壇。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.WORKING
 msgid "Is nasty, creepy altar."
-msgstr "危險，詭異的祭壇。"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
-msgid "Is broken altar."
-msgstr "損壞的聖壇。"
+msgstr "討厭的叫人毛骨悚然的祭壇。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_STATUE
 msgid "Ugly, ugly, ugly."
@@ -55164,7 +55160,7 @@ msgstr "夥計們，快快長大！長大吧！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
 msgid "Dirt is not dirty enough to make plants."
-msgstr "灰塵不夠養分種植植物"
+msgstr "泥土的養分還不夠種植植物。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHERFAN
 msgid "Ha! Is as big as head!"
@@ -55180,19 +55176,19 @@ msgstr "沃爾夫岡必須把小拇指翹起來才能握著它。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_CANARY
 msgid "Is feather of bird yellow."
-msgstr "是黃色鳥兒的羽毛。"
+msgstr "這是黃色鳥兒的羽毛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_CROW
 msgid "Is feather of bird black."
-msgstr "是那種黑鳥的羽毛。"
+msgstr "這是黑色鳥兒的羽毛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN
 msgid "Is feather of bird red."
-msgstr "是那種紅色的鳥的羽毛。"
+msgstr "這是紅色鳥兒的羽毛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEATHER_ROBIN_WINTER
 msgid "Is feather of bird white."
-msgstr "是白鳥掉的羽毛。"
+msgstr "這是白色鳥而的羽毛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.FEM_PUPPET
 msgid "Scary chair scares her!"
