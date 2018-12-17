@@ -84640,7 +84640,7 @@ msgstr "將你的頭像設置為冬季盛宴的紫色節日彩燈。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_3
 msgid "Set your profile icon to a piercing Fuelweaver Winter's Feast ornament."
-msgstr "將你的頭像設置為華麗的影織者節日飾品。"
+msgstr "將你的頭像設置為華麗影織者節日飾品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_4
 msgid "Set your profile icon to a swirly red Winter's Feast bauble."
@@ -88032,11 +88032,11 @@ msgstr "節日掛飾"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_10
 msgid "Magnificent Klaus Ornament"
-msgstr "華麗的克勞斯飾品"
+msgstr "華麗克勞斯飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_11
 msgid "Magnificent No-Eyed Deer Ornament"
-msgstr "華麗的無眼鹿飾品"
+msgstr "華麗無眼鹿飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_12
 msgid "Green Festive Bauble"
@@ -88052,7 +88052,7 @@ msgstr "紫色節日彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_3
 msgid "Magnificent Fuelweaver Ornament"
-msgstr "華麗的影織者飾品"
+msgstr "華麗影織者飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_4
 msgid "Red Festive Bauble"
@@ -88064,7 +88064,7 @@ msgstr "藍色節日彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_6
 msgid "Magnificent Krampus Ornament"
-msgstr "華麗的坎普斯飾品"
+msgstr "華麗坎普斯飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_7
 msgid "Pink Festive Bauble"
@@ -88076,7 +88076,7 @@ msgstr "華麗的彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_9
 msgid "Magnificent Antlion Ornament"
-msgstr "華麗的蟻獅飾品"
+msgstr "華麗蟻獅飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_pengull
 msgid "Pengull"
