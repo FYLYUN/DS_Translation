@@ -88240,7 +88240,7 @@ msgstr "暴躁的龙蝇"
 
 #: STRINGS.SKIN_NAMES.profileflair_yule_goosemoose
 msgid "Jolly Moose/Goose"
-msgstr "快乐的鹿鹅"
+msgstr "快乐的麋鹿鹅"
 
 #: STRINGS.SKIN_NAMES.puppy_chow
 msgid "Purebred Vargling"
@@ -88260,7 +88260,7 @@ msgstr "puppy_tzu_builder"
 
 #: STRINGS.SKIN_NAMES.puppy_winter
 msgid "Arctic Vargling"
-msgstr "北极小犬"
+msgstr "北极小座狼"
 
 #: STRINGS.SKIN_NAMES.puppy_winter_builder
 msgid "puppy_winter_builder"
