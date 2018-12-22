@@ -9628,7 +9628,7 @@ msgstr "工匠的基礎素材。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTLICHEN
 msgid "Even if I ate plants, I wouldn't eat THAT plant."
-msgstr "就算我去吃其他植物，也不會去吃「那個」植物。"
+msgstr "就算我會吃植物，也不會去吃「那個」植物。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CUTREEDS
 msgid "I cleaned all the bugs out! Then I ate them."
@@ -53932,19 +53932,19 @@ msgstr "嘎嘣脆！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARDHAIR
 msgid "Gross. These are not from my face."
-msgstr "噁心，這些不是我臉上的"
+msgstr "噁心，這些不是從我臉上長的"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARGER
 msgid "Wolfgang not want to fight big bear."
-msgstr "沃爾夫岡不想和大狗熊PK。"
+msgstr "沃爾夫岡不想和大狗熊打架。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARGERVEST
 msgid "Big bear shirt."
-msgstr "大熊T恤衫。"
+msgstr "大狗熊恤衫。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEARGER_FUR
 msgid "Is like hair on Wolfgang chest."
-msgstr "這就像掛在沃爾夫岡的胸毛。"
+msgstr "就像是沃爾夫岡胸口的胸毛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEDROLL_FURRY
 msgid "So comfy!"
@@ -53956,11 +53956,11 @@ msgstr "午休時間！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEE.GENERIC
 msgid "Is fat and angry-looking."
-msgstr "又胖又怒的樣子"
+msgstr "又胖又怒的樣子。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEE.HELD
 msgid "Is safely in my pocket."
-msgstr "我的袋子很安全"
+msgstr "在我的口袋裏很安全。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEBOX.BURNT
 msgid "Bees are burned."
@@ -54204,7 +54204,7 @@ msgstr "好吃！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP
 msgid "Padre!"
-msgstr "神！"
+msgstr "神父！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Rrrraa!"
@@ -54216,15 +54216,15 @@ msgstr "是生氣的人。應該放鬆一下。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_FIRE
 msgid "Careful, Wolfgang."
-msgstr "當心，沃爾夫岡"
+msgstr "當心，沃爾夫岡。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_LAVA
 msgid "Wolfgang does not fight from afar."
-msgstr "我不在遠距離上戰鬥。"
+msgstr "沃爾夫岡不在遠距離上戰鬥。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_LAVA2
 msgid "Wolfgang will not use wimpy weapon."
-msgstr "我不會用沒用的武器。"
+msgstr "沃爾夫岡不會用沒用的武器。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLOWDART_PIPE
 msgid "Dart do pain to enemies."
@@ -54244,11 +54244,11 @@ msgstr "會是一個好的冰立方體！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEGEM
 msgid "Pretty rock."
-msgstr "漂亮的岩石"
+msgstr "漂亮的岩石。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEMOONEYE
 msgid "Is small, but not crushable."
-msgstr "小而不酥。"
+msgstr "很小，但不脆弱。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEPRINT.COMMON
 msgid "Pretty pictures!"
@@ -54264,11 +54264,11 @@ msgstr "對疲勞的肌肉有好處，我想。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUE_CAP_COOKED
 msgid "Is not same."
-msgstr "是不一樣的"
+msgstr "是不一樣的。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUE_MUSHROOM.GENERIC
 msgid "Is mushy room."
-msgstr "這是蘑菇"
+msgstr "這是蘑菇。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgid "Mushy room is hiding!"
@@ -54280,7 +54280,7 @@ msgstr "已經被采走了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOARDS
 msgid "Log was broken to make board!"
-msgstr "把木頭砍來做甲板！"
+msgstr "把木頭打碎做木板！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BOARON
 msgid "Tiny pig cannot hurt Wolfgang."
@@ -54340,7 +54340,7 @@ msgstr "對這刷子而言，真是強勁毛髮！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUGNET
 msgid "Catch bugs."
-msgstr "抓蟲子"
+msgstr "抓蟲子。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BUNDLE
 msgid "Is little surprise inside, maybe."
@@ -57696,7 +57696,7 @@ msgstr "藏在地下"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SAPLING.BURNING
 msgid "Oops."
-msgstr "喔噗嘶"
+msgstr "呃-哦。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SAPLING.DISEASED
 msgid "Is weak. Sickly!"
@@ -57924,7 +57924,7 @@ msgstr "會爆炸的粘液！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SLURTLE_SHELLPIECES
 msgid "Is broken."
-msgstr "壞掉了"
+msgstr "它碎掉了"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SMALLBIRD.GENERIC
 msgid "Is very small bird."
@@ -57960,7 +57960,7 @@ msgstr "看上去非常友好和可愛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPEAR
 msgid "It gave me a sliver."
-msgstr "它吐了我一身"
+msgstr "它給了我一絲勇氣。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPEAR_GUNGNIR
 msgid "Wolfgang will stab many foes!"
@@ -57972,7 +57972,7 @@ msgstr "沃爾夫岡喜歡這個帶尖的棍子。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPEAR_WATHGRITHR
 msgid "Is a good weapon."
-msgstr "好武器"
+msgstr "是把好武器"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDER.DEAD
 msgid "Is made of sticky goo!"
@@ -57988,11 +57988,11 @@ msgstr "走路安靜點，他可能不會看到我。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERDEN
 msgid "The bugs are hiding in there."
-msgstr "蟲子藏在那裡"
+msgstr "蟲子們就藏在那裡。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDEREGGSACK
 msgid "Nasty spider eggs."
-msgstr "噁心的蜘蛛蛋"
+msgstr "噁心的蜘蛛蛋。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERGLAND
 msgid "Squishy and wobbly!"
@@ -58000,15 +58000,15 @@ msgstr "黏糊糊的而且晃來晃去！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERHAT
 msgid "Is like smooch from giant bug."
-msgstr "像是巨蟲的污穢"
+msgstr "像是巨蟲的污穢。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERHOLE
 msgid "Spiders everywhere."
-msgstr "到處都是蜘蛛"
+msgstr "到處都是蜘蛛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERHOLE_ROCK
 msgid "Spiders everywhere."
-msgstr "蜘蛛到處都是。"
+msgstr "到處都是蜘蛛。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.SPIDERQUEEN
 msgid "Oh no! Walking bug-house!"
@@ -58344,7 +58344,7 @@ msgstr "這帽子不錯！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TORCH
 msgid "Attack night with fire stick!"
-msgstr "用火杖攻擊黑夜！"
+msgstr "用着火的棍子攻擊黑夜！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.TOWNPORTAL.ACTIVE
 msgid "Is ready now."
