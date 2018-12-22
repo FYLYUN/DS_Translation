@@ -17448,7 +17448,7 @@ msgstr "這個被燒了已經無法掛肉了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATRACK.DONE
 msgid "Like the desert."
-msgstr "就像沙漠一樣。"
+msgstr "就像沙漠裏一樣。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MEATRACK.DRYING
 msgid "Still moist."
@@ -19548,7 +19548,7 @@ msgstr "非常珍貴但有用的材料。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.THULECITE_PIECES
 msgid "Several of these piles could be combined to form a bigger piece."
-msgstr "這些碎片聚集在一起可以合成更大的石塊。"
+msgstr "這些碎片聚集在一起可以合成更大的一塊。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.THURIBLE
 msgid "Curious. It smells like roses."
@@ -28652,7 +28652,7 @@ msgstr "有些傢伙試圖一直潛伏在地下。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_ENTRANCE_OPEN.FULL
 msgid "There's no room at the cave party for me..."
-msgstr "我在洞穴里已經沒有容身之所了…"
+msgstr "洞穴里已經沒有我的容身之處了…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
 msgid "I'm too busy descending into madness to descend that cave."
@@ -28768,7 +28768,7 @@ msgstr "它們在這兒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER
 msgid "A fuzzy ball of emptiness."
-msgstr "一個模糊的虛空球"
+msgstr "一個毛茸茸的空球。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.CHESTER_EYEBONE.GENERIC
 msgid "It's looking into my soul."
@@ -30492,7 +30492,7 @@ msgstr "無用而殘缺，就像我一樣。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCKNUGGET
 msgid "It's traveled so far..."
-msgstr "這次旅行太遠了…"
+msgstr "它旅行了這麽遠…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONROCK_PIECES
 msgid "Now it will never decay..."
@@ -50108,7 +50108,7 @@ msgstr "我不喜歡它。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGEMOONEYE
 msgid "You lookin' at me?"
-msgstr "你在找我么？"
+msgstr "你在看著我嗎？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.ORANGESTAFF
 msgid "For people who fear good, honest work."
@@ -50212,7 +50212,7 @@ msgstr "嘿！我只是想要一些光。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGKING
 msgid "Those hooves've never seen a day of work."
-msgstr "哪些有蹄的傢伙從來沒有一整天的工作過。"
+msgstr "那些有蹄的傢伙從來沒有工作過一整天。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGMAN.DEAD
 msgid "That threw a wrench into his plans."
@@ -98730,6 +98730,10 @@ msgstr "雞年吉祥"
 msgid "Year of the Varg"
 msgstr "座狼迎新"
 
+#: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_PIGKING_2019
+msgid "test"
+msgstr "猪王开泰"
+
 #: STRINGS.UI.SANDBOXMENU.EXCLUDE
 msgid "No"
 msgstr "無"
@@ -102488,7 +102492,7 @@ msgstr "將你的頭像設置爲一把頭等大雨傘。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_winterometer_circus
 msgid "Set your profile icon to a Thermal Strength Measurer."
-msgstr "將你的頭像設置爲一個熱能測力器。"
+msgstr "將你的頭像設置爲一個熱力測力器。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.rainometer_circus
 msgid "Guess the rainfall."
@@ -102544,7 +102548,7 @@ msgstr "頭等大雨傘背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_winterometercircus
 msgid "Thermal Strength Measurer Portrait"
-msgstr "熱能測力器背景"
+msgstr "熱力測力器背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
@@ -102576,7 +102580,7 @@ msgstr "頭等大雨傘頭像"
 
 #: STRINGS.SKIN_NAMES.profileflair_winterometer_circus
 msgid "Thermal Strength Measurer Icon"
-msgstr "熱能測力器頭像"
+msgstr "熱力測力器頭像"
 
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
@@ -102604,7 +102608,7 @@ msgstr "头等大雨傘"
 
 #: STRINGS.SKIN_NAMES.winterometer_circus
 msgid "Thermal Strength Measurer"
-msgstr "熱能測力器"
+msgstr "熱力測力器"
 
 #: STRINGS.SKIN_NAMES.rainometer_circus
 msgid "The Magnificent Rainometer"
