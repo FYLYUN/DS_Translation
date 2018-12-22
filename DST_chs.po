@@ -15544,7 +15544,7 @@ msgstr "咬碎它们的骨头。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BONESTEW
 msgid "Leave no scrap unused."
-msgstr "没有没用上的部分"
+msgstr "没有没用上的部分。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_BIRDS
 msgid "What a wasteful misuse of magic."
@@ -15572,7 +15572,7 @@ msgstr "我感觉自己已经好几辈子没…睡过了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOK_TENTACLES
 msgid "What horrors shall be summoned from the depths?"
-msgstr "从深处召唤什么样的恐怖？"
+msgstr "从深渊中召唤什么样的恐怖？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BOOMERANG
 msgid "Beats getting your hands dirty."
@@ -17228,11 +17228,11 @@ msgstr "现在又冷又干。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVASPIT.HOT
 msgid "Spitfire."
-msgstr "烈女子。"
+msgstr "喷火。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVA_POND
 msgid "A touch hot, but it could cook my food in a pinch."
-msgstr "摸着好烫，但是它可以煮熟我的食物。"
+msgstr "摸着好烫，但它能在紧要关头烤熟我的食物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVA_POND_ROCK
 msgid "With each day I get a little boulder."
@@ -29516,7 +29516,7 @@ msgstr "我也能做出那个表情……"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GEARS
 msgid "The insides of a mechanical demon."
-msgstr "机械恶魔的内心"
+msgstr "机械恶魔的内心。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GEMSOCKET.GEMS
 msgid "It looks so empty."
@@ -29664,15 +29664,15 @@ msgstr "全部都是有韧性的"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_MUSHROOM.GENERIC
 msgid "Dank."
-msgstr "潮湿"
+msgstr "潮湿。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_MUSHROOM.INGROUND
 msgid "I would hide too, if I could."
-msgstr "如果我可以，我也会藏起来"
+msgstr "如果我可以，我也会藏起来。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GREEN_MUSHROOM.PICKED
 msgid "Harvested."
-msgstr "大丰收"
+msgstr "大丰收。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.GUACAMOLE
 msgid "That's just gruesome. I like it."
@@ -40348,7 +40348,7 @@ msgstr "有点恶心"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.YUCKY
 msgid "Eeeew, no way!"
-msgstr "呕————，没有办法了！"
+msgstr "呕————，没门！"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_ENCUMBERED.1
 msgid "Ughhh!"
@@ -46208,7 +46208,7 @@ msgstr "%s从不放弃任何人。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTERHAT
 msgid "It's not warm enough for my liking."
-msgstr "对于我的同类来说还不够暖"
+msgstr "对于我的爱好来说还不够暖和。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTEROMETER.BURNT
 msgid "If you'd measured fire, maybe you woulda been prepared!"
