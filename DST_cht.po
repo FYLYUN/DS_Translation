@@ -23392,7 +23392,7 @@ msgstr "真希望它們的形狀和恐龍一樣。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORN
 msgid "If this makes a mating call we're all in trouble."
-msgstr "如果這個會弄出交配的聲音，我們都要遭殃。"
+msgstr "如果這發出了交配的鳴叫，那我們就有麻煩了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI
 msgid "Flavor bombs!"
@@ -42240,19 +42240,19 @@ msgstr "羽毛又可以做什麼？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_CANARY
 msgid "Canary feather. It probably smells terrible on fire."
-msgstr "金絲雀的毛。燒起來味道很可能不怎麼樣。"
+msgstr "金絲雀的羽毛，燒起來味道估計很難聞。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_CROW
 msgid "Crow feather. It probably smells terrible on fire."
-msgstr "烏鴉的羽毛，要燒著了估計很難聞。"
+msgstr "烏鴉的羽毛，燒起來味道估計很難聞。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_ROBIN
 msgid "Redbird feather. It probably smells terrible on fire."
-msgstr "紅鳥的羽毛。估計點燃了味道很難聞。"
+msgstr "紅鳥的羽毛，燒起來味道估計很難聞。。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_ROBIN_WINTER
 msgid "Snowbird feather. It probably smells terrible on fire."
-msgstr "雪鳥的羽毛。點著了估計很難聞。"
+msgstr "雪鳥的羽毛，燒起來味道估計很難聞。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEM_PUPPET
 msgid "She looks scared half to death."
@@ -42504,7 +42504,7 @@ msgstr "又粘又奇特。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GLOMMERWINGS
 msgid "They're so small!"
-msgstr "它們真校"
+msgstr "它真的很小！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GOATMILK
 msgid "It's fuzzy with electricity. Yuck."
@@ -44552,7 +44552,7 @@ msgstr "馬甲十分殺馬特。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RELIC
 msgid "Old furniture."
-msgstr "舊的傢具。"
+msgstr "老舊的傢具。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RESEARCHLAB.BURNT
 msgid "There's no learning from that now."
@@ -44700,11 +44700,11 @@ msgstr "損壞的傢具。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RUINSHAT
 msgid "It seems like there's something flowing through it."
-msgstr "這皇冠的四周看上去浮動著一圈力常"
+msgstr "這皇冠周圍看上去浮動著一圈力場。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RUINS_BAT
 msgid "This will keep the nasties at bay."
-msgstr "它將把這些骯髒的東西留在海灣。"
+msgstr "它會叫那些骯髒的玩意陷入絕境。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RUINS_RUBBLE
 msgid "That could probably be fixed up."
@@ -44760,11 +44760,11 @@ msgstr "燒吧！嗚！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.DISEASED
 msgid "Burn the sick!"
-msgstr "燒傷的病人！"
+msgstr "燒掉那些病人！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.DISEASING
 msgid "Blech. You smell."
-msgstr "這是黑崎一護的味道。"
+msgstr "聞起來真惡心。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SAPLING.GENERIC
 msgid "It'd be worth it to pick that."
@@ -44780,7 +44780,7 @@ msgstr "它是如此的乾枯，就像待在火里一樣！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNING
 msgid "It's a burning man."
-msgstr "燒男來了 。"
+msgstr "是個燒焦了的人 。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SCARECROW.BURNT
 msgid "Just burnt straw."
@@ -44872,7 +44872,7 @@ msgstr "哈，成碎片了。新手失誤吧。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEEDS
 msgid "Farming is boring."
-msgstr "耕種最乏味了"
+msgstr "耕種真無聊。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.SEEDS_COOKED
 msgid "No good for farming now."
