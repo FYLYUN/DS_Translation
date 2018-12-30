@@ -46232,11 +46232,11 @@ msgstr "給我兩個，我可以做出個海象的印記。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_FOOD4
 msgid "Anyone else sense the overpowering stench of evil?"
-msgstr "任何其他的人都能感覺到邪惡的惡臭。"
+msgstr "有誰感受不到這邪惡的惡臭嗎？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_FOOD5
 msgid "A log for eating, not for burning."
-msgstr "用來吃的木頭，不是用來燃燒的。"
+msgstr "用來吃的木頭，不是用來燒的。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_FOOD6
 msgid "I'm gonna totally stuff my face!!"
@@ -81664,7 +81664,7 @@ msgstr "有意思"
 
 #: STRINGS.SIGNS.ADJECTIVES.3
 msgid "Dark"
-msgstr "黑夜"
+msgstr "黑暗"
 
 #: STRINGS.SIGNS.ADJECTIVES.30
 msgid "Magnificent"
@@ -82180,27 +82180,27 @@ msgstr "一個小小的牛形狀的背包。它是如此的可愛和蓬鬆！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_buckle_grey_pewter
 msgid "A 'dismal gray' colored backpack with a big, curved buckle."
-msgstr "一個「死灰色」彎扣背包。"
+msgstr "一個「死灰」色的彎扣大背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_buckle_navy_phthalo
 msgid "A 'monastral blue' colored backpack with a big, curved buckle."
-msgstr "一個「星藍」彎扣的大背包。"
+msgstr "一個「酞青」色的彎扣大背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_buckle_red_rook
 msgid "A 'rook red' colored backpack with a big, curved buckle."
-msgstr "一個「車紅色」彎扣的大背包。"
+msgstr "一個「戰車紅」色的彎扣大背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_camping_green_viridian
 msgid "A rustic rucksack in a 'subaqueous megafauna green' color."
-msgstr "一個「翠蔥綠」質樸的背包。"
+msgstr "一個「水生巨獸綠」色的質樸背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_camping_orange_carrot
 msgid "A rustic rucksack in a 'carrot orange' color."
-msgstr "一個「胡蘿蔔橙」質樸的背包。"
+msgstr "一個「胡蘿蔔橙」色的質樸背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_camping_red_koalefant
 msgid "A rustic rucksack in a 'koalefant trunk red' color."
-msgstr "一個「考拉象紅」質樸的背包。"
+msgstr "一個「考拉象紅」色的質樸背包。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_catcoon
 msgid "Squirrel away your items with this catcoon-shaped carryall."
@@ -82272,39 +82272,39 @@ msgstr "也許鳥兒會享受在裡面的時光。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_black_jet
 msgid "A shirt that buttons up the front, in a 'disilluminated black' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
-msgstr "紐扣襯衫面前，有著「油黑」的顏色。幸運的是，織物是一種非鐵材料。不幸的是，當你穿上它，會有褶皺。"
+msgstr 一件「無光黑」色的扣著紐扣的襯衫。幸運的是，織物是一種非鐵。材料不幸的是，你穿上它的時候會有褶皺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_blue_sky
 msgid "A shirt that buttons up the front, in a 'schematic blue' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
-msgstr "一件「藍圖藍」的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料不幸的是，口袋有皺紋"
+msgstr "一件「藍圖藍」色的扣著紐扣的襯衫。幸運的是，織物是一種非鐵。材料不幸的是，你穿上它的時候會有褶皺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_green_laurel
 msgid "A shirt that buttons up the front, in a 'willful green' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
-msgstr "一件「任性綠」的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料不幸的是，口袋有皺紋"
+msgstr "一件「任性綠」色的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料。不幸的是，你穿上它的時候會有褶皺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_pink_hibiscus
 msgid "A shirt that buttons up the front, in a 'pigman pink' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
-msgstr "一件「豬人粉」的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料。不幸的是，口袋有皺紋"
+msgstr "一件「豬人粉」色的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料。不幸的是，你穿上它的時候會有褶皺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_white_ghost
 msgid "A shirt that buttons up the front, in a 'ghost white' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
-msgstr "一件「死白色」的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料。不幸的是，口袋有皺紋。"
+msgstr "一件「幽靈白」色的扣著紐扣的襯衫。幸運的是，織物是一種非鐵材料。不幸的是，你穿上它的時候會有褶皺。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_cardigan_black_jet
 msgid "A 'disilluminated black' colored cardigan. As soft as it is comfortable."
-msgstr "一件「油黑」的開襟羊毛衫。「微軟」而又舒適。"
+msgstr "一件「無光黑」色的開襟羊毛衫。「微軟」而又舒適。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_cardigan_red_cardinal
 msgid "A 'combobulated red' colored cardigan. As soft as it is comfortable."
-msgstr "一件「紅色」的開襟羊毛衫。「微軟」而又舒適。"
+msgstr "一件「鼓氣紅」色的開襟羊毛衫。「微軟」而又舒適。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_cardigan_teal_jade
 msgid "A 'doydoy teal' colored cardigan. As soft as it is comfortable."
-msgstr "一件「渡渡鳥色」的開襟羊毛衫。「微軟」而又舒適。"
+msgstr "一件「渡渡鳥藍綠」色的開襟羊毛衫。「微軟」而又舒適。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_cardigan_white_ghost
 msgid "A 'ghost white' colored cardigan. As soft as it is comfortable."
-msgstr "一件「死白色」的開襟羊毛衫。「微軟」而又舒適。"
+msgstr "一件「幽靈白」色的開襟羊毛衫。「微軟」而又舒適。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_catcoon_costume
 msgid "This Catty Costume will make you look like one fine feline!"
@@ -82344,19 +82344,19 @@ msgstr "能穿上這個衣服的人，一定是高貴的QQ會員。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_flannel_blue_snowbird
 msgid "Well, it's not buckskin but it's still skookum. It's 'electrolytic blue' colored with no foofaraw."
-msgstr "嗯，這不是鹿皮，但它仍然是極好的，尤其是那恰到好處的「天依藍」"
+msgstr "嗯，雖然不是鹿皮的，但是它依舊很棒。尤其是那恰到好處的「天依藍」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_flannel_green_napier
 msgid "Well, it's not buckskin but it's still skookum. It's 'being uneasy green' colored with no foofaraw."
-msgstr "嗯，雖然這不是鹿皮。但是它依舊很棒。初音綠的那種。"
+msgstr "嗯，雖然不是鹿皮的，但是它依舊很棒。尤其是那恰到好處的「不安綠」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_flannel_orange_lumberjack
 msgid "Well, it's not buckskin but it's still skookum. It's 'lumberjack orange' colored with no foofaraw."
-msgstr "嗯，這不是鹿皮，但它仍然是極好的，尤其是那恰到好處的「橙色」"
+msgstr "嗯，雖然不是鹿皮的，但是它依舊很棒。尤其是那恰到好處的「伐木工橙」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_flannel_purple_grape
 msgid "Well, it's not buckskin but it's still skookum. It's 'tentacle purple' colored with no foofaraw."
-msgstr "嗯，這不是鹿皮，但它仍然是極好的，尤其是那恰到好處的「觸手紫」"
+msgstr "嗯，雖然不是鹿皮的，但是它依舊很棒。尤其是那恰到好處的「觸手紫」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_glommer_costume
 msgid "Cover up your full moon with this adorable Glommy Guise!"
@@ -82380,79 +82380,79 @@ msgstr "一件很不錯的大衣，縫製細度非常好。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_black_scribble
 msgid "These sturdy 'scribble black' colored overalls are great for plumbing the depths."
-msgstr "這些耐用的「塗鴉黑」工作服，是製造工業的精髓。"
+msgstr "這件耐用的「塗鴉黑」工作服，是製造工業的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_blue_denim
 msgid "These sturdy 'hyper-intelligent blue' colored overalls are great for plumbing the depths."
-msgstr "這些耐用的「超智能藍色」工作服，是製造工業的精髓。"
+msgstr "這件耐用的「超智能藍色」工作服，是製造工業的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_navy_ocean
 msgid "These sturdy 'unsuitably blue' colored overalls are great for plumbing the depths."
-msgstr "這些耐用的「超智能藍色」工作服，是製造工業的精髓。"
+msgstr "這件耐用的「超智能藍色」工作服，是製造工業的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_pj_blue_agean
 msgid "Don't worry if this 'high pH blue' colored pajama top is too big on you. That just makes it cuter."
-msgstr "不用擔心這件鹼藍色睡衣太大。穿上它會讓你變的更可愛。"
+msgstr "不用擔心這件「高pH值藍」色睡衣太大。那只會讓更加可愛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_pj_purple_mauve
 msgid "Don't worry if this 'snail mucus purple' colored pajama top is too big on you. That just makes it cuter."
-msgstr "覺得這個「蝸牛黏液紫」的睡衣實在是太大了？別擔心，那只會讓它更可愛。"
+msgstr "不用擔心這件「蝸牛粘液紫」色睡衣太大。那只會讓更加可愛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_pj_silk_teal_jade
 msgid "Luxurious PJs in a handsome 'doydoy teal'."
-msgstr "華麗的「渡渡鳥」色睡衣。"
+msgstr "華麗的「渡渡鳥藍綠」色睡衣。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_blue_denim
 msgid "A 'hyper-intelligent blue' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件「「燈，等燈等燈」藍」的球衣，不要讓你的衣領在風中飄。"
+msgstr "一件「超智能藍」色的襯衫，不要讓你的衣領在風中飄。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_orange_salmon
 msgid "A 'fishy tincture orange' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件「魚腥酊劑橙」的襯衫，不要讓你的衣領飄在風中。"
+msgstr "一件「魚腥酊劑橙」色的襯衫，不要讓你的衣領在風中飄。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_red_higgsbury
 msgid "A 'Higgsbury red' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件「彼岸花紅」的球衣，不要讓你的衣領在風中飄。"
+msgstr "一件「西格波利紅」色的襯衫，不要讓你的衣領在風中飄。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_white_marble
 msgid "A 'marble white' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件「大理石白」的球衣，不要讓你的衣領在風中飄。"
+msgstr "一件「大理石白」色的襯衫，不要讓你的衣領在風中飄。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_yellow_goldenrod
 msgid "A 'downright neighborly yellow' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件「柔黃」的球衣，不要讓你的衣領在風中飄。"
+msgstr "一件「友好鄰居黃」色的襯衫，不要讓你的衣領在風中飄。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_blue_frost
 msgid "So smooth, you'll never want to let go of this 'high elevation blue' colored robe."
-msgstr "多麼順滑，我想你永遠也不會放開這件「高海拔藍」的長袍的。"
+msgstr "多麼順滑，我想你永遠也不會放開這件「高海拔藍」色的長袍的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_pink_ewecus
 msgid "So smooth, you'll never want to let go of this 'ewecus pink' colored robe."
-msgstr "多麼順滑，我想你永遠也不會放開這件「鋼羊粉」的長袍的。"
+msgstr "多麼順滑，我想你永遠也不會放開這件「鋼羊粉」色的長袍的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_red_rump
 msgid "So smooth, you'll never want to let go of this 'rump red' colored robe."
-msgstr "多麼順滑，我想你永遠也不會放開這件「尾紅」的長袍的。"
+msgstr "多麼順滑，我想你永遠也不會放開這件「尾紅」色的長袍的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_yellow_goldenrod
 msgid "So smooth, you'll never want to let go of this 'downright neighborly yellow' colored robe."
-msgstr "多麼順滑，我想你永遠也不會放開這件「柔黃」的長袍的。"
+msgstr "多麼順滑，我想你永遠也不會放開這件「友好邻居黃」色的長袍的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_loungewear_black_davys
 msgid "Bathe under the new moon in comfort and luxury with this silk 'disilluminated black' colored loungewear."
-msgstr "穿著這豪華的「油黑」的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
+msgstr "穿著這豪華的「無光黑」色的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_loungewear_green_laurel
 msgid "Bathe under the new moon in comfort and luxury with this silk 'willful green' colored loungewear."
-msgstr "穿著這豪華的「任性綠」的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
+msgstr "穿著這豪華的「任性綠」色的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_loungewear_red_cranberry
 msgid "Bathe under the new moon in comfort and luxury with this silk 'apidae maxwellius red' colored loungewear."
-msgstr "穿著這豪華的「殺人蜂紅」的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
+msgstr "穿著這豪華的「殺人蜂紅」色的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_loungewear_white_marble
 msgid "Bathe under the new moon in comfort and luxury with this silk 'marble white' colored loungewear."
-msgstr "穿著這豪華的「大理石白」的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
+msgstr "穿著這豪華的「大理石白」色的絲綢便服沐浴在那舒適的新月之下，簡直是一種享受。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silkbrocade_coat_green_laurel
 msgid "A silken brocade coat in a lovely 'willful green' shade."
@@ -82460,47 +82460,47 @@ msgstr "可愛的「任性綠」色錦緞外套。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_blue_ice
 msgid "It might look a bit itchy, but this 'anthropomorphic feline blue' nightgown is actually the coziest thing in the world."
-msgstr "看上去把它穿在身上可能會有點癢，但其實穿著這種「人性化的藍貓藍」的睡衣是世界最愜意的事。"
+msgstr "它只是看起來讓你覺得會有點癢，但其實穿著這種「人性化的藍貓藍」色的睡衣是世界最愜意的事。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_purple_lavender
 msgid "It might look a bit itchy, but this 'peripeteia purple' nightgown is actually the coziest thing in the world."
-msgstr "它只是看起來讓你覺得心裡發癢，這件紫色的睡衣穿起來其實超舒服的。"
+msgstr "它只是看起來讓你覺得會有點癢，但其實穿著這種「劇情轉折紫」色的睡衣是世界最愜意的事。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_pink_pearl
 msgid "Wearing this 'pigman pink' colored shirt makes you feel like the cat's pajamas."
-msgstr "穿著「豬人粉」的襯衫讓你感覺像是豬人。"
+msgstr "穿著這件「豬人粉」色的襯衫讓你感覺像是貓咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_white_pure
 msgid "Wearing this 'pure white' colored shirt makes you feel like the cat's pajamas."
-msgstr "穿著「純白」的襯衫讓你感覺像是喵的睡衣。"
+msgstr "穿著這件「純白」色的襯衫讓你感覺像是貓咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_yellow_flax
 msgid "Wearing this 'follicle yellow' colored shirt makes you feel like the cat's pajamas."
-msgstr "這件「XX黃」的襯衫感覺像是U.M.R的睡衣"
+msgstr "穿著這件「蓇葖果黃」色的襯衫讓你感覺像是貓咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_blue_snowbird
 msgid "An 'electrolytic blue' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "一件「天依藍」的用上等的牛羊毛製作的背心。不幸的是，它並不保暖要你何用！！"
+msgstr "一件「天依藍」色的用上等皮弗婁牛毛織成的背心。不幸的是，它並不保暖。要你何用！！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_brown_beaver
 msgid "A 'werebeaver brown' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "一件「海狸棕」的用上等的牛羊毛製作的背心。不幸的是，它並不保暖要你何用！！"
+msgstr "一件「海狸棕」色的用上等皮弗婁牛毛織成的背心。不幸的是，它並不保暖。要你何用！！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_green_forest
 msgid "A 'forest guardian green' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "一件「森林守護者綠」的有色背心是用最好的皮弗婁牛毛織成。不幸的是，它一點都不溫暖。"
+msgstr "一件「森林守護者綠」色的用上等皮弗婁牛毛織成的背心。不幸的是，它並不保暖。要你何用！！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_grey_silver
 msgid "A 'cumulus gray' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "一件「烏雲灰」的用上等的牛羊毛製作的背心。不幸的是，它並不保暖要你何用！！"
+msgstr "一件「烏雲灰」色的用上等皮弗婁牛毛織成的背心。不幸的是，它並不保暖。要你何用！！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_red_firehound
 msgid "A 'firehound red' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
-msgstr "一件「火狗紅」的用上等的牛羊毛製作的背心。不幸的是，它並不保暖要你何用！！"
+msgstr "一件「火獵犬紅」色的用上等皮弗婁牛毛織成的背心。不幸的是，它並不保暖。要你何用！！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tanktop_tiecollar_yellow_goldenrod
 msgid "This 'downright neighborly yellow' top just screams \"springtime\"! Seriously. Please make it stop screaming."
-msgstr "這一件'鄰家黃'好像一直在說'春天來了'！穿上它不要讓它再叫了。"
+msgstr "這一件「友好鄰居黃」色的襯衫仿佛一直在叫「春天來了」！穿上它不要讓它再叫了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_toga_white_pure
 msgid "As they say, \"when in Rome\"!"
@@ -82508,59 +82508,59 @@ msgstr "這件衣服很有羅馬假期的感覺！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trenchcoat_brown_fawn
 msgid "A fashionable but unprotective trench coat in a 'werebeaver brown' color."
-msgstr "一件時尚而非防護用「海狸棕」的風衣。"
+msgstr "一件時尚而非防護用「海狸棕」色的風衣。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trenchcoat_yellow_straw
 msgid "A fashionable but unprotective trench coat in a 'sulfuric yellow' color."
-msgstr "一件時尚而非防護用的「硫酸黃色」的風衣。"
+msgstr "一件時尚而非防護用的「硫酸黃」色的風衣。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_red_higgsbury
 msgid "Get your glad rags on with this 'Higgsbury red' colored shirt."
-msgstr "給你晚禮服配上「紅A色」襯衫。"
+msgstr "給你的晚禮服配上「西格波利紅」色的襯衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_white_pure
 msgid "Get your glad rags on with this 'pure white' colored shirt."
-msgstr "給你晚禮服配上「純白色」襯衫。"
+msgstr "給你的晚禮服配上「純白」色的襯衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_yellow_flax
 msgid "Get your glad rags on with this 'follicle yellow' colored shirt."
-msgstr "給你的晚禮服配上這「XX黃」的襯衫。"
+msgstr "給你的晚禮服配上這「蓇葖果黃」色的襯衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_grey_battleship
 msgid "A 'cumulus gray' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
-msgstr "一件「烏雲灰」的襯衫。威爾遜就是穿著著這玩意工作，但這個原型來自好多T恤。"
+msgstr "一件「烏雲灰」的襯衫。威爾遜正在研發一種W恤，但這個原型躰更像是「T」而非「W」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_purple_mauve
 msgid "A 'snail mucus purple' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
-msgstr "一件「蝸牛粘液紫」的襯衫。威爾遜就是穿著著這玩意工作，但這個原型來自好多T恤。"
+msgstr "一件「蝸牛粘液紫」的襯衫。威爾遜正在研發一種W恤，但這個原型躰更像是「T」而非「W」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_red_higgsbury
 msgid "A 'Higgsbury red' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
-msgstr "一件「紅A色」的襯衫。威爾遜就是穿著這玩意意工作，但這個原型來自好多T恤。"
+msgstr "一件「西格波利紅」的襯衫。威爾遜正在研發一種W恤，但這個原型躰更像是「T」而非「W」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_white_smoke
 msgid "A 'smoke white' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
-msgstr "一件「煙白色」的襯衫威爾遜就是穿著這玩意工作，但這個原型來自好多T恤。"
+msgstr "一件「煙白」色的襯衫。威爾遜正在研發一種W恤，但這個原型躰更像是「T」而非「W」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_blue_lightning
 msgid "Don't get lost in the tweeds wearing this 'lightning goat blue' colored souvenir from the Village of Tweed."
-msgstr "千萬不要迷戀這件「電羊藍」的斜紋襯衫。"
+msgstr "千萬不要迷戀這件「伏特羊藍」色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_brown_chocolate
 msgid "Don't get lost in the tweeds wearing this 'insufficient chocolate brown' colored souvenir from the Village of Tweed."
-msgstr "不要穿著這花呢製作的「淡巧克力棕色」色禮服迷失在花紋村莊。"
+msgstr "千萬不要迷戀這件「淡巧克力棕色」色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_green_hunters
 msgid "Don't get lost in the tweeds wearing this 'forest guardian green' colored souvenir from the Village of Tweed."
-msgstr "不要穿著這花呢製作的「森林守護綠」色禮物迷失在花紋村莊。"
+msgstr "千萬不要迷戀這件「森林守護綠」色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_grey_steel
 msgid "Don't get lost in the tweeds wearing this 'colloidal silver gray' colored souvenir from the Village of Tweed."
-msgstr "不要穿著這花呢製作的「膠質銀灰」色禮物迷失在花紋村莊。"
+msgstr "千萬不要迷戀這件「膠質銀灰」色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_tan_grass
 msgid "Don't get lost in the tweeds wearing this 'dry grass tan' colored souvenir from the Village of Tweed."
-msgstr "不要穿著這花呢製作的「乾草黃」色禮物迷失在花紋村莊。"
+msgstr "千萬不要迷戀這件「乾草黃」色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_deerclops
 msgid "Look like an intimidating Deerclops with this Hallowed Nights costume."
@@ -82664,7 +82664,7 @@ msgstr "一件泡泡袖的可愛禮服。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_gladiator
 msgid "A belt of fangs suits any steadfast fighter."
-msgstr "毒牙腰帶適合任何堅強的戰士"
+msgstr "毒牙腰帶適合任何堅強的戰士。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_ice
 msgid "A lovely dress in which to wander the frozen glades."
@@ -82696,7 +82696,7 @@ msgstr "一件帶有正式褲子的花哨襯衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_gladiator
 msgid "Stun your enemies into silence."
-msgstr "擊暈你的敵人，讓他們安靜"
+msgstr "擊暈你的敵人，讓他們安靜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_mandrake
 msgid "A Hallowed Nights costume fashioned after a delightfully annoying vegetable."
@@ -82732,7 +82732,7 @@ msgstr "身披這件光滑的紫色長袍，金屬元素也會屈服在你的意
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_ice
 msgid "An elegant dress to wear while keeping the common folk at arm's length."
-msgstr "一件優雅的套裝，同時保持常見的民俗風格"
+msgstr "一件優雅的套裝，同時保持常見的民俗風格。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_lightninggoat
 msgid "This electrifying costume will let your dress up like a cute Volt Goat!"
@@ -83280,7 +83280,7 @@ msgstr "一張古典的茶几，你的祖母要是看見了一定會非常驕傲
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_bootie_black_scribble
 msgid "A pair of 'scribble black' colored boot devices."
-msgstr "一對塗黑的穿戴裝備。"
+msgstr "一對色「塗鴉黑」色的穿戴裝備。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_bunnyslippers_purple_mauve
 msgid "Show those bunnies what's what by wearing this pair of fuzzy 'snail mucus purple' colored bunny slippers."
@@ -83296,11 +83296,11 @@ msgstr "華麗的「純白色」鞋子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_formal_lowheel_black_scribble
 msgid "Low-heeled 'scribble black' colored dress shoes."
-msgstr "一雙精緻的「塗鴉黑」低跟鞋。"
+msgstr "一雙低跟的「塗鴉黑」色禮服鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_formal_stiletto_black_scribble
 msgid "High-heeled 'scribble black' colored dress shoes."
-msgstr "高跟的「潦草黑」禮服鞋。"
+msgstr "一雙高跟的「塗鴉黑」色禮服鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_fuzzyslippers_blue_ice
 msgid "Warm, fuzzy, 'anthropomorphic feline blue' colored slippers. A spot of cheer in a hostile world."
@@ -83308,11 +83308,11 @@ msgstr "溫暖的，柔軟的，「模擬貓藍」色的拖鞋。在這個充滿
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_maryjanes_white_pure
 msgid "Hit the jackpot with these classic 'pure white' colored Mary Janes."
-msgstr "這雙經典的「純白色」瑪麗珍鞋非常棒。"
+msgstr "這雙經典的「純白」色瑪麗珍鞋非常棒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_ridingboot_white_pure
 msgid "A pair of 'pure white' colored riding boots. Yee-haw!"
-msgstr "一雙「純白色」的長筒靴，呀哈！"
+msgstr "一雙「純白」色的長筒靴，呀哈！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sandals_blue_catcoon
 msgid "A pair of 'catcoon blue' colored sandals, with socks (for extra fashion)."
@@ -83324,19 +83324,19 @@ msgstr "你可以把腳伸進蓬鬆舒適的羽絨拖鞋中。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sneakers_blue_catcoon
 msgid "Wear these 'catcoon blue' colored sneakers surreptitiously."
-msgstr "穿上這雙「浣貓藍」的運動鞋偷偷地…"
+msgstr "偷偷地穿上這雙「浣貓藍」色的運動鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sneakers_green_cactus
 msgid "Wear these 'cactus green' colored sneakers surreptitiously."
-msgstr "穿上這雙「仙人掌綠」的運動鞋偷偷地…"
+msgstr "偷偷地穿上這雙「仙人掌綠」色的運動鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sneakers_orange_carrot
 msgid "Wear these 'carrot orange' colored sneakers surreptitiously."
-msgstr "偷偷地穿上「胡蘿蔔色」的橙色球鞋。"
+msgstr "偷偷地穿上這隻「胡蘿蔔橙」色的運動鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sneakers_red_auburn
 msgid "Wear these 'low pH red' colored sneakers surreptitiously."
-msgstr "穿上這雙「低PH紅」的運動鞋偷偷地…"
+msgstr "偷偷地穿上這雙「低pH紅」色的運動鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_gladiator
 msgid "A pair of battlemaster's sandals to wear into the arena."
@@ -83452,11 +83452,11 @@ msgstr "似乎能隱約地聞到蘋果的味道。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_workboot_brown_chocolate
 msgid "These 'insufficient chocolate brown' colored boots will protect you from stubbing your toes, but not a whole lot else."
-msgstr "這些「巧克力棕色」靴子可以保護你的腳趾，但是不是全部。"
+msgstr "這些「巧克力棕」色靴子可以保護你的腳趾，但是不是全部。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_workboot_tan_clay
 msgid "These 'muddy shoes tan' colored boots will protect you from stubbing your toes, but not a whole lot else."
-msgstr "這些「泥濘鞋子棕黃色」靴子可以保護你的腳趾，但是不是全部。"
+msgstr "這些「泥濘鞋子棕黃」色靴子可以保護你的腳趾，但是不是全部。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wx78_gladiator
 msgid "These boots were made for crushing, and that's just what they'll do."
@@ -83548,51 +83548,51 @@ msgstr "這根火腿棒是按照偉大的戰神帕格納的權杖製作的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_brown_beaver
 msgid "'Werebeaver brown' colored gloves with a buckle on the back to help you hold it together."
-msgstr "這扣子可以方便你把「海狸棕」的手套拿起來"
+msgstr "這扣子可以方便你把「海狸棕」色的手套拿起來。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_red_firehound
 msgid "'Firehound red' colored gloves with a buckle on the back to help you hold it together."
-msgstr "有著「火狗紅」的手套，帶扣在後面，方便你把它們放在一起。"
+msgstr "有著「火獵犬紅」色的手套，帶扣在後面，方便你把它們放在一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_teal_jungle
 msgid "'Jungle green' colored gloves with a buckle on the back to help you hold it together."
-msgstr "「叢林綠」色的手套，帶扣在後面，幫助你把它們放在一起。"
+msgstr "有著「叢林綠」色的手套，帶扣在後面，方便你把它們放在一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_white_ivory
 msgid "These 'houndbone white' colored gloves are worn by good looking people who look cool."
-msgstr "這「骨白色」的手套帶上後一定很裝逼。"
+msgstr "這「獵犬尸骨白」色的手套帶上後一定很裝逼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_green_hunters
 msgid "'Forest guardian green' colored gloves suitable for all types of persons, robots, and monsters."
-msgstr "森林守護綠」的手套適用所有人，機器人和怪物。"
+msgstr "「森林守護綠」色的手套适合所有人、機器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_grey_battleship
 msgid "'Cumulus gray' colored gloves suitable for all types of persons, robots, and monsters."
-msgstr "「灰[嗶]狼灰」的手套適用於所有人，機器人人和怪物狼和羊。"
+msgstr "「烏雲灰」色的手套适合所有人、機器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_white_pure
 msgid "'Pure white' colored gloves suitable for all types of persons, robots, and monsters."
-msgstr "有著「純白」的手套，適合所有類型的人，還有機器人和怪物。"
+msgstr "有著「純白」色的手套适合所有人、機器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_yellow_straw
 msgid "'Sulfuric yellow' colored gloves suitable for all types of persons, robots, and monsters."
-msgstr "「硫酸黃色」的手套適用所有人，機器人和怪物。"
+msgstr "「硫酸黃色」色的手套适合所有人、機器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_black_scribble
 msgid "These are gloves. They cover your hands. This pair is 'scribble black' colored."
-msgstr "這是手套，它能覆蓋你雙手。這雙是「塗鴉黑」的。"
+msgstr "這是手套，它能覆蓋你雙手。這雙是「塗鴉黑」色的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_blue_cornflower
 msgid "These are gloves. They cover your hands. This pair is 'rubber glove blue' colored."
-msgstr "這是手套，它能覆蓋你雙手。這雙是「橡膠套手藍」的。"
+msgstr "這是手套，它能覆蓋你雙手。這雙是「橡膠套手藍」色的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_red_higgsbury
 msgid "These are gloves. They cover your hands. This pair is 'Higgsbury red' colored."
-msgstr "這是手套，它能覆蓋你雙手。這雙是「紅A色」的。"
+msgstr "這是手套，它能覆蓋你雙手。這雙是「西格波利紅」色的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_white_smoke
 msgid "These are gloves. They cover your hands. This pair is 'smoke white' colored."
-msgstr "這是手套，它能覆蓋你雙手。這雙是「煙白色」的。"
+msgstr "這是手套，它能覆蓋你雙手。這雙是「煙白」色的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_gladiator
 msgid "These fists are ready for glorious battle."
@@ -88032,11 +88032,11 @@ msgstr "節日掛飾"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_10
 msgid "Magnificent Klaus Ornament"
-msgstr "華麗克勞斯飾品"
+msgstr "華麗的克勞斯飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_11
 msgid "Magnificent No-Eyed Deer Ornament"
-msgstr "華麗無眼鹿飾品"
+msgstr "華麗的無眼鹿飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_12
 msgid "Green Festive Bauble"
@@ -88052,7 +88052,7 @@ msgstr "紫色節日彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_3
 msgid "Magnificent Fuelweaver Ornament"
-msgstr "華麗影織者飾品"
+msgstr "華麗的影織者飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_4
 msgid "Red Festive Bauble"
@@ -88064,7 +88064,7 @@ msgstr "藍色節日彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_6
 msgid "Magnificent Krampus Ornament"
-msgstr "華麗坎普斯飾品"
+msgstr "華麗的坎普斯飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_7
 msgid "Pink Festive Bauble"
@@ -88076,7 +88076,7 @@ msgstr "華麗的彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_9
 msgid "Magnificent Antlion Ornament"
-msgstr "華麗蟻獅飾品"
+msgstr "華麗的蟻獅飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_pengull
 msgid "Pengull"
