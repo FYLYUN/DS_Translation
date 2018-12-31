@@ -83796,75 +83796,75 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
 msgid "These 'rubber glove blue' colored pants are perfect for playing checkers, or checking items off your to-do list."
-msgstr "这些“橡胶手套蓝”的裤子用来玩跳棋一定非常棒或者也可以用来核对你的待办事项列表。"
+msgstr "这些“橡胶手套蓝”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_green_laurel
 msgid "These 'willful green' colored pants are perfect for playing checkers, or checking items off your to-do list."
-msgstr "这些“任性绿”的裤子用来玩跳棋一定非常棒或者也可以用来核对你的待办事项列表。"
+msgstr "这些“任性绿”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_black_scribble
 msgid "Wearing these 'scribble black' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个乱涂的黑色裤子不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“涂鸦黑”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_brown_sepia
 msgid "Wearing these 'werebeaver brown' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个'海狸一般的褐色'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“海狸褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_green_forest
 msgid "Wearing these 'forest guardian green' colored pants won't help you survive... But you'll look great!"
-msgstr "穿戴这个“森林卫士绿”的裤子不会帮助你生存下去…但是你的外表会很酷炫！"
+msgstr "穿上这个“森林守护者绿”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_grey_dark
 msgid "Wearing these 'stormcloud gray' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个'暴雨来临前一般的灰'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“暴风云灰”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_tan_cream
 msgid "Wearing these 'no-tan-lines tan' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个'毫无日晒痕迹的棕色服装'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“晒痕棕褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pj_blue_agean
 msgid "No striped pajama squid were harmed in the making of these 'high pH blue' colored naptime pants."
-msgstr "制作这个碱蓝色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
+msgstr "制作这条“高pH值蓝”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pj_purple_mauve
 msgid "No striped pajama squid were harmed in the making of these 'snail mucus purple' colored naptime pants."
-msgstr "没有条纹的章鱼在这个蜗牛粘液紫色上的裤子上睡觉。"
+msgstr "制作这条“蜗牛粘液紫”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_black_scribble
 msgid "Wearing this 'scribble black' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个乱涂的黑色裙子不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“涂鸦黑”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_brown_sepia
 msgid "Wearing this 'werebeaver brown' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个'海狸一般的褐色'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“海狸褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_grey_dark
 msgid "Wearing this 'stormcloud gray' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿着这个'暴雨来临前一般的灰'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“暴风云灰”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_pink_pigman
 msgid "Wearing this 'pigman pink' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿戴这个“猪人粉”的裙子不会帮助你生存下去…但是你的外表会很酷炫！"
+msgstr "穿上这个“猪人粉”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_tan_cream
 msgid "Wearing this 'no-tan-lines tan' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个'毫无日晒痕迹的棕色服装'不会帮助你生存…但是你看起来会很酷！"
+msgstr "穿上这个“晒痕棕褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_blue_cornflower
 msgid "This 'rubber glove blue' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
-msgstr "这种“橡胶套手蓝色”的裙子不像是苏格兰褶裥短裙但是又能略微感觉到苏格兰的影子。"
+msgstr "这种“橡胶套手蓝”色的裙子不像是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_green_pistachio
 msgid "This 'science experiment green' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
-msgstr "这种“优级纯绿”的裙子不像是苏格兰褶裥短裙但是又能略微感觉到苏格兰的影子。"
+msgstr "这种“科学实验绿”色的裙子不像是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_tweed_knickerbocker_green_hunters
 msgid "Enjoy a knickerbocker glory in these 'forest guardian green' colored knickerbockers."
-msgstr "享受这些“森林卫士绿”色的有色灯笼裤吧。"
+msgstr "享受这些“森林守护者绿”色的有色灯笼裤吧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_tweed_knickerbocker_tan_grass
 msgid "Enjoy a knickerbocker glory in these 'dry grass tan' colored knickerbockers."
-msgstr "享受这些“干草靴”色的有色灯笼裤吧。"
+msgstr "享受这些“干草棕褐”色的有色灯笼裤吧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_gladiator
 msgid "They'll never see your powerful kicks coming."
@@ -83924,7 +83924,7 @@ msgstr "狂战士不需要裤子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_ice
 msgid "An old, traditional pair of trousers in a 'monastral blue' hue."
-msgstr "这是一条“星空蓝”的传统式长裤。"
+msgstr "这是一条“酞青”色的传统式长裤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_victorian
 msgid "Just pull them on and jump in the ring!"
@@ -83976,7 +83976,7 @@ msgstr "一只大肥鹅应该很适合做大餐，\n如果你能击败这头凶�
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_maxwell
 msgid "Maxwell's extended reign on the Nightmare Throne altered him in ways that are not yet fully understood. He continues to rely heavily on his tome, the Codex Umbra, as a result."
-msgstr "麦斯威尔在王座上的长期统治以一种未知的方式改变着他，因此他持续的依赖于他的书--那本暗影法典。"
+msgstr "麦斯威尔在梦魇王座上的长期统治以一种未知的方式改变着他，因此他持续的依赖于他的书--那本暗影法典。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_merm
 msgid "Merms inhabited the marshes of The Constant long before humans, and will probably exist long after."
@@ -84592,7 +84592,7 @@ msgstr "将你的头像设置为考拉象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_krampus
 msgid "Set your profile icon to Krampus.\n\nThe Krampus is compelled to visit all naughty denizens of The Constant."
-msgstr "将你的头像设置为坎普斯。"
+msgstr "将你的头像设置为坎普斯。\n\n坎普斯被迫去拜访每一位淘气的永恒之域居民。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mactusk
 msgid "Set your profile icon to a MacTusk."
@@ -84600,7 +84600,7 @@ msgstr "将你的头像设置为海象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mandrake
 msgid "Set your profile icon to squeaky mandrake.\n\n\"MEEP!\""
-msgstr "将你的头像设置为曼德拉草。"
+msgstr "将你的头像设置为曼德拉草。\n\n“MEEP!”"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_merm
 msgid "Set your profile icon to a merm."
@@ -84780,7 +84780,7 @@ msgstr "将你的头像设置为鸽子。\n\n咕咕咕。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_safe
 msgid "Set your profile icon to a fancy old safe."
-msgstr "将你的头像设置为一个漂亮的旧保险箱。"
+msgstr "将你的头像设置为一个怪诞的旧保险箱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_silvercoin
 msgid "Set your profile icon to a handful of Sapphire Medallions.\n\nBequeathed by the Gnaw itself!"
@@ -84800,7 +84800,7 @@ msgstr "将你的头像设置为咆哮的疯猪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_wererabbit
 msgid "Set your profile icon to a grinning bunnyman.\n\nBunnymen make their homes deep in the caverns of The Constant."
-msgstr "将你的头像设置为友善的兔人。\n\n兔人们把家安在深深的洞穴里。"
+msgstr "将你的头像设置为友善的兔人。\n\n兔人们把家安在永恒之域的洞穴深处。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_bearger
 msgid "Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n\nHappy Winter's Feast!"
@@ -84808,7 +84808,7 @@ msgstr "将你的头像设置为一个刚从冬眠沉睡中醒来的暴戾熊獾
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_claus
 msgid "Set your profile icon to the fearsome Klaus.\n\nThe Constant always seems to have an odd effect on Klaus this time of year; although we all tend to show our holiday spirit in different ways. Happy Winter's Feast!"
-msgstr "将你的头像设置为吓人的克劳斯。\n\n每年这个时候都会亘古不变地对克劳斯产生怪异的影响；尽管我们都倾向于用不同的方式来展示我们的节日精神。冬季盛宴快乐！"
+msgstr "将你的头像设置为吓人的克劳斯。\n\n每年这个时候永恒之域都会对克劳斯产生怪异的影响；尽管我们都倾向于用不同的方式来展示我们的节日精神。冬季盛宴快乐！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_deer
 msgid "Set your profile icon to a fuzzy No-Eyed Deer.\n\nHappy Winter's Feast!"
