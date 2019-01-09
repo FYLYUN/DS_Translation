@@ -3168,7 +3168,7 @@ msgstr "多么浪费木材"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DECIDUOUSTREE.BURNT
 msgid "I feel like I could have prevented that."
-msgstr "我感觉我本可以制止它的"
+msgstr "我感觉我本可以避免那样的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DECIDUOUSTREE.CHOPPED
 msgid "Take that, nature!"
@@ -3412,7 +3412,7 @@ msgstr "多么浪费木材"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN.BURNT
 msgid "I feel like I could have prevented that."
-msgstr "我感觉我本可以制止它的"
+msgstr "我感觉我本可以避免那样的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN.CHOPPED
 msgid "Take that, nature!"
@@ -3424,11 +3424,11 @@ msgstr "它非常松软。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "What a waste of wood."
-msgstr "多么浪费木材"
+msgstr "多么浪费木材。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.BURNT
 msgid "I feel like I could have prevented that."
-msgstr "我感觉我本可以制止它的"
+msgstr "我感觉我本可以避免那样的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgid "Take that, nature!"
@@ -3436,7 +3436,7 @@ msgstr "接招，大自然！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgid "This sad tree has no cones."
-msgstr "这棵夜茉莉没有球果"
+msgstr "这棵可怜的树没有球果。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EYEBRELLAHAT
 msgid "It watches over the wearer."
@@ -7040,11 +7040,11 @@ msgstr "多么浪费食物。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TWIGGYTREE.BURNT
 msgid "I feel like I could have prevented that."
-msgstr "我感觉我可以避免这些。"
+msgstr "我感觉我本可以避免那样的。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TWIGGYTREE.CHOPPED
 msgid "Take that, nature!"
-msgstr "接招，自然！"
+msgstr "接招，大自然！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TWIGGYTREE.DISEASED
 msgid "It looks sick. More so than usual."
@@ -62424,7 +62424,7 @@ msgstr "她需要加条秋裤了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_EGG_CRACKED.COMFY
 msgid "Cozier than a moose wrapped in duct tape!"
-msgstr "简直比被胶带缠起来的鹿角鹅还舒服！"
+msgstr "简直比被胶带缠起来的麋鹿还舒服！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.CONTENT
 msgid "Look how happy she is!"
@@ -62432,7 +62432,7 @@ msgstr "看她多快活呀！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.GENERIC
 msgid "That's my lil critter."
-msgstr "咱的小宠物。"
+msgstr "我的小宠物。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAE_PET.HUNGRY
 msgid "Poor gal's getting hungry."
@@ -62868,7 +62868,7 @@ msgstr "全是血和花花肠子，对吧？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOSSLING
 msgid "Feathery moose baby!"
-msgstr "长羽毛的小鹿角鹅。"
+msgstr "长羽毛的小麋鹿！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOUND.DUG
 msgid "Don't be mad!"
@@ -75388,15 +75388,15 @@ msgstr "骑士棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE
 msgid "Moose Figure"
-msgstr "鹿角鹅棋子"
+msgstr "麋鹿鹅棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_ALT
 msgid "Goose Figure"
-msgstr "鹿角鹅棋子"
+msgstr "麋鹿鹅棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_BUILDER
 msgid "Moose/Goose Figure"
-msgstr "鹿角鹅棋子"
+msgstr "麋鹿鹅棋子"
 
 #: STRINGS.NAMES.CHESSPIECE_MUSE
 msgid "Queenly Figure"
@@ -76800,7 +76800,7 @@ msgstr "月相盘"
 
 #: STRINGS.NAMES.MOONROCKCRATER
 msgid "Cratered Moonrock"
-msgstr "无月之眼"
+msgstr "带孔月石"
 
 #: STRINGS.NAMES.MOONROCKNUGGET
 msgid "Moon Rock"
@@ -76808,31 +76808,31 @@ msgstr "月之石"
 
 #: STRINGS.NAMES.MOONROCK_PIECES
 msgid "Moon Rubble"
-msgstr "月岩废墟"
+msgstr "月岩碎石"
 
 #: STRINGS.NAMES.MOOSE1
 msgid "Moose"
-msgstr "鹿角鹅"
+msgstr "麋鹿鹅"
 
 #: STRINGS.NAMES.MOOSE2
 msgid "Goose"
-msgstr "鹿角鹅"
+msgstr "麋鹿鹅"
 
 #: STRINGS.NAMES.MOOSEEGG1
 msgid "Moose Egg"
-msgstr "鹿角鹅蛋"
+msgstr "麋鹿鹅蛋"
 
 #: STRINGS.NAMES.MOOSEEGG2
 msgid "Goose Egg"
-msgstr "鹿角鹅蛋"
+msgstr "麋鹿鹅蛋"
 
 #: STRINGS.NAMES.MOOSENEST1
 msgid "Moose Nest"
-msgstr "鹿角鹅巢"
+msgstr "麋鹿鹅巢"
 
 #: STRINGS.NAMES.MOOSENEST2
 msgid "Goose Nest"
-msgstr "鹿角鹅巢"
+msgstr "麋鹿鹅巢"
 
 #: STRINGS.NAMES.MOSQUITO
 msgid "Mosquito"
@@ -76844,7 +76844,7 @@ msgstr "蚊子血袋"
 
 #: STRINGS.NAMES.MOSSLING
 msgid "Mosling"
-msgstr "幼鹿角鹅"
+msgstr "幼麋鹿鹅"
 
 #: STRINGS.NAMES.MOUND
 msgid "Grave"
@@ -76860,11 +76860,11 @@ msgstr "镐斧"
 
 #: STRINGS.NAMES.MUSHROOMBOMB
 msgid "Boomshroom"
-msgstr "提蘑"
+msgstr "蘑菇炸弹"
 
 #: STRINGS.NAMES.MUSHROOMBOMB_DARK
 msgid "Misery Boomshroom"
-msgstr "悲惨提蘑"
+msgstr "悲惨菇炸弹"
 
 #: STRINGS.NAMES.MUSHROOMHAT
 msgid "Funcap"
@@ -76872,11 +76872,11 @@ msgstr "蘑菇帽"
 
 #: STRINGS.NAMES.MUSHROOMSPROUT
 msgid "Sporecap"
-msgstr "子实体"
+msgstr "孢子菇"
 
 #: STRINGS.NAMES.MUSHROOMSPROUT_DARK
 msgid "Misery Sporecap"
-msgstr "悲惨子实体"
+msgstr "悲惨孢子菇"
 
 #: STRINGS.NAMES.MUSHROOM_FARM
 msgid "Mushroom Planter"
@@ -78452,7 +78452,7 @@ msgstr "暗影香炉"
 
 #: STRINGS.NAMES.TOADSTOOL
 msgid "Toadstool"
-msgstr "剧毒蕈蟾"
+msgstr "毒菌蟾蜍"
 
 #: STRINGS.NAMES.TOADSTOOL_CAP
 msgid "Toadstool"
@@ -78460,11 +78460,11 @@ msgstr "毒菌"
 
 #: STRINGS.NAMES.TOADSTOOL_CAP_DARK
 msgid "Misery Toadstool"
-msgstr "悲惨蕈蟾"
+msgstr "悲惨毒菌"
 
 #: STRINGS.NAMES.TOADSTOOL_DARK
 msgid "Misery Toadstool"
-msgstr "悲菌"
+msgstr "悲惨蟾蜍"
 
 #: STRINGS.NAMES.TOADSTOOL_HOLE
 msgid "Hole"
@@ -84572,7 +84572,7 @@ msgstr "将你的头像设置为青蛙。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_goosemoose
 msgid "Set your profile icon to a Goose. Or Moose. Or both."
-msgstr "将你的头像设置为鹿角鹅。"
+msgstr "将你的头像设置为鹅，或者麋鹿，或者两者兼备。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_hound
 msgid "Set your profile icon to a hound."
@@ -84828,7 +84828,7 @@ msgstr "将你的头像设置为一个温暖舒适的节日龙蝇。\n\n冬季�
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_goosemoose
 msgid "Set your profile icon to a holly, jolly Goose. Or Moose.\n\nHappy Winter's Feast!"
-msgstr "将你的头像设置为一个快活的冬青鹿角鹅。\n\n冬季盛宴快乐！"
+msgstr "将你的头像设置为一个快活的冬青麋鹿鹅。\n\n冬季盛宴快乐！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_chow
 msgid "This puppy has a chubby face you can't help but smush. So cute!"
@@ -84892,7 +84892,7 @@ msgstr "有哈奇帽装扮的魔法帽子"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
-msgstr "命运之箭折磨着这颗可怜的心脏。（情人节活动）"
+msgstr "命运之箭折磨着这颗可怜的心脏。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2
 msgid "Alas, some daggers through the heart are more literal than others."
@@ -84920,7 +84920,7 @@ msgstr "这个圆顶礼帽能展示你无可挑剔的风度。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.tophat_festive_bell_red_firehound
 msgid "A festive 'firehound red' colored tophat."
-msgstr "一顶“火狗红”色的节日帽。"
+msgstr "一顶“火猎犬红”色的节日帽。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_rag
 msgid "Give your torch some visual flare with these hastily wrapped, desiccated rags. Smoky!"
@@ -84956,7 +84956,7 @@ msgstr "制作这个箱子应该不会有切斯特受到伤害吧…但愿如此
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_sacred
 msgid "The history of an ancient people is locked away inside."
-msgstr "里面封存着一个古人的历史。（解谜限定_17）"
+msgstr "里面封存着一个古人的历史。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_steamertrunk
 msgid "NOTE: Doesn't steam."
@@ -86344,7 +86344,7 @@ msgstr "战车躯体"
 
 #: STRINGS.SKIN_NAMES.body_wx78_rose
 msgid "Fieldrose Vessel"
-msgstr "蔷薇乐园"
+msgstr "蔷薇容器"
 
 #: STRINGS.SKIN_NAMES.body_wx78_shadow
 msgid "Shadow Chassis"
@@ -87364,7 +87364,7 @@ msgstr "潜水服底裤"
 
 #: STRINGS.SKIN_NAMES.loading_bearger_yule
 msgid "Grumpy Bearger"
-msgstr "熊獾"
+msgstr "暴躁的熊獾"
 
 #: STRINGS.SKIN_NAMES.loading_critters
 msgid "Critters"
@@ -87372,11 +87372,11 @@ msgstr "小动物"
 
 #: STRINGS.SKIN_NAMES.loading_deerclops_yule
 msgid "The Eye That Roams"
-msgstr "独眼巨鹿"
+msgstr "那游荡的独眼"
 
 #: STRINGS.SKIN_NAMES.loading_dragonfly_yule
 msgid "Winter's Feastfly"
-msgstr "龙蝇"
+msgstr "冬季盛宴蝇"
 
 #: STRINGS.SKIN_NAMES.loading_goats_victorian
 msgid "Billy and Mumsy"
@@ -87384,7 +87384,7 @@ msgstr "比利和玛姆茜"
 
 #: STRINGS.SKIN_NAMES.loading_goosemoose_yule
 msgid "Jolly Goose/Moose"
-msgstr "鹿角鹅"
+msgstr "快活的麋鹿鹅"
 
 #: STRINGS.SKIN_NAMES.loading_maxwell
 msgid "Maxwell"
@@ -87984,7 +87984,7 @@ msgstr "青蛙"
 
 #: STRINGS.SKIN_NAMES.profileflair_goosemoose
 msgid "Moose/Goose"
-msgstr "鹿角鹅"
+msgstr "麋鹿鹅"
 
 #: STRINGS.SKIN_NAMES.profileflair_hound
 msgid "Hound"
@@ -93624,7 +93624,7 @@ msgstr "青蛙雨"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE
 msgid "Meese/Geese"
-msgstr "鹿角鹅"
+msgstr "麋鹿鹅"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS
 msgid "Grass"
@@ -93800,7 +93800,7 @@ msgstr "火鸡"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PETRIFICATION
 msgid "Forest Petrification"
-msgstr "石化树"
+msgstr "森林石化"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS
 msgid "Pigs"
@@ -98684,7 +98684,7 @@ msgstr "资源"
 
 #: STRINGS.UI.SANDBOXMENU.CLASSIC
 msgid "Classic"
-msgstr "古典的"
+msgstr "经典"
 
 #: STRINGS.UI.SANDBOXMENU.DARKSTART
 msgid "Dark"
