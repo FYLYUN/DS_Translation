@@ -39872,11 +39872,11 @@ msgstr "蠕虫来袭！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.GENERIC
 msgid "The sleeping Megadrilacea Oraduos."
-msgstr "沉睡的梅加德利雷西亚·奥拉杜斯"
+msgstr "沉睡的双嘴巨蚯蚓目生物。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE.OPEN
 msgid "Concentric rings of teeth for rapid ingestion."
-msgstr "牙齿的同心环是用来快速咽下的"
+msgstr "牙齿的同心环是用来快速咽下的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORMHOLE_LIMITED
 msgid "It will only last a few trips."
@@ -39916,11 +39916,11 @@ msgstr "简单的二进制，%s…开，或者关。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WX78.REVIVER
 msgid "I appreciate your commitment to group survival, %s."
-msgstr "我感谢您对群体生存的承诺。"
+msgstr "我感谢您对团体生存的承诺，%s。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWAMULET
 msgid "This amulet is glowing at the mid 530 nanometer wavelength."
-msgstr "这个护身符在530纳米波长中会发光发热"
+msgstr "这个护身符发出530纳米波长的光。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YELLOWGEM
 msgid "Perhaps it is similar to citrine."
@@ -103248,7 +103248,7 @@ msgstr "冰霜坟墓"
 
 #: STRINGS.SKIN_NAMES.kitten_black
 msgid "Black Kittykit"
-msgstr "黑罗Kitty"
+msgstr "黑色小浣猫"
 
 #: STRINGS.SKIN_NAMES.kitten_black_builder
 msgid "kitten_black_builder"
