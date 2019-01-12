@@ -5284,7 +5284,7 @@ msgstr "我们把叶子煮熟了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_FOOD.GENERIC
 msgid "I should offer it on the Altar of Gnaw."
-msgstr "我应该把它放在暴食者祭坛上祭献。"
+msgstr "我应该把它放在噬咬祭坛上祭献。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "Science says this will appease the sky God."
@@ -7808,7 +7808,7 @@ msgstr "这种材料不适合制作艺术品。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.NOTSTAFF
 msgid "The gods may frown were I to do that."
-msgstr "我这样做，上帝可能会不高兴的。"
+msgstr "我这样做，诸神可能会不高兴的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.SLEEPING
 msgid "Such sweet slumber... Maybe later."
@@ -8068,7 +8068,7 @@ msgstr "快滚开，可恶的疾病！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DUSK
 msgid "The sun is setting, darkness waits nearby."
-msgstr "太阳正在沉沦，黑暗正在暗处等待。"
+msgstr "太阳正在沉沦，黑暗正在等待。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_EAT.GENERIC
 msgid "Meat makes my heart sing!"
@@ -11744,11 +11744,11 @@ msgstr "这应该能满足神明的胃口。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "'Tis what the Gnaw desires, paltry though it is."
-msgstr "这就是暴食者所渴望的，尽管只够塞牙缝。"
+msgstr "这就是噬咬所渴望的，尽管只够塞牙缝。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "The Gnaw desires... not this."
-msgstr "暴食者的欲望... 不是这个"
+msgstr "噬咬的欲望... 不是这个"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Consumed by Hel's fire."
@@ -12896,7 +12896,7 @@ msgstr "那并非十分可敬。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STATUEGLOMMER.GENERIC
 msgid "A curious homage to the gods."
-msgstr "对上帝具有种好奇的敬意。"
+msgstr "对诸神具有种好奇的敬意。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STATUEHARP
 msgid "It must be Gunnar. The snakes took his head."
@@ -20396,7 +20396,7 @@ msgstr "我明白我们是在庆祝冻死。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINTER_FOOD3
 msgid "I don't even use a cane."
-msgstr "我甚至都不用手杖。"
+msgstr "我甚至都不用拐杖。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINTER_FOOD4
 msgid "It is unbound from time."
@@ -20524,7 +20524,7 @@ msgstr "你忽悠不了我的，植物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORM.WORM
 msgid "I didn't make that one! Honest!"
-msgstr "不是我做的那个！真的！"
+msgstr "那个不是我做的！真的！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORMHOLE.GENERIC
 msgid "It's worse knowing what the other part looks like."
@@ -20532,7 +20532,7 @@ msgstr "别的部分看起来更糟"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORMHOLE.OPEN
 msgid "I assure you that it smells worse than it looks."
-msgstr "我想你保证它比它看上去还要难闻。"
+msgstr "我向你保证它比它看上去还要难闻。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WORMHOLE_LIMITED
 msgid "It looks ill."
@@ -24644,7 +24644,7 @@ msgstr "我们可以把它放在祭坛上了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The goat lady said this was what the Gnaw wanted."
-msgstr "山羊女士说这是暴食者想要的。"
+msgstr "山羊女士说这是噬咬想要的。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "This is what it wants, but it's kinda puny."
@@ -24652,7 +24652,7 @@ msgstr "这是它想要的，但它有点小。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "We think the Gnaw wants something different."
-msgstr "我们认为暴食者想要不同的东西。"
+msgstr "我们认为噬咬想要不同的东西。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "It's okay. The next one will be better."
@@ -26856,7 +26856,7 @@ msgstr "李子在哪里？"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD7
 msgid "Apple juice?! Yes!!"
-msgstr "苹果汁？！是的！！"
+msgstr "苹果汁？！好耶！！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD8
 msgid "It makes our claws and tummy so warm."
@@ -37444,7 +37444,7 @@ msgstr "当我准备下一道菜的时候，应该把它翻过来。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR.GENERIC
 msgid "What is this \"Gnaw\", I wonder?"
-msgstr "我想知道这“暴食者”究竟是什么？"
+msgstr "我想知道这“噬咬”究竟是什么？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_ALTAR_BOLLARD
 msgid "A nice enough bollard."
@@ -37768,7 +37768,7 @@ msgstr "繁荣的文化中残存的一部分。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_RUBBLE_CATHEDRAL
 msgid "Interesting. It appears they didn't worship Gnaw."
-msgstr "有趣。它好像不崇拜暴食者。"
+msgstr "有趣。它好像不崇拜噬咬。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_RUBBLE_CHIMNEY
 msgid "Something must have knocked it down."
@@ -39744,7 +39744,7 @@ msgstr "一杯热茶的完美搅拌棒。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD4
 msgid "An object with negligible temporal drag."
-msgstr "一个具有微弱时间阻力的东西。"
+msgstr "一个可以忽略时光流逝的东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD5
 msgid "Such expertly prepared raspberry filling!"
@@ -39752,7 +39752,7 @@ msgstr "精心配制的覆盆子馅！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD6
 msgid "\"Plum\" is a 17th century term for \"fruit\", dear."
-msgstr "“水果”在17世纪时被称作“李子”，亲爱的。"
+msgstr "“李子”在17世纪时是对“水果”的称呼，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD7
 msgid "Pair it with a good book and you've a cure for the winter blues."
@@ -39760,7 +39760,7 @@ msgstr "配上一本好书你就有治愈冬季忧郁的方法了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD8
 msgid "A small enchantment keeps it a pleasant temperature."
-msgstr "一个小小的迷人之处可以保持一个宜人的温度。"
+msgstr "一个小小的魔法让它保持在宜人的温度。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD9
 msgid "I've always harbored a weakness for good 'nog."
@@ -42100,7 +42100,7 @@ msgstr "怎么了，没有土了吗？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DURIAN
 msgid "Ew, stinky!"
-msgstr "咦…臭臭的！"
+msgstr "噫…臭臭的！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.DURIAN_COOKED
 msgid "Yuck, it smells just as bad cooked!"
@@ -46228,7 +46228,7 @@ msgstr "看起来不太坏，考虑一下！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_FOOD3
 msgid "Gimme two of 'em and I can do a MacTusk impression."
-msgstr "给我两个，我可以做出个海象的印记。"
+msgstr "给我两个，我可以做出个海象的形象。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINTER_FOOD4
 msgid "Anyone else sense the overpowering stench of evil?"
@@ -59152,7 +59152,7 @@ msgstr "冷的话就振作！热的话就冷静下来！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD1
 msgid "Little man will crumble under my mighty teeth!"
-msgstr "小鬼你将会在我强有力的牙齿面前粉碎！"
+msgstr "小人将会在我强有力的牙齿下粉碎！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD2
 msgid "Does Wolfgang have sugar in moustache?"
@@ -59168,7 +59168,7 @@ msgstr "沃尔夫冈觉得这条水果面包有问题。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD5
 msgid "Ha! Wolfgang will eat log, just like beardman!"
-msgstr "哈！ 沃尔夫冈将要像大胡子伍德一样吃木头啦！"
+msgstr "哈！ 沃尔夫冈要像大胡子伍迪一样吃木头啦！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINTER_FOOD6
 msgid "Tiny yummy cakething make strong Wolfgang."
@@ -59772,7 +59772,7 @@ msgstr "我及时拿到了他。"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_EAT.YUCKY
 msgid "I'd rather chew on blubber balls."
-msgstr "我宁愿吃肉丸。"
+msgstr "我宁愿吃鲸脂球。"
 
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_ENCUMBERED.1
 msgid "Hnff..."
@@ -72936,31 +72936,31 @@ msgstr "咩，谢谢！"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.1
 msgid "The Gnaw craves {craving}... {part2}"
-msgstr "暴食者渴望 {craving}... {part2}"
+msgstr "噬咬渴望 {craving}... {part2}"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.2
 msgid "The Gnaw hungers for {craving}... {part2}"
-msgstr "暴食者急需{craving}... {part2}"
+msgstr "噬咬急需{craving}... {part2}"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.3
 msgid "The Gnaw desires {craving}... {part2}"
-msgstr "暴食者想要{craving}... {part2}"
+msgstr "噬咬想要{craving}... {part2}"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.4
 msgid "The Gnaw wants {craving}... {part2}"
-msgstr "暴食者需要{craving}... {part2}"
+msgstr "噬咬需要{craving}... {part2}"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.5
 msgid "The Gnaw craves {craving}!"
-msgstr "暴食者渴望 {craving}！"
+msgstr "噬咬渴望 {craving}！"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.6
 msgid "The Gnaw desires {craving}!"
-msgstr "暴食者需要{craving}！"
+msgstr "噬咬需要{craving}！"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS.7
 msgid "The Gnaw hungers for {craving}!"
-msgstr "暴食者急需{craving}！"
+msgstr "噬咬急需{craving}！"
 
 #: STRINGS.GOATMUM_CRAVING_HINTS_PART2.1
 msgid "I can tell, baa."
@@ -73052,15 +73052,15 @@ msgstr "{craving}这道菜做的好！这样的话那个野兽的欲望也该满
 
 #: STRINGS.GOATMUM_CRAVING_MATCH.3
 msgid "You found what the Gnaw craved!"
-msgstr "你发现了暴食者渴望的食物！"
+msgstr "你发现了噬咬渴望的食物！"
 
 #: STRINGS.GOATMUM_CRAVING_MATCH.4
 msgid "The Gnaw's pleased with your offering."
-msgstr "暴食者对你的祭品非常满意。"
+msgstr "噬咬对你的祭品非常满意。"
 
 #: STRINGS.GOATMUM_CRAVING_MATCH.5
 msgid "Mighty Gnaw! Feast now upon on {craving}!"
-msgstr "暴食者啊！请享用{craving}吧！"
+msgstr "噬咬啊！请享用{craving}吧！"
 
 #: STRINGS.GOATMUM_CRAVING_MISMATCH.1
 msgid "Well, it wasn't {craving}. But better than nothing!"
@@ -73080,7 +73080,7 @@ msgstr "结束了。"
 
 #: STRINGS.GOATMUM_LOST.2
 msgid "The Gnaw's plague is upon you."
-msgstr "暴食者的诅咒将降临到你的身上。"
+msgstr "噬咬的诅咒将降临到你的身上。"
 
 #: STRINGS.GOATMUM_LOST.3
 msgid "I'm sorry I couldn't help more."
@@ -73092,11 +73092,11 @@ msgstr "再见了。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.1
 msgid "If you can earn the Gnaw's favor... you might escape."
-msgstr "如果你能获得暴食者的赞赏…你也许可以逃离这里。"
+msgstr "如果你能获得噬咬的赞赏…你也许可以逃离这里。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.2
 msgid "The Gnaw's been around since I was just a lamb."
-msgstr "在我还是小羊羔的时候，暴食者就已经存在了。"
+msgstr "在我还是小羊羔的时候，噬咬就已经存在了。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.3
 msgid "Another of your kind passed through here once."
@@ -73104,7 +73104,7 @@ msgstr "曾经有你的同类成功的逃离了这里。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.4
 msgid "Favor from the Gnaw might recharge the old key."
-msgstr "获得暴食者的好感，也许它会补充旧钥匙的力量。"
+msgstr "获得噬咬的好感，也许它会补充旧钥匙的力量。"
 
 #: STRINGS.GOATMUM_TALK_GREETING.5
 msgid "You must cook, or you will perish."
@@ -73124,7 +73124,7 @@ msgstr "请快一点！"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.2
 msgid "The Gnaw is growing impatient!"
-msgstr "暴食者越来越不耐烦了！"
+msgstr "噬咬越来越不耐烦了！"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.3
 msgid "It must be fed, at all costs."
@@ -73132,7 +73132,7 @@ msgstr "它必须不惜一切代价地进食。"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.4
 msgid "The Gnaw's demands know no end."
-msgstr "暴食者的要求是永无止境的。"
+msgstr "噬咬的要求是永无止境的。"
 
 #: STRINGS.GOATMUM_TALK_GREETING_URGENT.5
 msgid "I believe in you. You can do this."
@@ -74640,7 +74640,7 @@ msgstr "我很荣幸。"
 
 #: STRINGS.MERM2_TALK_TRADE.6
 msgid "Gnaw smile on you."
-msgstr "暴食者在对你微笑。"
+msgstr "噬咬在对你微笑。"
 
 #: STRINGS.MERM_TALK_CLOSED.1
 msgid "Ya talk to ol'Mumsy yet?"
@@ -77164,7 +77164,7 @@ msgstr "紫月之眼"
 
 #: STRINGS.NAMES.QUAGMIRE_ALTAR
 msgid "The Altar of Gnaw"
-msgstr "暴食者祭坛"
+msgstr "噬咬祭坛"
 
 #: STRINGS.NAMES.QUAGMIRE_ALTAR_BOLLARD
 msgid "Post"
@@ -77216,7 +77216,7 @@ msgstr "红色标记"
 
 #: STRINGS.NAMES.QUAGMIRE_COIN4
 msgid "Gnaw's Favor"
-msgstr "暴食者的赞赏"
+msgstr "噬咬的赞赏"
 
 #: STRINGS.NAMES.QUAGMIRE_COOKEDSMALLMEAT
 msgid "Cooked Meat Scraps"
@@ -77384,11 +77384,11 @@ msgstr "铁栅栏"
 
 #: STRINGS.NAMES.QUAGMIRE_PARK_ANGEL
 msgid "Gnaw Worshipper"
-msgstr "暴食者崇拜者"
+msgstr "噬咬崇拜者"
 
 #: STRINGS.NAMES.QUAGMIRE_PARK_ANGEL2
 msgid "Gnaw Worshipper"
-msgstr "暴食者崇拜者"
+msgstr "噬咬崇拜者"
 
 #: STRINGS.NAMES.QUAGMIRE_PARK_FOUNTAIN
 msgid "Fountain"
@@ -80108,7 +80108,7 @@ msgstr "*砍价达人\n\n\n*特长：\n购物"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Has just the book for the occasion\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nFarming"
-msgstr "*拥有适合地书\n*可以查看食物是否为暴食者所渴求\n\n*特长：\n耕种"
+msgstr "*拥有适合地书\n*可以查看食物是否为噬咬所渴求\n\n*特长：\n耕种"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.willow
 msgid "*Logs burn longer on the fire\n\n\n\n*Expertise:\nCooking"
@@ -80116,7 +80116,7 @@ msgstr "*木头燃烧时间更长\n\n\n*特长：\n烹饪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
 msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
-msgstr "*提高附近烹煮锅的效率\n*可以查看食物是否为暴食者所渴求\n\n*特长：\n烹饪"
+msgstr "*提高附近烹煮锅的效率\n*可以查看食物是否为噬咬所渴求\n\n*特长：\n烹饪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
 msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
@@ -80164,7 +80164,7 @@ msgstr "老夫觉得眼皮很重"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_BUY.6
 msgid "GOOD LUCK. WITH GNAW."
-msgstr "祝你好运。去陪暴食者吧。"
+msgstr "祝你好运。去陪噬咬吧。"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_BUY.7
 msgid "THANK-YOU, LITTLE GOAT."
@@ -80184,7 +80184,7 @@ msgstr "呼！我们的家园被毁了"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_GREETING.4
 msgid "HRF! GNAW MAD AT PIGS"
-msgstr "呼！暴食者对猪人很恼火"
+msgstr "呼！噬咬对猪人很恼火"
 
 #: STRINGS.QUAGMIRE_ELDER_TALK_GREETING.5
 msgid "HRF! MOST GOATS NO HELP TO PIGS"
@@ -84276,7 +84276,7 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_forestaltar
 msgid "Equip this item to change your character's background portrait.\n\nThe Gnaw demands regular offerings of food on the Altar of Gnaw to sate its hunger."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n暴食者要求在暴食者祭坛上定期提供食物以填充它的无穷饥渴。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n噬咬要求在噬咬祭坛上定期提供食物以填充它的无穷饥渴。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_forestfire
 msgid "Equip this item to change your character's background portrait.\n\nThis forest was apparently visited by Willow in recent times."
@@ -84296,11 +84296,11 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_gravestones
 msgid "Equip this item to change your character's background portrait.\n\nThe lives of many goats were claimed by the Gnaw's plague. In the end, only a few remained."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n许多山羊的生命被暴食者的诅咒夺去了。最后，只有少数存留下来。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n许多山羊的生命被噬咬的诅咒夺去了。最后，只有少数存留下来。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard
 msgid "Equip this item to change your character's background portrait.\n\nMany residents of the Gorge turned to worshipping the Gnaw, hoping to be spared from its terrible plague."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n暴食沼地的许多居民纷纷转向崇拜暴食者，希望以此免遭可怕的诅咒。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n暴食沼地的许多居民纷纷转向崇拜噬咬，希望以此免遭可怕的诅咒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1
 msgid "Equip this item to change your character's background portrait."
@@ -84752,7 +84752,7 @@ msgstr "将你的头像设置为沼泽猪长者的悲惨形象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_coppercoin
 msgid "Set your profile icon to a handful of Old Coins.\n\nBequeathed by the Gnaw itself!"
-msgstr "将你的头像设置为一把旧硬币。\n\n由暴食者本尊所给予!"
+msgstr "将你的头像设置为一把旧硬币。\n\n由噬咬本尊所给予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_goatkid
 msgid "Set your profile icon to a portrait of sweet young Billiam."
@@ -84764,7 +84764,7 @@ msgstr "将你的头像设置为一只可亲的羊妈妈玛姆茜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_goldcoin
 msgid "Set your profile icon to a handful of Red Marks.\n\nBequeathed by the Gnaw itself!"
-msgstr "将你的头像设置为一把红色标记。\n\n由暴食者本尊所给予!"
+msgstr "将你的头像设置为一把红色标记。\n\n由噬咬本尊所给予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_merm
 msgid "Set your profile icon to that chatty mermified peddler."
@@ -84784,11 +84784,11 @@ msgstr "将你的头像设置为一个怪诞的旧保险箱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_silvercoin
 msgid "Set your profile icon to a handful of Sapphire Medallions.\n\nBequeathed by the Gnaw itself!"
-msgstr "将你的头像设置为一把蓝宝石徽章。\n\n由暴食者本尊所给予!"
+msgstr "将你的头像设置为一把蓝宝石徽章。\n\n由噬咬本尊所给予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_victorian_topazcoin
 msgid "Set your profile icon to a handful of Gnaw's Favors.\n\nBequeathed by the Gnaw itself!"
-msgstr "将你的头像设置为一把暴食者的赞赏。\n\n由暴食者本尊所给予!"
+msgstr "将你的头像设置为一把噬咬的赞赏。\n\n由噬咬本尊所给予!"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_waffle
 msgid "Set your profile icon to some tasty waffles.\n\nPart of a balanced breakfast."
@@ -87472,7 +87472,7 @@ msgstr "熙春宝箱"
 
 #: STRINGS.SKIN_NAMES.mysterybox_victorian_4
 msgid "The Gnaw's Chest"
-msgstr "暴食者的宝箱"
+msgstr "噬咬的宝箱"
 
 #: STRINGS.SKIN_NAMES.none
 msgid "Default"
@@ -87688,7 +87688,7 @@ msgstr "丰饶背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_forestaltar
 msgid "Altar of Gnaw Portrait"
-msgstr "暴食者祭坛背景"
+msgstr "噬咬祭坛背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_forestfire
 msgid "Forest Fire Portrait"
@@ -87708,11 +87708,11 @@ msgstr "草原背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_gravestones
 msgid "Gnaw Cemetery Portrait"
-msgstr "暴食者公墓背景"
+msgstr "噬咬公墓背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard
 msgid "Gnaw Worshipper Portrait"
-msgstr "暴食者崇拜者背景"
+msgstr "噬咬崇拜者背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_heart1
 msgid "Luxurious Stage Portrait"
@@ -90108,7 +90108,7 @@ msgstr "你这只奇怪的羊"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.6
 msgid "YOU FEED GNAW?"
-msgstr "你满足暴食者?"
+msgstr "你满足噬咬?"
 
 #: STRINGS.SWAMPIG_TALK_TO_WILSON.7
 msgid "(SNIFF SNIFF) (SNORT)"
@@ -90988,11 +90988,11 @@ msgstr "逃脱！"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC
 msgid "Escape the Gorge having fulfilled 15 or more of the Gnaw's cravings"
-msgstr "在献祭15道以上暴食者想要的美食后逃离暴食沼地"
+msgstr "在献祭15道以上噬咬想要的美食后逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE
 msgid "Gnaw's Gnosh"
-msgstr "暴食者盛宴"
+msgstr "噬咬盛宴"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC
 msgid "Escape the Gorge without having burned or ruined any meals"
@@ -91028,7 +91028,7 @@ msgstr "拒绝银器"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC
 msgid "Escape the Gorge without failing to fulfill any cravings"
-msgstr "在成功满足暴食者所有欲望的情况下逃离暴食沼泽"
+msgstr "在成功满足噬咬所有欲望的情况下逃离暴食沼泽"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE
 msgid "Taste Maker"
@@ -91044,7 +91044,7 @@ msgstr "急性子"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC
 msgid "Escape the Gorge having fulfilled 18 or more of the Gnaw's cravings"
-msgstr "在满足暴食者的欲望18次以上的情况下逃离暴食沼地"
+msgstr "在满足噬咬的欲望18次以上的情况下逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE
 msgid "Flavorville"
@@ -91056,7 +91056,7 @@ msgstr "找到或赢得一个蓝宝石徽章"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE
 msgid "Gnaw In The Sky With Sapphires"
-msgstr "暴食者的礼物"
+msgstr "噬咬的礼物"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC
 msgid "Find or earn a Red Mark"
@@ -91068,15 +91068,15 @@ msgstr "打上印记"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC
 msgid "Earn the Gnaw's Favor"
-msgstr "赢得暴食者的赞赏"
+msgstr "赢得噬咬的赞赏"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE
 msgid "Favored"
-msgstr "暴食者的青睐"
+msgstr "噬咬的青睐"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC
 msgid "Sacrifice something the Gnaw is craving 3 times in 3 minutes"
-msgstr "在三分钟内满足暴食者的欲望三次"
+msgstr "在三分钟内满足噬咬的欲望三次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE
 msgid "Fast Food"
@@ -91084,7 +91084,7 @@ msgstr "快餐"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC
 msgid "Sacrifice something the Gnaw is craving at least 9 times in one match"
-msgstr "在一场比赛中至少满足暴食者的欲望9次"
+msgstr "在一场比赛中至少满足噬咬的欲望9次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
 msgid "Spoiled Wyrm"
@@ -91092,7 +91092,7 @@ msgstr "受宠的妖怪"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
 msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
-msgstr "在一场比赛中至少满足暴食者的欲望3次"
+msgstr "在一场比赛中至少满足噬咬的欲望3次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE
 msgid "Cheat Day"
@@ -91100,7 +91100,7 @@ msgstr "放松日"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC
 msgid "Sacrifice something the Gnaw is craving at least 6 times in one match"
-msgstr "在一场比赛中至少满足暴食者的欲望6次"
+msgstr "在一场比赛中至少满足噬咬的欲望6次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE
 msgid "Eternal Cravings"
@@ -94568,7 +94568,7 @@ msgstr "你必须登录才能挑战\n战神帕格纳的战士们。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
 msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
-msgstr "你必须登录才能为\n暴食者祭坛准备贡品。"
+msgstr "你必须登录才能为\n噬咬祭坛准备贡品。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
 msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
@@ -94576,7 +94576,7 @@ msgstr "所有玩家都必须在线才能挑战\n战神帕格纳的战士们。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
 msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
-msgstr "所有玩家都必须在线才能为\n暴食者祭坛准备贡品。"
+msgstr "所有玩家都必须在线才能为\n噬咬祭坛准备贡品。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
 msgid "Log In"
@@ -94644,7 +94644,7 @@ msgstr "暴食"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
-msgstr "在这个门界中烹饪美味的菜肴来安抚不朽的暴食者吧。\n*穿过苔藓之门进入这世界吧。\n* 没有黑夜降临。\n*用你能找到的一切烹饪贡品，献给祭坛吧！"
+msgstr "在这个门界中烹饪美味的菜肴来安抚不朽的噬咬吧。\n*穿过苔藓之门进入这世界吧。\n* 没有黑夜降临。\n*用你能找到的一切烹饪贡品，献给祭坛吧！"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL
 msgid "Survival"
@@ -96064,7 +96064,7 @@ msgstr "限时活动-挑战战神帕格纳的战士们！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_FESTIVALEVENT.QUAGMIRE
 msgid "Prepare offerings for the Altar of Gnaw in this limited-time event!"
-msgstr "限时活动-为暴食者祭坛准备贡品吧！"
+msgstr "限时活动-为噬咬祭坛准备贡品吧！"
 
 #: STRINGS.UI.MAINSCREEN.TOOLTIP_HOST
 msgid "Start your own server"
@@ -96924,7 +96924,7 @@ msgstr "快节奏"
 
 #: STRINGS.UI.MVP_LOADING_WIDGET.QUAGMIRE.TITLES.tributes
 msgid "Gnaw Worshipper"
-msgstr "暴食者崇拜者"
+msgstr "噬咬崇拜者"
 
 #: STRINGS.UI.MYSTERYBOXSCREEN.BOXES
 msgid "My Chests"
@@ -101356,7 +101356,7 @@ msgstr "家庭共享账户没有参加锦标赛的资格。"
 
 #: STRINGS.UI.WXPLOBBYPANEL.TRIBUTES
 msgid "Gnaw's Cravings: {success} fulfilled and {failed} failed"
-msgstr "暴食者的渴求：{success}成功，{failed}失败"
+msgstr "噬咬的渴求：{success}成功，{failed}失败"
 
 #: STRINGS.UI.WXPLOBBYPANEL.WXP
 msgid "XP"
@@ -101432,7 +101432,7 @@ msgstr "红色标记已入手"
 
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_MILESTONE_3
 msgid "Gnaw's Favor Earned"
-msgstr "暴食者的赞赏已入手"
+msgstr "噬咬的赞赏已入手"
 
 #: STRINGS.UI.WXP_DETAILS.QUAGMIRE_NO_DUPLICATE_TRIUBUTES
 msgid "No Repeat Meals"
@@ -101848,19 +101848,19 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_bronze
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
-msgstr "将你的头像设置为被安抚的暴食者。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
+msgstr "将你的头像设置为被安抚的噬咬。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_gold
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth and came out on top in the Gnaw's great tournament."
-msgstr "将你的头像设置为被安抚的暴食者。\n\n你证明了你的实力，并在这次伟大的锦标赛中脱颖而出。"
+msgstr "将你的头像设置为被安抚的噬咬。\n\n你证明了你的实力，并在这次伟大的锦标赛中脱颖而出。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_participation
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou fulfilled your duty in the Gnaw's great tournament."
-msgstr "将你的头像设置为被安抚的暴食者。\n\n你在锦标赛中尽了最大的努力。"
+msgstr "将你的头像设置为被安抚的噬咬。\n\n你在锦标赛中尽了最大的努力。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_quagmiretournament_silver
 msgid "Set your profile icon to an appeased maw of Gnaw.\n\nYou proved your worth in the Gnaw's great tournament."
-msgstr "将你的头像设置为被安抚的暴食者。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
+msgstr "将你的头像设置为被安抚的噬咬。\n\n你在这次伟大的锦标赛中证明了自己的实力。"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_quagmiretournamentbronze
 msgid "Burnished Cornucopia Portrait"
@@ -101876,19 +101876,19 @@ msgstr "白银丰饶背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_bronze
 msgid "Burnished Icon of Gnaw"
-msgstr "青铜暴食者头像"
+msgstr "青铜噬咬头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_gold
 msgid "Golden Icon of Gnaw"
-msgstr "黄金暴食者头像"
+msgstr "黄金噬咬头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_participation
 msgid "Icon of Gnaw"
-msgstr "暴食者头像"
+msgstr "噬咬头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_quagmiretournament_silver
 msgid "Sterling Icon of Gnaw"
-msgstr "白银暴食者头像"
+msgstr "白银噬咬头像"
 
 #: STRINGS.THANKS_POPUP.GORGE_TOURNAMENT
 msgid "Thanks for participating in the\nGorge Tournament"
