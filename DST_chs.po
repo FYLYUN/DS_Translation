@@ -1624,7 +1624,7 @@ msgstr "我应该建立…一台起重机…"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ENCUMBERED.3
 msgid "Lift... with your back..."
-msgstr "升降机…与你的背…"
+msgstr "起重机…与你的背…"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_ENCUMBERED.4
 msgid "This isn't... gentleman's work..."
@@ -1688,7 +1688,7 @@ msgstr "我快要饿死了！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HUNT_BEAST_NEARBY
 msgid "This track is fresh. The beast must be nearby."
-msgstr "这个气味还很新鲜。那野兽肯定就在附近。"
+msgstr "这个脚印还很新鲜。那野兽肯定就在附近。"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_HUNT_LOST_TRAIL
 msgid "The beast's trail ends here."
@@ -1708,7 +1708,7 @@ msgstr "我背不了更多的东西！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_KLAUS_CALLFORHELP
 msgid "It called for help!"
-msgstr "它需要帮助！"
+msgstr "它正寻求帮助！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_KLAUS_ENRAGE
 msgid "There's no way to beat it now!!"
@@ -1772,7 +1772,7 @@ msgstr "我太饿了睡不着，我的肚子正在咕咕叫！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NOMOUNTEDGIFT
 msgid "I should get off my beefalo first."
-msgstr "我要离开我的牛首。"
+msgstr "我得先从我的皮弗娄牛身上下来。"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_NONIGHTSIESTA
 msgid "Night is for sleeping, not taking siestas."
@@ -1844,7 +1844,7 @@ msgstr "吾王！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_RUINS_RESET
 msgid "All the monsters came back!"
-msgstr "妖怪们都回来啦！"
+msgstr "所有的怪物都回来啦！"
 
 #: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_SACREDCHEST_NO
 msgid "It didn't like that."
@@ -2112,7 +2112,7 @@ msgstr "那些灰烬完成了它们的工作。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_EYE_BONE
 msgid "The eyebone was consumed by fire in the teleportation!"
-msgstr "那个眼珠在传送中被付诸一炬了！"
+msgstr "那个眼骨在传送中被付诸一炬了！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgid "The flower was consumed by fire in the teleportation!"
@@ -2132,7 +2132,7 @@ msgstr "它需要静静。我也是。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.DESTABILIZING
 msgid "The gateway is destabilizing."
-msgstr "门要塌啦。"
+msgstr "那大门不太稳定。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.OFF
 msgid "The essential components are still intact."
@@ -2148,7 +2148,7 @@ msgstr "我能感觉它散发着能量。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.OFF
 msgid "Something must power it."
-msgstr "一定有东西能给它充能"
+msgstr "一定有东西能给它充能。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.ON
 msgid "A truly unsettling light."
@@ -2172,7 +2172,7 @@ msgstr "有什么邪恶的力量笼罩着这座城市和这里人们。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_4
 msgid "The people are shedding their skins. They look different underneath."
-msgstr "人们的皮肤开始脱落，变成了另一种生物。"
+msgstr "人们的皮肤开始脱落，变成了另一种存在。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_5
 msgid "It shows a massive, technologically advanced city."
@@ -2212,7 +2212,7 @@ msgstr "它看起来像小丑的货币。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE
 msgid "Seems sterile enough."
-msgstr "看似挺干净"
+msgstr "看似挺干净。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASALT
 msgid "That's too strong to break through!"
@@ -2256,7 +2256,7 @@ msgstr "厚皮毛的毯子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_FURRY
 msgid "It's so warm and comfy."
-msgstr "真是又暖和又舒服"
+msgstr "真是又暖和又舒服。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_STRAW
 msgid "Looks comfy, but it smells like mildew."
@@ -2264,7 +2264,7 @@ msgstr "看起来很舒服，但是闻起来像发霉。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.GENERIC
 msgid "To bee or not to bee."
-msgstr "遇到蜜蜂或者不遇到蜜蜂"
+msgstr "遇到蜜蜂或者不遇到蜜蜂。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.HELD
 msgid "Careful!"
@@ -2308,7 +2308,7 @@ msgstr "它是一只牛！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.NAKED
 msgid "Aww, he's so sad."
-msgstr "啊，他看起来很难过"
+msgstr "啊，他看起来很难过。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.ORNERY
 msgid "It looks deeply angry."
@@ -2832,7 +2832,7 @@ msgstr "我必须等某个人离开了才能进去。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
 msgid "The earth itself rejects me!"
-msgstr "泥煤，地球本身拒绝我！"
+msgstr "地球本身拒绝我！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
 msgid "I bet there's all sorts of things to discover down there."
@@ -2884,7 +2884,7 @@ msgstr "这是一个石头做的象。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
 msgid "The chess pieces are moving themselves!"
-msgstr "棋子正在移动自己！"
+msgstr "棋子正在自己移动！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgid "That thing's the leashed of my worries."
@@ -2916,7 +2916,7 @@ msgstr "没错，这是一匹马。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
 msgid "The chess pieces are moving themselves!"
-msgstr "棋子正在移动自己！"
+msgstr "棋子正在自己移动！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MOOSEGOOSE
 msgid "Eurgh. It's so lifelike."
@@ -2940,7 +2940,7 @@ msgstr "它比看起来更重。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgid "The chess pieces are moving themselves!"
-msgstr "棋子正在移动自己！"
+msgstr "棋子正在自己移动！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESTER
 msgid "Otto von Chesterfield, Esq."
@@ -4136,15 +4136,15 @@ msgstr "去看看怎么回事！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "It's a knightmare!"
-msgstr "这是个梦魇！"
+msgstr "这是个骑士！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KOALEFANT_SUMMER
 msgid "Adorably delicious."
-msgstr "非常可口"
+msgstr "非常可口。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KOALEFANT_WINTER
 msgid "It looks warm and full of meat."
-msgstr "它看起来又暖和肉又多"
+msgstr "它看起来又暖和肉又多。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRAMPUS
 msgid "He's going after my stuff!"
@@ -4212,7 +4212,7 @@ msgstr "这顶帽子充满科学的力量。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_FEATHERCROWNHAT
 msgid "Those fluffy feathers make me want to run!"
-msgstr "这些蓬松的羽毛让我产生了逃跑的冲动！"
+msgstr "这些蓬松的羽毛让我想要狂奔！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.LAVAARENA_HEALINGFLOWERHAT
 msgid "The blossom interacts well with healing magic."
@@ -5812,7 +5812,7 @@ msgstr "这烧的真旺！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.REEDS.GENERIC
 msgid "It's a clump of reeds."
-msgstr "一簇芦苇"
+msgstr "一簇芦苇。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.REEDS.PICKED
 msgid "All the useful reeds have already been picked."
@@ -5820,7 +5820,7 @@ msgstr "所有有用的芦苇都被采摘掉了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.REFLECTIVEVEST
 msgid "Keep off, evil sun!"
-msgstr "快滚吧，毒太阳"
+msgstr "快滚吧，毒太阳！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RELIC
 msgid "Ancient household goods."
@@ -8352,7 +8352,7 @@ msgstr "狡猾的魔鬼。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TORCH_OUT
 msgid "My light is quenched!"
-msgstr "我的光是粹过火的"
+msgstr "我的光熄灭了！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_TOWNPORTALTELEPORT
 msgid "Fear not! I have arrived!"
@@ -18188,15 +18188,15 @@ msgstr "我应该把它和别的东西混在一起。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.GENERIC
 msgid "Let's see how the wyrm likes this."
-msgstr "看看它喜欢这个不。"
+msgstr "看看妖虫喜欢这个不。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "This is exactly what the wyrm wants."
-msgstr "这正是它想要的。"
+msgstr "这正是妖虫想要的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "Well, I suppose it will tide the wyrm over."
-msgstr "好吧，我想这会让他平息的。"
+msgstr "好吧，我想这会让妖虫平息的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Nope. It won't eat that."
@@ -37536,7 +37536,7 @@ msgstr "我想它准备好转变了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The exact thing to placate the great wyrm."
-msgstr "准确的安抚伟大的巨龙的东西。"
+msgstr "准确的安抚伟大的妖虫的东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "It's the correct food, although an insufficient amount."
@@ -37544,7 +37544,7 @@ msgstr "这是正确的食物，尽管数量不够。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Not the proper dish for the great wyrm."
-msgstr "不是合适的给伟大巨龙的菜肴。"
+msgstr "不是合适的给伟大妖虫的菜肴。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Completely carbonized."
@@ -52900,7 +52900,7 @@ msgstr "嘎吱声让人心烦意乱。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_LOSE
 msgid "N-nice sky wyrm... Uh-oh."
-msgstr "很，很棒的的天空巨龙。。。哇哦。"
+msgstr "很，很棒的的天空巨虫...呃哦。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_MEALBURNT
 msgid "What a waste of food!"
@@ -78076,7 +78076,7 @@ msgstr "铲子"
 
 #: STRINGS.NAMES.SHROOM_SKIN
 msgid "Shroom Skin"
-msgstr "蕈蟾酥"
+msgstr "蘑菇皮"
 
 #: STRINGS.NAMES.SIESTAHUT
 msgid "Siesta Lean-to"
@@ -91088,7 +91088,7 @@ msgstr "在一场比赛中至少满足噬咬的欲望9次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
 msgid "Spoiled Wyrm"
-msgstr "受宠的妖怪"
+msgstr "受宠的妖虫"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
 msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
