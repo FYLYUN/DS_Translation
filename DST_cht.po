@@ -2864,15 +2864,15 @@ msgstr "它很小,很黑，而且聞起來像燒焦的木頭。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSJUNK1
 msgid "A pile of broken chess pieces."
-msgstr "一堆棋子。"
+msgstr "一堆破棋子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSJUNK2
 msgid "Another pile of broken chess pieces."
-msgstr "又一堆棋子。"
+msgstr "又一堆破棋子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSJUNK3
 msgid "Even more broken chess pieces."
-msgstr "更多的棋子。"
+msgstr "更多的破棋子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BEARGER
 msgid "It was a lot bigger up close."
@@ -2880,7 +2880,7 @@ msgstr "它近看起來大多了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgid "It's a stone bishop."
-msgstr "這是一個石頭做的象。"
+msgstr "這是個石頭主教。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
 msgid "The chess pieces are moving themselves!"
@@ -23184,7 +23184,7 @@ msgstr "你還好嗎，小樹叢？"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.GENERIC
 msgid "Grass, next best thing to silk."
-msgstr "草，僅此於絲綢的至寶。"
+msgstr "草，僅次於絲綢的至寶。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.PICKED
 msgid "Picked down to the stems."
@@ -29764,7 +29764,7 @@ msgstr "生命帶來痛苦，痛苦帶來生命"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEALINGSTAFF
 msgid "I could restore my allies."
-msgstr "我可以給我的盟友加血。"
+msgstr "我可以治療我的盟友。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.HEATROCK.COLD
 msgid "Just a moderately cold lump of rock."
@@ -49624,11 +49624,11 @@ msgstr "有個更厲害的來了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MARBLE
 msgid "This marble's real fancy."
-msgstr "這個大理石原本模樣"
+msgstr "這個大理石真的很漂亮。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MARBLEBEAN
 msgid "That couldn't possibly work."
-msgstr "不可能的工作。"
+msgstr "這是不可能的。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MARBLEBEAN_SAPLING
 msgid "Uh, it's growing? Maybe?"
@@ -52724,7 +52724,7 @@ msgstr "奇特的小飾品。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTER_ORNAMENTLIGHT
 msgid "Finally, something with wiring."
-msgstr "最後，電線做的東西。"
+msgstr "終於，一些電線做的東西。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTER_TREE.BURNING
 msgid "Such a shame."
@@ -72676,7 +72676,7 @@ msgstr "上面寫著「快救我出來！」下面還刻著「開玩笑的啦。
 
 #: STRINGS.EPITAPHS.25
 msgid "It reads \"Pulvis Et Umbra Sumus.\""
-msgstr "上面寫著 「只是滄海一粟。」"
+msgstr "上面用拉丁文寫著 「我們不過是影子和塵土。」"
 
 #: STRINGS.EPITAPHS.26
 msgid "An engraving of their last words: \"I love it so much I could just die!\""
@@ -84360,7 +84360,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_portal
 msgid "Equip this item to change your character's background portrait.\n\nAfter defeating Battlemaster Pugna and reactivating the Molten Gateway, the survivors found themselves flung into the plagued Gate Realm of the Gorge."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n在打敗戰神帕格納並重新激活熔融之門後，倖存者發現他們又被扔進了一個被詛咒的門界。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n在打敗戰神帕格納並重新激活熔融之門後，倖存者發現他們又被扔進了一個瘟疫肆虐的門界。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pothanger
 msgid "Equip this item to change your character's background portrait."
@@ -90256,7 +90256,7 @@ msgstr "梅圖斯已經知曉"
 
 #: STRINGS.THANKS_POPUP.ARG
 msgid "Pulvis et umbra sumus"
-msgstr "只是滄海一粟"
+msgstr "我們不過是影子和塵土"
 
 #: STRINGS.THANKS_POPUP.CUPID
 msgid "Happy Valentine's Day\nfrom your friends at Klei"
@@ -91972,7 +91972,7 @@ msgstr "打開物品欄"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.47
 msgid "Open Crafting"
-msgstr "打開技藝"
+msgstr "打開製作欄"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.48
 msgid "Inv Left"
@@ -94636,7 +94636,7 @@ msgstr "熔爐"
 
 #: STRINGS.UI.GAMEMODES.LAVAARENA_DESCRIPTION
 msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
-msgstr "在這個門界中向戰神帕格納證明自己吧。\n*穿過熔融之門進入這世界吧。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能找到的一切武器吧！"
+msgstr "在這個門界中向戰神帕格納證明自己吧。\n*通過熔融之門來到這個世界。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能找到的一切武器吧！"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE
 msgid "The Gorge"
@@ -94644,7 +94644,7 @@ msgstr "暴食"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
-msgstr "在這個門界中烹飪美味的菜肴來安撫不朽的噬咬吧。\n*穿過苔蘚之門進入這世界吧。\n* 沒有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
+msgstr "在這個門界中烹飪美味的菜肴來安撫不朽的噬咬吧。\n*通過苔蘚之門來到這個世界。\n* 沒有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL
 msgid "Survival"
