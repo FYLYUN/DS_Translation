@@ -14664,7 +14664,7 @@ msgstr "真是烦人的小虫子"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOUNT_LOWHEALTH
 msgid "Say, pal, you don't look so good."
-msgstr "说,朋友，你看上去不是很好。"
+msgstr "嘿，伙计，你看上去状态不佳。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_NODANGERAFK
 msgid "I must be ever vigilant!"
@@ -14984,7 +14984,7 @@ msgstr "我可以把它从我的遗愿清单上划掉了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORDRAGONFLY
 msgid "That's some fly mail."
-msgstr "这是些飞行动物的指甲。"
+msgstr "那是某种苍蝇的盔甲。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ARMORGRASS
 msgid "Direct confrontation is quite gauche."
@@ -16380,7 +16380,7 @@ msgstr "肉球茎的士兵。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EYETURRET
 msgid "Some of my better work."
-msgstr "我最好的一些工作。"
+msgstr "我最好的一些作品。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.EYETURRET_ITEM
 msgid "Now it just needs to be set up."
@@ -27568,7 +27568,7 @@ msgstr "蚊子！我的血管就是你们的盛宴！"
 
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOUNT_LOWHEALTH
 msgid "This beast... is not long for this world."
-msgstr "这个怪物…在这个世上时间不长了。"
+msgstr "这头野兽…在这个世上时间不长了。"
 
 #: STRINGS.CHARACTERS.WENDY.ANNOUNCE_NODANGERAFK
 msgid "I can't let my guard down right now..."
@@ -28452,7 +28452,7 @@ msgstr "想象一下，一片随风波动的花海…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_SLEEP
 msgid "Does it impart an eternal slumber?"
-msgstr "它正在透露一个不朽的睡眠吗？"
+msgstr "它能让人永久长眠吗？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BOOK_TENTACLES
 msgid "Does this world need more beasts?"
@@ -34292,7 +34292,7 @@ msgstr "那可违反了基本的物理规律"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.AMULET
 msgid "A relic from another time."
-msgstr "一个古代遗迹"
+msgstr "来自另一个时代的遗物。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ANCIENT_ALTAR
 msgid "A monument to some long dead god."
@@ -34356,7 +34356,7 @@ msgstr "这里面很宽敞"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMORWOOD
 msgid "Crude plate mail cobbled together from log sections."
-msgstr "连在一起的钢板"
+msgstr "拼接在一起的刨平原木。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY
 msgid "A protective shroud that transfers attacks to another dimension."
@@ -34628,11 +34628,11 @@ msgstr "蜂群的巢"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEMINE
 msgid "A dangerous mine filled with Antophila."
-msgstr "填满了Antophila的危险地雷。"
+msgstr "装满了蜜蜂类生物的危险地雷。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEMINE_MAXWELL
 msgid "A dangerous mine filled with Culicidae."
-msgstr "一个装满了蚊子的危险地雷。"
+msgstr "装满了按蚊属生物的危险地雷。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEQUEEN
 msgid "The workers ferociously protect her."
@@ -35856,7 +35856,7 @@ msgstr "这里什么也没有。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FIRESUPPRESSOR.ON
 msgid "Pitch that ice!"
-msgstr "扔了那块冰！"
+msgstr "投掷冰块！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FISH
 msgid "Some kind of whitefish, I believe."
@@ -36576,7 +36576,7 @@ msgstr "它的唾液像熔岩那样。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVA_POND
 msgid "Molten rock. Best not to get too close."
-msgstr "融化的岩石，最好不要接近。"
+msgstr "熔化的岩石，最好不要接近。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVA_POND_ROCK
 msgid "Recently cooled igneous rock. Dangerous."
@@ -38004,11 +38004,11 @@ msgstr "我讨厌把自己屁股弄湿。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER.BURNT
 msgid "I can't read any measurements from that husk."
-msgstr "从那个外壳上我看不出大校"
+msgstr "我没法从那个残骸上读出测量结果。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RAINOMETER.GENERIC
 msgid "Measure before you act."
-msgstr "做之前好好揣摩下"
+msgstr "行动之前得先衡量一下。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RATATOUILLE
 msgid "Nicoise, so nutritious!"
@@ -39724,11 +39724,11 @@ msgstr "我总有一天得教会这些孩子怎么缝东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER.BURNT
 msgid "I can't read any measurements from that husk."
-msgstr "从那个外壳上我看不出大校"
+msgstr "我没法从那个残骸上读出测量结果。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTEROMETER.GENERIC
 msgid "Measure before you act."
-msgstr "做之前好好揣摩下"
+msgstr "行动之前得先衡量一下。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINTER_FOOD1
 msgid "What a delightful little individual."
@@ -49960,7 +49960,7 @@ msgstr "看起来很不错。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_FARM.ROTTEN
 msgid "Not much use with a dead log."
-msgstr "使用无效的日志没啥用。"
+msgstr "死掉的木头没有用。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_FARM.SNOWCOVERED
 msgid "It's real cold out."
@@ -51004,7 +51004,7 @@ msgstr "他等一个女人到来直到破损。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.RELIC.GENERIC
 msgid "Hand craftsmanship is old hat. Mass production is the future."
-msgstr "老帽子是手工工艺，在未来可以大量生产。"
+msgstr "手工制作已经过时了，流水线生产才是未来。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.RESEARCHLAB.BURNT
 msgid "Can I make the next one?"
@@ -61336,7 +61336,7 @@ msgstr "啊啊啊！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgid "It's calling to me!"
-msgstr "它在叫我！"
+msgstr "它在呼唤我！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DECIDUOUSTREE.POISON
 msgid "You're due for a chopping."
@@ -74812,7 +74812,7 @@ msgstr "背包"
 
 #: STRINGS.NAMES.BACONEGGS
 msgid "Bacon and Eggs"
-msgstr "鸡蛋火腿"
+msgstr "培根煎蛋"
 
 #: STRINGS.NAMES.BALLOON
 msgid "Balloon"
@@ -75248,7 +75248,7 @@ msgstr "猫帽"
 
 #: STRINGS.NAMES.CAVEIN_BOULDER
 msgid "Boulder"
-msgstr "巨砾"
+msgstr "卵石"
 
 #: STRINGS.NAMES.CAVE_BANANA
 msgid "Cave Banana"
@@ -75792,11 +75792,11 @@ msgstr "眼球草"
 
 #: STRINGS.NAMES.EYETURRET
 msgid "Houndius Shootius"
-msgstr "恒迪尤斯·舒提尤斯"
+msgstr "眼球镭射塔"
 
 #: STRINGS.NAMES.EYETURRET_ITEM
 msgid "Houndius Shootius"
-msgstr "恒迪尤斯·舒提尤斯"
+msgstr "眼球镭射塔"
 
 #: STRINGS.NAMES.FAST_FARMPLOT
 msgid "Improved Farm"
@@ -76672,11 +76672,11 @@ msgstr "暗影钥匙"
 
 #: STRINGS.NAMES.MAXWELLLIGHT
 msgid "Maxwell's Light"
-msgstr "麦斯威尔之光"
+msgstr "麦斯威尔的火炬"
 
 #: STRINGS.NAMES.MAXWELLLOCK
 msgid "Nightmare Lock"
-msgstr "噩梦锁头"
+msgstr "梦魇锁头"
 
 #: STRINGS.NAMES.MAXWELLPHONOGRAPH
 msgid "Maxwell's Phonograph"
@@ -76684,7 +76684,7 @@ msgstr "麦斯威尔的留声机"
 
 #: STRINGS.NAMES.MAXWELLTHRONE
 msgid "Nightmare Throne"
-msgstr "噩梦王座"
+msgstr "梦魇王座"
 
 #: STRINGS.NAMES.MEAT
 msgid "Meat"
@@ -76744,7 +76744,7 @@ msgstr "远古守卫者"
 
 #: STRINGS.NAMES.MINOTAURCHEST
 msgid "Large Ornate Chest"
-msgstr "大豪华宝箱"
+msgstr "华丽大宝箱"
 
 #: STRINGS.NAMES.MINOTAURHORN
 msgid "Guardian's Horn"
@@ -76980,7 +76980,7 @@ msgstr "懒惰的探索者"
 
 #: STRINGS.NAMES.PANDORASCHEST
 msgid "Ornate Chest"
-msgstr "装饰箱"
+msgstr "华丽宝箱"
 
 #: STRINGS.NAMES.PANFLUTE
 msgid "Pan Flute"
@@ -78524,11 +78524,11 @@ msgstr "麦斯威尔的狗牙陷阱"
 
 #: STRINGS.NAMES.TREASURECHEST
 msgid "Chest"
-msgstr "宝箱"
+msgstr "箱子"
 
 #: STRINGS.NAMES.TREASURECHEST_TRAP
 msgid "Treasure Chest"
-msgstr "宝箱陷阱"
+msgstr "陷阱箱"
 
 #: STRINGS.NAMES.TRINKET_1
 msgid "Melty Marbles"
@@ -83220,7 +83220,7 @@ msgstr "输入 /chicken 来翩翩鸡舞！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.emote_dance_robot
 msgid "Type /robot to do the robot!"
-msgstr "输入 /robot 来跳段“机械”舞！"
+msgstr "输入 /robot 来跳段机械舞！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.emote_dance_step
 msgid "Type /step to perform a step dance."
@@ -85388,7 +85388,7 @@ msgstr "这奇怪的名字让人熟练地想起了一位朋友。（鸡年活动
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_stocking_cap_green_forest
 msgid "One might wear this 'forest guardian green' winter hat on a cozy night around a campfire. Or, hey, they might not."
-msgstr "这顶'守护森林绿'的帽子很适合在夜晚烤篝火时候带。呃，好像也没人愿意带这个。"
+msgstr "这顶“森林守护者绿”色的帽子很适合在夜晚烤篝火时候带。呃，好像也没人愿意带这个。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wolfgang_combatant
 msgid "Wolfgang's no stranger to the art of pugilism."
@@ -86628,11 +86628,11 @@ msgstr "颂歌表情"
 
 #: STRINGS.SKIN_NAMES.emote_dance_chicken
 msgid "Chicken Dance Emote"
-msgstr "火鸡舞蹈表情"
+msgstr "火鸡舞表情"
 
 #: STRINGS.SKIN_NAMES.emote_dance_robot
 msgid "Robot Dance Emote"
-msgstr "“机械”舞表情"
+msgstr "机械舞表情"
 
 #: STRINGS.SKIN_NAMES.emote_dance_step
 msgid "Step Dance Emote"
@@ -88360,7 +88360,7 @@ msgstr "姜饼箱"
 
 #: STRINGS.SKIN_NAMES.treasurechest_posh
 msgid "Treasured Chest"
-msgstr "珍贵的宝箱"
+msgstr "珍贵的箱子"
 
 #: STRINGS.SKIN_NAMES.treasurechest_poshprint
 msgid "Calico Chester Chest"
