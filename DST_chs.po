@@ -82999,7 +82999,7 @@ msgid "You'd have to be blind not to appreciate this bat's horrifying adorablene
 msgstr "它很可爱，如果你能忽视它的可怕之处的话。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_bat_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_winter
@@ -83007,7 +83007,7 @@ msgid "This Broodling renounced its fiery ways... Now it's a lovely shade of blu
 msgstr "用这种方式来放弃它火热的外表…现在是可爱的清凉的蓝色了！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_wyvern
@@ -83015,7 +83015,7 @@ msgid "This pet's doofy lil dragon face inspires both fear and wuv."
 msgstr "这小家伙的脸不仅使人畏惧还给让人疼爱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_wyvern_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.emoji_abigail
@@ -83527,7 +83527,7 @@ msgid "A pet as noble as he is huggable."
 msgstr "外表庄严突显贵族气质，十分受人喜爱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.glomling_winter
@@ -83535,7 +83535,7 @@ msgid "What a precious little snowball you are, Glomglom!"
 msgstr "是你，格罗姆！多么可爱的小雪球啊！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.glomling_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hambat_potroast
@@ -83783,7 +83783,7 @@ msgid "Did this Kittykit just get cuter? (How's that even possible?!)"
 msgstr "这样做能让小猫变得可爱吗？（怎么可能？它本来就很可爱了！）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lamb_winter
@@ -83791,7 +83791,7 @@ msgid "Winter doesn't seem quite as cold when you have a fleecy Ewelet by your s
 msgstr "小钢羊在你身边的时候，你就不会再感到寒冷了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lamb_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
@@ -84207,7 +84207,7 @@ msgid "If you wanted a bouncy rooster companion by your side, then you're in clu
 msgstr "如果你想要一个小公鸡陪在你身边的话，那你就得是小母鸡了！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.perdling_rooster_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.perdling_winter
@@ -84215,7 +84215,7 @@ msgid "This plump little fellow is sure to brighten even the bitterest of winter
 msgstr "这个胖嘟嘟的小家伙无疑会令最寒冷的冬夜熠熠生辉！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.perdling_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_altarstatue
@@ -84835,7 +84835,7 @@ msgid "This puppy has a chubby face you can't help but smush. So cute!"
 msgstr "这只小狗有一张你忍不住想弄脏的肉肉脸，敲可爱！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_chow_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_tzu
@@ -84843,7 +84843,7 @@ msgid "This lil puppy can't see where it's going without its hair tied up. Adora
 msgstr "这只小狗狗如果不把头发梳起来就会看不见路，敲可爱！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_tzu_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_winter
@@ -84851,7 +84851,7 @@ msgid "Looks like this adorable little lump grew his winter coat in. Good boy, V
 msgstr "看来这个可爱的小家伙有一件冬棉袄了。真是可爱的乖狗狗！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.puppy_winter_builder
-msgid "missing description"
+msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.rainhat_floppy
@@ -86411,24 +86411,24 @@ msgid "Vampire Batling"
 msgstr "吸血蝙蝠"
 
 #: STRINGS.SKIN_NAMES.dragonling_bat_builder
-msgid "dragonling_bat_builder"
-msgstr "小龙蝇的制造者"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.dragonling_winter
 msgid "Polar Broodling"
 msgstr "极地之虫"
 
 #: STRINGS.SKIN_NAMES.dragonling_winter_builder
-msgid "dragonling_winter_builder"
-msgstr "生成极地之虫"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.dragonling_wyvern
 msgid "Wyvernling"
 msgstr "双足飞龙"
 
 #: STRINGS.SKIN_NAMES.dragonling_wyvern_builder
-msgid "dragonling_wyvern_builder"
-msgstr "生成双足飞龙"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.emoji_abigail
 msgid "Abigail"
@@ -86939,16 +86939,16 @@ msgid "Bearded Dragon"
 msgstr "大胡子龙"
 
 #: STRINGS.SKIN_NAMES.glomling_beardeddragon_builder
-msgid "glomling_beardeddragon_builder"
-msgstr "生成大胡子龙形态格罗姆"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.glomling_winter
 msgid "Snowy Glomglom"
 msgstr "雪花格洛姆"
 
 #: STRINGS.SKIN_NAMES.glomling_winter_builder
-msgid "glomling_winter_builder"
-msgstr "生成雪花格罗姆"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.hambat_potroast
 msgid "Pot Roastbat"
@@ -87195,16 +87195,16 @@ msgid "Snowkit"
 msgstr "雪之猫"
 
 #: STRINGS.SKIN_NAMES.kitten_winter_builder
-msgid "kitten_winter_builder"
-msgstr "生成雪之猫"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.lamb_winter
 msgid "Snowflake Ewelet"
 msgstr "雪地小钢羊"
 
 #: STRINGS.SKIN_NAMES.lamb_winter_builder
-msgid "lamb_winter_builder"
-msgstr "生成雪地小钢羊"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.legs_checkered_pleats_blue_cornflower
 msgid "Checkered Trousers"
@@ -87619,16 +87619,16 @@ msgid "Rooslet"
 msgstr "小公鸡"
 
 #: STRINGS.SKIN_NAMES.perdling_rooster_builder
-msgid "perdling_rooster_builder"
-msgstr "生成小公鸡"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.perdling_winter
 msgid "Penglet"
 msgstr "企鸡"
 
 #: STRINGS.SKIN_NAMES.perdling_winter_builder
-msgid "perdling_winter_builder"
-msgstr "制作企鸡"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_altarstatue
 msgid "Beast of Hunger Portrait"
@@ -88247,24 +88247,24 @@ msgid "Purebred Vargling"
 msgstr "纯血小座狼"
 
 #: STRINGS.SKIN_NAMES.puppy_chow_builder
-msgid "puppy_chow_builder"
-msgstr "puppy_chow_builder"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.puppy_tzu
 msgid "Pedigree Vargling"
 msgstr "纯种小座狼"
 
 #: STRINGS.SKIN_NAMES.puppy_tzu_builder
-msgid "puppy_tzu_builder"
-msgstr "puppy_tzu_builder"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.puppy_winter
 msgid "Arctic Vargling"
 msgstr "北极小狼"
 
 #: STRINGS.SKIN_NAMES.puppy_winter_builder
-msgid "puppy_winter_builder"
-msgstr "puppy_winter_builder"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.rainhat_floppy
 msgid "Floppy Rain Hat"
@@ -102483,7 +102483,7 @@ msgid "Set your profile icon to an Amazing Ringmaster Hat."
 msgstr "将你的头像设置为一个惊人的驯兽师帽子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_arrowsignpost_circus
-msgid "Set your profile icon to a Spectracular Stationary Wayfinder."
+msgid "Set your profile icon to a Spectacular Stationary Wayfinder."
 msgstr "将你的头像设置为一个壮观的引路牌。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_tent_circus
@@ -103043,8 +103043,8 @@ msgid "Bad luck. Good luck. Either way it's still adorable."
 msgstr "幸运亦或祥瑞，都无法否认它可爱的外表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
-msgid "missing description"
-msgstr "丢失描述"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
 msgid "An electrical resonant transformer circuit that provides light."
@@ -103251,8 +103251,8 @@ msgid "Black Kittykit"
 msgstr "黑色小浣猫"
 
 #: STRINGS.SKIN_NAMES.kitten_black_builder
-msgid "kitten_black_builder"
-msgstr "kitten_black_builder"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_NAMES.lantern_tesla
 msgid "Tesla Coil Lantern"
@@ -104739,7 +104739,7 @@ msgid "Incombustible's Abdomen"
 msgstr "不可燃的腹部"
 
 #: STRINGS.SKIN_NAMES.body_wendy_magma
-msgid "Phoenix's dress"
+msgid "Phoenix's Dress"
 msgstr "不死鸟裙子"
 
 #: STRINGS.SKIN_NAMES.body_wes_magma
