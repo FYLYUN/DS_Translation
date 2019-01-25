@@ -106281,3 +106281,675 @@ msgstr "冬季盛宴快乐\n您的好朋友Klei"
 #: STRINGS.UI.EMOTES.CAROL
 msgid "Carol"
 msgstr "赞歌"
+
+#: STRINGS.ACTIONS.ATTACK.PROP
+msgid "Smack"
+msgstr "掴"
+
+#: STRINGS.NAMES.PIGELITE1
+msgid "Wade"
+msgstr "韦德"
+
+#: STRINGS.NAMES.PIGELITE2
+msgid "Ignatius"
+msgstr "伊格内修斯"
+
+#: STRINGS.NAMES.PIGELITE3
+msgid "Dmitri"
+msgstr "德米特里"
+
+#: STRINGS.NAMES.PIGELITE4
+msgid "Sawyer"
+msgstr "索耶"
+
+#: STRINGS.NAMES.PIGSHRINE
+msgid "Pig Shrine"
+msgstr "猪神坛"
+
+#: STRINGS.NAMES.PIG_TOKEN
+msgid "Golden Belt"
+msgstr "金腰带"
+
+#: STRINGS.NAMES.YOTP_FOOD1
+msgid "Tribute Roast"
+msgstr "贡品烤肉"
+
+#: STRINGS.NAMES.YOTP_FOOD2
+msgid "Eight Treasure Mud Pie"
+msgstr "八宝泥巴派"
+
+#: STRINGS.NAMES.YOTP_FOOD3
+msgid "Fish Heads on a Stick"
+msgstr "鱼头串"
+
+#: STRINGS.PIG_ELITE_GOLD.1
+msgid "MINE!"
+msgstr "我的！"
+
+#: STRINGS.PIG_ELITE_GOLD.2
+msgid "MY GOLD!"
+msgstr "我的金子！"
+
+#: STRINGS.PIG_ELITE_GOLD.3
+msgid "I TAKE GOLD!"
+msgstr "我去拿金子！"
+
+#: STRINGS.PIG_ELITE_INTRO.1
+msgid "FOR KING!"
+msgstr "为了国王！"
+
+#: STRINGS.PIG_ELITE_INTRO.2
+msgid "GET GOLD!"
+msgstr "拿金子！"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.1
+msgid "YOU BAD AT THIS. GET BETTER"
+msgstr "你打的很烂。去变更好"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.2
+msgid "TRY AGAIN SOMETIME?"
+msgstr "什么时候再来一场？"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.3
+msgid "YOU WORTHY OPPONENT"
+msgstr "你是有价值的对手"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.4
+msgid "YOU HUMBLE US"
+msgstr "你不如俺们"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.5
+msgid "GOOD MATCH. WE GO BED NOW"
+msgstr "打得好。俺们现在去睡觉"
+
+#: STRINGS.PIG_ELITE_POST_MATCH.6
+msgid "YOU CHEATER. WE NO LIKE CHEATERS"
+msgstr "你作弊。俺们不喜欢作弊者。"
+
+#: STRINGS.PIG_ELITE_SALTY.1
+msgid "CHEATER!"
+msgstr "作弊者！"
+
+#: STRINGS.PIG_ELITE_SALTY.2
+msgid "NO FAIR"
+msgstr "不公平"
+
+#: STRINGS.PIG_ELITE_SALTY.3
+msgid "NOT ALLOWED DO THAT!"
+msgstr "不许那么做！"
+
+#: STRINGS.PIG_ELITE_SMACK.1
+msgid "YOU GO SMASH!"
+msgstr "你完蛋了！"
+
+#: STRINGS.PIG_ELITE_SMACK.2
+msgid "I BASH YOU!"
+msgstr "我痛击你！"
+
+#: STRINGS.PIG_ELITE_SMACK.3
+msgid "STAY AWAY!"
+msgstr "走开！"
+
+#: STRINGS.PIG_ELITE_SMACK.4
+msgid "FUN!"
+msgstr "好玩！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.1
+msgid "SMASH! SMASH!"
+msgstr "完蛋！完蛋！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.2
+msgid "BASH!"
+msgstr "痛击！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.3
+msgid "GO PIGS!"
+msgstr "冲啊！猪人！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.4
+msgid "RAAAWR!"
+msgstr "嗷嗷嗷呜"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.5
+msgid "YOU STINK!"
+msgstr "你这烂货！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.6
+msgid "GET GOLD!"
+msgstr "拿到金子！"
+
+#: STRINGS.PIG_TALK_GAME_CHEER.7
+msgid "BASH 'EM IN HEAD!"
+msgstr "猛击他们的头！"
+
+#: STRINGS.PIG_TALK_GAME_GOTO.1
+msgid "IT STARTING!"
+msgstr "开始了！"
+
+#: STRINGS.PIG_TALK_GAME_GOTO.2
+msgid "THIS MY FAVORITE!"
+msgstr "这是我的最爱！"
+
+#: STRINGS.PIG_TALK_GAME_GOTO.3
+msgid "YAY!"
+msgstr "耶！"
+
+#: STRINGS.PIG_TALK_GIVE_GIFT.1
+msgid "YOU HAVE THIS"
+msgstr "你拿着这个"
+
+#: STRINGS.PIG_TALK_GIVE_GIFT.2
+msgid "FOR FRIEND"
+msgstr "给朋友"
+
+#: STRINGS.RECIPE_DESC.PIGSHRINE
+msgid "Make offerings to the affluent Pig."
+msgstr "向富有的猪人献上祭品吧。"
+
+#: STRINGS.RECIPE_DESC.YOTP_FOOD1
+msgid "A roasted tribute to the Pig King."
+msgstr "献给猪王的烤制贡品。"
+
+#: STRINGS.RECIPE_DESC.YOTP_FOOD2
+msgid "What's hiding in there?"
+msgstr "里面藏着什么？"
+
+#: STRINGS.RECIPE_DESC.YOTP_FOOD3
+msgid "Prosperity on a stick."
+msgstr "一串年年有鱼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking
+msgid "The lingering Pig King smell is actually quite pleasant."
+msgstr "徘徊的猪王气味令人身心愉悦。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_wrestler
+msgid "This bodysuit and sash make for a dynamic look in the ring."
+msgstr "这套连身衣和腰带让场面看起来动感十足。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wes_wrestler
+msgid "A ravishing one-piece to make you dazzle!"
+msgstr "迷人的连体衣，让你眼花缭乱!”"
+
+#: STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr "用一个可爱的石窑容纳你最舒适的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar
+msgid "A mighty man hammers with a crowbar."
+msgstr "一个强人使用的撬棍。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler
+msgid "Hand wraps and padded gloves mean hands are protected for better punches."
+msgstr "带护手和衬垫的手套意味着双手在拳击中能够受到更好的保护。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wes_wrestler
+msgid "Your challengers can't handle how gorgeous these gloves are."
+msgstr "你的的挑战者无法应付这些华丽的手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_wrestler
+msgid "Fingerless gloves for delivering the smack down."
+msgstr "用来传递重击的无指手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.loading_pig_elite
+msgid "The Pig King's four elite warriors give half their winnings to those poor unfortunate pigs with no mud to roll in."
+msgstr "猪王座下的四位精英勇士把它们一半的奖金都赠予了那些滚不起泥巴的穷猪人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.minerhat_cowboy
+msgid "n/a"
+msgstr "缺少描述"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_promo1
+msgid "This Promo Chest contains the Contenders skins for Wigfrid, Wes and Wolfgang, the Golden Helm, Ultimate Spear, Lover's Umbrella, Lover's Wardrobe, Cowboy Straw Hat and Prybar Hammer."
+msgstr "这个促销宝箱包含了薇德弗雷，维斯和沃尔夫冈的竞争者系列皮肤，黄金头盔，终极长矛，情人的雨伞，情人的衣柜，牛仔雨帽和撬棍锤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr
+msgid "This Contenders Chest contains Wigfrid's complete set of Contenders skin items, as well as the Golden Helm and Ultimate Spear."
+msgstr "这个竞争者宝箱包含了薇德弗雷的全套竞争者系列皮肤，以及黄金头盔和终极长矛。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wes
+msgid "This Contenders Chest contains Wes' complete set of Contenders skin items, as well as the Lover's Umbrella and Lover's Wardrobe."
+msgstr "这个竞争者宝箱包含了维斯的全套竞争者系列皮肤，以及情人的雨伞和情人的衣柜。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wolfgang
+msgid "This Contenders Chest contains Wolfgang's complete set of Contenders skin items, as well as the Cowboy Straw Hat and Prybar Hammer."
+msgstr "这个竞争者宝箱包含了沃尔夫冈的全套竞争者系列皮肤，以及牛仔草帽和撬棍锤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp1
+msgid "Equip this item to change your character's background portrait.\n\nAn empty shrine needs a sacrifice."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n一个空的神坛需要祭品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp2
+msgid "Equip this item to change your character's background portrait.\n\nThe belt color is the best indication of fighting skills."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n腰带的颜色是格斗技巧的最好体现。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp3
+msgid "Equip this item to change your character's background portrait.\n\nThe Pig King's steely eyes are very effective for controlling his subjects."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n猪王钢铁般坚定的眼神对控制他的臣民来说十分有效。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp4
+msgid "Equip this item to change your character's background portrait.\n\nThe four stacked pig heads these columns symbolize the highest number pigs can count to."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n这四个柱子上的猪头象征着猪人能到达的最高层次。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp5
+msgid "Equip this item to change your character's background portrait.\n\nPeople, and pigs, will do anything for a pile of lucky gold."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n人类，还有猪人，在成堆的金元宝面前什么都是不是。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_yotp6
+msgid "Equip this item to change your character's background portrait.\n\nEight Treasure Mud Pies are a favorite of little piglets everywhere."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n八宝泥巴派是世界各地的小猪们的最爱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_firecrackers_yotp
+msgid "Set your profile icon to Red Firecrackers."
+msgstr "将你的头像设置为红鞭炮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_luckygoldnugget_yotp
+msgid "Set your profile icon to the auspicious Lucky Gold Nugget."
+msgstr "将你的头像设置为象征吉祥的金元宝。\n\n译注：其实是财富象征，Klei果然还是加拿大公司阿..."
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp
+msgid "Set your profile icon to a yummy Eight Treasures Mud Pie."
+msgstr "将你的头像设置为八宝泥巴派。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_pigking_yotp
+msgid "Set your profile icon to the affluent Pig King."
+msgstr "将你的头像设置为富裕的猪王。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_pigtoken_yotp
+msgid "Set your profile icon to a Golden Belt"
+msgstr "将你的头像设置为金腰带。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_redlantern_yotp
+msgid "Set your profile icon to the illuminating Red Lantern."
+msgstr "将你的头像设置为红灯笼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.rainhat_cowboy
+msgid "n/a"
+msgstr "缺少描述"
+
+#: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3
+msgid "A stake in your heart that actually heals the undead."
+msgstr "你心中的木桩能够真正治愈那些亡灵。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle
+msgid "Let them try to wrestle this away from you."
+msgstr "尽管让他们尝试从你手中夺走它吧。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.strawhat_cowboy
+msgid "Puts the \"cool\" in cool and dry."
+msgstr "让干燥凉爽这事变得更“冷酷”。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.torch_pillar
+msgid "Doesn't burn any brighter or last any longer, but goodness-gosh if it isn't just the fanciest."
+msgstr "并不会烧的更亮更久，倘若它不只是最花哨的的话...天哪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_heart
+msgid "Lovers love to walk in the rain."
+msgstr "情人喜欢在雨中漫步。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wardrobe_heart
+msgid "Love the new look."
+msgstr "爱上这个新造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_wrestler
+msgid "Wigfrid's mic skills can't be beat!"
+msgstr "薇德弗雷的把麦技能无人能敌！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_wrestle
+msgid "A golden helm fit for a golden warrior."
+msgstr "适合黄金勇士的黄金头盔。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
+msgid "He's a lover and a fighter."
+msgstr "他是情人，也是斗士。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_wrestler
+msgid "Wolfgang says his prayers and eats his vitamins."
+msgstr "沃尔夫冈做了他的祷告也吃掉了他的维生素。"
+
+#: STRINGS.SKIN_NAMES.beefalohat_pigking
+msgid "Pig King Hat"
+msgstr "猪王帽"
+
+#: STRINGS.SKIN_NAMES.body_wathgrithr_wrestler
+msgid "Ultimate Performer's Body"
+msgstr "终极表演家的身躯"
+
+#: STRINGS.SKIN_NAMES.body_wes_wrestler
+msgid "The Lover's Body Tight"
+msgstr "情人的紧身衣"
+
+#: STRINGS.SKIN_NAMES.body_wolfgang_wrestler
+msgid "Giant's Singlet"
+msgstr "巨人的汗衫"
+
+#: STRINGS.SKIN_NAMES.feet_wathgrithr_wrestler
+msgid "Ultimate Performer's Boots"
+msgstr "终极表演家的靴子"
+
+#: STRINGS.SKIN_NAMES.firepit_kiln
+msgid "Stone Kiln"
+msgstr "石窑"
+
+#: STRINGS.SKIN_NAMES.hammer_crowbar
+msgid "Prybar Hammer"
+msgstr "撬棍锤"
+
+#: STRINGS.SKIN_NAMES.hand_wathgrithr_wrestler
+msgid "Ultimate Performer's Gloves"
+msgstr "终极表演家手套"
+
+#: STRINGS.SKIN_NAMES.hand_wes_wrestler
+msgid "Lover's Gloves"
+msgstr "情人手套"
+
+#: STRINGS.SKIN_NAMES.hand_wolfgang_wrestler
+msgid "Giant's Gloves"
+msgstr "巨人手套"
+
+#: STRINGS.SKIN_NAMES.loading_pig_elite
+msgid "Elite Pigs"
+msgstr "精英猪人"
+
+#: STRINGS.SKIN_NAMES.minerhat_cowboy
+msgid "Cowboy Headlamp"
+msgstr "牛仔头灯"
+
+#: STRINGS.SKIN_NAMES.pack_wrestler_promo1
+msgid "Contenders Promo Chest"
+msgstr "竞争者促销宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wrestler_wathgrithr
+msgid "Ultimate Performer's Chest"
+msgstr "终极表演家宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wrestler_wes
+msgid "The Lover's Chest"
+msgstr "情人宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wrestler_wolfgang
+msgid "The Giant's Chest"
+msgstr "巨人宝箱"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp1
+msgid "Empty Pig Shrine Portrait"
+msgstr "空的猪神坛背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp2
+msgid "Golden Belt Portrait"
+msgstr "金腰带背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp3
+msgid "Pig King Head Portrait"
+msgstr "猪王头背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp4
+msgid "Pig Fire Columns Portrait"
+msgstr "猪人火塔背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp5
+msgid "Pile of Lucky Gold Nuggets Portrait"
+msgstr "成堆的金元宝背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_yotp6
+msgid "Eight Treasure Mud Pie Portrait"
+msgstr "八宝泥巴派背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_firecrackers_yotp
+msgid "Red Firecrackers"
+msgstr "红鞭炮"
+
+#: STRINGS.SKIN_NAMES.profileflair_luckygoldnugget_yotp
+msgid "Lucky Gold Nugget"
+msgstr "金元宝"
+
+#: STRINGS.SKIN_NAMES.profileflair_mudpie_yotp
+msgid "Eight Treasures Mud Pie"
+msgstr "八宝泥巴派"
+
+#: STRINGS.SKIN_NAMES.profileflair_pigking_yotp
+msgid "Pig King"
+msgstr "猪王"
+
+#: STRINGS.SKIN_NAMES.profileflair_pigtoken_yotp
+msgid "Golden Belt"
+msgstr "金腰带"
+
+#: STRINGS.SKIN_NAMES.profileflair_redlantern_yotp
+msgid "Red Lantern"
+msgstr "红灯笼"
+
+#: STRINGS.SKIN_NAMES.rainhat_cowboy
+msgid "Cowboy Rain Hat"
+msgstr "牛仔雨帽"
+
+#: STRINGS.SKIN_NAMES.reviver_cupid_3
+msgid "Staked Heart"
+msgstr "木桩刺心"
+
+#: STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle
+msgid "Ultimate Spear"
+msgstr "终极长矛"
+
+#: STRINGS.SKIN_NAMES.strawhat_cowboy
+msgid "Cowboy Straw Hat"
+msgstr "牛仔草帽"
+
+#: STRINGS.SKIN_NAMES.torch_pillar
+msgid "Carved Stone Torch"
+msgstr "石柱火炬"
+
+#: STRINGS.SKIN_NAMES.umbrella_heart
+msgid "Lover's Umbrella"
+msgstr "情人的雨伞"
+
+#: STRINGS.SKIN_NAMES.wardrobe_heart
+msgid "Lover's Wardrobe"
+msgstr "情人的衣柜"
+
+#: STRINGS.SKIN_NAMES.wathgrithr_wrestler
+msgid "The Ultimate Performer"
+msgstr "终极表演家"
+
+#: STRINGS.SKIN_NAMES.wathgrithrhat_wrestle
+msgid "Golden Helm"
+msgstr "黄金头盔"
+
+#: STRINGS.SKIN_NAMES.wes_wrestler
+msgid "The Lover"
+msgstr "情人"
+
+#: STRINGS.SKIN_NAMES.wolfgang_wrestler
+msgid "The Giant"
+msgstr "巨人"
+
+#: STRINGS.SKIN_QUOTES.wathgrithr_wrestler
+msgid "\"I am the best that ever was!!\""
+msgstr "\"我是有史以来最棒的！！\""
+
+#: STRINGS.SKIN_QUOTES.wolfgang_wrestler
+msgid "\"Wolfgang says his prayers and eats his vitamins.\""
+msgstr "\"沃尔夫冈做了他的祷告也吃掉了\n他的维生素。\""
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.YOTP
+msgid "Year of the Pig King Collection"
+msgstr "猪王之年藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.BEEFALOHAT
+msgid "Beefalo Hat"
+msgstr "牛帽"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.SPEAR_WATHGRITHR
+msgid "Battle Spear"
+msgstr "战斗长矛"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.WARDROBE
+msgid "Wardrobe"
+msgstr "衣柜"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATHGRITHRHAT
+msgid "Battle Helm"
+msgstr "战斗头盔"
+
+#: STRINGS.THANKS_POPUP.YOTP
+msgid "Thanks for playing during the\nYear of the Pig King event"
+msgstr "感谢您参加猪王之年活动"
+
+#: STRINGS.UI.MODSSCREEN.DOWNLOADINGMOD
+msgid "Downloading:\n{name}"
+msgstr "正在下载:\n{name}"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTERS
+msgid "Filters"
+msgstr "筛选"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_ALL
+msgid "All"
+msgstr "全部"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_ITEMS
+msgid "Belongings"
+msgstr "已拥有"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_UNOWNED
+msgid "Unowned"
+msgstr "未拥有"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.OWNED_FILTER
+msgid "Owned:"
+msgstr "已拥有："
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.TYPE_FILTER
+msgid "Type:"
+msgstr "类型："
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.DEFAULT
+msgid "Auto"
+msgstr "自动"
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
+msgid "Hallowed Nights"
+msgstr "万盛夜"
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
+msgid "Winters Feast"
+msgstr "冬季盛宴"
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTG
+msgid "Year of the Gobbler"
+msgstr "火鸡之年"
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTP
+msgid "Year of the Pig King"
+msgstr "猪王之年"
+
+#: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.YOTV
+msgid "Year of the Varg"
+msgstr "座狼之年"
+
+#: STRINGS.UI.SETPOPUP.NEXT_SET
+msgid "Next Set"
+msgstr "下一种"
+
+#: STRINGS.UI.SETPOPUP.PREV_SET
+msgid "Previous Set"
+msgstr "上一种"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
+msgid "It's too dangerous for that right now."
+msgstr "现在来说有点太危险了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
+msgid "I need to clean up first."
+msgstr "我需要先打扫干净。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
+msgid "It's too late for that now."
+msgstr "现在来说有点太晚了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGELITE1
+msgid "What are you looking at?"
+msgstr "你在看什么？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGELITE2
+msgid "He's got gold fever!"
+msgstr "他有点淘金热！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGELITE3
+msgid "Here's mud in your eye!"
+msgstr "你的眼睛里有泥巴！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGELITE4
+msgid "Wouldn't you rather hit someone else?"
+msgstr "你就不想打些别的东西吗？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGSHRINE.BURNT
+msgid "Burnt out."
+msgstr "烧掉了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGSHRINE.EMPTY
+msgid "It's hungry for meat."
+msgstr "它渴望吃肉。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGSHRINE.GENERIC
+msgid "More stuff to make."
+msgstr "制作更多的东西。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIG_TOKEN
+msgid "This looks important."
+msgstr "这看起来很重要。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTP_FOOD1
+msgid "A feast fit for me."
+msgstr "正合我意的盛宴。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTP_FOOD2
+msgid "A meal only a beast would love."
+msgstr "只有野兽会喜欢的一餐。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.YOTP_FOOD3
+msgid "Nothing fancy."
+msgstr "没什么特别的。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
+msgid "Danger is near! 'tis no time for games."
+msgstr "危险在靠近！没时间做游戏了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
+msgid "I must clear the battlefield first!"
+msgstr "我必须先清理战场！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
+msgid "'tis too late for revelry!"
+msgstr "对于狂欢来说这太晚了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_LEAVE_MINIGAME
+msgid "These weapons belong on the battlefield."
+msgstr "这些武器属于战场。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGELITE1
+msgid "The warrior spirit runs deep within him."
+msgstr "勇士精神在他心中根深蒂固。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGELITE2
+msgid "He rages with berserker fury."
+msgstr "他充满狂战士的愤怒。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGELITE3
+msgid "He shall not soil mine warrior reputation!"
+msgstr "他无法玷污我战士的荣誉！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGELITE4
+msgid "Hath the strength of Yggdrasil."
+msgstr "有着世界树的力量。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGSHRINE.BURNT
+msgid "Laid to waste."
+msgstr "被浪费了。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGSHRINE.EMPTY
+msgid "Like me, it hungers only for meat."
+msgstr "它只渴望肉类，和我一样。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGSHRINE.GENERIC
+msgid "'Tis a tribute worthy of the Pig Gods."
+msgstr "这才是配得上猪神的赠品。"
