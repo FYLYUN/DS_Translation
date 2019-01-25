@@ -104294,6 +104294,66 @@ msgstr "为史诗战斗而生的强大剑刃！"
 msgid "Thy machismo frighten me not!"
 msgstr "你们两个吓不倒我！"
 
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEETLETAUR
+msgid "Back to the dungeons with you!"
+msgstr "你给我回地牢去吧！"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "A little extra armor never hurt."
+msgstr "一点点額外的盔甲不会伤到你的。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Not really my style."
+msgstr "真不是我的风格。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Too brutish for my tastes."
+msgstr "太粗野了，不合我的品味。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RHINODRILL
+msgid "Brutish grotesquerie."
+msgstr "野蛮的怪胎。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEETLETAUR
+msgid "All that armor must be heavy."
+msgstr "那些盔甲一定都很重。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "We should armor up to be safe."
+msgstr "安全起见我们应该全副武装。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "It's like fiery spit balls."
+msgstr "就像火球一样。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "That sword is too big for us to carry!"
+msgstr "那把剑对我们来说太重了，根本拿不动！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RHINODRILL
+msgid "Looks like a big bully!"
+msgstr "看起来是个大恶霸！"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEETLETAUR
+msgid "You are a prisoner of your own doomed destiny."
+msgstr "你只是自己命运的囚徒。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "It protects from damage, but not from sorrow."
+msgstr "它能抵挡伤害，却抵挡不住悲伤。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "A bombardment of pain."
+msgstr "痛苦的轰炸。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "It's too heavy. Like my soul."
+msgstr "它是如此沉重，就像我的灵魂。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RHINODRILL
+msgid "Brotherly camaraderie will not save you."
+msgstr "兄弟情谊救不了你。"
+
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
 msgstr "地狱独眼巨猪"
@@ -104422,6 +104482,50 @@ msgstr "当心那个小尖刺。"
 msgid "Battle gloves to withstand the flames that will consume this world."
 msgstr "为了抵御吞噬世界的烈火而戴上的战斗手套。"
 
+: STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma
+msgid "Gloves worthy of wrathful combat."
+msgstr "配得上此等狂怒战斗的手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma
+msgid "Like little candle flames for your claws."
+msgstr "你的爪子就像是小小的烛火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wendy_magma
+msgid "Flaming winged accessories to accompany your rebirth."
+msgstr "燃烧的翅膀配件伴随你一同重生。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma
+msgid "Foppish gloves of firey justice."
+msgstr "执行火焰般正义的花哨手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_magma
+msgid "Armored gloves for handling hot magma samples."
+msgstr "用于处理热岩浆样本的手部护甲。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma
+msgid "Impress a deity with these sacrificial bangles."
+msgstr "让这些手镯给神灵带來深刻的印象。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma
+msgid "Rock hard gloves, ready for combat."
+msgstr "戴上岩石般的手套，准备战斗。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_winona_magma
+msgid "Perfectly welded welding gloves."
+msgstr "完美的焊接手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_magma
+msgid "Flaming adornments for your wrists."
+msgstr "用来装饰你手腕的燃烧饰品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma
+msgid "Studded gloves for peerless gripping of an axe."
+msgstr "戴上带钉的手套，无以伦比地挥舞斧头。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma
+msgid "Com-bust some heads with these furnace gloves."
+msgstr "用这些火炉手套打爆某些人的头。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.feet_webber_magma
 msgid "Hot-foot it into the ring."
 msgstr "战场上的急忙脚步。"
@@ -104431,8 +104535,8 @@ msgid "Tip-toe across the ashes you rose from."
 msgstr "踮起脚走过你重生的灰烬。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wes_magma
-msgid "Tip-toe across the ashes you rose from
-msgstr "踮起脚走过你重生的灰烬。"
+msgid "Fine footware for delivering flaming justice."
+msgstr "传递燃烧的正义之人的一双好鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wickerbottom_magma
 msgid "Gold tipped lava leapers."
@@ -104445,6 +104549,30 @@ msgstr "一边蹦跶一边冶铁。"
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_magma
 msgid "Fly fleet footed to the end of the world."
 msgstr "健步走向世界的终结。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_magma
+msgid "Stomp out the fires of your enemies' belly."
+msgstr "踩灭你敌人心中的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_willow_magma
+msgid "Made for dancing on firey graves."
+msgstr "用于在燃烧的坟头上蹦迪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_wilson_magma
+msgid "Rock out with these rock hard boots."
+msgstr "穿上这双岩石靴子摇滚起来吧。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_winona_magma
+msgid "Protection for when the sparks fly in the arena."
+msgstr "在场上火星飞舞时提供保护。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_magma
+msgid "Wolfgang strong. Wolfgang need no foot protection."
+msgstr "沃尔夫冈很强，沃尔夫冈不需要足部保护。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_woodie_magma
+msgid "These boots are on fire."
+msgstr "这双靴子着火了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
@@ -106308,7 +106436,7 @@ msgstr "猪神坛"
 
 #: STRINGS.NAMES.PIG_TOKEN
 msgid "Golden Belt"
-msgstr "金腰带"
+msgstr "黄金腰带"
 
 #: STRINGS.NAMES.YOTP_FOOD1
 msgid "Tribute Roast"
@@ -106344,7 +106472,7 @@ msgstr "拿金子！"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.1
 msgid "YOU BAD AT THIS. GET BETTER"
-msgstr "你打的很烂。去变更好"
+msgstr "你打的很烂。去练更好"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.2
 msgid "TRY AGAIN SOMETIME?"
@@ -106356,11 +106484,11 @@ msgstr "你是有价值的对手"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.4
 msgid "YOU HUMBLE US"
-msgstr "你不如俺们"
+msgstr "你打败了俺们"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.5
 msgid "GOOD MATCH. WE GO BED NOW"
-msgstr "打得好。俺们现在去睡觉"
+msgstr "打得好。俺们现在要去睡觉"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.6
 msgid "YOU CHEATER. WE NO LIKE CHEATERS"
@@ -106396,7 +106524,7 @@ msgstr "好玩！"
 
 #: STRINGS.PIG_TALK_GAME_CHEER.1
 msgid "SMASH! SMASH!"
-msgstr "完蛋！完蛋！"
+msgstr "砸！砸！"
 
 #: STRINGS.PIG_TALK_GAME_CHEER.2
 msgid "BASH!"
@@ -106468,7 +106596,15 @@ msgstr "这套连身衣和腰带让场面看起来动感十足。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_wrestler
 msgid "A ravishing one-piece to make you dazzle!"
-msgstr "迷人的连体衣，让你眼花缭乱!”"
+msgstr "迷人的连体衣，让你眼花缭乱!"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_wrestler
+msgid "A wrestling singlet fit for a giant strongman."
+msgstr "一件适合魁梧强人的摔跤背心。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_wrestler
+msgid "These wrestling boots give you the best performance."
+msgstr "这双摔跤靴能为你带来最好的表现。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
 msgid "A lovely stone kiln to house your coziest fires."
@@ -106544,7 +106680,7 @@ msgstr "将你的头像设置为红鞭炮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_luckygoldnugget_yotp
 msgid "Set your profile icon to the auspicious Lucky Gold Nugget."
-msgstr "将你的头像设置为象征吉祥的金元宝。\n\n译注：其实是财富象征，Klei果然还是加拿大公司阿..."
+msgstr "将你的头像设置为象征吉祥的金元宝。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp
 msgid "Set your profile icon to a yummy Eight Treasures Mud Pie."
@@ -106556,7 +106692,7 @@ msgstr "将你的头像设置为富裕的猪王。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pigtoken_yotp
 msgid "Set your profile icon to a Golden Belt"
-msgstr "将你的头像设置为金腰带。"
+msgstr "将你的头像设置为黄金腰带。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redlantern_yotp
 msgid "Set your profile icon to the illuminating Red Lantern."
@@ -106676,7 +106812,7 @@ msgstr "空的猪神坛背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_yotp2
 msgid "Golden Belt Portrait"
-msgstr "金腰带背景"
+msgstr "黄金腰带背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_yotp3
 msgid "Pig King Head Portrait"
@@ -106712,7 +106848,7 @@ msgstr "猪王"
 
 #: STRINGS.SKIN_NAMES.profileflair_pigtoken_yotp
 msgid "Golden Belt"
-msgstr "金腰带"
+msgstr "黄金腰带"
 
 #: STRINGS.SKIN_NAMES.profileflair_redlantern_yotp
 msgid "Red Lantern"
@@ -106808,7 +106944,7 @@ msgstr "全部"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_ITEMS
 msgid "Belongings"
-msgstr "已拥有"
+msgstr "捆绑包"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_UNOWNED
 msgid "Unowned"
@@ -106816,7 +106952,7 @@ msgstr "未拥有"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.OWNED_FILTER
 msgid "Owned:"
-msgstr "已拥有："
+msgstr "拥有："
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.TYPE_FILTER
 msgid "Type:"
