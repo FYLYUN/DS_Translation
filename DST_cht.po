@@ -74812,7 +74812,7 @@ msgstr "背包"
 
 #: STRINGS.NAMES.BACONEGGS
 msgid "Bacon and Eggs"
-msgstr "培根鷄蛋"
+msgstr "培根煎蛋"
 
 #: STRINGS.NAMES.BALLOON
 msgid "Balloon"
@@ -84035,8 +84035,8 @@ msgid "After many days in the woods, it can be difficult to distinguish oneself 
 msgstr "在森林裡呆了許多天之後，很難把獵人本身和他們的獵物區分開來。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.minerhat_floppy
-msgid "minerhat_floppy"
-msgstr "鬆散的礦工帽"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.missing
 msgid "This item completely mystifies you."
@@ -84044,23 +84044,23 @@ msgstr "這項命令完全迷惑了你。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
 msgid "This chest contains\n4x curios."
-msgstr "這個箱子包含4件\n珍寶。"
+msgstr "這個寶箱包含4件\n珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_ice_4
 msgid "This chest contains 4x\nWinter's Feast curios."
-msgstr "這個箱子包含4件\n冬季盛宴的珍寶。"
+msgstr "這個寶箱包含4件\n冬季盛宴的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_lava_4
 msgid "This chest contains 4x\nForge Event curios."
-msgstr "這個箱子包含4件\n熔爐事件的珍寶。"
+msgstr "這個寶箱包含4件\n熔爐事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
 msgid "This chest contains 4x\nYear of the Varg curios."
-msgstr "這個箱子包含4件\n座狼迎新的珍寶。"
+msgstr "這個寶箱包含4件\n座狼之年的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_victorian_4
 msgid "This chest contains 4x\nGorge Event curios."
-msgstr "這個箱子包含4件\n暴食事件的珍寶。"
+msgstr "這個寶箱包含4件\n暴食事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.none
 msgid "Your usual look."
@@ -84135,7 +84135,7 @@ msgid "This Spring Chest contains WX-78's complete set of Verdant skin items."
 msgstr "這個熙春寶箱包含\nWX-78的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
@@ -84855,8 +84855,8 @@ msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.rainhat_floppy
-msgid "rainhat_floppy"
-msgstr "鬆散的雨帽"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
@@ -84867,28 +84867,28 @@ msgid "This pod uses space-age printing technology to perform unspace-age alchem
 msgstr "這台機器是用現代化的列印技術製作出來的。非常時髦！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
-msgid "researchlab4_catcoon_costume"
-msgstr "有浣貓帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume
-msgid "researchlab4_chester_costume"
-msgstr "有切斯特帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby
-msgid "researchlab4_derby"
-msgstr "有高禮帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound
-msgid "researchlab4_festive_bell_red_firehound"
-msgstr "有歡快鈴聲和火獵犬裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume
-msgid "researchlab4_glommer_costume"
-msgstr "有格羅姆帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume
-msgid "researchlab4_hutch_costume"
-msgstr "有哈奇帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
@@ -87547,7 +87547,7 @@ msgid "WX-78 Spring Chest"
 msgstr "WX-78的熙春寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_rog_gift
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_NAMES.pack_sw_gift
@@ -89508,7 +89508,7 @@ msgstr "熔爐藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
 msgid "Lunar Collection"
-msgstr "雞年吉祥藏品"
+msgstr "春節藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgid "Promotional Collection"
@@ -89528,7 +89528,7 @@ msgstr "倖存者藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VARG
 msgid "Year of the Varg Collection"
-msgstr "座狼迎新藏品"
+msgstr "座狼之年藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN
 msgid "Victorian Collection"
@@ -90268,11 +90268,11 @@ msgstr "感謝您參加暴食活動"
 
 #: STRINGS.THANKS_POPUP.LUNAR
 msgid "Thanks for playing during the\nYear of the Gobbler event"
-msgstr "感謝您參加雞年吉祥活動"
+msgstr "感謝您參加火雞之年活動"
 
 #: STRINGS.THANKS_POPUP.VARG
 msgid "Thanks for playing during the\nYear of the Varg event"
-msgstr "感謝您參加座狼迎新活動"
+msgstr "感謝您參加座狼之年活動"
 
 #: STRINGS.TRADEMOD
 msgid "Move"
@@ -98728,15 +98728,15 @@ msgstr "冬季盛宴"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_GOBBLER_2017
 msgid "Year of the Gobbler"
-msgstr "雞年吉祥"
+msgstr "火雞之年"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_VARG_2018
 msgid "Year of the Varg"
-msgstr "座狼迎新"
+msgstr "座狼之年"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_PIGKING_2019
 msgid "test"
-msgstr "猪王开泰"
+msgstr "猪王之年"
 
 #: STRINGS.UI.SANDBOXMENU.EXCLUDE
 msgid "No"
@@ -102503,8 +102503,8 @@ msgid "Guess the rainfall."
 msgstr "來猜猜會不會下雨。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus
-msgid "researchlab4_tophat_circus"
-msgstr "researchlab4_tophat_circus"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.tophat_circus
 msgid "Come one, come all."
@@ -104775,8 +104775,8 @@ msgid "Set your profile icon to a dizzying Snortoise."
 msgstr "將你的頭像設置為讓人眼花繚亂的披甲岩龜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre
-msgid "researchlab4_tophat_circus"
-msgstr "researchlab4_tophat_circus"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
 msgid "Lacerate with a cursed blade."
