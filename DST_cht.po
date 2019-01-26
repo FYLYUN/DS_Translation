@@ -74812,7 +74812,7 @@ msgstr "背包"
 
 #: STRINGS.NAMES.BACONEGGS
 msgid "Bacon and Eggs"
-msgstr "培根鷄蛋"
+msgstr "培根煎蛋"
 
 #: STRINGS.NAMES.BALLOON
 msgid "Balloon"
@@ -84035,8 +84035,8 @@ msgid "After many days in the woods, it can be difficult to distinguish oneself 
 msgstr "在森林裡呆了許多天之後，很難把獵人本身和他們的獵物區分開來。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.minerhat_floppy
-msgid "minerhat_floppy"
-msgstr "鬆散的礦工帽"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.missing
 msgid "This item completely mystifies you."
@@ -84044,23 +84044,23 @@ msgstr "這項命令完全迷惑了你。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_classic_4
 msgid "This chest contains\n4x curios."
-msgstr "這個箱子包含4件\n珍寶。"
+msgstr "這個寶箱包含4件\n珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_ice_4
 msgid "This chest contains 4x\nWinter's Feast curios."
-msgstr "這個箱子包含4件\n冬季盛宴的珍寶。"
+msgstr "這個寶箱包含4件\n冬季盛宴的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_lava_4
 msgid "This chest contains 4x\nForge Event curios."
-msgstr "這個箱子包含4件\n熔爐事件的珍寶。"
+msgstr "這個寶箱包含4件\n熔爐事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
 msgid "This chest contains 4x\nYear of the Varg curios."
-msgstr "這個箱子包含4件\n座狼迎新的珍寶。"
+msgstr "這個寶箱包含4件\n座狼之年的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_victorian_4
 msgid "This chest contains 4x\nGorge Event curios."
-msgstr "這個箱子包含4件\n暴食事件的珍寶。"
+msgstr "這個寶箱包含4件\n暴食事件的珍寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.none
 msgid "Your usual look."
@@ -84135,7 +84135,7 @@ msgid "This Spring Chest contains WX-78's complete set of Verdant skin items."
 msgstr "這個熙春寶箱包含\nWX-78的全套熙春系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_rog_gift
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_sw_gift
@@ -84855,8 +84855,8 @@ msgid "n/a"
 msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.rainhat_floppy
-msgid "rainhat_floppy"
-msgstr "鬆散的雨帽"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab2_pod
 msgid "This pod uses space-age printing technology to perform unspace-age alchemy. How stylish!"
@@ -84867,28 +84867,28 @@ msgid "This pod uses space-age printing technology to perform unspace-age alchem
 msgstr "這台機器是用現代化的列印技術製作出來的。非常時髦！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_catcoon_costume
-msgid "researchlab4_catcoon_costume"
-msgstr "有浣貓帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_chester_costume
-msgid "researchlab4_chester_costume"
-msgstr "有切斯特帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_derby
-msgid "researchlab4_derby"
-msgstr "有高禮帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_festive_bell_red_firehound
-msgid "researchlab4_festive_bell_red_firehound"
-msgstr "有歡快鈴聲和火獵犬裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_glommer_costume
-msgid "researchlab4_glommer_costume"
-msgstr "有格羅姆帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_hutch_costume
-msgid "researchlab4_hutch_costume"
-msgstr "有哈奇帽裝扮的魔法帽子"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
@@ -87547,7 +87547,7 @@ msgid "WX-78 Spring Chest"
 msgstr "WX-78的熙春寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_rog_gift
-msgid "Don't Starve Reign of Giants Gift"
+msgid "Don't Starve: Reign of Giants Gift"
 msgstr "饑荒：巨獸統治的饋贈"
 
 #: STRINGS.SKIN_NAMES.pack_sw_gift
@@ -89508,7 +89508,7 @@ msgstr "熔爐藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.LUNAR
 msgid "Lunar Collection"
-msgstr "雞年吉祥藏品"
+msgstr "春節藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PROMOTION
 msgid "Promotional Collection"
@@ -89528,7 +89528,7 @@ msgstr "倖存者藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VARG
 msgid "Year of the Varg Collection"
-msgstr "座狼迎新藏品"
+msgstr "座狼之年藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.VICTORIAN
 msgid "Victorian Collection"
@@ -90268,11 +90268,11 @@ msgstr "感謝您參加暴食活動"
 
 #: STRINGS.THANKS_POPUP.LUNAR
 msgid "Thanks for playing during the\nYear of the Gobbler event"
-msgstr "感謝您參加雞年吉祥活動"
+msgstr "感謝您參加火雞之年活動"
 
 #: STRINGS.THANKS_POPUP.VARG
 msgid "Thanks for playing during the\nYear of the Varg event"
-msgstr "感謝您參加座狼迎新活動"
+msgstr "感謝您參加座狼之年活動"
 
 #: STRINGS.TRADEMOD
 msgid "Move"
@@ -98728,15 +98728,15 @@ msgstr "冬季盛宴"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_GOBBLER_2017
 msgid "Year of the Gobbler"
-msgstr "雞年吉祥"
+msgstr "火雞之年"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_VARG_2018
 msgid "Year of the Varg"
-msgstr "座狼迎新"
+msgstr "座狼之年"
 
 #: STRINGS.UI.SANDBOXMENU.EVENT_YEAR_OF_THE_PIGKING_2019
 msgid "test"
-msgstr "猪王开泰"
+msgstr "猪王之年"
 
 #: STRINGS.UI.SANDBOXMENU.EXCLUDE
 msgid "No"
@@ -102503,8 +102503,8 @@ msgid "Guess the rainfall."
 msgstr "來猜猜會不會下雨。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_tophat_circus
-msgid "researchlab4_tophat_circus"
-msgstr "researchlab4_tophat_circus"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.tophat_circus
 msgid "Come one, come all."
@@ -104294,6 +104294,66 @@ msgstr "爲史詩戰鬥而生的强大劍刃！"
 msgid "Thy machismo frighten me not!"
 msgstr "你們兩個嚇不倒我！"
 
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEETLETAUR
+msgid "Back to the dungeons with you!"
+msgstr "你給我回地牢去吧！"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "A little extra armor never hurt."
+msgstr "一點點額外的盔甲不會傷到你的。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Not really my style."
+msgstr "真不是我的風格。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Too brutish for my tastes."
+msgstr "太粗野了，不合我的品味。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.RHINODRILL
+msgid "Brutish grotesquerie."
+msgstr "野蠻的怪胎。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEETLETAUR
+msgid "All that armor must be heavy."
+msgstr "那些盔甲一定都很重。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "We should armor up to be safe."
+msgstr "安全起見我們應該全副武裝。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "It's like fiery spit balls."
+msgstr "就像火球一樣。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "That sword is too big for us to carry!"
+msgstr "那把劍對我們來説太重了，根本拿不動！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RHINODRILL
+msgid "Looks like a big bully!"
+msgstr "看起來是個大惡霸！"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEETLETAUR
+msgid "You are a prisoner of your own doomed destiny."
+msgstr "你只是自己命運的囚徒。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "It protects from damage, but not from sorrow."
+msgstr "它能抵擋傷害，卻抵擋不住悲傷。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "A bombardment of pain."
+msgstr "痛苦的轟炸。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "It's too heavy. Like my soul."
+msgstr "它是如此沉重，就像我的靈魂。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.RHINODRILL
+msgid "Brotherly camaraderie will not save you."
+msgstr "兄弟情誼救不了你。"
+
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
 msgstr "地獄獨眼巨豬"
@@ -104422,6 +104482,50 @@ msgstr "當心那個小尖刺。"
 msgid "Battle gloves to withstand the flames that will consume this world."
 msgstr "為了抵禦吞噬世界的烈火而戴上的戰鬥手套。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma
+msgid "Gloves worthy of wrathful combat."
+msgstr "配得上此等狂怒戰鬥的手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma
+msgid "Like little candle flames for your claws."
+msgstr "你的爪子就像是小小的燭火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wendy_magma
+msgid "Flaming winged accessories to accompany your rebirth."
+msgstr "燃燒的翅膀配件伴隨你一同重生。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma
+msgid "Foppish gloves of firey justice."
+msgstr "執行火焰般正議的花哨手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_magma
+msgid "Armored gloves for handling hot magma samples."
+msgstr "用於處理熱岩漿樣本的手部護甲。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma
+msgid "Impress a deity with these sacrificial bangles."
+msgstr "讓這些手鐲給神靈帶來深刻的印象。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma
+msgid "Rock hard gloves, ready for combat."
+msgstr "戴上岩石般的手套，準備戰鬥。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_winona_magma
+msgid "Perfectly welded welding gloves."
+msgstr "完美的焊接手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_magma
+msgid "Flaming adornments for your wrists."
+msgstr "用來裝飾你手腕的燃燒飾品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma
+msgid "Studded gloves for peerless gripping of an axe."
+msgstr "戴上帶釘的手套，無以倫比地揮舞斧頭。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma
+msgid "Com-bust some heads with these furnace gloves."
+msgstr "用這些火爐手套打爆某些人的頭。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.feet_webber_magma
 msgid "Hot-foot it into the ring."
 msgstr "戰場上的急忙脚步。"
@@ -104431,8 +104535,8 @@ msgid "Tip-toe across the ashes you rose from."
 msgstr "踮起腳走過你重生的灰燼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wes_magma
-msgid "Tip-toe across the ashes you rose from
-msgstr "踮起腳走過你重生的灰燼。"
+msgid "Fine footware for delivering flaming justice."
+msgstr "傳遞燃燒的正義之人的一雙好鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wickerbottom_magma
 msgid "Gold tipped lava leapers."
@@ -104445,6 +104549,30 @@ msgstr "一邊蹦躂一邊冶鐵。"
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_magma
 msgid "Fly fleet footed to the end of the world."
 msgstr "健步走向世界的終結。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_waxwell_magma
+msgid "Stomp out the fires of your enemies' belly."
+msgstr "踩滅你敵人心中的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_willow_magma
+msgid "Made for dancing on firey graves."
+msgstr "用於在燃燒的墳頭上蹦迪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_wilson_magma
+msgid "Rock out with these rock hard boots."
+msgstr "穿上這雙岩石靴子搖滾起來吧。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_winona_magma
+msgid "Protection for when the sparks fly in the arena."
+msgstr "在場上火星飛舞時提供保護。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_magma
+msgid "Wolfgang strong. Wolfgang need no foot protection."
+msgstr "沃尔夫冈很强，沃尔夫冈不需要足部保護。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_woodie_magma
+msgid "These boots are on fire."
+msgstr "這雙靴子着火了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_magma
 msgid "Battlemaster Pugna draws great pleasure in subjecting combatants to the whims of his Battlearena forged of stone and fire."
@@ -104647,8 +104775,8 @@ msgid "Set your profile icon to a dizzying Snortoise."
 msgstr "將你的頭像設置為讓人眼花繚亂的披甲岩龜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.researchlab4_witch_pyre
-msgid "researchlab4_tophat_circus"
-msgstr "researchlab4_tophat_circus"
+msgid "n/a"
+msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
 msgid "Lacerate with a cursed blade."
@@ -106308,7 +106436,7 @@ msgstr "豬神壇"
 
 #: STRINGS.NAMES.PIG_TOKEN
 msgid "Golden Belt"
-msgstr "金腰帶"
+msgstr "黃金腰帶"
 
 #: STRINGS.NAMES.YOTP_FOOD1
 msgid "Tribute Roast"
@@ -106344,7 +106472,7 @@ msgstr "拿金子！"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.1
 msgid "YOU BAD AT THIS. GET BETTER"
-msgstr "你打的很爛。去變更好"
+msgstr "你打的很爛。去練更好"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.2
 msgid "TRY AGAIN SOMETIME?"
@@ -106356,11 +106484,11 @@ msgstr "你是有價值的對手"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.4
 msgid "YOU HUMBLE US"
-msgstr "你不如俺們"
+msgstr "你打敗了俺們"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.5
 msgid "GOOD MATCH. WE GO BED NOW"
-msgstr "打得好。俺們現在去睡覺"
+msgstr "打得好。俺們現在要去睡覺"
 
 #: STRINGS.PIG_ELITE_POST_MATCH.6
 msgid "YOU CHEATER. WE NO LIKE CHEATERS"
@@ -106396,7 +106524,7 @@ msgstr "好玩！"
 
 #: STRINGS.PIG_TALK_GAME_CHEER.1
 msgid "SMASH! SMASH!"
-msgstr "完蛋！完蛋！"
+msgstr "砸！砸！"
 
 #: STRINGS.PIG_TALK_GAME_CHEER.2
 msgid "BASH!"
@@ -106468,7 +106596,15 @@ msgstr "這套連身衣和腰帶讓場面看起來動感十足。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_wrestler
 msgid "A ravishing one-piece to make you dazzle!"
-msgstr "迷人的連體衣，讓你眼花繚亂!」"
+msgstr "迷人的連體衣，讓你眼花繚亂!"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_wrestler
+msgid "A wrestling singlet fit for a giant strongman."
+msgstr "一件適合魁梧强人的摔跤背心。。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wathgrithr_wrestler
+msgid "These wrestling boots give you the best performance."
+msgstr "這雙摔跤靴能爲你帶來最好的表現。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
 msgid "A lovely stone kiln to house your coziest fires."
@@ -106544,7 +106680,7 @@ msgstr "將你的頭像設置為紅鞭炮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_luckygoldnugget_yotp
 msgid "Set your profile icon to the auspicious Lucky Gold Nugget."
-msgstr "將你的頭像設置為象徵吉祥的金元寶。\n\n譯註：其實是財富象徵，Klei果然還是加拿大公司阿..."
+msgstr "將你的頭像設置為象徵吉祥的金元寶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mudpie_yotp
 msgid "Set your profile icon to a yummy Eight Treasures Mud Pie."
@@ -106556,7 +106692,7 @@ msgstr "將你的頭像設置為富裕的豬王。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pigtoken_yotp
 msgid "Set your profile icon to a Golden Belt"
-msgstr "將你的頭像設置為金腰帶。"
+msgstr "將你的頭像設置為黃金腰帶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redlantern_yotp
 msgid "Set your profile icon to the illuminating Red Lantern."
@@ -106676,7 +106812,7 @@ msgstr "空的豬神壇背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_yotp2
 msgid "Golden Belt Portrait"
-msgstr "金腰帶背景"
+msgstr "黃金腰帶背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_yotp3
 msgid "Pig King Head Portrait"
@@ -106712,7 +106848,7 @@ msgstr "豬王"
 
 #: STRINGS.SKIN_NAMES.profileflair_pigtoken_yotp
 msgid "Golden Belt"
-msgstr "金腰帶"
+msgstr "黃金腰帶"
 
 #: STRINGS.SKIN_NAMES.profileflair_redlantern_yotp
 msgid "Red Lantern"
@@ -106808,7 +106944,7 @@ msgstr "全部"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_ITEMS
 msgid "Belongings"
-msgstr "已擁有"
+msgstr "捆綁包"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_UNOWNED
 msgid "Unowned"
@@ -106816,7 +106952,7 @@ msgstr "未擁有"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.OWNED_FILTER
 msgid "Owned:"
-msgstr "已擁有："
+msgstr "擁有："
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.TYPE_FILTER
 msgid "Type:"
