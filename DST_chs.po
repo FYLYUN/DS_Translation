@@ -23392,7 +23392,7 @@ msgstr "真希望它们的形状和恐龙一样。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORN
 msgid "If this makes a mating call we're all in trouble."
-msgstr ""如果这发出了交配的鸣叫，那我们就有麻烦了。"
+msgstr "如果这发出了交配的鸣叫，那我们就有麻烦了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI
 msgid "Flavor bombs!"
@@ -49992,7 +49992,7 @@ msgstr "烤了吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_LIGHT2.OFF
 msgid "Is there an \"on\" switch?"
-msgstr "是否有"on"开关。"
+msgstr "是否有\"on\"开关。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_LIGHT2.ON
 msgid "It lights up, even without filament."
@@ -72800,11 +72800,11 @@ msgstr "上面写着“尸物招领”。"
 
 #: STRINGS.EPITAPHS.53
 msgid "It says \"I hope I turned the oven off.\""
-msgstr "上面写着\“希望我的烤箱是关着的。\”"
+msgstr "上面写着“希望我的烤箱是关着的。”"
 
 #: STRINGS.EPITAPHS.54
 msgid "It says \"Right where I belong.\""
-msgstr "上面写着 “现在我属于这里了。”""
+msgstr "上面写着 “现在我属于这里了。”"
 
 #: STRINGS.EPITAPHS.55
 msgid "It says \"I guess this is my life now.\""
@@ -72824,7 +72824,7 @@ msgstr "现在这个坟被青苔静静的覆盖着。"
 
 #: STRINGS.EPITAPHS.59
 msgid "It reads \"I've made a grave error.\" Hm."
-msgstr "上面刻着=“我犯了一个致命的错误。” 呃。。"
+msgstr "上面刻着“我犯了一个致命的错误。” 呃。"
 
 #: STRINGS.EPITAPHS.6
 msgid "The headstone is blank."
@@ -96266,7 +96266,7 @@ msgstr "崩溃！已禁用。"
 msgid "This mod is disabled."
 msgstr "Mod已禁用"
 
-#: 
+#: STRINGS.UI.MODSSCREEN.DOWNLOADINGMOD
 msgid "Downloading:\n{name}"
 msgstr "正在下载：\n{name}"
 

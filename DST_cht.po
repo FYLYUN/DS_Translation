@@ -49992,7 +49992,7 @@ msgstr "烤了吧。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_LIGHT2.OFF
 msgid "Is there an \"on\" switch?"
-msgstr "是否有"on"開關。"
+msgstr "是否有\"on\"開關。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MUSHROOM_LIGHT2.ON
 msgid "It lights up, even without filament."
@@ -72800,11 +72800,11 @@ msgstr "上面寫著「屍物招領」。"
 
 #: STRINGS.EPITAPHS.53
 msgid "It says \"I hope I turned the oven off.\""
-msgstr "上面寫著\「希望我的烤箱是關著的。\」"
+msgstr "上面寫著「希望我的烤箱是關著的。」"
 
 #: STRINGS.EPITAPHS.54
 msgid "It says \"Right where I belong.\""
-msgstr "上面寫著 「現在我屬於這裡了。」""
+msgstr "上面寫著 「現在我屬於這裡了。」"
 
 #: STRINGS.EPITAPHS.55
 msgid "It says \"I guess this is my life now.\""
@@ -72824,7 +72824,7 @@ msgstr "現在這個墳被青苔靜靜的覆蓋著。"
 
 #: STRINGS.EPITAPHS.59
 msgid "It reads \"I've made a grave error.\" Hm."
-msgstr "上面刻著=「我犯了一個致命的錯誤。」 呃。。"
+msgstr "上面刻著「我犯了一個致命的錯誤。」 呃。"
 
 #: STRINGS.EPITAPHS.6
 msgid "The headstone is blank."
