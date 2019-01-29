@@ -104354,6 +104354,126 @@ msgstr "它是如此沉重，就像我的灵魂。"
 msgid "Brotherly camaraderie will not save you."
 msgstr "兄弟情谊救不了你。"
 
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEETLETAUR
+msgid "That lock must be heavy on its snout."
+msgstr "它鼻子上的锁一定很重。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Safety first."
+msgstr "安全第一。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I prefer my books."
+msgstr "我更喜欢我的书。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Goodness. I could never lift that!"
+msgstr "天呐，我可拿不动那个。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL
+msgid "Prone to unnecessary displays of masculinity."
+msgstr "倾向于不必要的男子气概展示。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEETLETAUR
+msgid "Bet you think you're safe in all that armor."
+msgstr "你肯定认为你在那副盔甲里很安全。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Woohoo! I should put that on."
+msgstr "沃吼！我应该穿上那个。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "FIRE! FIRE! FIRE!"
+msgstr "火！火！火！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "No way I can use that!"
+msgstr "我绝对用不了那个！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RHINODRILL
+msgid "Pfft. Whatever Rhinocebros."
+msgstr "切，随便什么犀牛兄弟吧。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.BEETLETAUR
+msgid "Go back to your cage."
+msgstr "回你的笼子里去"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Can't go wrong with armor."
+msgstr "穿上盔甲错不了的。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Here's fire in yer eye!"
+msgstr "你眼里有火！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "That'll do the trick."
+msgstr "它会很有用。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.RHINODRILL
+msgid "Am I supposed to be impressed?"
+msgstr "我应该留下深刻的印象吗？"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEETLETAUR
+msgid "Is not scaring Wolfgang."
+msgstr "吓不到沃尔夫冈。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Is mighty like Wolfgang."
+msgstr "跟沃尔夫冈一样强大。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Wolfgang doesn't like."
+msgstr "沃尔夫冈不喜欢。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Is might sword for mighty Wolfgang!"
+msgstr "给强大沃尔夫冈的强大武器！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RHINODRILL
+msgid "Wolfgang is more macho."
+msgstr "沃尔夫冈更有男子气概。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEETLETAUR
+msgid "Gotta chop that armor up."
+msgstr "得把那副盔甲砍下来。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Better armor up."
+msgstr "最好穿上盔甲。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I'll leave that for someone else."
+msgstr "我就把那个留给别人吧。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "I could use that."
+msgstr "我可以用那个。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.RHINODRILL
+msgid "They really like bumping chests like that, eh?"
+msgstr "他们真的很喜欢像那样撞胸，哈？"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.BEETLETAUR
+msgid "STILL A WEAK FLESHLING UNDERNEATH THAT ARMOR"
+msgstr "那盔甲下面仍然是一副脆弱的肉体"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "ARMOR FOR MY IRON CASING"
+msgstr "为我的铁壳提供防护"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I AM NOT COMPATIBLE WITH THAT INTERFACE"
+msgstr "我和那个接口不兼容"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "I WILL USE IT BETTER THAN ANYONE"
+msgstr "我会用的比任何人都好"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.RHINODRILL
+msgid "YOU CORRUPT THAT MACHINE ON YOUR HORN!"
+msgstr "你玷污了你角上的机器！"
+
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
 msgstr "地狱独眼巨猪"
@@ -107268,47 +107388,31 @@ msgstr "向贪食的致敬。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIG_TOKEN
 msgid "Yet another unnecessary plaything."
-msgstr "又一件不必要的玩物"
+msgstr "又一件不必要的玩物。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD1
 msgid "Something died for that feast."
-msgstr "为了那个宴会而死的某个东西"
+msgstr "有什么东西因这盛宴而死。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD2
 msgid "I don't want to eat that."
-msgstr "我不想吃那个"
+msgstr "我不想吃那个。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD3
 msgid "It'll keep me alive a little longer."
-msgstr "它会让我多活那么一点时间"
+msgstr "它会让我多活那么一点时间。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "This is no time for fun and games!"
-msgstr "没有时间取乐玩游戏了"
+msgstr "没有时间取乐做游戏了！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "I'll need to do some tidying up first."
-msgstr "我首先需要做些清理"
+msgstr "我首先需要做些清理。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "No time for that now. It'll be dark soon."
-msgstr "没时间了，天快要黑了"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEETLETAUR
-msgid "That lock must be heavy on its snout."
-msgstr "它鼻子上的锁一定很重"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Safety first."
-msgstr "安全第一"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I prefer my books."
-msgstr "我更喜欢我的书"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "Goodness. I could never lift that!"
-msgstr "天呐，我可拿不动那个"
+msgstr "没时间了，天快要黑了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE1
 msgid "He's saturated with markings."
@@ -107342,10 +107446,6 @@ msgstr "猪的贡养"
 msgid "How did they could achieve such detail using pig hooves?"
 msgstr "他们是如何用猪蹄完成这些细节的？"
 
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL
-msgid "Prone to unnecessary displays of masculinity."
-msgstr "倾向于不必要的男子气概展示"
-
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD1
 msgid "A feast fit for a festival!"
 msgstr "节日用的宴品"
@@ -107369,22 +107469,6 @@ msgstr "哦呜...你意思是我要先清理吗"
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Naw. It's too late."
 msgstr "不行，太晚了"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEETLETAUR
-msgid "Bet you think you're safe in all that armor."
-msgstr "你肯定认为你在那副盔甲里很安全"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Woohoo! I should put that on."
-msgstr "沃吼！我应该穿上那个"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "FIRE! FIRE! FIRE!"
-msgstr "火！火！火！"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "No way I can use that!"
-msgstr "我绝不可能用那个"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE1
 msgid "All washed up."
@@ -107418,10 +107502,6 @@ msgstr "我的神龛在哪儿？"
 msgid "I'd burn it, but it might be worth something."
 msgstr "我可以烧了它，但是它应该还能做别的事"
 
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RHINODRILL
-msgid "Pfft. Whatever Rhinocebros."
-msgstr "切，随便它是哪只犀牛"
-
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD1
 msgid "I'm gonna eat it all!"
 msgstr "我要把它全吃掉"
@@ -107445,22 +107525,6 @@ msgstr "必须先清理"
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Nah. I'll wait until morning."
 msgstr "不，我会等到早上"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.BEETLETAUR
-msgid "Go back to your cage."
-msgstr "回你的笼子里去"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Can't go wrong with armor."
-msgstr "穿上盔甲不会出乱子"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "Here's fire in yer eye!"
-msgstr "你眼里有火！"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "That'll do the trick."
-msgstr "它会很有用"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE1
 msgid "Swell tattoos you got there."
@@ -107494,10 +107558,6 @@ msgstr "一堆东西建的"
 msgid "Too big for me to wear."
 msgstr "给我戴太大了"
 
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.RHINODRILL
-msgid "Am I supposed to be impressed?"
-msgstr "我需要留下深刻的印象吗"
-
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD1
 msgid "Now that's a feast!"
 msgstr "那是一顿盛宴！"
@@ -107525,22 +107585,6 @@ msgstr "天黑了，现在别玩游戏。"
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
 msgid "Is broken altar."
 msgstr "是个坏掉的祭坛。"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEETLETAUR
-msgid "Is not scaring Wolfgang."
-msgstr "吓不到沃尔夫冈"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Is mighty like Wolfgang."
-msgstr "跟沃尔夫冈一样强大"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "Wolfgang doesn't like."
-msgstr "沃尔夫冈不喜欢"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "Is might sword for mighty Wolfgang!"
-msgstr "给强大的沃尔夫冈的强力武器"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE1
 msgid "Wolfgang wave to little piggy!"
@@ -107574,10 +107618,6 @@ msgstr "不错的小猪"
 msgid "Is not fitting Wolfgang."
 msgstr "不适合沃尔夫冈"
 
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RHINODRILL
-msgid "Wolfgang is more macho."
-msgstr "沃尔夫冈更有男子气概"
-
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTP_FOOD1
 msgid "Make Wolfgang mighty!"
 msgstr "让沃尔夫冈更强！"
@@ -107601,22 +107641,6 @@ msgstr "应该先打扫一下。"
 #: STRINGS.CHARACTERS.WOODIE.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Can't do that now. It'll be dark soon."
 msgstr "现在不可以，天就要黑了。"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEETLETAUR
-msgid "Gotta chop that armor up."
-msgstr "必须砍碎那副盔甲"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Better armor up."
-msgstr "最好穿上盔甲"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I'll leave that for someone else."
-msgstr "我要把那个留给某人"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "I could use that."
-msgstr "我可以用那个"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE1
 msgid "Looks a little blue."
@@ -107650,10 +107674,6 @@ msgstr "你会看那个吗"
 msgid "Looks like something those pigs would make."
 msgstr "看起来像是那些猪做的东西。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.RHINODRILL
-msgid "They really like bumping chests like that, eh?"
-msgstr "他们很喜欢像那样撞胸"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD1
 msgid "Want some, Lucy?"
 msgstr "要来点吗，露西？"
@@ -107677,22 +107697,6 @@ msgstr "错误:大地磁盘需要清理"
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "WARNING: NIGHT APPROACHING"
 msgstr "警告:夜晚将至"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.BEETLETAUR
-msgid "STILL A WEAK FLESHLING UNDERNEATH THAT ARMOR"
-msgstr "那盔甲之下不过是一副虚弱的肉体"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "ARMOR FOR MY IRON CASING"
-msgstr "为我的铁壳提供防护"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I AM NOT COMPATIBLE WITH THAT INTERFACE"
-msgstr "我和那个接口不兼容"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "I WILL USE IT BETTER THAN ANYONE"
-msgstr "我会用的比任何人都好"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE1
 msgid "ENEMY FLESHSACK"
@@ -107725,10 +107729,6 @@ msgstr "非肉体向肉袋进贡"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIG_TOKEN
 msgid "ONE GAME TOKEN"
 msgstr "一场游戏的令牌"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.RHINODRILL
-msgid "YOU CORRUPT THAT MACHINE ON YOUR HORN!"
-msgstr "你腐化了你角上的机器！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.YOTP_FOOD1
 msgid "FANCY FOODFUEL"
