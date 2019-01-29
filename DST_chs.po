@@ -107084,7 +107084,7 @@ msgstr "自动"
 
 #: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
 msgid "Hallowed Nights"
-msgstr "万盛夜"
+msgstr "万圣夜"
 
 #: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
 msgid "Winters Feast"
@@ -107540,7 +107540,7 @@ msgstr "他在狠狠地瞪着我。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE4
 msgid "Stand still so I can hit you with a sign."
-msgstr "站着别动我才能用牌子打你。"
+msgstr "站着不动我正好用牌子打你。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.BURNT
 msgid "No good now."
