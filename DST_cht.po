@@ -107416,31 +107416,31 @@ msgstr "沒時間了，天快要黑了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE1
 msgid "He's saturated with markings."
-msgstr "他身上到處是斑紋"
+msgstr "他身上到處是斑紋。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE2
 msgid "Rather hot-tempered."
-msgstr "脾氣相當火爆，"
+msgstr "脾氣相當火爆。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE3
 msgid "Has an earthy musk to him."
-msgstr "他身上有土香味"
+msgstr "他身上有土香味。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE4
 msgid "I wonder what those green markings signify."
-msgstr "我想知道那些綠色斑紋意味著什麼"
+msgstr "我想知道那些綠色斑紋意味著什麼。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.BURNT
 msgid "No use to me like this."
-msgstr "像這樣的對我無用"
+msgstr "像這樣對我無用。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.EMPTY
 msgid "It needs a sacrifice of meat."
-msgstr "它需要肉的獻祭"
+msgstr "它需要肉的獻祭。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.GENERIC
 msgid "A Porcine tribute."
-msgstr "豬的貢養"
+msgstr "豬的貢養。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN
 msgid "How did they could achieve such detail using pig hooves?"
@@ -107448,99 +107448,99 @@ msgstr "他們是如何用豬蹄完成這些細節的？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD1
 msgid "A feast fit for a festival!"
-msgstr "節日用的宴品"
+msgstr "節日用的宴品！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD2
 msgid "Not fit for human consumption."
-msgstr "不適合人類消費"
+msgstr "不適合人類消費。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD3
 msgid "I do enjoy a snack now and then."
-msgstr "我有時候很喜歡小吃"
+msgstr "我有時候很喜歡小吃/"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Not now! There's big jerks around."
-msgstr "現在不行！周圍有很大的騷動"
+msgstr "現在不行！周圍有很大的騷動。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "Aww... You mean I gotta clean up first?"
-msgstr "哦嗚...你意思是我要先清理嗎"
+msgstr "唔...你的意思是我要先清理嗎。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Naw. It's too late."
-msgstr "不行，太晚了"
+msgstr "不行，太晚了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE1
 msgid "All washed up."
-msgstr "全都洗過了"
+msgstr "全完蛋了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE2
 msgid "You, I like."
-msgstr "你，我喜歡"
+msgstr "你，我喜歡。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE3
 msgid "Eat dirt!"
-msgstr "忍氣吞聲！"
+msgstr "吃土吧你！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE4
 msgid "Sure does like using those signs."
-msgstr "一定很喜歡用那些牌子"
+msgstr "一定很喜歡用那些牌子。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.BURNT
 msgid "Burnt. I like it."
-msgstr "燒了，我喜歡"
+msgstr "燒了，我喜歡。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.EMPTY
 msgid "Needs meat."
-msgstr "需要肉"
+msgstr "需要肉。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Where's the shrine to me?"
-msgstr "我的神龕在哪兒？"
+msgstr "哪裏有給我的神龕？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIG_TOKEN
 msgid "I'd burn it, but it might be worth something."
-msgstr "我可以燒了它，但是它應該還能做別的事"
+msgstr "我可以燒了它，但是它應該還能做別的事。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD1
 msgid "I'm gonna eat it all!"
-msgstr "我要把它全吃掉"
+msgstr "我要把它全吃掉。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD2
 msgid "Nah. I'll feed it to something."
-msgstr "不，我要把它餵給某個生物"
+msgstr "不，我要把它餵給某個生物。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD3
 msgid "A little snack to fill my belly."
-msgstr "充填我肚子的一點小吃"
+msgstr "充填我肚子的一點小吃。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Nah. It ain't safe for that now."
-msgstr "不，現在不安全"
+msgstr "不，現在不安全。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "Gotta clean up first."
-msgstr "必須先清理"
+msgstr "必須先清理。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Nah. I'll wait until morning."
-msgstr "不，我會等到早上"
+msgstr "不，我會等到早上。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE1
 msgid "Swell tattoos you got there."
-msgstr "紋身壯漢你來了"
+msgstr "紋身壯漢你來了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE2
 msgid "Chill out, red."
-msgstr "放鬆，阿紅"
+msgstr "放鬆，阿紅。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE3
 msgid "He's giving me a dirty look."
-msgstr "他在狠狠地瞪著我"
+msgstr "他在狠狠地瞪著我。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE4
 msgid "Stand still so I can hit you with a sign."
-msgstr "站著別動我才能用牌子打你"
+msgstr "站著別動我才能用牌子打你。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.BURNT
 msgid "No good now."
@@ -107548,15 +107548,15 @@ msgstr "這樣可不好。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.EMPTY
 msgid "I gotta find some meat for it."
-msgstr "我必須給他找些肉"
+msgstr "我必須給他找些肉。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.GENERIC
 msgid "A bunch of things to build."
-msgstr "一堆東西建的"
+msgstr "一堆東西建起来的。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIG_TOKEN
 msgid "Too big for me to wear."
-msgstr "給我戴太大了"
+msgstr "給我戴太大了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD1
 msgid "Now that's a feast!"
@@ -107564,11 +107564,11 @@ msgstr "那是一頓盛宴！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD2
 msgid "I'll give it to a pig or somethin'."
-msgstr "我會把它給豬或者其他東西"
+msgstr "我會把它給豬或者其他東西。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD3
 msgid "Somethin' to chew on."
-msgstr "一些東西可以咀嚼"
+msgstr "有東西可嚼了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Is too scary for that now!"
@@ -107580,7 +107580,7 @@ msgstr "沃爾夫岡先打掃乾淨。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Is dark. No games now."
-msgstr "天黑了，現在別玩遊戲。"
+msgstr "天黑了，現在別比了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
 msgid "Is broken altar."
@@ -107592,31 +107592,31 @@ msgstr "沃爾夫岡向小豬揮手！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE2
 msgid "He is having nasty temper."
-msgstr "他有一副壞脾氣"
+msgstr "他有一副壞脾氣。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE3
 msgid "Is dirty fighter."
-msgstr "陰險的打手"
+msgstr "陰險的打手。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE4
 msgid "Is mighty. Wolfgang mightier."
-msgstr "很強。沃爾夫岡更強"
+msgstr "很強。沃爾夫岡更強。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.BURNT
 msgid "Poor little piggy."
-msgstr "可憐的小豬"
+msgstr "可憐的小豬。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.EMPTY
 msgid "Wolfgang give it meat."
-msgstr "沃爾夫岡拿肉給它"
+msgstr "沃爾夫岡拿肉給它。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Is pretty piggy."
-msgstr "不錯的小豬"
+msgstr "不錯的小豬。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_TOKEN
 msgid "Is not fitting Wolfgang."
-msgstr "不適合沃爾夫岡"
+msgstr "不適合沃爾夫岡。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTP_FOOD1
 msgid "Make Wolfgang mighty!"
@@ -107644,15 +107644,15 @@ msgstr "現在不可以，天就要黑了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE1
 msgid "Looks a little blue."
-msgstr "看起來有點下流"
+msgstr "看起來有點藍。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE2
 msgid "Too hot-headed if you ask me."
-msgstr "如果你問我，我會說太魯莽了"
+msgstr "如果你問我，我會說太魯莽了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE3
 msgid "Sure likes that gold."
-msgstr "就像金子一樣"
+msgstr "就像金子一樣。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE4
 msgid "Something about that guy I like."
@@ -107668,7 +107668,7 @@ msgstr "我認為它需要肉，露西。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Would ya look at that."
-msgstr "你會看那個嗎"
+msgstr "你會看那個嗎。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIG_TOKEN
 msgid "Looks like something those pigs would make."
@@ -107680,11 +107680,11 @@ msgstr "要來點嗎，露西？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD2
 msgid "Doesn't look to appetizing. Sorry."
-msgstr "不好意思，看起來不是很開胃"
+msgstr "不好意思，看起來不是很開胃。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD3
 msgid "I don't need nothin' fancy."
-msgstr "我不需要無用的怪東西"
+msgstr "我不需要無用的怪東西。"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "WARNING: DANGER DETECTED"
@@ -107692,11 +107692,11 @@ msgstr "警告:偵測到危險"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "ERROR: GROUND REQUIRES DISKCLEANUP"
-msgstr "錯誤:大地磁碟需要清理"
+msgstr "錯誤:地面需要清理"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "WARNING: NIGHT APPROACHING"
-msgstr "警告:夜晚將至"
+msgstr "警告:夜晚接近"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE1
 msgid "ENEMY FLESHSACK"
@@ -107704,7 +107704,7 @@ msgstr "敵對肉塊"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE2
 msgid "A FLESHSACK FIREWALL FOR GOLD"
-msgstr "一道金子的肉袋防火牆"
+msgstr "金子的一道肉袋防火牆"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE3
 msgid "IT HAS A FILTHY HABIT OF HITTING ME"
