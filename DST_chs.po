@@ -4660,11 +4660,11 @@ msgstr "这中间有一个洞来让某个东西进出。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "The stone lit it up somehow."
-msgstr "不知为何，石头发光了诶。"
+msgstr "这石头不知怎么的就发起了光。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.STAFFED
 msgid "Now what?"
-msgstr "现在怎么样了？"
+msgstr "现在会怎么样呢？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "I have a distinct feeling this isn't right."
@@ -11116,11 +11116,11 @@ msgstr "祭坛，你想要什么？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "It feeds from the power of Mani!"
-msgstr "它靠月神之力为生！"
+msgstr "它因月神之力而生！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.STAFFED
 msgid "Prepare for glorious battle!"
-msgstr "为荣誉而战！"
+msgstr "准备为荣誉而战！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "This shall not please the gods."
@@ -11156,7 +11156,7 @@ msgstr "月神的礼物还有些用处！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKNUGGET
 msgid "A gift from Mani."
-msgstr "来自月亮的礼物。"
+msgstr "来自月神的礼物。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCK_PIECES
 msgid "It has faced Mani's wrath."
@@ -30452,19 +30452,19 @@ msgstr "冷厉的寒冷直入骨髓。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Bathed in pale eternal light..."
-msgstr "沐浴在永恒的苍白光亮里…"
+msgstr "沐浴在永恒的苍白光芒中…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.STAFFED
 msgid "Perhaps it thirsts for a sacrifice. Where's Webber..."
-msgstr "大抵它渴望牺牲。韦伯在哪儿……"
+msgstr "大抵它渴望牺牲。韦伯在哪儿…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "That doesn't look right..."
-msgstr "那看起来有问题……"
+msgstr "那看起来有问题…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.CAVE
 msgid "Caves. The moon's one weakness."
-msgstr "塌陷。月亮的一个弱点。"
+msgstr "洞穴。月亮的一个弱点。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.GENERIC
 msgid "Does it reflect from the other side too, Abigail?"
@@ -33604,7 +33604,7 @@ msgstr "没有人应当用那个来雕刻，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.NOTSTAFF
 msgid "This is not the staff I seek."
-msgstr "这不是我要找的权杖。"
+msgstr "这不是我在找的法杖。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.SLEEPING
 msgid "It appears to be sleeping."
@@ -36904,11 +36904,11 @@ msgstr "很咸，但是吃起来很有满足感。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.BROKEN
 msgid "Ancient debris. Perhaps it can be restored?"
-msgstr "远古碎片。它能恢复如初吗？"
+msgstr "古代残骸。它能恢复如初吗？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.GENERIC
 msgid "The magic of this structure ebbs in predictable cycles."
-msgstr "在可预见周期内的结构性衰弱的魔法。"
+msgstr "这个装置的魔力会在可预见的周期内衰退。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "The magic of the stone appears to be inexhaustible."
@@ -36916,11 +36916,11 @@ msgstr "这块石头的魔力似乎不会枯竭。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.STAFFED
 msgid "Now we must be patient."
-msgstr "现在我们必须淡定。"
+msgstr "现在我们必须有点耐心。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "Hmm... It seems the staves are not interchangeable."
-msgstr "唔……好像法杖已经不能换了。"
+msgstr "唔…看来这些法杖不能互相替代。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.CAVE
 msgid "It appears to lose functionality in subterranean conditions."
@@ -38772,7 +38772,7 @@ msgstr "你会得致命的病的！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgid "Development appears to be progressing."
-msgstr "看起来正在发展"
+msgstr "发育正在进行中。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgid "Exposure to temperature extremes may result in death."
@@ -40064,7 +40064,7 @@ msgstr "我想看到有人试着用它来雕刻！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.NOTSTAFF
 msgid "I don't have to jam stuff into every hole I see!"
-msgstr "我可不是那种看见个洞就想塞个东西进去的人！（这句话想了好久才找到一个不污的表达）"
+msgstr "我可不是那种看见个洞就想塞个东西进去的人！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.SLEEPING
 msgid "Not right now. It's sleeping."
@@ -43392,7 +43392,7 @@ msgstr "它想从我这儿得到些什么。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Ughh! It's doing the exact opposite of burning!"
-msgstr "啊！它与燃烧是相反的！"
+msgstr "額啊！它在做完全相反的燃烧！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONBASE.STAFFED
 msgid "Hurry up already, stupid rock!"
@@ -56332,11 +56332,11 @@ msgstr "小平台还缺一块。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Sickly little light is not run out."
-msgstr "虚弱的光不会熄灭。"
+msgstr "微弱的小光芒不会熄灭。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.STAFFED
 msgid "Is ready for good fight!"
-msgstr "适合战斗！"
+msgstr "准备打架！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "Feels wrong to Wolfgang."
@@ -59368,7 +59368,7 @@ msgstr "救命朋友！帮沃尔夫冈逃出黑暗！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "This egg too crunchy."
-msgstr "这蛋太容易碎了"
+msgstr "这鸟蛋真脆。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.QUAGMIRE_ANNOUNCE_LOSE
 msgid "Sky beast is mad!"
@@ -69244,7 +69244,7 @@ msgstr "检测到无用物质堆"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONBASE.GENERIC
 msgid "MOONBASE. AAAAA. MOONBASE!"
-msgstr "月之底座。啊啊啊啊。月之底座！"
+msgstr "月球基地。啊啊啊啊。月球基地！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "GROUNDED MOON OUTLET"
@@ -91776,7 +91776,7 @@ msgstr "本地："
 
 #: STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE
 msgid "Remote:"
-msgstr "遥控器："
+msgstr "远程："
 
 #: STRINGS.UI.CONTROLSSCREEN.APPLY
 msgid "Apply"
