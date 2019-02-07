@@ -2296,7 +2296,7 @@ msgstr "需要等一會。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "This one is slightly less smelly than the others."
-msgstr "這一個比其他的少一些。"
+msgstr "這一個比其他牛不那麽臭一些。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.FOLLOWER
 msgid "He's coming along peacefully."
@@ -2304,7 +2304,7 @@ msgstr "他在安靜地跟著"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC
 msgid "It's a beefalo!"
-msgstr "它是一隻牛！"
+msgstr "它是一隻皮弗婁牛！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.NAKED
 msgid "Aww, he's so sad."
@@ -2312,11 +2312,11 @@ msgstr "啊，他看起來很難過。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.ORNERY
 msgid "It looks deeply angry."
-msgstr "這貨看起來很生氣。"
+msgstr "它看起來很生氣。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.PUDGY
 msgid "Hmmm, there may be too much food inside it."
-msgstr "哼，那裡面好像有很多食物。"
+msgstr "嗯...那裡面也許裝了很多食物。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.RIDER
 msgid "This fellow appears quite ridable."
@@ -28116,7 +28116,7 @@ msgstr "蜜蜂們，繼續加把勁。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "I wonder if it misses its old family?"
-msgstr "我想知道它是否錯過了它的老家族？"
+msgstr "我想知道它會不會想念它的舊家庭？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.FOLLOWER
 msgid "He follows me unto his doom."
@@ -28136,11 +28136,11 @@ msgstr "這個世界傷害了你。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.PUDGY
 msgid "More of the world is within the beast than without."
-msgstr "大部分世界都是在動物們的掌握中的。"
+msgstr "世界的絕大部分都由野獸們掌握。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.RIDER
 msgid "Together we can venture far."
-msgstr "讓我們一起去冒險吧。"
+msgstr "我們在一起能夠走的更遠。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.SLEEPING
 msgid "To sleep, perchance to dream."
@@ -33372,11 +33372,11 @@ msgstr "%s正在和那斧頭一起密謀著某些卑鄙的計劃。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVER
 msgid "He pinky-promised I'd get to ride on his shoulders. Such lies."
-msgstr "他跟我曾誓言過我可以依靠他，但是這是謊言。"
+msgstr "他曾向我發誓過我可以信賴他，但那是謊言。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "The curse haunts you even in death, %s?"
-msgstr "雖然你死了，但是詛咒還是會縈繞著你。"
+msgstr "%s，儘管你死了，詛咒還是會縈繞著你？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.FIRESTARTER
 msgid "Fire setting does not seem in your best interest..."
@@ -33388,7 +33388,7 @@ msgstr "你好嗎，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GHOST
 msgid "We'll get a heart, but are you sure you want to come back, %s?"
-msgstr "我會救你的，不過你確定你要復活嗎，%s？"
+msgstr "我會救你的，不過你確定你要回來嗎，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MURDERER
 msgid "I'll send you someplace much nicer than this, %s."
@@ -33408,7 +33408,7 @@ msgstr "這看起來有點不相稱。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORM.WORM
 msgid "It comes from the depths."
-msgstr "它是從地下深處來的。"
+msgstr "它來自深淵。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMHOLE.GENERIC
 msgid "Life doesn't always make sense."
@@ -33440,7 +33440,7 @@ msgstr "你難道沒有良心嗎，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.FIRESTARTER
 msgid "I'd begun to think you were all talk, %s."
-msgstr "我開始認為你以前都說過。"
+msgstr "我開始認為你以前都說過，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GENERIC
 msgid "How do you do, %s?"
@@ -53988,23 +53988,23 @@ msgstr "蜜蜂很忙的。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "Hair-cow so fluffy and nice!"
-msgstr "蓬鬆又好看！"
+msgstr "毛茸茸的牛，蓬鬆又好看！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.FOLLOWER
 msgid "Hair-cow follow me!"
-msgstr "頭髮哥跟我走！"
+msgstr "毛茸茸的牛在跟著我走！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.GENERIC
 msgid "Is hair-cow thing!"
-msgstr "看這一撮撮的頭髮！"
+msgstr "看這毛茸茸的牛！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.NAKED
 msgid "Hair-cow has no more hair."
-msgstr "頭髮哥的頭髮不復存在了"
+msgstr "毛茸茸牛兒的毛不復存在了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.ORNERY
 msgid "You are feisty!"
-msgstr "你們太吵了！"
+msgstr "你太吵了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.PUDGY
 msgid "A critter after own heart!"
@@ -54016,7 +54016,7 @@ msgstr "就像我變回到了騎兵一樣！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.SLEEPING
 msgid "Hair-cow is sleeping."
-msgstr "頭髮哥在睡覺"
+msgstr "毛茸茸的牛在睡覺。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALOHAT
 msgid "Is good hat!"
@@ -59248,11 +59248,11 @@ msgstr "%s是個好男人，就像我一樣！233。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.ATTACKER
 msgid "Does beardman %s want to fight?"
-msgstr "你想打架嗎，%s？"
+msgstr "你想打架嗎，大鬍子%s？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.BEAVER
 msgid "The beard ate %s!"
-msgstr "大鬍子%s被你吃掉了！"
+msgstr "鬍子把%s吃掉了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "Still have good moustache, %s."
@@ -66800,7 +66800,7 @@ msgstr "砍倒有生命物質的工具"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "IT IS STILL INITIALIZING"
-msgstr "還在初始化"
+msgstr "它仍在初始化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "REST FUNCTION ACTIVATED"
@@ -72160,7 +72160,7 @@ msgstr "%s，對抗我？你沒有那個膽子"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVER
 msgid "%s! YOU GOT SLIGHTLY LESS INFERIOR"
-msgstr "%s！你有點弱"
+msgstr "%s！你變得沒那麽低等了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "YOU WERE GIANT, %s, HOW DID YOU STILL DIE?"
