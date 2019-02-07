@@ -4600,7 +4600,7 @@ msgstr "不是這樣子用的。我們應該把它放下來。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MINOTAUR
 msgid "That thing doesn't look happy."
-msgstr "拿東西看起來不是很高興。"
+msgstr "那東西看起來不是很高興。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MINOTAURCHEST
 msgid "It may contain a bigger something fantastic! Or horrible."
@@ -8832,7 +8832,7 @@ msgstr "注意你的腳下。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEQUEEN
 msgid "Your monarchy shall topple this day!"
-msgstr "今天你的王位就要被我推翻！"
+msgstr "你的統治今天將會被推翻！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "A land not of milk, but of honey."
@@ -9672,7 +9672,7 @@ msgstr "所有生靈身上都可以看出芙蕾雅的美麗！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEERCLOPS
 msgid "Rays will shine through my spear and poke out your eyeball!"
-msgstr "Rays會用我的長矛把你的眼珠子挑出來。"
+msgstr "光芒會透過我的長矛把你的眼珠刺穿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Delicious! I should like to share it with my new allies."
@@ -10588,11 +10588,11 @@ msgstr "一個被征服的敵人"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUS
 msgid "I shall free thy deer this day!"
-msgstr "今日我將解放你的鹿！"
+msgstr "今天我就要解放你的鹿！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUSSACKKEY
 msgid "What wonders will you reveal?"
-msgstr "你將開啟什麼奇遇？"
+msgstr "你將開啟什麼奇跡？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUS_SACK
 msgid "A secret, kept under lock and key!"
@@ -12880,7 +12880,7 @@ msgstr "各種各樣鋒利的石頭。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STALKER
 msgid "It lives to battle once more!"
-msgstr "它還可以在打一仗！"
+msgstr "它活過來就是爲了再打一仗！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STALKER_ATRIUM
 msgid "Tis no mindless beast!"
@@ -14972,7 +14972,7 @@ msgstr "有沒有自尊你？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLION.UNHAPPY
 msgid "It's going to wreak havoc on my world."
-msgstr "它將摧毀我的世界。"
+msgstr "它會對我的世界造成嚴重破壞。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLION.VERYHAPPY
 msgid "We've placated it for now."
@@ -15292,7 +15292,7 @@ msgstr "也許我不該放在那裡"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEQUEEN
 msgid "I didn't make that one! Really!"
-msgstr "這真不是我乾的！真的！"
+msgstr "這一個真不是我造的！真的！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "I am not getting that on my shoes."
@@ -16136,7 +16136,7 @@ msgstr "甚至是我都害怕這傢伙。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Deerclops are so myopic."
-msgstr "所以獨眼巨鹿很近視。"
+msgstr "獨眼巨鹿非常近視。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEER_ANTLER
 msgid "Filthy."
@@ -17040,7 +17040,7 @@ msgstr "我抓住了老虎尾巴"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUS
 msgid "My, what a magnificently horrific creature."
-msgstr "我的天，多壯觀的一個可怕生物。"
+msgstr "我的天，多壯觀的一個恐怖生物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUSSACKKEY
 msgid "Magic has done things to this beast's horn."
@@ -26012,7 +26012,7 @@ msgstr "呀！那是一個巨蛤！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.RAGE
 msgid "Toadally terrifying!"
-msgstr "日常害怕！"
+msgstr "想蟾蜍一樣可怕！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.EMPTY
 msgid "Do you think we'd fit?"
@@ -28064,7 +28064,7 @@ msgstr "真骯髒"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEARGER
 msgid "It could crush me in one blow. I wish it would."
-msgstr "僅僅一吹它就會擊碎我。我希望這樣。"
+msgstr "僅僅一擊它就會擊碎我。我希望這樣。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEARGERVEST
 msgid "Death surrounds us. Well, our torsos anyhow."
@@ -29084,7 +29084,7 @@ msgstr "野獸的肚子。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGONFLY
 msgid "It's burning on the inside."
-msgstr "它在裡面燃燒著。"
+msgstr "它的内心在燃燒著。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGONFLYCHEST
 msgid "Boom box."
@@ -30392,7 +30392,7 @@ msgstr "我們必須把它插入寒冷堅硬的大地…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MINOTAUR
 msgid "He must be lonely, trapped in such a small cage."
-msgstr "它一定是孤獨的，就這樣被困在了一個小籠子里。"
+msgstr "被困在狹小的牢籠里，他一定很孤獨。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MINOTAURCHEST
 msgid "My, what magnificent horns you have!"
@@ -32216,7 +32216,7 @@ msgstr "地球到了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STALKER
 msgid "Not even death is permanent."
-msgstr "即使死亡是永恆的。"
+msgstr "甚至死亡也不是永恆的。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STALKER_ATRIUM
 msgid "Do you mourn, too?"
@@ -35544,7 +35544,7 @@ msgstr "龍越長，運氣越好。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFLY
 msgid "It's some kind of mythical variant of a Diptera."
-msgstr "它是一種德普塔拉的神秘變種。"
+msgstr "它是雙翅目昆蟲的一個神秘變種。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFLYCHEST
 msgid "Scales! Scales are the winner!"
@@ -36960,7 +36960,7 @@ msgstr "多麼令人困惑的轉變。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOOSE
 msgid "I dub it Alces canadensis."
-msgstr "我把它叫做駝鹿沉香。"
+msgstr "我把它称为駝鹿胸鳾。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOOSEEGG
 msgid "What a marvel!"
@@ -41004,7 +41004,7 @@ msgstr "呃！你該洗澡了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARGER
 msgid "Whoa! Niiiice bear..."
-msgstr "好樣的，熊。"
+msgstr "哇哦！很-好-的-熊..."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARGERVEST
 msgid "It's like swimming in fur."
@@ -42864,7 +42864,7 @@ msgstr "嗡嗡！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KLAUS
 msgid "A lump of coal would be really useful, actually!"
-msgstr "事實上，一塊木炭是很有用的！"
+msgstr "實際上煤塊是非常有用的！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KLAUSSACKKEY
 msgid "Ha! I wouldn't wanna get smacked with that thing!"
@@ -48420,7 +48420,7 @@ msgstr "這是那野獸的肚子！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONFLY
 msgid "Get a load of this flying welding torch!"
-msgstr "它像是一個會飛行的巨型移動光源！"
+msgstr "就像一個會飛的巨型移動火炬！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONFLYCHEST
 msgid "For the snootiest of snoots."
@@ -49284,7 +49284,7 @@ msgstr "你要冷靜下來。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUS
 msgid "Get out of here ya big creep."
-msgstr "滾蛋，死變態。"
+msgstr "滾开，死變態。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUSSACKKEY
 msgid "This must be the actual key."
@@ -54048,7 +54048,7 @@ msgstr "球里裝滿了憤怒的會咬人的蟲子。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEQUEEN
 msgid "Is giant lady bee!"
-msgstr "巨大的母蜂！"
+msgstr "巨大的蜂女士！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "Sticky stompy patch of muck!"
@@ -54956,7 +54956,7 @@ msgstr "撥起來像巨大又恐怖的怪獸。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFLY
 msgid "I confuse... Is dragonfly, or dragon-fly?"
-msgstr "我很困惑…這是蜻蜓還是會飛的龍？"
+msgstr "我很困惑…這是蜻蜓還是蒼蠅龍？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFLYCHEST
 msgid "Chest is not afraid of fire."
@@ -61352,7 +61352,7 @@ msgstr "那是樹林里的生物，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEERCLOPS
 msgid "That's a big moose!"
-msgstr "一隻大老鼠！"
+msgstr "那可真是頭大麋鹿！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Now what is this good for?"
@@ -62844,7 +62844,7 @@ msgstr "真是個不幸的雕像啊，是吧？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOOSE
 msgid "Whatever it is, it's definitely Canadian."
-msgstr "無論那是什麼，肯定跟加拿大有關。"
+msgstr "無論那是什麼，肯定是從加拿大來的。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOOSEEGG
 msgid "Well, it lays eggs, apparently."
@@ -66968,7 +66968,7 @@ msgstr "裡面有兇猛的生命體"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEQUEEN
 msgid "THE PRIME BEE"
-msgstr "主蜂"
+msgstr "蜜蜂總理"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "SWEET DIRT OOZE"
@@ -71012,7 +71012,7 @@ msgstr "石頭達人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.STALKER
 msgid "YOU WILL BE DESTROYED"
-msgstr "你將會被我摧毀"
+msgstr "你將被摧毀"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.STALKER_ATRIUM
 msgid "I WILL DESTROY YOU"
@@ -76632,7 +76632,7 @@ msgstr "大理石魔豆"
 
 #: STRINGS.NAMES.MARBLEBEAN_SAPLING
 msgid "Marble Sprout"
-msgstr "大理石樹苗"
+msgstr "大理石苗芽"
 
 #: STRINGS.NAMES.MARBLEPILLAR
 msgid "Marble Pillar"
@@ -76640,7 +76640,7 @@ msgstr "大理石柱子"
 
 #: STRINGS.NAMES.MARBLESHRUB
 msgid "Marble Shrub"
-msgstr "大理石樹"
+msgstr "大理石灌木"
 
 #: STRINGS.NAMES.MARBLETREE
 msgid "Marble Tree"
@@ -76956,7 +76956,7 @@ msgstr "獨奏樂器"
 
 #: STRINGS.NAMES.OPALPRECIOUSGEM
 msgid "Iridescent Gem"
-msgstr "閃閃發亮的寶石"
+msgstr "彩虹寶石"
 
 #: STRINGS.NAMES.OPALSTAFF
 msgid "Moon Caller's Staff"
