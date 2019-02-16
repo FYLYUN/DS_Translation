@@ -3528,7 +3528,7 @@ msgstr "這把法杖可以召喚隕石。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FIRECRACKERS
 msgid "Filled with explosion science!"
-msgstr "裝滿了「爆炸性」科學。"
+msgstr "裝滿了「爆炸性」科學！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FIREFLIES.GENERIC
 msgid "If only I could catch them!"
@@ -5036,7 +5036,7 @@ msgstr "有人應該說說它的家庭。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN.FOLLOWER
 msgid "You're part of my entourage."
-msgstr "你是環境的一部分。"
+msgstr "你是我隨從中的一員。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN.GENERIC
 msgid "They kind of creep me out."
@@ -11504,7 +11504,7 @@ msgstr "那頭豬看起來非常勇猛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGMAN.WEREPIG
 msgid "It has been tainted by Fenrir."
-msgstr "這已經被獵狗污染了。"
+msgstr "它已經被芬里爾污染了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGSKIN
 msgid "The hide of a pig creature."
@@ -12228,7 +12228,7 @@ msgstr "這東西太燙了，不能摸的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REDLANTERN
 msgid "A lucky ward to guard against the night."
-msgstr "地域黑夜的一個幸運屏障。"
+msgstr "一個幸運守護者提防著黑夜。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REDMOONEYE
 msgid "Odin's eye, grant us wisdom!"
@@ -16460,7 +16460,7 @@ msgstr "我就喜歡這樣的法杖！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FIRECRACKERS
 msgid "Great for magic tricks."
-msgstr "不錯的魔術技巧。"
+msgstr "不錯的魔術伎倆。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FIREFLIES.GENERIC
 msgid "How pretty."
@@ -17904,7 +17904,7 @@ msgstr "大家都喜歡挖礦。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGGUARD
 msgid "Blech. Disgusting brute."
-msgstr "死神，令人噁心的禽獸。"
+msgstr "呃...令人噁心的禽獸。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGGYBACK
 msgid "Oh, that's just demeaning."
@@ -17956,7 +17956,7 @@ msgstr "他們開始變得有組織性了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGMAN.WEREPIG
 msgid "That one's gone feral."
-msgstr "那些都是野生的。"
+msgstr "那一隻變野了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGSKIN
 msgid "It was him or me."
@@ -20636,7 +20636,7 @@ msgstr "我們喜歡我們養的這隻寵物。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.MOUNTED
 msgid "All our arms can't quite reach from up here."
-msgstr "我們所有的武器都夠不著。"
+msgstr "我們所有的胳膊都夠不著。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING
 msgid "Woah! Hot fashions!"
@@ -27080,7 +27080,7 @@ msgstr "我只能擁有一個…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED
 msgid "I can't place that from this lofty position."
-msgstr "我無法登上這個高聳的位置。"
+msgstr "我無法在這個高聳的位置上放置。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgid "I guess I won't be changing again anytime soon."
@@ -29344,7 +29344,7 @@ msgstr "從天空中呼喚死亡。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIRECRACKERS
 msgid "It needs only a light."
-msgstr "它只需要一盞燈。"
+msgstr "它只需要一點火。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIREFLIES.GENERIC
 msgid "A tiny brightness in the dark."
@@ -32100,7 +32100,7 @@ msgstr "總有一天我們會再見面"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.GENERIC
 msgid "A creature of the night!"
-msgstr "夜行生物。"
+msgstr "屬於黑夜的生物！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER.SLEEPING
 msgid "Evil is sleeping."
@@ -37248,7 +37248,7 @@ msgstr "一把專門用來破石的斧子"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGUARD
 msgid "One of the warrior caste."
-msgstr "武士階級中的一個"
+msgstr "戰士階級中的一員。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGYBACK
 msgid "A face only necessity could love."
@@ -37288,7 +37288,7 @@ msgstr "別擔心，還有很多呢。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.FOLLOWER
 msgid "He seems to have bonded with me."
-msgstr "他看起來已經和我結合在了一起"
+msgstr "他看起來和我很親近。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC
 msgid "It's a semi-intelligent bipedal pig."
@@ -37296,11 +37296,11 @@ msgstr "它是一個半智能的豬類雙足生物"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GUARD
 msgid "It appears to be a guardian."
-msgstr "它好像是守護者"
+msgstr "它好像是守衛。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.WEREPIG
 msgid "It's a lycanthropic pig."
-msgstr "這是一隻想變成狼的豬"
+msgstr "這是一隻狼人化的豬。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSKIN
 msgid "The haunch of a semi-intelligent bipedal pig."
@@ -39980,7 +39980,7 @@ msgstr "我已經有一個了！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.MOUNTED
 msgid "I can't place anything from atop this big lout!"
-msgstr "我放不了任何東西在這個大蠢蛋的頂上！"
+msgstr "我在這個大蠢蛋的頂上放不了任何東西！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.BURNING
 msgid "That's way better than some dumb dresses!"
@@ -43772,7 +43772,7 @@ msgstr "它在跟著我"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GENERIC
 msgid "Ugh. They're fragrant."
-msgstr "它們真香"
+msgstr "億，它們可真是香啊。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GUARD
 msgid "He's not the boss of me!"
@@ -43780,7 +43780,7 @@ msgstr "他不是我的老大！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.WEREPIG
 msgid "Bring it on, piggie!"
-msgstr "帶上來，小豬！"
+msgstr "過來啊，小豬！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSKIN
 msgid "Ha ha. A pig's butt."
@@ -50224,7 +50224,7 @@ msgstr "友好的傢伙！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGMAN.GENERIC
 msgid "Hey there, ya lug!"
-msgstr "嘿，丫耳！"
+msgstr "嘿，天啊！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGMAN.GUARD
 msgid "Don't want no trouble."
@@ -52928,7 +52928,7 @@ msgstr "沃爾夫岡已經有動物朋友了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.MOUNTED
 msgid "Hair-cow is too tall. I can't reach."
-msgstr "這貨太高了，我上不去。"
+msgstr "毛毛牛太高了，我夠不到。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING
 msgid "Wolfgang's weekday undergarments burning? Wolfgang is sad."
@@ -56668,7 +56668,7 @@ msgstr "挖！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD
 msgid "Is bad piggie!"
-msgstr "壞小豬！"
+msgstr "壞豬豬！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGYBACK
 msgid "Smelly bag!"
@@ -63176,7 +63176,7 @@ msgstr "我們是團隊！耶！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.GENERIC
 msgid "Walking back bacon!"
-msgstr "還我鹹肉！"
+msgstr "過來！培根！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.GUARD
 msgid "That one looks like he means business."
@@ -63184,7 +63184,7 @@ msgstr "那一個看上去他是指生意"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.WEREPIG
 msgid "Happens to the best of us."
-msgstr "碰巧是咱們這最好的。"
+msgstr "幸好只發生在咱倆中更合適的人身上。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGSKIN
 msgid "Bacon with a tail."
@@ -63908,7 +63908,7 @@ msgstr "在它身上，我看到了一千棵樹被烈火燒死。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.REDLANTERN
 msgid "This little light of mine."
-msgstr "我可愛的小提燈。"
+msgstr "我可愛的小燈籠。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.REDMOONEYE
 msgid "A true woodsman knows his own way around the forest."
@@ -69584,15 +69584,15 @@ msgstr "發現採礦工具"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGUARD
 msgid "HOSTILE DETECTED."
-msgstr "發現敵人"
+msgstr "檢測到敵人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGYBACK
 msgid "UPGRADED STORAGE MODULE V2.0"
-msgstr "升級存儲模塊V2。0"
+msgstr "升級存儲模塊V2.0"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD.BURNT
 msgid "HEAD MODULE EXPIRED"
-msgstr "頭腦技能喪失。"
+msgstr "頭部模塊丟失"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD.GENERIC
 msgid "THAT PIG WILL FEEL SILLY WHEN HE NOTICES HE HAS LOST HIS HEAD MODULE."
@@ -69624,11 +69624,11 @@ msgstr "又消滅了一塊肉，距離目標更近一步。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.FOLLOWER
 msgid "DO MY BIDDING"
-msgstr "照我說的做"
+msgstr "執行我的命令"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.GENERIC
 msgid "THEY EXHIBIT MINIMAL INTELLIGENCE"
-msgstr "目測它們智商極低"
+msgstr "它們表現出的智力極低"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.GUARD
 msgid "DEFENSIVE STANCE DETECTED."
@@ -69636,7 +69636,7 @@ msgstr "檢測到防火牆"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.WEREPIG
 msgid "ERROR: ANOMALY!"
-msgstr "錯誤：發現異常！"
+msgstr "錯誤：異常事物！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGSKIN
 msgid "THESE FLESHLINGS ARE DISGUSTING"
@@ -72516,51 +72516,51 @@ msgstr "？"
 
 #: STRINGS.CHARACTER_TITLES.wathgrithr
 msgid "The Performance Artist"
-msgstr "表演藝術家"
+msgstr "表演藝術家\n維德弗雷"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
-msgstr "傀儡掌控者"
+msgstr "傀儡掌控者\n麥斯威爾"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "難以消化"
+msgstr "難以消化\n韋伯"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "喪失親人者"
+msgstr "喪失親人者\n溫蒂"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者"
+msgstr "沉默者\n維斯"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
-msgstr "圖書管理員"
+msgstr "圖書管理員\n維克波頓"
 
 #: STRINGS.CHARACTER_TITLES.willow
 msgid "The Firestarter"
-msgstr "縱火者"
+msgstr "縱火者\n薇洛"
 
 #: STRINGS.CHARACTER_TITLES.wilson
 msgid "The Gentleman Scientist"
-msgstr "紳士科學家"
+msgstr "紳士科學家\n威爾遜"
 
 #: STRINGS.CHARACTER_TITLES.winona
 msgid "The Handywoman"
-msgstr "女巧匠"
+msgstr "手巧的女人\n薇諾娜"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "男子漢"
+msgstr "男子漢\n沃爾夫岡"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
-msgstr "伐木工"
+msgstr "伐木工\n伍迪"
 
 #: STRINGS.CHARACTER_TITLES.wx78
 msgid "The Soulless Automaton"
-msgstr "沒有靈魂的機器人"
+msgstr "沒有靈魂的機器人\nWX-78"
 
 #: STRINGS.DESCRIBE_NULL
 msgid "MISSING DESCRIPTION STRING"
@@ -106980,7 +106980,7 @@ msgstr "牛仔雨帽"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid_3
 msgid "Staked Heart"
-msgstr "木樁刺心"
+msgstr "木樁穿心"
 
 #: STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle
 msgid "Ultimate Spear"
