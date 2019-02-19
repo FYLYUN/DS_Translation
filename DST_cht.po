@@ -27112,7 +27112,7 @@ msgstr "如果有參考的話，我能畫的更好…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Why isn't it working, Abigail?"
-msgstr "為什麼不動了，阿比蓋爾？"
+msgstr "為什麼不管用呢，阿比蓋爾？"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY
 msgid "It's too busy to pay attention to me..."
@@ -33012,7 +33012,7 @@ msgstr "%s…她茹毛飲血。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.FIRESTARTER
 msgid "Do the Norse have a god of fire, %s?"
-msgstr "你在做北歐的火神嗎，%s？"
+msgstr "北歐有火神嗎，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.GENERIC
 msgid "How do you do, %s?"
@@ -33072,7 +33072,7 @@ msgstr "%s，你是朋友…還是敵人？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.FIRESTARTER
 msgid "%s, let's find a game that doesn't involve fire."
-msgstr "我比較怕火。"
+msgstr "%s，讓我們找一個不涉及火的游戲吧。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.GENERIC
 msgid "Hey, %s!"
@@ -33104,7 +33104,7 @@ msgstr "%s…她不是我的姐妹。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.FIRESTARTER
 msgid "Fire probably isn't the method I would choose..."
-msgstr "火可能不是我要選擇的方法…"
+msgstr "火大概不是我想選擇的方法…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.GENERIC
 msgid "She looks sad..."
@@ -33168,7 +33168,7 @@ msgstr "%s女士…你要用你的智慧與我們對抗嗎？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Ms. %s, wreathed in flames."
-msgstr "Ms.%s，環繞著火焰"
+msgstr "%s女士，環繞著火焰"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "How do you do, Ms. %s?"
@@ -33208,15 +33208,15 @@ msgstr "你犯了相當嚴重的錯誤，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW.REVIVER
 msgid "Abigail likes you, %s. Do you like her?"
-msgstr "阿比蓋爾喜歡你，%s。"
+msgstr "阿比蓋爾喜歡你，%s，你喜歡她嗎。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.ATTACKER
 msgid "%s is unstable."
-msgstr "%s已經神志不清了。"
+msgstr "%s情緒很不穩定。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.FIRESTARTER
 msgid "Douse your fires, %s."
-msgstr "做北歐的火神，%s。"
+msgstr "把你的火熄掉，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.GENERIC
 msgid "How do you do, %s?"
@@ -33244,7 +33244,7 @@ msgstr "火焰在你的生產線上重要麼？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.GENERIC
 msgid "How do you do, %s?"
-msgstr "你好啊，%s！"
+msgstr "你好嗎，%s！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.GHOST
 msgid "You can't escape that way, %s. I've tried."
@@ -33356,7 +33356,7 @@ msgstr "你好，%s。你幹嘛發抖？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GHOST
 msgid "%s... Everyone leaves..."
-msgstr "%s…大家都歸西了…"
+msgstr "%s…大家都走了…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.MURDERER
 msgid "Strength is meaningless if you can't catch me..."
@@ -33380,7 +33380,7 @@ msgstr "%s，儘管你死了，詛咒還是會縈繞著你？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.FIRESTARTER
 msgid "Fire setting does not seem in your best interest..."
-msgstr "火焰的背景看起來並不是你最感興趣的……"
+msgstr "放火看起來並不符合你的利益……"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GENERIC
 msgid "How do you do, %s?"
@@ -33436,11 +33436,11 @@ msgstr "似乎不在這兒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.ATTACKER
 msgid "Do you have a conscience, %s?"
-msgstr "你難道沒有良心嗎，%s？"
+msgstr "你難道沒有良知嗎，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.FIRESTARTER
 msgid "I'd begun to think you were all talk, %s."
-msgstr "我開始認為你以前都說過，%s。"
+msgstr "我開始還以爲你只是説説，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GENERIC
 msgid "How do you do, %s?"
@@ -58892,7 +58892,7 @@ msgstr "%s是一個值得尊敬的對手！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHR.FIRESTARTER
 msgid "Why starting fires, stronglady? To fight them?"
-msgstr "健美的女士，為什麼生氣？因為和它們戰鬥？"
+msgstr "強壯的女士，為什麼放火？為了和它們戰鬥？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHR.GENERIC
 msgid "Is very strong %s! Hello!"
@@ -58924,7 +58924,7 @@ msgstr "就憑你這脆弱的身體也想和我打架？哈哈，你太天真了
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.FIRESTARTER
 msgid "Is dastardly plan with fire, %s?"
-msgstr "卑鄙的計劃企圖燃燒一切，%s？"
+msgstr "這是卑鄙的縱火計劃嗎，%s？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.GENERIC
 msgid "Is tiny frailman, %s! Hello!"
@@ -58940,7 +58940,7 @@ msgstr "殺人不眨眼的%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.REVIVER
 msgid "%s is one of us. Ha ha! Yes!"
-msgstr "%s是我們的同志了！哈哈，就是這樣，喵~"
+msgstr "%s是我們的同志了！哈哈！好耶！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL
 msgid "Wolfgang is glad he cannot read!"
@@ -58952,19 +58952,19 @@ msgstr "啊！小朋友試圖攻擊我！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.FIRESTARTER
 msgid "Please no. Please no burnings!"
-msgstr "拒絕。拒絕燃燒！"
+msgstr "請不要。請不要燒東西！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.GENERIC
 msgid "Is tiny monsterchild, %s! H-hello!"
-msgstr "一隻小怪獸，%s！你~好！"
+msgstr "一隻怪獸小朋友，%s！你~好！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.GHOST
 msgid "Who squish small bug boy? Wolfgang will smash back!"
-msgstr "誰壓扁的小蟲蟲？沃爾夫岡要碾回來！"
+msgstr "誰壓扁了小蟲孩？沃爾夫岡會打回去！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.MURDERER
 msgid "Monsterchild %s is killer! Wolfgang is run!"
-msgstr "小怪獸%s是兇手！三十六計走為上計！"
+msgstr "怪獸小朋友%s是兇手！沃爾夫岡快點跑！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.REVIVER
 msgid "Creepy monster %s is nice kid."
@@ -59048,7 +59048,7 @@ msgstr "哈哈！%s不該選擇和愚蠢的書共同作戰！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Strong brainlady probably know what she's doing with fire."
-msgstr "和她一樣聰明的女士大概知道她用火在做什麼"
+msgstr "高智商女士大概清楚她在用火在做什麼。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "Is strong brainlady! Hello, tiny %s!"
@@ -59072,15 +59072,15 @@ msgstr "沃爾夫岡鬥志燃燒！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.FIRESTARTER
 msgid "Is not big surprise."
-msgstr "是不是巨大的驚喜。"
+msgstr "這不是巨大的驚喜。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.GENERIC
 msgid "Is tiny torchlady, %s! Hello!"
-msgstr "一個玩火達人！你好，%s醬！"
+msgstr "一個火炬女士！你好，%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.GHOST
 msgid "Do not hurt, torchlady. Wolfgang get heart!"
-msgstr "不要難過，火女。沃爾夫岡會做一個心臟！"
+msgstr "不要難過，火炬女士。沃爾夫岡會做一個心臟！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.MURDERER
 msgid "%s is no match for Wolfgang!"
@@ -59096,7 +59096,7 @@ msgstr "瘦肉的科學家想打架嗎？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILSON.FIRESTARTER
 msgid "Wolfgang thought he could trust %s!"
-msgstr "沃爾夫岡認為他可以信任！"
+msgstr "沃爾夫岡還以爲他可以信任%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILSON.GENERIC
 msgid "Is tiny egghead man, %s! Hello!"
@@ -59260,7 +59260,7 @@ msgstr "這鬍子看上去不錯，%s。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.FIRESTARTER
 msgid "Be careful! Do not burn, beard!"
-msgstr "小心！別燒鬍子！"
+msgstr "小心点！鬍子男你別燒了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.GENERIC
 msgid "Is beard! Hello!"
@@ -59320,7 +59320,7 @@ msgstr "哈！金屬罐想被搖晃和撞擊！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78.FIRESTARTER
 msgid "Robot trying to kill fleshypeople again, maybe?"
-msgstr "機器人似乎想再殺掉人類，也許？"
+msgstr "機器人又在試著殺掉人類了，也許？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78.GENERIC
 msgid "Is tiny robot, %s! Hello!"
@@ -66332,7 +66332,7 @@ msgstr "顫抖吧，活物"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_KLAUS_ENRAGE
 msgid "I FLEE BECAUSE I WANT TO, NOT BECAUSE I'M SCARED"
-msgstr "我逃走應為我願意，不是因為我害怕"
+msgstr "我逃走是因爲我願意，不是因為我害怕"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_KLAUS_UNCHAINED
 msgid "IT HAS BEEN UNSHACKLED"
@@ -69056,11 +69056,11 @@ msgstr "看上去像一顆很堅硬的樹"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.BURNING
 msgid "THORNS_FLAMMABLE == YES VERY"
-msgstr "返回值（荊棘的可燃性）：真"
+msgstr "荊棘_易燃性 == 非常"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.BURNT
 msgid "THORNS. BURNT."
-msgstr "荊棘、燃燒。"
+msgstr "荊棘.烧毁。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.GENERIC
 msgid "BRAMBLES."
@@ -69696,11 +69696,11 @@ msgstr "%s造成了不必要的破壞。可以的。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.GHOST
 msgid "FLESH WEAKLING %s NEEDS A HEART"
-msgstr "脆弱的生命%s需要一顆救贖之心"
+msgstr "脆弱的生命%s需要一颗心脏"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.MURDERER
 msgid "KILL! KILL!"
@@ -71804,7 +71804,7 @@ msgstr "%s正在糟蹋這個世界。蛤 蛤"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.GHOST
 msgid "YOUR MISTAKE WAS ONLY COVERING YOUR HEAD IN METAL, %s"
@@ -71836,7 +71836,7 @@ msgstr "至少他身上還是有一點的邪惡。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELL.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELL.GHOST
 msgid "%s'S FRAIL FLESH BODY HAS GIVEN OUT. NEEDS A HEART"
@@ -71864,7 +71864,7 @@ msgstr "%s一直在燒東西。不錯。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WEBBER.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WEBBER.GHOST
 msgid "IS %s'S EXOSKELETON SUPPOSED TO BE OUTSIDE OR IN?"
@@ -71896,7 +71896,7 @@ msgstr "%s非常的邪惡"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WENDY.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WENDY.GHOST
 msgid "FLESH WEAKLING %s NEEDS A HEART"
@@ -71916,11 +71916,11 @@ msgstr "%s，胡鬧夠了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.FIRESTARTER
 msgid "%s WILL DESTROY ALL FLESHLINGS WITH FIRE"
-msgstr "%s點燃了摧毀全部血與肉的火"
+msgstr "%s點燃了摧毀全部肉块的火"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.GHOST
 msgid "I DON'T THINK THE FLESHLING IS SUPPOSED TO LOOK LIKE THAT"
@@ -71960,7 +71960,7 @@ msgstr "嗯…你柔軟的肉身可以燃燒，對吧？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WICKERBOTTOM.GHOST
 msgid "WHAT SORT OF HUMAN NONSENSE IS THIS NOW, %s?"
@@ -71984,7 +71984,7 @@ msgstr "放棄你的打火機吧，肉塊。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GHOST
 msgid "HAHA, %s. YOU DIED."
@@ -72004,11 +72004,11 @@ msgstr "看來你戰勝了我的手下們，%s"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.FIRESTARTER
 msgid "%s IS TESTING OBJECT FLAMMABILITY"
-msgstr "%s測試對象的可燃性。"
+msgstr "%s在測試對象的可燃性。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.GHOST
 msgid "WHERE IS YOUR SCIENCE NOW, %s? HA. HA."
@@ -72140,7 +72140,7 @@ msgstr "%s造成了不必要的破壞。可以的。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOLFGANG.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOLFGANG.GHOST
 msgid "YOUR MEAT MUSCLES DIDN'T SAVE YOU, %s? SHOCKING"
@@ -72172,7 +72172,7 @@ msgstr "我們現在毀滅所有的人類嗎？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "檢測到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.GHOST
 msgid "COME TO GROVEL FOR MY HELP, FLESHLING %s?"
@@ -98476,11 +98476,11 @@ msgstr "{dish}貢品"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN
 msgid "Silver Dish Offering"
-msgstr "銀盤貢品"
+msgstr "銀餐具貢品"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING
 msgid "Craving"
-msgstr "種類"
+msgstr "類型"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_SPINNER_STATION
 msgid "Station"
