@@ -2012,7 +2012,7 @@ msgstr "我不想再一次上當了"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET
 msgid "I feel so safe when I get to wear it."
-msgstr "我穿著它的時候覺得很安全。"
+msgstr "我戴著它的時候覺得很安全。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCIENT_ALTAR
 msgid "An ancient and mysterious structure."
@@ -16756,7 +16756,7 @@ msgstr "它更「漂亮」更「衣冠楚楚」。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENAMULET
 msgid "A crutch for pitiful mortals without godlike powers. What?"
-msgstr "一個可憐的人沒有一根神杖。為什麼啊？"
+msgstr "沒有神力的凡人的一個依靠。啥？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENGEM
 msgid "Only the nightmare fuel will unlock its true potential."
@@ -28368,7 +28368,7 @@ msgstr "閃電與死亡從天而降。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUEAMULET
 msgid "A familiar, chilling embrace."
-msgstr "一個熟悉的，寒冷的擁抱。"
+msgstr "一個熟悉的，冰冷的擁抱。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUEGEM
 msgid "Blue like... er... a sad bird?"
@@ -30708,7 +30708,7 @@ msgstr "冰冷無息就像…嗯…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEAMULET
 msgid "Temporary release from drudgery."
-msgstr "為了做苦力而臨時釋放。"
+msgstr "暫時擺脫了苦差事。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEGEM
 msgid "Such things used to bring me happiness."
@@ -30968,7 +30968,7 @@ msgstr "這是顆種子。好激動。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PURPLEAMULET
 msgid "It's oozing."
-msgstr "還在往外冒呢。"
+msgstr "它在往外冒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PURPLEGEM
 msgid "Purple like a... purple thing."
@@ -33460,7 +33460,7 @@ msgstr "阿比蓋爾喜歡你哦，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET
 msgid "A brief light in a dark life."
-msgstr "黑暗生命中的一個短暫的光明。"
+msgstr "黑暗人生中短暫的光芒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWGEM
 msgid "It reminds me of my mother."
@@ -34828,7 +34828,7 @@ msgstr "簡易電動裝置。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEAMULET
 msgid "The gem appears to be sucking energy out anything it touches."
-msgstr "寶石會吸出任何觸碰它的東西的能量"
+msgstr "寶石會吸收任何它觸碰到的東西的能量。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEGEM
 msgid "It is cold."
@@ -36100,7 +36100,7 @@ msgstr "一個能提供中度保護的陽傘。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GREENAMULET
 msgid "Works almost as a magical binding agent."
-msgstr "簡直是個魔法捆綁器。"
+msgstr "就像是魔法般的粘合劑。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GREENGEM
 msgid "Chromium impurities have colored this gem green."
@@ -37428,7 +37428,7 @@ msgstr "南瓜種子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEAMULET
 msgid "I can almost sense it beckoning to something."
-msgstr "我幾乎都能感受到它們正在引誘著什麼"
+msgstr "我幾乎都能感受到它正召喚著什麼。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEGEM
 msgid "It gives off a strange aura."
@@ -42580,7 +42580,7 @@ msgstr "本身就漂亮。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GREENAMULET
 msgid "I feel my mind opening when I wear it."
-msgstr "當我戴上它時我感覺思維開放。"
+msgstr "當我戴上它時我感覺思維開闊了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GREENGEM
 msgid "This one feels really light."
@@ -43648,7 +43648,7 @@ msgstr "得用袖子來拿，免得凍手。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ORANGEAMULET
 msgid "It picks up burning materials!"
-msgstr "它代替燃燒材料！"
+msgstr "它能撿起在燃燒的材料！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ORANGEGEM
 msgid "It'll make your fingers tingle."
@@ -53704,7 +53704,7 @@ msgstr "嘴巴一樣的大門！說：啊——！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
 msgid "Is very pretty."
-msgstr "很可愛"
+msgstr "它很漂亮。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.BROKEN
 msgid "Is broken altar."
@@ -54240,7 +54240,7 @@ msgstr "不知道沃爾夫岡是不是可以拿這個。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEAMULET
 msgid "Would make good ice cube!"
-msgstr "會是一個好的冰立方體！"
+msgstr "可以做一個很棒的方冰塊！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEGEM
 msgid "Pretty rock."
@@ -74716,7 +74716,7 @@ msgstr "蟻獅"
 
 #: STRINGS.NAMES.ANTLIONTRINKET
 msgid "Beach Toy"
-msgstr "沙桶套裝"
+msgstr "沙灘玩具"
 
 #: STRINGS.NAMES.ANTLION_SINKHOLE
 msgid "Sinkhole"
