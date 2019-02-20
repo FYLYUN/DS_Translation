@@ -2632,7 +2632,7 @@ msgstr "奇怪，这只是500页的电报码。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES
 msgid "Someone'll get suckered into reading this."
-msgstr "一些人将会用吸管读这个。"
+msgstr "某些人会沉迷于读这个。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG
 msgid "Aerodynamical!"
@@ -6620,15 +6620,15 @@ msgstr "我想这些是它的生殖器"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_GARDEN
 msgid "Yet another slimy pole."
-msgstr "又一个泥坑。"
+msgstr "另一个黏滑的柱子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR
 msgid "A slimy pole."
-msgstr "一个泥坑。"
+msgstr "一个黏滑的柱子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Little slippery arms."
-msgstr "小巧而不稳定的武器。"
+msgstr "小巧又滑溜的手臂。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "Seems stinky, but worth exploring."
@@ -19532,7 +19532,7 @@ msgstr "这东西真奇怪。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENTACLE_PILLAR
 msgid "How deep does this go?"
-msgstr "这东西能走多深？"
+msgstr "这东西能有多深？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Babies?"
@@ -32424,7 +32424,7 @@ msgstr "婴儿！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "It shall return, some day."
-msgstr "总有一天，它将回去。"
+msgstr "总有一天，它会回来。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.THULECITE
 msgid "Its presence marks the edge of the unknown."
@@ -38860,7 +38860,7 @@ msgstr "睡在那儿我会落枕的"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE
 msgid "A horror waiting in the mud."
-msgstr "在泥浆中的恐怖等待"
+msgstr "在泥浆中等待的恐怖。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLESPIKE
 msgid "Never grab the pointy end."
@@ -45360,11 +45360,11 @@ msgstr "我听到了挖掘声。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR
 msgid "It's quivering."
-msgstr "它在颤抖。"
+msgstr "它在抖动。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Awwww, they want hugs!"
-msgstr "嗯，他们需要拥抱！"
+msgstr "唔，它们想要拥抱！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "What a smell! Light a match next time!"
@@ -51828,7 +51828,7 @@ msgstr "它们没有尽头吗？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TENTACLE_PILLAR
 msgid "Don't even think about touching me."
-msgstr "不要碰到我。"
+msgstr "想都不要想来碰我。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Hands off, buddy."
@@ -64744,7 +64744,7 @@ msgstr "我就该在更糟的地方睡觉"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE
 msgid "There a squid down there?"
-msgstr "下面有大鱿鱼？"
+msgstr "下面有只乌贼？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLESPIKE
 msgid "It wobbles when you wave it."
@@ -64764,7 +64764,7 @@ msgstr "真大！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Are those squid babies?"
-msgstr "这些是乌鱼仔？"
+msgstr "这些是乌贼宝宝？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "Not even a stump left behind!"
@@ -67248,7 +67248,7 @@ msgstr "动力下降…"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_TENTACLES
 msgid "IT SUMMONS THE FLESH WOBBLERS"
-msgstr "它召唤肉体人"
+msgstr "它生成摆动的肉块"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOOMERANG
 msgid "REUSABLE PROJECTILE."
