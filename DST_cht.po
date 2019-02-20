@@ -15232,7 +15232,7 @@ msgstr "我應該再等等的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "I like a creature that knows its place."
-msgstr "我喜歡知道具體位置的創造物。"
+msgstr "我喜歡那些知道自己地位的造物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEFALO.FOLLOWER
 msgid "Aw nuts, it's following me."
@@ -21568,7 +21568,7 @@ msgstr "砍吧砍吧！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "Get busy, child."
-msgstr "忙著，孩子。"
+msgstr "忙起來吧，孩子。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "That's the opposite of busy."
@@ -21684,7 +21684,7 @@ msgstr "他似乎想在附近逗留。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC
 msgid "Big big beefalo!"
-msgstr "好大的一隻皮弗洛牛！"
+msgstr "好大的一隻皮膚樓牛！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.NAKED
 msgid "Shaved you good!"
@@ -34584,7 +34584,7 @@ msgstr "它看起來好像在跟著我"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC
 msgid "It looks almost like a Bos Taurus."
-msgstr "看上起像頭瘤牛一樣"
+msgstr "看上起像頭歐洲普通牛一樣。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.NAKED
 msgid "It looks cold."
@@ -34592,7 +34592,7 @@ msgstr "看起來很冷"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.ORNERY
 msgid "The creature has developed a nasty disposition."
-msgstr "這個生物已經開發出了一種讓人討厭的性格。"
+msgstr "這個生物已經發展出了一種讓人討厭的性格。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.PUDGY
 msgid "Abundant nourishment has led to an amicable personality."
@@ -66932,7 +66932,7 @@ msgstr "如此…多的…肉"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALO.RIDER
 msgid "THIS ONE EXCELS AT ACCELERATION"
-msgstr "這貨擅長加速"
+msgstr "這一頭擅長加速"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALO.SLEEPING
 msgid "IT BEGS TO BE TIPPED OVER"
