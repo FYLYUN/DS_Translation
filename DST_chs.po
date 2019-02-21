@@ -2568,7 +2568,7 @@ msgstr "退后，传教士！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Ow!"
-msgstr "哇哦！"
+msgstr "嗷！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_NIGHTMARE
 msgid "It's falling apart!"
@@ -4184,7 +4184,7 @@ msgstr "我们应该打开看一下。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KNIGHT
 msgid "Check it out!"
-msgstr "去看看怎么回事！"
+msgstr "看呐！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "It's a knightmare!"
@@ -6000,7 +6000,7 @@ msgstr "它看起来被吓呆了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROOK
 msgid "Storm the castle!"
-msgstr "洗劫了城堡！"
+msgstr "进攻这城堡！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROOK_NIGHTMARE
 msgid "Terrifying!"
@@ -9040,7 +9040,7 @@ msgstr "热蛋。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP
 msgid "This one needs a good smack."
-msgstr "这个还需要一点味道。"
+msgstr "这家伙需要被狠狠地揍一顿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Rrraugh!"
@@ -9048,7 +9048,7 @@ msgstr "哇呀呀呀呀！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP_NIGHTMARE
 msgid "Be wary of his blasts!"
-msgstr "警惕他的风！"
+msgstr "警惕他的子弹！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BLOWDART_FIRE
 msgid "Like the breath of a dragon."
@@ -10656,7 +10656,7 @@ msgstr "我感受到了战斗的气息！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "I don't think I'd ride that horse."
-msgstr "我不认为我骑过那匹马。"
+msgstr "我不认为我能骑那匹马。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_SUMMER
 msgid "Dearest creature... I am going to eat you."
@@ -12452,7 +12452,7 @@ msgstr "我纯粹的英灵使树无比地恐惧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROOK
 msgid "Chaaaarge!"
-msgstr "零钱！！！"
+msgstr "冲啊！！！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROOK_NIGHTMARE
 msgid "You don't frighten me!"
@@ -15508,7 +15508,7 @@ msgstr "你竟然敢这样对我！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BISHOP_NIGHTMARE
 msgid "They degrade without proper upkeep."
-msgstr "如果没有合适的保存措施，它们会降解。"
+msgstr "如果没有适当的保养它们就会老化。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BLOWDART_FIRE
 msgid "Just make sure to breathe out."
@@ -18904,11 +18904,11 @@ msgstr "我认为这是更好的方式。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROOK
 msgid "A castle for my home."
-msgstr "一个能当做我的家的城堡。"
+msgstr "一个我家的城堡。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROOK_NIGHTMARE
 msgid "The builders have left it in a state of abandonment."
-msgstr "建造者将至留在一种被荒废的状态中。"
+msgstr "制造者把它遗弃了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROPE
 msgid "You'd think this would have more uses."
@@ -21944,7 +21944,7 @@ msgstr "就像是妈妈炸的。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP
 msgid "You don't play by the chess rules grandpa taught me."
-msgstr "你下棋的规则和我爷爷教我的不一样。"
+msgstr "你没按爷爷教我的象棋规则来下。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Owie!"
@@ -29988,11 +29988,11 @@ msgstr "我们应该往里面偷看吗…？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KNIGHT
 msgid "A cold, soulless horse."
-msgstr "一匹冰冷无情的马"
+msgstr "一匹冰冷的、没有灵魂的马。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "Another battle lost to time."
-msgstr "又一场遗失在时间中的战斗。"
+msgstr "又一场战争，输给了时间。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KOALEFANT_SUMMER
 msgid "A beast of solitude."
@@ -30200,7 +30200,7 @@ msgstr "盒装的死亡…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIGHTNINGGOAT.CHARGED
 msgid "Chaaaarge!"
-msgstr "零钱！！！"
+msgstr "冲啊！！！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIGHTNINGGOAT.GENERIC
 msgid "Look at those hooves."
@@ -41324,7 +41324,7 @@ msgstr "恶心。黄色的部分水分太多"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP
 msgid "It's a bishop!"
-msgstr "是主教！"
+msgstr "这是个主教！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Owwww!"
@@ -42928,7 +42928,7 @@ msgstr "没有什么能像一把锁那样说“打开我”！！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT
 msgid "It's a pony!"
-msgstr "小马耶！"
+msgstr "这是头小马！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "It looks pretty worn down."
@@ -44728,11 +44728,11 @@ msgstr "我现拿什么来烧了它啊？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROOK
 msgid "It's a castle!"
-msgstr "是个城堡！"
+msgstr "这是座城堡！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROOK_NIGHTMARE
 msgid "It has a nasty smile."
-msgstr "它的笑容真下流。"
+msgstr "它的笑容真令人厌恶。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROPE
 msgid "What should we tie up??!"
@@ -53460,7 +53460,7 @@ msgstr "不要退缩！沃尔夫冈能搞定你！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT
 msgid "Ugh, I must have hit head."
-msgstr "呃，沃尔夫冈肯定是被人敲了头。"
+msgstr "啊，我一定是撞到头了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgid "Lightning is weak compared to Wolfgang clothes!"
@@ -53628,7 +53628,7 @@ msgstr "太滑了，拿不稳。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
 msgid "Oh no! The light is gone!"
-msgstr "呃不！没有灯了！"
+msgstr "呃不！没有光了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOWNPORTALTELEPORT
 msgid "Wolfgang is here!"
@@ -57668,11 +57668,11 @@ msgstr "现在我要凿开它！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROOK
 msgid "This one jumps the queen!"
-msgstr "这一个吓了皇后一跳！"
+msgstr "这一个跳过了皇后！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROOK_NIGHTMARE
 msgid "Is no match for my mighty chest!"
-msgstr "没有配得上我宽广的胸部的吗！"
+msgstr "比不过我强壮的胸肌！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROPE
 msgid "Strong! Like me!"
@@ -64136,7 +64136,7 @@ msgstr "嗯…车是走直线的吧？我忘了规则了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROOK_NIGHTMARE
 msgid "The gears are spilling out."
-msgstr "这装置在溢出"
+msgstr "齿轮都散落出来了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROPE
 msgid "Good for holding stuff to other stuff."
@@ -67176,15 +67176,15 @@ msgstr "这应该是一种改进"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP
 msgid "REVEREND AUTOMATON"
-msgstr "机器牧师"
+msgstr "牧师机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "DAMAGE!"
-msgstr "受到攻击！"
+msgstr "受到损伤！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP_NIGHTMARE
 msgid "THERE SEEMS TO BE A BUG IN ITS BELIEF CIRCUITS"
-msgstr "貌似其信仰回路中有错误"
+msgstr "其信仰回路中似乎存在错误"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BLOWDART_FIRE
 msgid "A WEAPON OF MINOR DESTRUCTION"
@@ -68780,11 +68780,11 @@ msgstr "价值潜力：高"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KNIGHT
 msgid "HORSE AUTOMATON"
-msgstr "机器马"
+msgstr "马匹机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "REPROGRAMMING REQUIRED"
-msgstr "需要先编程"
+msgstr "需要重新编程"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KOALEFANT_SUMMER
 msgid "POSSESSES AMPLE ENERGY RESERVES"
@@ -70584,7 +70584,7 @@ msgstr "减少了有机物的比例，算是一种进化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK
 msgid "ROOK AUTOMATON"
-msgstr "机器城堡"
+msgstr "战车机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK_NIGHTMARE
 msgid "LOOSE WIRING DETECTED"
