@@ -392,7 +392,7 @@ msgstr "開始旅行"
 
 #: STRINGS.ACTIONS.MINE
 msgid "Mine"
-msgstr "挖"
+msgstr "挖掘"
 
 #: STRINGS.ACTIONS.MOUNT
 msgid "Mount"
@@ -428,7 +428,7 @@ msgstr "種植"
 
 #: STRINGS.ACTIONS.PLANT.PLANTER
 msgid "Put"
-msgstr "種植"
+msgstr "放置"
 
 #: STRINGS.ACTIONS.PLANTSOIL
 msgid "Plant"
@@ -725,6 +725,57 @@ msgstr "打包"
 #: STRINGS.ACTIONS.WRITE
 msgid "Write On"
 msgstr "寫上"
+#: STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.BUNDLESTORE.GENERIC
+msgid "Store"
+msgstr "商店"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC
+msgid "Build"
+msgstr "建造"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
+msgid "Build {name}"
+msgstr "建造{name}"
+
+#: STRINGS.ACTIONS.CONSTRUCT.STORE
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.GIVE.CELESTIAL
+msgid "Offer"
+msgstr "獻祭"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
+msgid "Stop Building"
+msgstr "停止建造"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgid "Stop Building {name}"
+msgstr "停止建造{name}"
+
+#: STRINGS.ACTIONS.APPLYCONSTRUCTION
+msgid "Build"
+msgstr "建造"
+
+#: STRINGS.ACTIONS.MIX
+msgid "Mix"
+msgstr "配製"
+
+#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
+msgid "Hearthsfire Bomb"
+msgstr "爐火爆破"
+
+#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
+msgid "Parry"
+msgstr "格擋"
+
+#: STRINGS.ACTIONS.ATTACK.PROP
+msgid "Smack"
+msgstr "摑"
 
 #: STRINGS.BOARLORD_BOARRIOR_INTRO.1
 msgid "Grand Forge Boarrior!"
@@ -101966,38 +102017,6 @@ msgstr "{server_name}	最後一次訪問於{date}"
 msgid "Play Time"
 msgstr "遊戲時間"
 
-#: STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
-msgid "Add Material"
-msgstr "添加材料"
-
-#: STRINGS.ACTIONS.BUNDLESTORE.GENERIC
-msgid "Store"
-msgstr "商店"
-
-#: STRINGS.ACTIONS.CONSTRUCT.GENERIC
-msgid "Build"
-msgstr "建造"
-
-#: STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
-msgid "Build {name}"
-msgstr "建造{name}"
-
-#: STRINGS.ACTIONS.CONSTRUCT.STORE
-msgid "Add Material"
-msgstr "添加材料"
-
-#: STRINGS.ACTIONS.GIVE.CELESTIAL
-msgid "Offer"
-msgstr "獻祭"
-
-#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
-msgid "Stop Building"
-msgstr "停止建造"
-
-#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
-msgid "Stop Building {name}"
-msgstr "停止建造{name}"
-
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need something to build with."
 msgstr "我需要一些東西來建造。"
@@ -102778,10 +102797,6 @@ msgstr "發布日期"
 msgid "Survivor Filter: {mode}"
 msgstr "最適該人物皮膚: {mode}"
 
-#: STRINGS.ACTIONS.APPLYCONSTRUCTION
-msgid "Build"
-msgstr "建造"
-
 #: STRINGS.UI.MAINSCREEN.CREDITS
 msgid "Credits"
 msgstr "製作人員"
@@ -102841,10 +102856,6 @@ msgstr "皮膚預設"
 #: STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgid "Weaveable Filter: {mode}"
 msgstr "僅顯示可製作：{mode}"
-
-#: STRINGS.ACTIONS.MIX
-msgid "Mix"
-msgstr "配製"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE
 msgid "Brew of Phobic Abrogation"
@@ -104085,14 +104096,6 @@ msgstr "在成長的恐怖"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MADSCIENCE_LAB
 msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什麼在驅動你的瘋狂！"
-
-#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
-msgid "Hearthsfire Bomb"
-msgstr "爐火爆破"
-
-#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
-msgid "Parry"
-msgstr "格擋"
 
 #: STRINGS.BOARLORD_ROUND1_START.1
 msgid "What have we here?"
@@ -106529,10 +106532,6 @@ msgstr "冬季盛宴快樂\n您的好朋友Klei"
 #: STRINGS.UI.EMOTES.CAROL
 msgid "Carol"
 msgstr "讚歌"
-
-#: STRINGS.ACTIONS.ATTACK.PROP
-msgid "Smack"
-msgstr "摑"
 
 #: STRINGS.NAMES.PIGELITE1
 msgid "Wade"
