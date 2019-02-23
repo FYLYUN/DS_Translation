@@ -72728,7 +72728,7 @@ msgstr "上面写着“快救我出来！”下面还刻着“开玩笑的啦。
 
 #: STRINGS.EPITAPHS.25
 msgid "It reads \"Pulvis Et Umbra Sumus.\""
-msgstr "上面用拉丁文写着 “我们不过是影子和尘土。”"
+msgstr "上面用拉丁文写着 “我们不过是尘与影。”"
 
 #: STRINGS.EPITAPHS.26
 msgid "An engraving of their last words: \"I love it so much I could just die!\""
@@ -78024,7 +78024,7 @@ msgstr "陶艺转盘"
 
 #: STRINGS.NAMES.SCULPTING_MATERIAL
 msgid "Sculpting Block"
-msgstr "雕塑素材"
+msgstr "雕刻用的石块"
 
 #: STRINGS.NAMES.SCULPTURE_BISHOPBODY
 msgid "Marble Sculpture"
@@ -90308,7 +90308,7 @@ msgstr "梅图斯已经知晓"
 
 #: STRINGS.THANKS_POPUP.ARG
 msgid "Pulvis et umbra sumus"
-msgstr "我们不过是影子和尘土"
+msgstr "我们不过是尘与影"
 
 #: STRINGS.THANKS_POPUP.CUPID
 msgid "Happy Valentine's Day\nfrom your friends at Klei"
@@ -92572,7 +92572,7 @@ msgstr "-"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.46
 msgid "."
-msgstr "。"
+msgstr "."
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.47
 msgid "/"
@@ -93016,11 +93016,11 @@ msgstr "经典"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "使用<炼金术引擎>\n建造一个原型体"
+msgstr "使用<炼金术引擎>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgid "Use a Prestihatitator to build a prototype!"
-msgstr "使用<魔法帽子>\n建造一个原型体"
+msgstr "使用<魔法帽子>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR
 msgid "It seems that this altar is not fully functional!"
@@ -93028,15 +93028,15 @@ msgstr "看起来这个神坛功能还不完全！"
 
 #: STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE
 msgid "Use a science machine to build a prototype!"
-msgstr "使用<科学机器>\n建造一个原型体"
+msgstr "使用<科学机器>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgid "Use a shadow manipulator to build a prototype!"
-msgstr "使用<暗影操纵仪>\n建造一个原型体"
+msgstr "使用<暗影操纵仪>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgid "Put stone on the wheel to create a Sculpting Block!"
-msgstr "把某些石头放在转盘上做为雕塑材料！"
+msgstr "把石头放在转盘上做为雕刻用的石块！"
 
 #: STRINGS.UI.CRAFTING.NEEDSTUFF
 msgid "Find ingredients \nto craft!"
