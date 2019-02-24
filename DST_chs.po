@@ -2940,11 +2940,11 @@ msgstr "棋子正在自己移动！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgid "That thing's the leashed of my worries."
-msgstr "这东西能栓住我的烦恼。"
+msgstr "那东西紧紧栓住我的烦恼。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYWARG
 msgid "And I didn't even get eaten!"
-msgstr "我竟然还没被吃掉!"
+msgstr "我竟然没有被吃掉！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgid "It feels like its eye follows you."
@@ -9464,7 +9464,7 @@ msgstr "此乃一名高尚的小卒。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_PIPE
 msgid "Tis but a jest."
-msgstr "此只是一个笑话。"
+msgstr "这只是一个笑话。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "A castle fit for a queen."
@@ -10936,11 +10936,11 @@ msgstr "炖的魅力。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_ACTIVE
 msgid "She just wants to go on a rutabaga saga."
-msgstr "她只是想成为一个大头菜的传说。"
+msgstr "她只是想进行一个大头菜式的冒险。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_COOKED
 msgid "Grilled rutabaga."
-msgstr "甘蓝烧烤"
+msgstr "大头菜烧烤。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_PLANTED
 msgid "A rutabaga!"
@@ -17388,7 +17388,7 @@ msgstr "现在你可叫不出来了吧。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_ACTIVE
 msgid "Oh shut UP, will you?"
-msgstr "你行你上，不行闭嘴。"
+msgstr "哦，闭嘴，好吗？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_COOKED
 msgid "Looks like I got the last meep."
@@ -17396,7 +17396,7 @@ msgstr "看起来我得到了最后一点"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_PLANTED
 msgid "What a disturbing root."
-msgstr "一个令人不安的根。"
+msgstr "真是个烦人的根。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANRABBIT_TAIL
 msgid "Silly rabbit."
@@ -19724,7 +19724,7 @@ msgstr "查理是唯一一个下棋赢过我的人。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_16
 msgid "Charlie was the only one who ever kept me in check."
-msgstr "查利是唯一一个下棋赢过我的人。"
+msgstr "查理是唯一一个下棋赢过我的人。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_17
 msgid "The product of a very immature magician, perhaps."
@@ -35244,11 +35244,11 @@ msgstr "国王在所有情况下都要对国土上的每一个人负责。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgid "It is a commonly held belief that art imitates life."
-msgstr "一个得到普遍认可的观点是艺术源于生活。"
+msgstr "人们普遍认为艺术是源于生活的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgid "A knight, in service to the king. Or perhaps the queen."
-msgstr "一个对国王或者也许是女王负责的骑士。"
+msgstr "一个为国王效力的骑士，也可能是女王。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
 msgid "It seems magic is afoot."
@@ -35260,7 +35260,7 @@ msgstr "卡纳登西斯驼鹿的半身像。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MUSE
 msgid "In chess, the queen is by far the most strategically formidable."
-msgstr "在国际象棋中，后是到目前为止战略上最强大的。"
+msgstr "在国际象棋中，王后向来都是战略上最强大的子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_PAWN
 msgid "Pawns that journey to the seat of power can be quite dangerous."
@@ -35268,7 +35268,7 @@ msgstr "小卒们在通往权利所在地的旅程中相当危险。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_PIPE
 msgid "I hope this does not have a bad influence on the children."
-msgstr "我希望这对孩子们没有坏的影响。"
+msgstr "我希望这不会对孩子们有坏影响。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "Represents the protective walls of the king's castle."
@@ -36728,19 +36728,19 @@ msgstr "曼德拉草，挂了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKESOUP
 msgid "Mandragora officinarum, prepared as a soup in the name of discovery."
-msgstr "茄参，以科学发现的名义做成一种汤。"
+msgstr "风茄，以科学发现的名义做成一种汤。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_ACTIVE
 msgid "Mandragora officinarum. But with a face."
-msgstr "曼德拉草居然有脸！"
+msgstr "风茄居然有脸！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_COOKED
 msgid "Mandragora officinarum, cooked in the name of discovery."
-msgstr "药用曼德拉草，以发现之名制成菜肴。"
+msgstr "风茄，以学发现的名义做成菜肴。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_PLANTED
 msgid "Mandragora officinarum."
-msgstr "曼德拉草"
+msgstr "风茄。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANRABBIT_TAIL
 msgid "They use their tails to balance."
@@ -41688,7 +41688,7 @@ msgstr "死亡终结车。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER
 msgid "Those are some pointy teeth."
-msgstr "这是一些尖尖的牙齿。"
+msgstr "这有一些尖尖的牙齿。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgid "Just some dumb bishop piece."
@@ -41720,7 +41720,7 @@ msgstr "我不怕那个家伙，他连手臂都没有！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgid "Ouchhh! I think I chipped a tooth."
-msgstr "噢！我觉得我敲碎了一颗牙。"
+msgstr "噢！我觉得我碎了一颗牙。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgid "A horse with no butt."
@@ -54628,7 +54628,7 @@ msgstr "令人害怕的野兽雕像！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgid "Weak little rock man looks nice."
-msgstr "虚弱的小石人看起来很棒。"
+msgstr "弱小的小石人看起来很棒。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
 msgid "Wolfgang does not like moving statues!!"
@@ -54684,7 +54684,7 @@ msgstr "也许很容易抬起来！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "Does not look like castle to Wolfgang."
-msgstr "在沃尔夫冈看来防御值不高。"
+msgstr "对沃尔夫冈来说根本不是个碉堡。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgid "Wolfgang does not like moving statues!!"
@@ -69056,7 +69056,7 @@ msgstr "他似乎被困住了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE
 msgid "IT'S DEAD. GOOD."
-msgstr "它死了。正好。"
+msgstr "它死了，很好。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKESOUP
 msgid "TARGET DESTROYED. HA HA."
@@ -69064,15 +69064,15 @@ msgstr "目标被摧毁。哈哈。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_ACTIVE
 msgid "WHAT DO YOU WANT!?"
-msgstr "你想要干什么？——WX78不解的问道"
+msgstr "你想要什么！？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_COOKED
 msgid "IT'S TWICE AS DEAD. HA."
-msgstr "死透了，哈哈。"
+msgstr "它死了两次，哈哈。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_PLANTED
 msgid "IT IS A PLANT."
-msgstr "它是一种植物。——WX78肯定的说"
+msgstr "它是一株植物。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANRABBIT_TAIL
 msgid "FUZZY BUNNY NUMBER ONE"
