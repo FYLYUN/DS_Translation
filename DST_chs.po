@@ -8056,7 +8056,7 @@ msgstr "我没什么补给了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DAMP
 msgid "Slick for battle."
-msgstr "战斗时；灵活一点。"
+msgstr "战斗时，灵活一点。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEERCLOPS
 msgid "A worthy foe approaches."
