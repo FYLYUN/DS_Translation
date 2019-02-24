@@ -7808,7 +7808,7 @@ msgstr "不放东西的话，缪斯女神是不会来访的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "The girl's spirit cannot be returned."
-msgstr "她们的变化不可逆转。"
+msgstr "这女孩的魂魄已经回不来了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.BUSY
 msgid "I'll try once more when it's done."
@@ -7836,7 +7836,7 @@ msgstr "不成。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "The spirit cannot be returned."
-msgstr "有些变化是不可逆的。"
+msgstr "这魂魄已经回不来了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "The sprite home requires sprucing up. With magical spruce!"
@@ -14292,7 +14292,7 @@ msgstr "我不这么认为。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I don't think so. They might still be mad."
-msgstr "我不这样认为。他们可能会生气。"
+msgstr "我可不这么想。他们可能还在生气。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "A living log would be more suited to this."
@@ -20720,7 +20720,7 @@ msgstr "但是我们应该画些什么呢？！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Wendy would've been so happy if it worked."
-msgstr "如果它能用温蒂会很开心的。"
+msgstr "如果它有用的话温蒂会很开心的。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.BUSY
 msgid "We can try again when it's finished."
@@ -20748,7 +20748,7 @@ msgstr "不，别这么想！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "We don't think we even want them to come back."
-msgstr "我们不觉得会想等他们回来。"
+msgstr "我们不认为我们会想要他们回来。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs a special kind of log!"
@@ -27184,7 +27184,7 @@ msgstr "噢…我的信息失效了…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.FOODFULL
 msgid "It hasn't yet eaten our last sacrifice..."
-msgstr "它还没有吃掉我们最后的祭品……"
+msgstr "它还没有吃掉我们的上一个祭品……"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC
 msgid "No... I can't..."
@@ -27192,7 +27192,7 @@ msgstr "不…我做不到…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "Some things should stay dead."
-msgstr "有些东西应该永远的死掉。"
+msgstr "有些东西应该永远地死去。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It doesn't need that. It needs a magic log."
@@ -33632,7 +33632,7 @@ msgstr "我不这样认为，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I'll not be meddling in that business."
-msgstr "那种事情我不想被干预。"
+msgstr "我不会干预这件事的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs a log, imbued with magical properties."
@@ -40064,7 +40064,7 @@ msgstr "但我应该画什么呢？？"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Ugh, just come back already! Geez!"
-msgstr "呃，我早早的回来了！我的天！"
+msgstr "呃啊，快点回来吧！我的天！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.BUSY
 msgid "It's busyyyy."
@@ -40092,7 +40092,7 @@ msgstr "别呀！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I'm not wasting this on them!"
-msgstr "我不想在它们身上做任何浪费的事情！"
+msgstr "我不想在它们身上浪费这个！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "Ughh, it doesn't need this! It needs a living log!"
@@ -46576,7 +46576,7 @@ msgstr "啊哈，一只漂亮的鸟，鹈鹕。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "Some things even I can't fix."
-msgstr "我都修不好的东西。"
+msgstr "连我都没法修好的东西。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs something else."
@@ -75672,7 +75672,7 @@ msgstr "巨鹿眼球"
 
 #: STRINGS.NAMES.DEER_ANTLER
 msgid "Deer Antler"
-msgstr "鹿之匙"
+msgstr "鹿角"
 
 #: STRINGS.NAMES.DEER_GEMMED
 msgid "No-Eyed Deer"
