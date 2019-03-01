@@ -2436,7 +2436,7 @@ msgstr "你也要来玩儿么？很好玩的哟！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "It finally fell apart."
-msgstr "它终于土崩瓦解了。"
+msgstr "它最终还是解体了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "It's all scorched."
@@ -8908,7 +8908,7 @@ msgstr "我更爱刀剑碰撞的共鸣。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
 msgid "What a brave bear!"
-msgstr "什么是勇敢的熊！"
+msgstr "多么勇敢的熊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has gone to Valhalla."
@@ -21812,7 +21812,7 @@ msgstr "铃铛的数量正好。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_ACTIVE
 msgid "That teddy bear is moving!"
-msgstr "这只玩具熊居然在移动！"
+msgstr "这只泰迪熊在动！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "It's all busted up."
@@ -28252,15 +28252,15 @@ msgstr "在死者中敲响。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
 msgid "He dances to forget the pain."
-msgstr "他跳舞是为了忘记痛苦。"
+msgstr "他起舞是为了忘记痛苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has passed."
-msgstr "他成功的离开了。"
+msgstr "他已经离去了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "He's had a rough life."
-msgstr "他有一个粗犷的生活。"
+msgstr "他的生活很艰苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
 msgid "These berries are tart."
@@ -34712,7 +34712,7 @@ msgstr "安静！这里是图书馆！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERNIE_ACTIVE
 msgid "That teddy bear seems to be animated somehow."
-msgstr "那只泰迪熊不知为何似乎很愉快。"
+msgstr "那只泰迪熊似乎不知为何地有了生气。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "That bear is in need of repair."
@@ -67044,11 +67044,11 @@ msgstr "BZZ BZZ BZZ"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_ACTIVE
 msgid "HANG IN THERE, BEAR!"
-msgstr "挂在那里，熊！"
+msgstr "坚持住，熊！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "HE HAS DIED."
-msgstr "他便当了。"
+msgstr "他死了。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "IT'S SO CUDDLY!"
@@ -99376,11 +99376,11 @@ msgstr "这是一个完美的舞台。\n展示你的生存能力，战斗能力�
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE
 msgid "Surviving's more fun when you do it as a team. On this server we want to work together and do our best to tame the hostile world."
-msgstr "一个团队生存的世界。在这个世界，我们要一\n起合作，尽我们可能来驯服这个充满敌意的世\n界。"
+msgstr "一个团队生存的世界。\n在这个世界，我们要一起合作，\n竭尽全力来驯服这个充满敌意的世界。"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS
 msgid "Anything goes on this server! Forests will be burned, food will be nommed, and backs will be unceremoniously stabbed. Be prepared!"
-msgstr "这里什么妖魔鬼怪都有！\n森林会被焚毁，食物会被偷吃，背后随时都可能被插上一刀。\n希望你们能吃到粮食，而不是被粮食吃掉。"
+msgstr "这里什么妖魔鬼怪都有！\n森林会被焚毁，食物会被偷吃，\n背后随时都可能被插上一刀。\n希望你们能吃到粮食，而不是被粮食吃掉。"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL
 msgid "This server is a place for friendly chatter, a relaxed playstyle, and getting to know people. Everyone's welcome here!"
