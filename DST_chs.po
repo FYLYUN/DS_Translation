@@ -392,7 +392,7 @@ msgstr "开始旅行"
 
 #: STRINGS.ACTIONS.MINE
 msgid "Mine"
-msgstr "挖"
+msgstr "挖掘"
 
 #: STRINGS.ACTIONS.MOUNT
 msgid "Mount"
@@ -428,7 +428,7 @@ msgstr "种植"
 
 #: STRINGS.ACTIONS.PLANT.PLANTER
 msgid "Put"
-msgstr "种植"
+msgstr "放置"
 
 #: STRINGS.ACTIONS.PLANTSOIL
 msgid "Plant"
@@ -725,6 +725,58 @@ msgstr "打包"
 #: STRINGS.ACTIONS.WRITE
 msgid "Write On"
 msgstr "写上"
+
+#: STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.BUNDLESTORE.GENERIC
+msgid "Store"
+msgstr "商店"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC
+msgid "Build"
+msgstr "建造"
+
+#: STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
+msgid "Build {name}"
+msgstr "建造{name}"
+
+#: STRINGS.ACTIONS.CONSTRUCT.STORE
+msgid "Add Material"
+msgstr "添加材料"
+
+#: STRINGS.ACTIONS.GIVE.CELESTIAL
+msgid "Offer"
+msgstr "献祭"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
+msgid "Stop Building"
+msgstr "停止建造"
+
+#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgid "Stop Building {name}"
+msgstr "停止建造{name}"
+
+#: STRINGS.ACTIONS.APPLYCONSTRUCTION
+msgid "Build"
+msgstr "建造"
+
+#: STRINGS.ACTIONS.MIX
+msgid "Mix"
+msgstr "配制"
+
+#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
+msgid "Hearthsfire Bomb"
+msgstr "炉火爆破"
+
+#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
+msgid "Parry"
+msgstr "格挡"
+
+#: STRINGS.ACTIONS.ATTACK.PROP
+msgid "Smack"
+msgstr "掴"
 
 #: STRINGS.BOARLORD_BOARRIOR_INTRO.1
 msgid "Grand Forge Boarrior!"
@@ -2012,7 +2064,7 @@ msgstr "我不想再一次上当了"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.AMULET
 msgid "I feel so safe when I get to wear it."
-msgstr "我穿着它的时候觉得很安全。"
+msgstr "我戴着它的时候觉得很安全。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCIENT_ALTAR
 msgid "An ancient and mysterious structure."
@@ -2296,7 +2348,7 @@ msgstr "需要等一会。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "This one is slightly less smelly than the others."
-msgstr "这一个比其他的少一些。"
+msgstr "这一个比其他牛不那么臭一些。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.FOLLOWER
 msgid "He's coming along peacefully."
@@ -2304,7 +2356,7 @@ msgstr "他在安静地跟着"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC
 msgid "It's a beefalo!"
-msgstr "它是一只牛！"
+msgstr "它是一只皮弗娄牛！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.NAKED
 msgid "Aww, he's so sad."
@@ -2312,11 +2364,11 @@ msgstr "啊，他看起来很难过。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.ORNERY
 msgid "It looks deeply angry."
-msgstr "这货看起来很生气。"
+msgstr "它看起来很生气。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.PUDGY
 msgid "Hmmm, there may be too much food inside it."
-msgstr "哼，那里面好像有很多食物。"
+msgstr "嗯...那里面也许装了很多食物。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.RIDER
 msgid "This fellow appears quite ridable."
@@ -2384,7 +2436,7 @@ msgstr "你也要来玩儿么？很好玩的哟！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "It finally fell apart."
-msgstr "它终于土崩瓦解了。"
+msgstr "它最终还是解体了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "It's all scorched."
@@ -2516,7 +2568,7 @@ msgstr "退后，传教士！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Ow!"
-msgstr "哇哦！"
+msgstr "嗷！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_NIGHTMARE
 msgid "It's falling apart!"
@@ -2632,7 +2684,7 @@ msgstr "奇怪，这只是500页的电报码。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES
 msgid "Someone'll get suckered into reading this."
-msgstr "一些人将会用吸管读这个。"
+msgstr "某些人会沉迷于读这个。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG
 msgid "Aerodynamical!"
@@ -2888,11 +2940,11 @@ msgstr "棋子正在自己移动！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgid "That thing's the leashed of my worries."
-msgstr "这东西能栓住我的烦恼。"
+msgstr "那东西紧紧栓住我的烦恼。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_CLAYWARG
 msgid "And I didn't even get eaten!"
-msgstr "我竟然还没被吃掉!"
+msgstr "我竟然没有被吃掉！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgid "It feels like its eye follows you."
@@ -3528,7 +3580,7 @@ msgstr "这把法杖可以召唤陨石。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FIRECRACKERS
 msgid "Filled with explosion science!"
-msgstr "装满了“爆炸性”科学。"
+msgstr "装满了“爆炸性”科学！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FIREFLIES.GENERIC
 msgid "If only I could catch them!"
@@ -4132,7 +4184,7 @@ msgstr "我们应该打开看一下。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KNIGHT
 msgid "Check it out!"
-msgstr "去看看怎么回事！"
+msgstr "看呐！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "It's a knightmare!"
@@ -4600,7 +4652,7 @@ msgstr "不是这样子用的。我们应该把它放下来。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MINOTAUR
 msgid "That thing doesn't look happy."
-msgstr "拿东西看起来不是很高兴。"
+msgstr "那东西看起来不是很高兴。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MINOTAURCHEST
 msgid "It may contain a bigger something fantastic! Or horrible."
@@ -4660,11 +4712,11 @@ msgstr "这中间有一个洞来让某个东西进出。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "The stone lit it up somehow."
-msgstr "不知为何，石头发光了诶。"
+msgstr "这石头不知怎么的就发起了光。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.STAFFED
 msgid "Now what?"
-msgstr "现在怎么样了？"
+msgstr "现在会怎么样呢？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "I have a distinct feeling this isn't right."
@@ -5036,7 +5088,7 @@ msgstr "有人应该说说它的家庭。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN.FOLLOWER
 msgid "You're part of my entourage."
-msgstr "你是环境的一部分。"
+msgstr "你是我随从中的一员。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PIGMAN.GENERIC
 msgid "They kind of creep me out."
@@ -5948,7 +6000,7 @@ msgstr "它看起来被吓呆了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROOK
 msgid "Storm the castle!"
-msgstr "洗劫了城堡！"
+msgstr "进攻这城堡！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ROOK_NIGHTMARE
 msgid "Terrifying!"
@@ -6620,15 +6672,15 @@ msgstr "我想这些是它的生殖器"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_GARDEN
 msgid "Yet another slimy pole."
-msgstr "又一个泥坑。"
+msgstr "另一个黏滑的柱子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR
 msgid "A slimy pole."
-msgstr "一个泥坑。"
+msgstr "一个黏滑的柱子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Little slippery arms."
-msgstr "小巧而不稳定的武器。"
+msgstr "小巧又滑溜的手臂。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "Seems stinky, but worth exploring."
@@ -7756,7 +7808,7 @@ msgstr "不放东西的话，缪斯女神是不会来访的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "The girl's spirit cannot be returned."
-msgstr "她们的变化不可逆转。"
+msgstr "这女孩的魂魄已经回不来了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.BUSY
 msgid "I'll try once more when it's done."
@@ -7784,7 +7836,7 @@ msgstr "不成。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "The spirit cannot be returned."
-msgstr "有些变化是不可逆的。"
+msgstr "这魂魄已经回不来了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "The sprite home requires sprucing up. With magical spruce!"
@@ -8832,7 +8884,7 @@ msgstr "注意你的脚下。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEQUEEN
 msgid "Your monarchy shall topple this day!"
-msgstr "今天你的王位就要被我推翻！"
+msgstr "你的统治今天将会被推翻！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "A land not of milk, but of honey."
@@ -8856,7 +8908,7 @@ msgstr "我更爱刀剑碰撞的共鸣。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
 msgid "What a brave bear!"
-msgstr "什么是勇敢的熊！"
+msgstr "多么勇敢的熊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has gone to Valhalla."
@@ -8988,7 +9040,7 @@ msgstr "热蛋。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP
 msgid "This one needs a good smack."
-msgstr "这个还需要一点味道。"
+msgstr "这家伙需要被狠狠地揍一顿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Rrraugh!"
@@ -8996,7 +9048,7 @@ msgstr "哇呀呀呀呀！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BISHOP_NIGHTMARE
 msgid "Be wary of his blasts!"
-msgstr "警惕他的风！"
+msgstr "警惕他的子弹！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BLOWDART_FIRE
 msgid "Like the breath of a dragon."
@@ -9412,7 +9464,7 @@ msgstr "此乃一名高尚的小卒。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_PIPE
 msgid "Tis but a jest."
-msgstr "此只是一个笑话。"
+msgstr "这只是一个笑话。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "A castle fit for a queen."
@@ -9672,7 +9724,7 @@ msgstr "所有生灵身上都可以看出芙蕾雅的美丽！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEERCLOPS
 msgid "Rays will shine through my spear and poke out your eyeball!"
-msgstr "Rays会用我的长矛把你的眼珠子挑出来。"
+msgstr "光芒会透过我的长矛把你的眼珠刺穿。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Delicious! I should like to share it with my new allies."
@@ -10588,11 +10640,11 @@ msgstr "一个被征服的敌人"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUS
 msgid "I shall free thy deer this day!"
-msgstr "今日我将解放你的鹿！"
+msgstr "今天我就要解放你的鹿！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUSSACKKEY
 msgid "What wonders will you reveal?"
-msgstr "你将开启什么奇遇？"
+msgstr "你将开启什么奇跡？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KLAUS_SACK
 msgid "A secret, kept under lock and key!"
@@ -10604,7 +10656,7 @@ msgstr "我感受到了战斗的气息！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "I don't think I'd ride that horse."
-msgstr "我不认为我骑过那匹马。"
+msgstr "我不认为我能骑那匹马。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_SUMMER
 msgid "Dearest creature... I am going to eat you."
@@ -10884,11 +10936,11 @@ msgstr "炖的魅力。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_ACTIVE
 msgid "She just wants to go on a rutabaga saga."
-msgstr "她只是想成为一个大头菜的传说。"
+msgstr "她只是想进行一个大头菜式的冒险。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_COOKED
 msgid "Grilled rutabaga."
-msgstr "甘蓝烧烤"
+msgstr "大头菜烧烤。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MANDRAKE_PLANTED
 msgid "A rutabaga!"
@@ -11116,11 +11168,11 @@ msgstr "祭坛，你想要什么？"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "It feeds from the power of Mani!"
-msgstr "它靠月神之力为生！"
+msgstr "它因月神之力而生！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.STAFFED
 msgid "Prepare for glorious battle!"
-msgstr "为荣誉而战！"
+msgstr "准备为荣誉而战！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "This shall not please the gods."
@@ -11156,7 +11208,7 @@ msgstr "月神的礼物还有些用处！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCKNUGGET
 msgid "A gift from Mani."
-msgstr "来自月亮的礼物。"
+msgstr "来自月神的礼物。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MOONROCK_PIECES
 msgid "It has faced Mani's wrath."
@@ -11504,7 +11556,7 @@ msgstr "那头猪看起来非常勇猛。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGMAN.WEREPIG
 msgid "It has been tainted by Fenrir."
-msgstr "这已经被猎狗污染了。"
+msgstr "它已经被芬里尔污染了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.PIGSKIN
 msgid "The hide of a pig creature."
@@ -12228,7 +12280,7 @@ msgstr "这东西太烫了，不能摸的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REDLANTERN
 msgid "A lucky ward to guard against the night."
-msgstr "地域黑夜的一个幸运屏障。"
+msgstr "一个幸运守护者镇守着黑夜。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.REDMOONEYE
 msgid "Odin's eye, grant us wisdom!"
@@ -12400,7 +12452,7 @@ msgstr "我纯粹的英灵使树无比地恐惧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROOK
 msgid "Chaaaarge!"
-msgstr "零钱！！！"
+msgstr "冲啊！！！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ROOK_NIGHTMARE
 msgid "You don't frighten me!"
@@ -12880,7 +12932,7 @@ msgstr "各种各样锋利的石头。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STALKER
 msgid "It lives to battle once more!"
-msgstr "它还可以在打一仗！"
+msgstr "它活过来就是为了再打一仗！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.STALKER_ATRIUM
 msgid "Tis no mindless beast!"
@@ -14240,7 +14292,7 @@ msgstr "我不这么认为。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I don't think so. They might still be mad."
-msgstr "我不这样认为。他们可能会生气。"
+msgstr "我可不这么想。他们可能还在生气。"
 
 #: STRINGS.CHARACTERS.WAXWELL.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "A living log would be more suited to this."
@@ -14972,7 +15024,7 @@ msgstr "有没有自尊你？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLION.UNHAPPY
 msgid "It's going to wreak havoc on my world."
-msgstr "它将摧毁我的世界。"
+msgstr "它会对我的世界造成严重破坏。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANTLION.VERYHAPPY
 msgid "We've placated it for now."
@@ -15232,7 +15284,7 @@ msgstr "我应该再等等的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "I like a creature that knows its place."
-msgstr "我喜欢知道具体位置的创造物。"
+msgstr "我喜欢那些知道自己地位的造物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEFALO.FOLLOWER
 msgid "Aw nuts, it's following me."
@@ -15292,7 +15344,7 @@ msgstr "也许我不该放在那里"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEQUEEN
 msgid "I didn't make that one! Really!"
-msgstr "这真不是我干的！真的！"
+msgstr "这一个真不是我造的！真的！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "I am not getting that on my shoes."
@@ -15456,7 +15508,7 @@ msgstr "你竟然敢这样对我！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BISHOP_NIGHTMARE
 msgid "They degrade without proper upkeep."
-msgstr "如果没有合适的保存措施，它们会降解。"
+msgstr "如果没有适当的保养它们就会老化。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.BLOWDART_FIRE
 msgid "Just make sure to breathe out."
@@ -16136,7 +16188,7 @@ msgstr "甚至是我都害怕这家伙。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Deerclops are so myopic."
-msgstr "所以独眼巨鹿很近视。"
+msgstr "独眼巨鹿非常近视。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEER_ANTLER
 msgid "Filthy."
@@ -16460,7 +16512,7 @@ msgstr "我就喜欢这样的法杖！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FIRECRACKERS
 msgid "Great for magic tricks."
-msgstr "不错的魔术技巧。"
+msgstr "不错的魔术伎俩。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.FIREFLIES.GENERIC
 msgid "How pretty."
@@ -16756,7 +16808,7 @@ msgstr "它更“漂亮”更“衣冠楚楚”。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENAMULET
 msgid "A crutch for pitiful mortals without godlike powers. What?"
-msgstr "一个可怜的人没有一根神杖。为什么啊？"
+msgstr "没有神力的凡人的一个依靠。啥？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.GREENGEM
 msgid "Only the nightmare fuel will unlock its true potential."
@@ -17040,7 +17092,7 @@ msgstr "我抓住了老虎尾巴"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUS
 msgid "My, what a magnificently horrific creature."
-msgstr "我的天，多壮观的一个可怕生物。"
+msgstr "我的天，多壮观的一个恐怖生物。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.KLAUSSACKKEY
 msgid "Magic has done things to this beast's horn."
@@ -17336,7 +17388,7 @@ msgstr "现在你可叫不出来了吧。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_ACTIVE
 msgid "Oh shut UP, will you?"
-msgstr "你行你上，不行闭嘴。"
+msgstr "哦，闭嘴，好吗？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_COOKED
 msgid "Looks like I got the last meep."
@@ -17344,7 +17396,7 @@ msgstr "看起来我得到了最后一点"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANDRAKE_PLANTED
 msgid "What a disturbing root."
-msgstr "一个令人不安的根。"
+msgstr "真是个烦人的根。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MANRABBIT_TAIL
 msgid "Silly rabbit."
@@ -17904,7 +17956,7 @@ msgstr "大家都喜欢挖矿。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGGUARD
 msgid "Blech. Disgusting brute."
-msgstr "死神，令人恶心的禽兽。"
+msgstr "呃...令人恶心的禽兽。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGGYBACK
 msgid "Oh, that's just demeaning."
@@ -17956,7 +18008,7 @@ msgstr "他们开始变得有组织性了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGMAN.WEREPIG
 msgid "That one's gone feral."
-msgstr "那些都是野生的。"
+msgstr "那一只变野了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.PIGSKIN
 msgid "It was him or me."
@@ -18852,11 +18904,11 @@ msgstr "我认为这是更好的方式。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROOK
 msgid "A castle for my home."
-msgstr "一个能当做我的家的城堡。"
+msgstr "一个我家的城堡。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROOK_NIGHTMARE
 msgid "The builders have left it in a state of abandonment."
-msgstr "建造者将至留在一种被荒废的状态中。"
+msgstr "制造者把它遗弃了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ROPE
 msgid "You'd think this would have more uses."
@@ -19532,7 +19584,7 @@ msgstr "这东西真奇怪。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENTACLE_PILLAR
 msgid "How deep does this go?"
-msgstr "这东西能走多深？"
+msgstr "这东西能有多深？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Babies?"
@@ -19672,7 +19724,7 @@ msgstr "查理是唯一一个下棋赢过我的人。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_16
 msgid "Charlie was the only one who ever kept me in check."
-msgstr "查利是唯一一个下棋赢过我的人。"
+msgstr "查理是唯一一个下棋赢过我的人。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TRINKET_17
 msgid "The product of a very immature magician, perhaps."
@@ -20636,7 +20688,7 @@ msgstr "我们喜欢我们养的这只宠物。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BUILD.MOUNTED
 msgid "All our arms can't quite reach from up here."
-msgstr "我们所有的武器都够不着。"
+msgstr "我们所有的胳膊都够不着。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.CHANGEIN.BURNING
 msgid "Woah! Hot fashions!"
@@ -20668,7 +20720,7 @@ msgstr "但是我们应该画些什么呢？！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Wendy would've been so happy if it worked."
-msgstr "如果它能用温蒂会很开心的。"
+msgstr "如果它有用的话温蒂会很开心的。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.BUSY
 msgid "We can try again when it's finished."
@@ -20696,7 +20748,7 @@ msgstr "不，别这么想！"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "We don't think we even want them to come back."
-msgstr "我们不觉得会想等他们回来。"
+msgstr "我们不认为我们会想要他们回来。"
 
 #: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs a special kind of log!"
@@ -21568,7 +21620,7 @@ msgstr "砍吧砍吧！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "Get busy, child."
-msgstr "忙着，孩子。"
+msgstr "忙起来吧，孩子。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "That's the opposite of busy."
@@ -21684,7 +21736,7 @@ msgstr "他似乎想在附近逗留。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC
 msgid "Big big beefalo!"
-msgstr "好大的一只皮弗洛牛！"
+msgstr "好大的一只皮弗娄牛！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.NAKED
 msgid "Shaved you good!"
@@ -21760,7 +21812,7 @@ msgstr "铃铛的数量正好。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_ACTIVE
 msgid "That teddy bear is moving!"
-msgstr "这只玩具熊居然在移动！"
+msgstr "这只泰迪熊在动！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "It's all busted up."
@@ -21892,7 +21944,7 @@ msgstr "就像是妈妈炸的。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP
 msgid "You don't play by the chess rules grandpa taught me."
-msgstr "你下棋的规则和我爷爷教我的不一样。"
+msgstr "你没按爷爷教我的象棋规则来下。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Owie!"
@@ -26012,7 +26064,7 @@ msgstr "呀！那是一个巨蛤！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.RAGE
 msgid "Toadally terrifying!"
-msgstr "日常害怕！"
+msgstr "像蟾蜍一样可怕！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.EMPTY
 msgid "Do you think we'd fit?"
@@ -27080,7 +27132,7 @@ msgstr "我只能拥有一个…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BUILD.MOUNTED
 msgid "I can't place that from this lofty position."
-msgstr "我无法登上这个高耸的位置。"
+msgstr "我无法在这个高耸的位置上放置。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.CHANGEIN.BURNING
 msgid "I guess I won't be changing again anytime soon."
@@ -27112,7 +27164,7 @@ msgstr "如果有参考的话，我能画的更好…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Why isn't it working, Abigail?"
-msgstr "为什么不动了，阿比盖尔？"
+msgstr "为什么不管用呢，阿比盖尔？"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.BUSY
 msgid "It's too busy to pay attention to me..."
@@ -27132,7 +27184,7 @@ msgstr "噢…我的信息失效了…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.FOODFULL
 msgid "It hasn't yet eaten our last sacrifice..."
-msgstr "它还没有吃掉我们最后的祭品……"
+msgstr "它还没有吃掉我们的上一个祭品……"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.GENERIC
 msgid "No... I can't..."
@@ -27140,7 +27192,7 @@ msgstr "不…我做不到…"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "Some things should stay dead."
-msgstr "有些东西应该永远的死掉。"
+msgstr "有些东西应该永远地死去。"
 
 #: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It doesn't need that. It needs a magic log."
@@ -28064,7 +28116,7 @@ msgstr "真肮脏"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEARGER
 msgid "It could crush me in one blow. I wish it would."
-msgstr "仅仅一吹它就会击碎我。我希望这样。"
+msgstr "仅仅一击它就会击碎我。我希望这样。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEARGERVEST
 msgid "Death surrounds us. Well, our torsos anyhow."
@@ -28116,7 +28168,7 @@ msgstr "蜜蜂们，继续加把劲。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "I wonder if it misses its old family?"
-msgstr "我想知道它是否错过了它的老家族？"
+msgstr "我想知道它会不会想念它的旧家庭？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.FOLLOWER
 msgid "He follows me unto his doom."
@@ -28136,11 +28188,11 @@ msgstr "这个世界伤害了你。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.PUDGY
 msgid "More of the world is within the beast than without."
-msgstr "大部分世界都是在动物们的掌握中的。"
+msgstr "世界的绝大部分都由野兽们掌握。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.RIDER
 msgid "Together we can venture far."
-msgstr "让我们一起去冒险吧。"
+msgstr "我们在一起能够走的更远。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BEEFALO.SLEEPING
 msgid "To sleep, perchance to dream."
@@ -28200,15 +28252,15 @@ msgstr "在死者中敲响。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
 msgid "He dances to forget the pain."
-msgstr "他跳舞是为了忘记痛苦。"
+msgstr "他起舞是为了忘记痛苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "He has passed."
-msgstr "他成功的离开了。"
+msgstr "他已经离去了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "He's had a rough life."
-msgstr "他有一个粗犷的生活。"
+msgstr "他的生活很艰苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
 msgid "These berries are tart."
@@ -28368,7 +28420,7 @@ msgstr "闪电与死亡从天而降。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUEAMULET
 msgid "A familiar, chilling embrace."
-msgstr "一个熟悉的，寒冷的拥抱。"
+msgstr "一个熟悉的，冰冷的拥抱。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BLUEGEM
 msgid "Blue like... er... a sad bird?"
@@ -29084,7 +29136,7 @@ msgstr "野兽的肚子。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGONFLY
 msgid "It's burning on the inside."
-msgstr "它在里面燃烧着。"
+msgstr "它的内心在燃烧着。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.DRAGONFLYCHEST
 msgid "Boom box."
@@ -29344,7 +29396,7 @@ msgstr "从天空中呼唤死亡。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIRECRACKERS
 msgid "It needs only a light."
-msgstr "它只需要一盏灯。"
+msgstr "它只需要一点火。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FIREFLIES.GENERIC
 msgid "A tiny brightness in the dark."
@@ -29936,11 +29988,11 @@ msgstr "我们应该往里面偷看吗…？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KNIGHT
 msgid "A cold, soulless horse."
-msgstr "一匹冰冷无情的马"
+msgstr "一匹冰冷的、没有灵魂的马。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "Another battle lost to time."
-msgstr "又一场遗失在时间中的战斗。"
+msgstr "又一场战争，输给了时间。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KOALEFANT_SUMMER
 msgid "A beast of solitude."
@@ -30148,7 +30200,7 @@ msgstr "盒装的死亡…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIGHTNINGGOAT.CHARGED
 msgid "Chaaaarge!"
-msgstr "零钱！！！"
+msgstr "冲啊！！！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LIGHTNINGGOAT.GENERIC
 msgid "Look at those hooves."
@@ -30392,7 +30444,7 @@ msgstr "我们必须把它插入寒冷坚硬的大地…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MINOTAUR
 msgid "He must be lonely, trapped in such a small cage."
-msgstr "它一定是孤独的，就这样被困在了一个小笼子里。"
+msgstr "被困在狭小的牢笼里，他一定很孤独。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MINOTAURCHEST
 msgid "My, what magnificent horns you have!"
@@ -30452,19 +30504,19 @@ msgstr "冷厉的寒冷直入骨髓。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Bathed in pale eternal light..."
-msgstr "沐浴在永恒的苍白光亮里…"
+msgstr "沐浴在永恒的苍白光芒中…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.STAFFED
 msgid "Perhaps it thirsts for a sacrifice. Where's Webber..."
-msgstr "大抵它渴望牺牲。韦伯在哪儿……"
+msgstr "大抵它渴望牺牲。韦伯在哪儿…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "That doesn't look right..."
-msgstr "那看起来有问题……"
+msgstr "那看起来有问题…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.CAVE
 msgid "Caves. The moon's one weakness."
-msgstr "塌陷。月亮的一个弱点。"
+msgstr "洞穴。月亮的一个弱点。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.MOONDIAL.GENERIC
 msgid "Does it reflect from the other side too, Abigail?"
@@ -30708,7 +30760,7 @@ msgstr "冰冷无息就像…嗯…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEAMULET
 msgid "Temporary release from drudgery."
-msgstr "为了做苦力而临时释放。"
+msgstr "暂时摆脱了苦差事。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ORANGEGEM
 msgid "Such things used to bring me happiness."
@@ -30840,7 +30892,7 @@ msgstr "真是充满了奥威尔风格"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGMAN.WEREPIG
 msgid "A creature of the night!"
-msgstr "夜行生物"
+msgstr "属于黑夜的生物！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIGSKIN
 msgid "The hide of a pig that once was."
@@ -30968,7 +31020,7 @@ msgstr "这是颗种子。好激动。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PURPLEAMULET
 msgid "It's oozing."
-msgstr "还在往外冒呢。"
+msgstr "它在往外冒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PURPLEGEM
 msgid "Purple like a... purple thing."
@@ -32216,7 +32268,7 @@ msgstr "地球到了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STALKER
 msgid "Not even death is permanent."
-msgstr "即使死亡是永恒的。"
+msgstr "甚至死亡也不是永恒的。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STALKER_ATRIUM
 msgid "Do you mourn, too?"
@@ -32424,7 +32476,7 @@ msgstr "婴儿！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "It shall return, some day."
-msgstr "总有一天，它将回去。"
+msgstr "总有一天，它会回来。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.THULECITE
 msgid "Its presence marks the edge of the unknown."
@@ -33012,7 +33064,7 @@ msgstr "%s…她茹毛饮血。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.FIRESTARTER
 msgid "Do the Norse have a god of fire, %s?"
-msgstr "你在做北欧的火神吗，%s？"
+msgstr "北欧有火神吗，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WATHGRITHR.GENERIC
 msgid "How do you do, %s?"
@@ -33072,7 +33124,7 @@ msgstr "%s，你是朋友…还是敌人？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.FIRESTARTER
 msgid "%s, let's find a game that doesn't involve fire."
-msgstr "我比较怕火。"
+msgstr "%s，让我们找一个不涉及火的游戏吧。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WEBBER.GENERIC
 msgid "Hey, %s!"
@@ -33104,7 +33156,7 @@ msgstr "%s…她不是我的姐妹。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.FIRESTARTER
 msgid "Fire probably isn't the method I would choose..."
-msgstr "火可能不是我要选择的方法…"
+msgstr "火大概不是我会选择的方法…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WENDY.GENERIC
 msgid "She looks sad..."
@@ -33168,7 +33220,7 @@ msgstr "%s女士…你要用你的智慧与我们对抗吗？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Ms. %s, wreathed in flames."
-msgstr "Ms.%s，环绕着火焰"
+msgstr "%s女士，环绕着火焰"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "How do you do, Ms. %s?"
@@ -33208,15 +33260,15 @@ msgstr "你犯了相当严重的错误，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILLOW.REVIVER
 msgid "Abigail likes you, %s. Do you like her?"
-msgstr "阿比盖尔喜欢你，%s。"
+msgstr "阿比盖尔喜欢你，%s，你喜欢她吗。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.ATTACKER
 msgid "%s is unstable."
-msgstr "%s已经神志不清了。"
+msgstr "%s情绪很不稳定。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.FIRESTARTER
 msgid "Douse your fires, %s."
-msgstr "做北欧的火神，%s。"
+msgstr "把你的火熄掉，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WILSON.GENERIC
 msgid "How do you do, %s?"
@@ -33244,7 +33296,7 @@ msgstr "火焰在你的生产线上重要么？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.GENERIC
 msgid "How do you do, %s?"
-msgstr "你好啊，%s！"
+msgstr "你好吗，%s！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA.GHOST
 msgid "You can't escape that way, %s. I've tried."
@@ -33356,7 +33408,7 @@ msgstr "你好，%s。你干嘛发抖？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.GHOST
 msgid "%s... Everyone leaves..."
-msgstr "%s…大家都归西了…"
+msgstr "%s…大家都走了…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOLFGANG.MURDERER
 msgid "Strength is meaningless if you can't catch me..."
@@ -33372,15 +33424,15 @@ msgstr "%s正在和那斧头一起密谋着某些卑鄙的计划。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVER
 msgid "He pinky-promised I'd get to ride on his shoulders. Such lies."
-msgstr "他跟我曾誓言过我可以依靠他，但是这是谎言。"
+msgstr "他曾向我发誓过我可以信赖他，但那是谎言。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "The curse haunts you even in death, %s?"
-msgstr "虽然你死了，但是诅咒还是会萦绕着你。"
+msgstr "%s，尽管你死了，诅咒还是会萦绕着你？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.FIRESTARTER
 msgid "Fire setting does not seem in your best interest..."
-msgstr "火焰的背景看起来并不是你最感兴趣的……"
+msgstr "放火看起来并不符合你的利益……"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GENERIC
 msgid "How do you do, %s?"
@@ -33388,7 +33440,7 @@ msgstr "你好吗，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.GHOST
 msgid "We'll get a heart, but are you sure you want to come back, %s?"
-msgstr "我会救你的，不过你确定你要复活吗，%s？"
+msgstr "我会救你的，不过你确定你要回来吗，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WOODIE.MURDERER
 msgid "I'll send you someplace much nicer than this, %s."
@@ -33408,7 +33460,7 @@ msgstr "这看起来有点不相称。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORM.WORM
 msgid "It comes from the depths."
-msgstr "它是从地下深处来的。"
+msgstr "它来自深渊。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WORMHOLE.GENERIC
 msgid "Life doesn't always make sense."
@@ -33436,11 +33488,11 @@ msgstr "似乎不在这儿。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.ATTACKER
 msgid "Do you have a conscience, %s?"
-msgstr "你难道没有良心吗，%s？"
+msgstr "你难道没有良知吗，%s？"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.FIRESTARTER
 msgid "I'd begun to think you were all talk, %s."
-msgstr "我开始认为你以前都说过。"
+msgstr "我开始还以为你只是说说，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.WX78.GENERIC
 msgid "How do you do, %s?"
@@ -33460,7 +33512,7 @@ msgstr "阿比盖尔喜欢你哦，%s。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWAMULET
 msgid "A brief light in a dark life."
-msgstr "黑暗生命中的一个短暂的光明。"
+msgstr "黑暗人生中短暂的光芒。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YELLOWGEM
 msgid "It reminds me of my mother."
@@ -33580,7 +33632,7 @@ msgstr "我不这样认为，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I'll not be meddling in that business."
-msgstr "那种事情我不想被干预。"
+msgstr "我不会干预这件事的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs a log, imbued with magical properties."
@@ -33604,7 +33656,7 @@ msgstr "没有人应当用那个来雕刻，亲爱的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.NOTSTAFF
 msgid "This is not the staff I seek."
-msgstr "这不是我要找的权杖。"
+msgstr "这不是我在找的法杖。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.SLEEPING
 msgid "It appears to be sleeping."
@@ -34584,7 +34636,7 @@ msgstr "它看起来好像在跟着我"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.GENERIC
 msgid "It looks almost like a Bos Taurus."
-msgstr "看上起像头瘤牛一样"
+msgstr "看上起像头欧洲普通牛一样。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.NAKED
 msgid "It looks cold."
@@ -34592,7 +34644,7 @@ msgstr "看起来很冷"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.ORNERY
 msgid "The creature has developed a nasty disposition."
-msgstr "这个生物已经开发出了一种让人讨厌的性格。"
+msgstr "这个生物已经发展出了一种让人讨厌的性格。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALO.PUDGY
 msgid "Abundant nourishment has led to an amicable personality."
@@ -34660,7 +34712,7 @@ msgstr "安静！这里是图书馆！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERNIE_ACTIVE
 msgid "That teddy bear seems to be animated somehow."
-msgstr "那只泰迪熊不知为何似乎很愉快。"
+msgstr "那只泰迪熊似乎不知为何地有了生气。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "That bear is in need of repair."
@@ -34828,7 +34880,7 @@ msgstr "简易电动装置。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEAMULET
 msgid "The gem appears to be sucking energy out anything it touches."
-msgstr "宝石会吸出任何触碰它的东西的能量"
+msgstr "宝石会吸收任何它触碰到的东西的能量。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUEGEM
 msgid "It is cold."
@@ -35192,11 +35244,11 @@ msgstr "国王在所有情况下都要对国土上的每一个人负责。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgid "It is a commonly held belief that art imitates life."
-msgstr "一个得到普遍认可的观点是艺术源于生活。"
+msgstr "人们普遍认为艺术是源于生活的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgid "A knight, in service to the king. Or perhaps the queen."
-msgstr "一个对国王或者也许是女王负责的骑士。"
+msgstr "一个为国王效力的骑士，也可能是女王。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
 msgid "It seems magic is afoot."
@@ -35208,7 +35260,7 @@ msgstr "卡纳登西斯驼鹿的半身像。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_MUSE
 msgid "In chess, the queen is by far the most strategically formidable."
-msgstr "在国际象棋中，后是到目前为止战略上最强大的。"
+msgstr "在国际象棋中，王后向来都是战略上最强大的子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_PAWN
 msgid "Pawns that journey to the seat of power can be quite dangerous."
@@ -35216,7 +35268,7 @@ msgstr "小卒们在通往权利所在地的旅程中相当危险。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_PIPE
 msgid "I hope this does not have a bad influence on the children."
-msgstr "我希望这对孩子们没有坏的影响。"
+msgstr "我希望这不会对孩子们有坏影响。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "Represents the protective walls of the king's castle."
@@ -35544,7 +35596,7 @@ msgstr "龙越长，运气越好。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFLY
 msgid "It's some kind of mythical variant of a Diptera."
-msgstr "它是一种德普塔拉的神秘变种。"
+msgstr "它是双翅目昆虫的一个神秘变种。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.DRAGONFLYCHEST
 msgid "Scales! Scales are the winner!"
@@ -36100,7 +36152,7 @@ msgstr "一个能提供中度保护的阳伞。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GREENAMULET
 msgid "Works almost as a magical binding agent."
-msgstr "简直是个魔法捆绑器。"
+msgstr "就像是魔法般的粘合剂。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GREENGEM
 msgid "Chromium impurities have colored this gem green."
@@ -36676,19 +36728,19 @@ msgstr "曼德拉草，挂了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKESOUP
 msgid "Mandragora officinarum, prepared as a soup in the name of discovery."
-msgstr "茄参，以科学发现的名义做成一种汤。"
+msgstr "风茄，以科学发现的名义做成一种汤。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_ACTIVE
 msgid "Mandragora officinarum. But with a face."
-msgstr "曼德拉草居然有脸！"
+msgstr "风茄居然有脸！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_COOKED
 msgid "Mandragora officinarum, cooked in the name of discovery."
-msgstr "药用曼德拉草，以发现之名制成菜肴。"
+msgstr "风茄，以学发现的名义做成菜肴。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANDRAKE_PLANTED
 msgid "Mandragora officinarum."
-msgstr "曼德拉草"
+msgstr "风茄。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MANRABBIT_TAIL
 msgid "They use their tails to balance."
@@ -36904,11 +36956,11 @@ msgstr "很咸，但是吃起来很有满足感。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.BROKEN
 msgid "Ancient debris. Perhaps it can be restored?"
-msgstr "远古碎片。它能恢复如初吗？"
+msgstr "古代残骸。它能恢复如初吗？"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.GENERIC
 msgid "The magic of this structure ebbs in predictable cycles."
-msgstr "在可预见周期内的结构性衰弱的魔法。"
+msgstr "这个装置的魔力会在可预见的周期内衰退。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "The magic of the stone appears to be inexhaustible."
@@ -36916,11 +36968,11 @@ msgstr "这块石头的魔力似乎不会枯竭。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.STAFFED
 msgid "Now we must be patient."
-msgstr "现在我们必须淡定。"
+msgstr "现在我们必须有点耐心。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "Hmm... It seems the staves are not interchangeable."
-msgstr "唔……好像法杖已经不能换了。"
+msgstr "唔…看来这些法杖不能互相替代。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOONDIAL.CAVE
 msgid "It appears to lose functionality in subterranean conditions."
@@ -36960,7 +37012,7 @@ msgstr "多么令人困惑的转变。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOOSE
 msgid "I dub it Alces canadensis."
-msgstr "我把它叫做驼鹿沉香。"
+msgstr "我把它称作驼鹿胸鳾 。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.MOOSEEGG
 msgid "What a marvel!"
@@ -37248,7 +37300,7 @@ msgstr "一把专门用来破石的斧子"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGUARD
 msgid "One of the warrior caste."
-msgstr "武士阶级中的一个"
+msgstr "战士阶级中的一员。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGGYBACK
 msgid "A face only necessity could love."
@@ -37288,7 +37340,7 @@ msgstr "别担心，还有很多呢。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.FOLLOWER
 msgid "He seems to have bonded with me."
-msgstr "他看起来已经和我结合在了一起"
+msgstr "他看起来和我很亲近。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GENERIC
 msgid "It's a semi-intelligent bipedal pig."
@@ -37296,11 +37348,11 @@ msgstr "它是一个半智能的猪类双足生物"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.GUARD
 msgid "It appears to be a guardian."
-msgstr "它好像是守护者"
+msgstr "它好像是守卫。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGMAN.WEREPIG
 msgid "It's a lycanthropic pig."
-msgstr "这是一只想变成狼的猪"
+msgstr "这是一只狼人化的猪。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSKIN
 msgid "The haunch of a semi-intelligent bipedal pig."
@@ -37428,7 +37480,7 @@ msgstr "南瓜种子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEAMULET
 msgid "I can almost sense it beckoning to something."
-msgstr "我几乎都能感受到它们正在引诱着什么"
+msgstr "我几乎都能感受到它在召唤着什么。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PURPLEGEM
 msgid "It gives off a strange aura."
@@ -38772,7 +38824,7 @@ msgstr "你会得致命的病的！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
 msgid "Development appears to be progressing."
-msgstr "看起来正在发展"
+msgstr "发育正在进行中。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
 msgid "Exposure to temperature extremes may result in death."
@@ -38860,7 +38912,7 @@ msgstr "睡在那儿我会落枕的"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE
 msgid "A horror waiting in the mud."
-msgstr "在泥浆中的恐怖等待"
+msgstr "在泥浆中等待的恐怖。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLESPIKE
 msgid "Never grab the pointy end."
@@ -39980,7 +40032,7 @@ msgstr "我已经有一个了！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.BUILD.MOUNTED
 msgid "I can't place anything from atop this big lout!"
-msgstr "我放不了任何东西在这个大蠢蛋的顶上！"
+msgstr "我在这个大蠢蛋的顶上放不了任何东西！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.CHANGEIN.BURNING
 msgid "That's way better than some dumb dresses!"
@@ -40012,7 +40064,7 @@ msgstr "但我应该画什么呢？？"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "Ugh, just come back already! Geez!"
-msgstr "呃，我早早的回来了！我的天！"
+msgstr "呃啊，快点回来吧！我的天！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.BUSY
 msgid "It's busyyyy."
@@ -40040,7 +40092,7 @@ msgstr "别呀！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "I'm not wasting this on them!"
-msgstr "我不想在它们身上做任何浪费的事情！"
+msgstr "我不想在它们身上浪费这个！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "Ughh, it doesn't need this! It needs a living log!"
@@ -40064,7 +40116,7 @@ msgstr "我想看到有人试着用它来雕刻！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.NOTSTAFF
 msgid "I don't have to jam stuff into every hole I see!"
-msgstr "我可不是那种看见个洞就想塞个东西进去的人！（这句话想了好久才找到一个不污的表达）"
+msgstr "我可不是那种看见个洞就想塞个东西进去的人！"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.SLEEPING
 msgid "Not right now. It's sleeping."
@@ -41004,7 +41056,7 @@ msgstr "呃！你该洗澡了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARGER
 msgid "Whoa! Niiiice bear..."
-msgstr "好样的，熊。"
+msgstr "哇哦！很-好-的-熊..."
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEARGERVEST
 msgid "It's like swimming in fur."
@@ -41272,7 +41324,7 @@ msgstr "恶心。黄色的部分水分太多"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP
 msgid "It's a bishop!"
-msgstr "是主教！"
+msgstr "这是个主教！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "Owwww!"
@@ -41636,7 +41688,7 @@ msgstr "死亡终结车。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BEARGER
 msgid "Those are some pointy teeth."
-msgstr "这是一些尖尖的牙齿。"
+msgstr "这有一些尖尖的牙齿。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgid "Just some dumb bishop piece."
@@ -41668,7 +41720,7 @@ msgstr "我不怕那个家伙，他连手臂都没有！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_HORNUCOPIA
 msgid "Ouchhh! I think I chipped a tooth."
-msgstr "噢！我觉得我敲碎了一颗牙。"
+msgstr "噢！我觉得我碎了一颗牙。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
 msgid "A horse with no butt."
@@ -42580,7 +42632,7 @@ msgstr "本身就漂亮。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GREENAMULET
 msgid "I feel my mind opening when I wear it."
-msgstr "当我戴上它时我感觉思维开放。"
+msgstr "当我戴上它时我感觉思维开阔了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.GREENGEM
 msgid "This one feels really light."
@@ -42864,7 +42916,7 @@ msgstr "嗡嗡！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KLAUS
 msgid "A lump of coal would be really useful, actually!"
-msgstr "事实上，一块木炭是很有用的！"
+msgstr "实际上煤块是非常有用的！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KLAUSSACKKEY
 msgid "Ha! I wouldn't wanna get smacked with that thing!"
@@ -42876,7 +42928,7 @@ msgstr "没有什么能像一把锁那样说“打开我”！！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT
 msgid "It's a pony!"
-msgstr "小马耶！"
+msgstr "这是头小马！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "It looks pretty worn down."
@@ -43392,7 +43444,7 @@ msgstr "它想从我这儿得到些什么。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Ughh! It's doing the exact opposite of burning!"
-msgstr "啊！它与燃烧是相反的！"
+msgstr "額啊！它在做完全相反的燃烧！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.MOONBASE.STAFFED
 msgid "Hurry up already, stupid rock!"
@@ -43648,7 +43700,7 @@ msgstr "得用袖子来拿，免得冻手。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ORANGEAMULET
 msgid "It picks up burning materials!"
-msgstr "它代替燃烧材料！"
+msgstr "它能捡起在燃烧的材料！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ORANGEGEM
 msgid "It'll make your fingers tingle."
@@ -43772,7 +43824,7 @@ msgstr "它在跟着我"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GENERIC
 msgid "Ugh. They're fragrant."
-msgstr "它们真香"
+msgstr "噫，它们可真是香啊。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.GUARD
 msgid "He's not the boss of me!"
@@ -43780,7 +43832,7 @@ msgstr "他不是我的老大！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGMAN.WEREPIG
 msgid "Bring it on, piggie!"
-msgstr "带上来，小猪！"
+msgstr "过来啊，小猪！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSKIN
 msgid "Ha ha. A pig's butt."
@@ -44676,11 +44728,11 @@ msgstr "我现拿什么来烧了它啊？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROOK
 msgid "It's a castle!"
-msgstr "是个城堡！"
+msgstr "这是座城堡！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROOK_NIGHTMARE
 msgid "It has a nasty smile."
-msgstr "它的笑容真下流。"
+msgstr "它的笑容真令人厌恶。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.ROPE
 msgid "What should we tie up??!"
@@ -45360,11 +45412,11 @@ msgstr "我听到了挖掘声。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR
 msgid "It's quivering."
-msgstr "它在颤抖。"
+msgstr "它在抖动。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Awwww, they want hugs!"
-msgstr "嗯，他们需要拥抱！"
+msgstr "唔，它们想要拥抱！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "What a smell! Light a match next time!"
@@ -46524,7 +46576,7 @@ msgstr "啊哈，一只漂亮的鸟，鹈鹕。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.GHOSTHEART
 msgid "Some things even I can't fix."
-msgstr "我都修不好的东西。"
+msgstr "连我都没法修好的东西。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgid "It needs something else."
@@ -48420,7 +48472,7 @@ msgstr "这是那野兽的肚子！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONFLY
 msgid "Get a load of this flying welding torch!"
-msgstr "它像是一个会飞行的巨型移动光源！"
+msgstr "就像一个会飞的巨型移动火炬！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONFLYCHEST
 msgid "For the snootiest of snoots."
@@ -49284,7 +49336,7 @@ msgstr "你要冷静下来。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUS
 msgid "Get out of here ya big creep."
-msgstr "滚蛋，死变态。"
+msgstr "滚开，死变态。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.KLAUSSACKKEY
 msgid "This must be the actual key."
@@ -50224,7 +50276,7 @@ msgstr "友好的家伙！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGMAN.GENERIC
 msgid "Hey there, ya lug!"
-msgstr "嘿，丫耳！"
+msgstr "嘿，天啊！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGMAN.GUARD
 msgid "Don't want no trouble."
@@ -51828,7 +51880,7 @@ msgstr "它们没有尽头吗？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TENTACLE_PILLAR
 msgid "Don't even think about touching me."
-msgstr "不要碰到我。"
+msgstr "想都不要想来碰我。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Hands off, buddy."
@@ -52928,7 +52980,7 @@ msgstr "沃尔夫冈已经有动物朋友了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.BUILD.MOUNTED
 msgid "Hair-cow is too tall. I can't reach."
-msgstr "这货太高了，我上不去。"
+msgstr "毛毛牛太高了，我够不到。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.CHANGEIN.BURNING
 msgid "Wolfgang's weekday undergarments burning? Wolfgang is sad."
@@ -53408,7 +53460,7 @@ msgstr "不要退缩！沃尔夫冈能搞定你！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_KNOCKEDOUT
 msgid "Ugh, I must have hit head."
-msgstr "呃，沃尔夫冈肯定是被人敲了头。"
+msgstr "啊，我一定是撞到头了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
 msgid "Lightning is weak compared to Wolfgang clothes!"
@@ -53576,7 +53628,7 @@ msgstr "太滑了，拿不稳。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TORCH_OUT
 msgid "Oh no! The light is gone!"
-msgstr "呃不！没有灯了！"
+msgstr "呃不！没有光了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_TOWNPORTALTELEPORT
 msgid "Wolfgang is here!"
@@ -53704,7 +53756,7 @@ msgstr "嘴巴一样的大门！说：啊——！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.AMULET
 msgid "Is very pretty."
-msgstr "很可爱"
+msgstr "它很漂亮。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR.BROKEN
 msgid "Is broken altar."
@@ -53988,23 +54040,23 @@ msgstr "蜜蜂很忙的。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.DOMESTICATED
 msgid "Hair-cow so fluffy and nice!"
-msgstr "蓬松又好看！"
+msgstr "毛茸茸的牛，蓬松又好看！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.FOLLOWER
 msgid "Hair-cow follow me!"
-msgstr "头发哥跟我走！"
+msgstr "毛茸茸的牛在跟着我走！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.GENERIC
 msgid "Is hair-cow thing!"
-msgstr "看这一撮撮的头发！"
+msgstr "看这毛茸茸的牛！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.NAKED
 msgid "Hair-cow has no more hair."
-msgstr "头发哥的头发不复存在了"
+msgstr "毛茸茸牛儿的毛不复存在了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.ORNERY
 msgid "You are feisty!"
-msgstr "你们太吵了！"
+msgstr "你太吵了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.PUDGY
 msgid "A critter after own heart!"
@@ -54016,7 +54068,7 @@ msgstr "就像我变回到了骑兵一样！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALO.SLEEPING
 msgid "Hair-cow is sleeping."
-msgstr "头发哥在睡觉"
+msgstr "毛茸茸的牛在睡觉。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEFALOHAT
 msgid "Is good hat!"
@@ -54048,7 +54100,7 @@ msgstr "球里装满了愤怒的会咬人的虫子。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEQUEEN
 msgid "Is giant lady bee!"
-msgstr "巨大的母蜂！"
+msgstr "巨大的蜂女士！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "Sticky stompy patch of muck!"
@@ -54240,7 +54292,7 @@ msgstr "不知道沃尔夫冈是不是可以拿这个。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEAMULET
 msgid "Would make good ice cube!"
-msgstr "会是一个好的冰立方体！"
+msgstr "可以做一个很棒的方冰块！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BLUEGEM
 msgid "Pretty rock."
@@ -54576,7 +54628,7 @@ msgstr "令人害怕的野兽雕像！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgid "Weak little rock man looks nice."
-msgstr "虚弱的小石人看起来很棒。"
+msgstr "弱小的小石人看起来很棒。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
 msgid "Wolfgang does not like moving statues!!"
@@ -54632,7 +54684,7 @@ msgstr "也许很容易抬起来！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.GENERIC
 msgid "Does not look like castle to Wolfgang."
-msgstr "在沃尔夫冈看来防御值不高。"
+msgstr "对沃尔夫冈来说根本不是个碉堡。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgid "Wolfgang does not like moving statues!!"
@@ -54956,7 +55008,7 @@ msgstr "拨起来像巨大又恐怖的怪兽。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFLY
 msgid "I confuse... Is dragonfly, or dragon-fly?"
-msgstr "我很困惑…这是蜻蜓还是会飞的龙？"
+msgstr "我很困惑…这是蜻蜓还是苍蝇龙？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.DRAGONFLYCHEST
 msgid "Chest is not afraid of fire."
@@ -56332,11 +56384,11 @@ msgstr "小平台还缺一块。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "Sickly little light is not run out."
-msgstr "虚弱的光不会熄灭。"
+msgstr "微弱的小光芒不会熄灭。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.STAFFED
 msgid "Is ready for good fight!"
-msgstr "适合战斗！"
+msgstr "准备打架！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.MOONBASE.WRONGSTAFF
 msgid "Feels wrong to Wolfgang."
@@ -56668,7 +56720,7 @@ msgstr "挖！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGUARD
 msgid "Is bad piggie!"
-msgstr "坏小猪！"
+msgstr "坏猪猪！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGGYBACK
 msgid "Smelly bag!"
@@ -57616,11 +57668,11 @@ msgstr "现在我要凿开它！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROOK
 msgid "This one jumps the queen!"
-msgstr "这一个吓了皇后一跳！"
+msgstr "这一个跳过了皇后！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROOK_NIGHTMARE
 msgid "Is no match for my mighty chest!"
-msgstr "没有配得上我宽广的胸部的吗！"
+msgstr "比不过我强壮的胸肌！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ROPE
 msgid "Strong! Like me!"
@@ -58892,7 +58944,7 @@ msgstr "%s是一个值得尊敬的对手！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHR.FIRESTARTER
 msgid "Why starting fires, stronglady? To fight them?"
-msgstr "健美的女士，为什么生气？因为和它们战斗？"
+msgstr "强壮的女士，为什么放火？为了和它们战斗？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WATHGRITHR.GENERIC
 msgid "Is very strong %s! Hello!"
@@ -58924,7 +58976,7 @@ msgstr "就凭你这脆弱的身体也想和我打架？哈哈，你太天真了
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.FIRESTARTER
 msgid "Is dastardly plan with fire, %s?"
-msgstr "卑鄙的计划企图燃烧一切，%s？"
+msgstr "这是卑鄙的纵火计划吗，%s？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.GENERIC
 msgid "Is tiny frailman, %s! Hello!"
@@ -58940,7 +58992,7 @@ msgstr "杀人不眨眼的%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELL.REVIVER
 msgid "%s is one of us. Ha ha! Yes!"
-msgstr "%s是我们的同志了！哈哈，就是这样，喵~"
+msgstr "%s是我们的同志了！哈哈！好耶！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WAXWELLJOURNAL
 msgid "Wolfgang is glad he cannot read!"
@@ -58952,19 +59004,19 @@ msgstr "啊！小朋友试图攻击我！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.FIRESTARTER
 msgid "Please no. Please no burnings!"
-msgstr "拒绝。拒绝燃烧！"
+msgstr "请不要。请不要烧东西！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.GENERIC
 msgid "Is tiny monsterchild, %s! H-hello!"
-msgstr "一只小怪兽，%s！你~好！"
+msgstr "一只怪兽小朋友，%s！你~好！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.GHOST
 msgid "Who squish small bug boy? Wolfgang will smash back!"
-msgstr "谁压扁的小虫虫？沃尔夫冈要碾回来！"
+msgstr "谁压扁了小虫孩？沃尔夫冈会打回去！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.MURDERER
 msgid "Monsterchild %s is killer! Wolfgang is run!"
-msgstr "小怪兽%s是凶手！三十六计走为上计！"
+msgstr "怪兽小朋友%s是凶手！沃尔夫冈快点跑！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WEBBER.REVIVER
 msgid "Creepy monster %s is nice kid."
@@ -59048,7 +59100,7 @@ msgstr "哈哈！%s不该选择和愚蠢的书共同作战！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Strong brainlady probably know what she's doing with fire."
-msgstr "和她一样聪明的女士大概知道她用火在做什么"
+msgstr "高智商女士大概清楚她在用火在做什么。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "Is strong brainlady! Hello, tiny %s!"
@@ -59072,15 +59124,15 @@ msgstr "沃尔夫冈斗志燃烧！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.FIRESTARTER
 msgid "Is not big surprise."
-msgstr "是不是巨大的惊喜。"
+msgstr "这不是巨大的惊喜。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.GENERIC
 msgid "Is tiny torchlady, %s! Hello!"
-msgstr "一个玩火达人！你好，%s酱！"
+msgstr "一个火炬女士！你好，%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.GHOST
 msgid "Do not hurt, torchlady. Wolfgang get heart!"
-msgstr "不要难过，火女。沃尔夫冈会做一个心脏！"
+msgstr "不要难过，火炬女士。沃尔夫冈会做一个心脏！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILLOW.MURDERER
 msgid "%s is no match for Wolfgang!"
@@ -59096,7 +59148,7 @@ msgstr "瘦肉的科学家想打架吗？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILSON.FIRESTARTER
 msgid "Wolfgang thought he could trust %s!"
-msgstr "沃尔夫冈认为他可以信任！"
+msgstr "沃尔夫冈还以为他可以信任%s！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WILSON.GENERIC
 msgid "Is tiny egghead man, %s! Hello!"
@@ -59248,11 +59300,11 @@ msgstr "%s是个好男人，就像我一样！233。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.ATTACKER
 msgid "Does beardman %s want to fight?"
-msgstr "你想打架吗，%s？"
+msgstr "你想打架吗，大胡子%s？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.BEAVER
 msgid "The beard ate %s!"
-msgstr "大胡子%s被你吃掉了！"
+msgstr "胡子把%s吃掉了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "Still have good moustache, %s."
@@ -59260,7 +59312,7 @@ msgstr "这胡子看上去不错，%s。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.FIRESTARTER
 msgid "Be careful! Do not burn, beard!"
-msgstr "小心！别烧胡子！"
+msgstr "小心点！胡子男你别烧了！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WOODIE.GENERIC
 msgid "Is beard! Hello!"
@@ -59320,7 +59372,7 @@ msgstr "哈！金属罐想被摇晃和撞击！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78.FIRESTARTER
 msgid "Robot trying to kill fleshypeople again, maybe?"
-msgstr "机器人似乎想再杀掉人类，也许？"
+msgstr "机器又在试着杀掉人类了，也许？"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WX78.GENERIC
 msgid "Is tiny robot, %s! Hello!"
@@ -59368,7 +59420,7 @@ msgstr "救命朋友！帮沃尔夫冈逃出黑暗！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "This egg too crunchy."
-msgstr "这蛋太容易碎了"
+msgstr "这鸟蛋真脆。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.QUAGMIRE_ANNOUNCE_LOSE
 msgid "Sky beast is mad!"
@@ -61352,7 +61404,7 @@ msgstr "那是树林里的生物，嗯？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEERCLOPS
 msgid "That's a big moose!"
-msgstr "一只大老鼠！"
+msgstr "那可真是头大麋鹿！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.DEERCLOPS_EYEBALL
 msgid "Now what is this good for?"
@@ -62844,7 +62896,7 @@ msgstr "真是个不幸的雕像啊，是吧？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOOSE
 msgid "Whatever it is, it's definitely Canadian."
-msgstr "无论那是什么，肯定跟加拿大有关。"
+msgstr "无论那是什么，肯定是从加拿大来的。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MOOSEEGG
 msgid "Well, it lays eggs, apparently."
@@ -63176,7 +63228,7 @@ msgstr "我们是团队！耶！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.GENERIC
 msgid "Walking back bacon!"
-msgstr "还我咸肉！"
+msgstr "过来！培根！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.GUARD
 msgid "That one looks like he means business."
@@ -63184,7 +63236,7 @@ msgstr "那一个看上去他是指生意"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGMAN.WEREPIG
 msgid "Happens to the best of us."
-msgstr "碰巧是咱们这最好的。"
+msgstr "幸好只发生在咱俩们中更合适的人身上。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGSKIN
 msgid "Bacon with a tail."
@@ -63908,7 +63960,7 @@ msgstr "在它身上，我看到了一千棵树被烈火烧死。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.REDLANTERN
 msgid "This little light of mine."
-msgstr "我可爱的小提灯。"
+msgstr "我可爱的小灯笼。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.REDMOONEYE
 msgid "A true woodsman knows his own way around the forest."
@@ -64084,7 +64136,7 @@ msgstr "嗯…车是走直线的吧？我忘了规则了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROOK_NIGHTMARE
 msgid "The gears are spilling out."
-msgstr "这装置在溢出"
+msgstr "齿轮都散落出来了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ROPE
 msgid "Good for holding stuff to other stuff."
@@ -64744,7 +64796,7 @@ msgstr "我就该在更糟的地方睡觉"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE
 msgid "There a squid down there?"
-msgstr "下面有大鱿鱼？"
+msgstr "下面有只乌贼？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLESPIKE
 msgid "It wobbles when you wave it."
@@ -64764,7 +64816,7 @@ msgstr "真大！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE_PILLAR_ARM
 msgid "Are those squid babies?"
-msgstr "这些是乌鱼仔？"
+msgstr "这些是乌贼宝宝？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "Not even a stump left behind!"
@@ -66332,7 +66384,7 @@ msgstr "颤抖吧，活物"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_KLAUS_ENRAGE
 msgid "I FLEE BECAUSE I WANT TO, NOT BECAUSE I'M SCARED"
-msgstr "我逃走应为我愿意，不是因为我害怕"
+msgstr "我逃走是因为我愿意，不是因为我害怕"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_KLAUS_UNCHAINED
 msgid "IT HAS BEEN UNSHACKLED"
@@ -66800,7 +66852,7 @@ msgstr "砍倒有生命物质的工具"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.GENERIC
 msgid "IT IS STILL INITIALIZING"
-msgstr "还在初始化"
+msgstr "它仍在初始化"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BABYBEEFALO.SLEEPING
 msgid "REST FUNCTION ACTIVATED"
@@ -66932,7 +66984,7 @@ msgstr "如此…多的…肉"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALO.RIDER
 msgid "THIS ONE EXCELS AT ACCELERATION"
-msgstr "这货擅长加速"
+msgstr "这一头擅长加速"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEFALO.SLEEPING
 msgid "IT BEGS TO BE TIPPED OVER"
@@ -66968,7 +67020,7 @@ msgstr "里面有凶猛的生命体"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEQUEEN
 msgid "THE PRIME BEE"
-msgstr "主蜂"
+msgstr "蜜蜂总理"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BEEQUEENHIVE.GENERIC
 msgid "SWEET DIRT OOZE"
@@ -66992,11 +67044,11 @@ msgstr "BZZ BZZ BZZ"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_ACTIVE
 msgid "HANG IN THERE, BEAR!"
-msgstr "挂在那里，熊！"
+msgstr "坚持住，熊！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgid "HE HAS DIED."
-msgstr "他便当了。"
+msgstr "他死了。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "IT'S SO CUDDLY!"
@@ -67124,15 +67176,15 @@ msgstr "这应该是一种改进"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP
 msgid "REVEREND AUTOMATON"
-msgstr "机器牧师"
+msgstr "牧师机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP_CHARGE_HIT
 msgid "DAMAGE!"
-msgstr "受到攻击！"
+msgstr "受到损伤！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BISHOP_NIGHTMARE
 msgid "THERE SEEMS TO BE A BUG IN ITS BELIEF CIRCUITS"
-msgstr "貌似其信仰回路中有错误"
+msgstr "其信仰回路中似乎存在错误"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BLOWDART_FIRE
 msgid "A WEAPON OF MINOR DESTRUCTION"
@@ -67248,7 +67300,7 @@ msgstr "动力下降…"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOOK_TENTACLES
 msgid "IT SUMMONS THE FLESH WOBBLERS"
-msgstr "它召唤肉体人"
+msgstr "它生成摆动的肉块"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BOOMERANG
 msgid "REUSABLE PROJECTILE."
@@ -68728,11 +68780,11 @@ msgstr "价值潜力：高"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KNIGHT
 msgid "HORSE AUTOMATON"
-msgstr "机器马"
+msgstr "马匹机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KNIGHT_NIGHTMARE
 msgid "REPROGRAMMING REQUIRED"
-msgstr "需要先编程"
+msgstr "需要重新编程"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.KOALEFANT_SUMMER
 msgid "POSSESSES AMPLE ENERGY RESERVES"
@@ -69004,7 +69056,7 @@ msgstr "他似乎被困住了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE
 msgid "IT'S DEAD. GOOD."
-msgstr "它死了。正好。"
+msgstr "它死了，很好。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKESOUP
 msgid "TARGET DESTROYED. HA HA."
@@ -69012,15 +69064,15 @@ msgstr "目标被摧毁。哈哈。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_ACTIVE
 msgid "WHAT DO YOU WANT!?"
-msgstr "你想要干什么？——WX78不解的问道"
+msgstr "你想要什么！？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_COOKED
 msgid "IT'S TWICE AS DEAD. HA."
-msgstr "死透了，哈哈。"
+msgstr "它死了两次，哈哈。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANDRAKE_PLANTED
 msgid "IT IS A PLANT."
-msgstr "它是一种植物。——WX78肯定的说"
+msgstr "它是一株植物。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MANRABBIT_TAIL
 msgid "FUZZY BUNNY NUMBER ONE"
@@ -69056,11 +69108,11 @@ msgstr "看上去像一颗很坚硬的树"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.BURNING
 msgid "THORNS_FLAMMABLE == YES VERY"
-msgstr "返回值（荆棘的可燃性）：真"
+msgstr "荆棘_易燃性 == 非常"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.BURNT
 msgid "THORNS. BURNT."
-msgstr "荆棘、燃烧。"
+msgstr "荆棘.烧毁。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_BUSH.GENERIC
 msgid "BRAMBLES."
@@ -69244,7 +69296,7 @@ msgstr "检测到无用物质堆"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONBASE.GENERIC
 msgid "MOONBASE. AAAAA. MOONBASE!"
-msgstr "月之底座。啊啊啊啊。月之底座！"
+msgstr "月球基地。啊啊啊啊。月球基地！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MOONBASE.MOONSTAFF
 msgid "GROUNDED MOON OUTLET"
@@ -69584,15 +69636,15 @@ msgstr "发现采矿工具"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGUARD
 msgid "HOSTILE DETECTED."
-msgstr "发现敌人"
+msgstr "检测到敌人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGGYBACK
 msgid "UPGRADED STORAGE MODULE V2.0"
-msgstr "升级存储模块V2。0"
+msgstr "升级存储模块V2.0"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD.BURNT
 msgid "HEAD MODULE EXPIRED"
-msgstr "头脑技能丧失。"
+msgstr "头部模块丢失"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGHEAD.GENERIC
 msgid "THAT PIG WILL FEEL SILLY WHEN HE NOTICES HE HAS LOST HIS HEAD MODULE."
@@ -69624,11 +69676,11 @@ msgstr "又消灭了一块肉，距离目标更近一步。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.FOLLOWER
 msgid "DO MY BIDDING"
-msgstr "照我说的做"
+msgstr "执行我的命令"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.GENERIC
 msgid "THEY EXHIBIT MINIMAL INTELLIGENCE"
-msgstr "目测它们智商极低"
+msgstr "它们表现出的智力极低"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.GUARD
 msgid "DEFENSIVE STANCE DETECTED."
@@ -69636,7 +69688,7 @@ msgstr "检测到防火墙"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGMAN.WEREPIG
 msgid "ERROR: ANOMALY!"
-msgstr "错误：发现异常！"
+msgstr "错误：异常事物！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGSKIN
 msgid "THESE FLESHLINGS ARE DISGUSTING"
@@ -69696,11 +69748,11 @@ msgstr "%s造成了不必要的破坏。可以的。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.GHOST
 msgid "FLESH WEAKLING %s NEEDS A HEART"
-msgstr "脆弱的生命%s需要一颗救赎之心"
+msgstr "脆弱的生命%s需要一颗心脏"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PLAYER.MURDERER
 msgid "KILL! KILL!"
@@ -70532,7 +70584,7 @@ msgstr "减少了有机物的比例，算是一种进化吧"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK
 msgid "ROOK AUTOMATON"
-msgstr "机器城堡"
+msgstr "战车机器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK_NIGHTMARE
 msgid "LOOSE WIRING DETECTED"
@@ -71012,7 +71064,7 @@ msgstr "石头达人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.STALKER
 msgid "YOU WILL BE DESTROYED"
-msgstr "你将会被我摧毁"
+msgstr "你将被摧毁"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.STALKER_ATRIUM
 msgid "I WILL DESTROY YOU"
@@ -71804,7 +71856,7 @@ msgstr "%s正在糟蹋这个世界。蛤 蛤"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WATHGRITHR.GHOST
 msgid "YOUR MISTAKE WAS ONLY COVERING YOUR HEAD IN METAL, %s"
@@ -71836,7 +71888,7 @@ msgstr "至少他身上还是有一点的邪恶。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELL.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WAXWELL.GHOST
 msgid "%s'S FRAIL FLESH BODY HAS GIVEN OUT. NEEDS A HEART"
@@ -71864,7 +71916,7 @@ msgstr "%s一直在烧东西。不错。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WEBBER.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WEBBER.GHOST
 msgid "IS %s'S EXOSKELETON SUPPOSED TO BE OUTSIDE OR IN?"
@@ -71896,7 +71948,7 @@ msgstr "%s非常的邪恶"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WENDY.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WENDY.GHOST
 msgid "FLESH WEAKLING %s NEEDS A HEART"
@@ -71916,11 +71968,11 @@ msgstr "%s，胡闹够了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.FIRESTARTER
 msgid "%s WILL DESTROY ALL FLESHLINGS WITH FIRE"
-msgstr "%s点燃了摧毁全部血与肉的火"
+msgstr "%s点燃了摧毁全部肉块的火"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WES.GHOST
 msgid "I DON'T THINK THE FLESHLING IS SUPPOSED TO LOOK LIKE THAT"
@@ -71960,7 +72012,7 @@ msgstr "嗯…你柔软的肉身可以燃烧，对吧？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WICKERBOTTOM.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WICKERBOTTOM.GHOST
 msgid "WHAT SORT OF HUMAN NONSENSE IS THIS NOW, %s?"
@@ -71984,7 +72036,7 @@ msgstr "放弃你的打火机吧，肉块。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILLOW.GHOST
 msgid "HAHA, %s. YOU DIED."
@@ -72004,11 +72056,11 @@ msgstr "看来你战胜了我的手下们，%s"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.FIRESTARTER
 msgid "%s IS TESTING OBJECT FLAMMABILITY"
-msgstr "%s测试对象的可燃性。"
+msgstr "%s在测试对象的可燃性。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WILSON.GHOST
 msgid "WHERE IS YOUR SCIENCE NOW, %s? HA. HA."
@@ -72140,7 +72192,7 @@ msgstr "%s造成了不必要的破坏。可以的。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOLFGANG.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOLFGANG.GHOST
 msgid "YOUR MEAT MUSCLES DIDN'T SAVE YOU, %s? SHOCKING"
@@ -72160,7 +72212,7 @@ msgstr "%s，对抗我？你没有那个胆子"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVER
 msgid "%s! YOU GOT SLIGHTLY LESS INFERIOR"
-msgstr "%s！你有点弱"
+msgstr "%s！你变得没那么低等了"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.BEAVERGHOST
 msgid "YOU WERE GIANT, %s, HOW DID YOU STILL DIE?"
@@ -72172,7 +72224,7 @@ msgstr "我们现在毁灭所有的人类吗？"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.GENERIC
 msgid "DETECTING... %s!"
-msgstr "你好，%s！"
+msgstr "检测到...%s！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WOODIE.GHOST
 msgid "COME TO GROVEL FOR MY HELP, FLESHLING %s?"
@@ -72516,51 +72568,51 @@ msgstr "？"
 
 #: STRINGS.CHARACTER_TITLES.wathgrithr
 msgid "The Performance Artist"
-msgstr "表演艺术家"
+msgstr "表演艺术家\n薇德弗雷"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
-msgstr "傀儡掌控者"
+msgstr "傀儡掌控者\n麦斯威尔"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "难以消化"
+msgstr "难以消化\n韦伯"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "丧失亲人者"
+msgstr "丧失亲人者\n温蒂"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者"
+msgstr "沉默者\n维斯"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
-msgstr "图书管理员"
+msgstr "图书管理员\n维克波顿"
 
 #: STRINGS.CHARACTER_TITLES.willow
 msgid "The Firestarter"
-msgstr "纵火者"
+msgstr "纵火者\n薇洛"
 
 #: STRINGS.CHARACTER_TITLES.wilson
 msgid "The Gentleman Scientist"
-msgstr "绅士科学家"
+msgstr "绅士科学家\n威尔逊"
 
 #: STRINGS.CHARACTER_TITLES.winona
 msgid "The Handywoman"
-msgstr "女巧匠"
+msgstr "手巧的女人\n薇诺娜"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "男子汉"
+msgstr "男子汉\n沃尔夫冈"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
-msgstr "伐木工"
+msgstr "伐木工\n伍迪"
 
 #: STRINGS.CHARACTER_TITLES.wx78
 msgid "The Soulless Automaton"
-msgstr "没有灵魂的机器人"
+msgstr "没有灵魂的机器人\nWX-78"
 
 #: STRINGS.DESCRIBE_NULL
 msgid "MISSING DESCRIPTION STRING"
@@ -72676,7 +72728,7 @@ msgstr "上面写着“快救我出来！”下面还刻着“开玩笑的啦。
 
 #: STRINGS.EPITAPHS.25
 msgid "It reads \"Pulvis Et Umbra Sumus.\""
-msgstr "上面用拉丁文写着 “我们不过是影子和尘土。”"
+msgstr "上面用拉丁文写着 “我们不过是尘与影。”"
 
 #: STRINGS.EPITAPHS.26
 msgid "An engraving of their last words: \"I love it so much I could just die!\""
@@ -74716,7 +74768,7 @@ msgstr "蚁狮"
 
 #: STRINGS.NAMES.ANTLIONTRINKET
 msgid "Beach Toy"
-msgstr "沙桶套装"
+msgstr "沙滩玩具"
 
 #: STRINGS.NAMES.ANTLION_SINKHOLE
 msgid "Sinkhole"
@@ -75620,7 +75672,7 @@ msgstr "巨鹿眼球"
 
 #: STRINGS.NAMES.DEER_ANTLER
 msgid "Deer Antler"
-msgstr "鹿之匙"
+msgstr "鹿角"
 
 #: STRINGS.NAMES.DEER_GEMMED
 msgid "No-Eyed Deer"
@@ -76632,7 +76684,7 @@ msgstr "大理石魔豆"
 
 #: STRINGS.NAMES.MARBLEBEAN_SAPLING
 msgid "Marble Sprout"
-msgstr "大理石树苗"
+msgstr "大理石苗芽"
 
 #: STRINGS.NAMES.MARBLEPILLAR
 msgid "Marble Pillar"
@@ -76640,7 +76692,7 @@ msgstr "大理石柱子"
 
 #: STRINGS.NAMES.MARBLESHRUB
 msgid "Marble Shrub"
-msgstr "大理石树"
+msgstr "大理石灌木"
 
 #: STRINGS.NAMES.MARBLETREE
 msgid "Marble Tree"
@@ -76956,7 +77008,7 @@ msgstr "独奏乐器"
 
 #: STRINGS.NAMES.OPALPRECIOUSGEM
 msgid "Iridescent Gem"
-msgstr "闪闪发亮的宝石"
+msgstr "彩虹宝石"
 
 #: STRINGS.NAMES.OPALSTAFF
 msgid "Moon Caller's Staff"
@@ -77972,7 +78024,7 @@ msgstr "陶艺转盘"
 
 #: STRINGS.NAMES.SCULPTING_MATERIAL
 msgid "Sculpting Block"
-msgstr "雕塑素材"
+msgstr "雕刻用的石块"
 
 #: STRINGS.NAMES.SCULPTURE_BISHOPBODY
 msgid "Marble Sculpture"
@@ -90256,7 +90308,7 @@ msgstr "梅图斯已经知晓"
 
 #: STRINGS.THANKS_POPUP.ARG
 msgid "Pulvis et umbra sumus"
-msgstr "我们不过是影子和尘土"
+msgstr "我们不过是尘与影"
 
 #: STRINGS.THANKS_POPUP.CUPID
 msgid "Happy Valentine's Day\nfrom your friends at Klei"
@@ -91776,7 +91828,7 @@ msgstr "本地："
 
 #: STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE
 msgid "Remote:"
-msgstr "遥控器："
+msgstr "远程："
 
 #: STRINGS.UI.CONTROLSSCREEN.APPLY
 msgid "Apply"
@@ -92520,7 +92572,7 @@ msgstr "-"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.46
 msgid "."
-msgstr "。"
+msgstr "."
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.47
 msgid "/"
@@ -92964,11 +93016,11 @@ msgstr "经典"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "使用<炼金术引擎>\n建造一个原型体"
+msgstr "使用<炼金术引擎>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgid "Use a Prestihatitator to build a prototype!"
-msgstr "使用<魔法帽子>\n建造一个原型体"
+msgstr "使用<魔法帽子>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSANCIENT_FOUR
 msgid "It seems that this altar is not fully functional!"
@@ -92976,15 +93028,15 @@ msgstr "看起来这个神坛功能还不完全！"
 
 #: STRINGS.UI.CRAFTING.NEEDSCIENCEMACHINE
 msgid "Use a science machine to build a prototype!"
-msgstr "使用<科学机器>\n建造一个原型体"
+msgstr "使用<科学机器>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSHADOWMANIPULATOR
 msgid "Use a shadow manipulator to build a prototype!"
-msgstr "使用<暗影操纵仪>\n建造一个原型体"
+msgstr "使用<暗影操纵仪>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDSTECH.SCULPTING
 msgid "Put stone on the wheel to create a Sculpting Block!"
-msgstr "把某些石头放在转盘上做为雕塑材料！"
+msgstr "把石头放在转盘上做为雕刻用的石块！"
 
 #: STRINGS.UI.CRAFTING.NEEDSTUFF
 msgid "Find ingredients \nto craft!"
@@ -98476,11 +98528,11 @@ msgstr "{dish}贡品"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_LABEL_TRIBUTE_SILVER_UNKNOWN
 msgid "Silver Dish Offering"
-msgstr "银盘贡品"
+msgstr "银餐具贡品"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_SPINNER_CRAVING
 msgid "Craving"
-msgstr "种类"
+msgstr "类型"
 
 #: STRINGS.UI.RECIPE_BOOK.DETAILS_SPINNER_STATION
 msgid "Station"
@@ -99324,11 +99376,11 @@ msgstr "这是一个完美的舞台。\n展示你的生存能力，战斗能力�
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.COOPERATIVE
 msgid "Surviving's more fun when you do it as a team. On this server we want to work together and do our best to tame the hostile world."
-msgstr "一个团队生存的世界。在这个世界，我们要一\n起合作，尽我们可能来驯服这个充满敌意的世\n界。"
+msgstr "一个团队生存的世界。\n在这个世界，我们要一起合作，\n竭尽全力来驯服这个充满敌意的世界。"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.MADNESS
 msgid "Anything goes on this server! Forests will be burned, food will be nommed, and backs will be unceremoniously stabbed. Be prepared!"
-msgstr "这里什么妖魔鬼怪都有！\n森林会被焚毁，食物会被偷吃，背后随时都可能被插上一刀。\n希望你们能吃到粮食，而不是被粮食吃掉。"
+msgstr "这里什么妖魔鬼怪都有！\n森林会被焚毁，食物会被偷吃，\n背后随时都可能被插上一刀。\n希望你们能吃到粮食，而不是被粮食吃掉。"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.INTENTION_DESC.SOCIAL
 msgid "This server is a place for friendly chatter, a relaxed playstyle, and getting to know people. Everyone's welcome here!"
@@ -101966,38 +102018,6 @@ msgstr "{server_name}	最后一次访问于{date}"
 msgid "Play Time"
 msgstr "游戏时间"
 
-#: STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
-msgid "Add Material"
-msgstr "添加材料"
-
-#: STRINGS.ACTIONS.BUNDLESTORE.GENERIC
-msgid "Store"
-msgstr "商店"
-
-#: STRINGS.ACTIONS.CONSTRUCT.GENERIC
-msgid "Build"
-msgstr "建造"
-
-#: STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
-msgid "Build {name}"
-msgstr "建造{name}"
-
-#: STRINGS.ACTIONS.CONSTRUCT.STORE
-msgid "Add Material"
-msgstr "添加材料"
-
-#: STRINGS.ACTIONS.GIVE.CELESTIAL
-msgid "Offer"
-msgstr "献祭"
-
-#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
-msgid "Stop Building"
-msgstr "停止建造"
-
-#: STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
-msgid "Stop Building {name}"
-msgstr "停止建造{name}"
-
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.CONSTRUCT.EMPTY
 msgid "I need something to build with."
 msgstr "我需要一些东西来建造。"
@@ -102778,10 +102798,6 @@ msgstr "发布日期"
 msgid "Survivor Filter: {mode}"
 msgstr "最适该人物皮肤: {mode}"
 
-#: STRINGS.ACTIONS.APPLYCONSTRUCTION
-msgid "Build"
-msgstr "建造"
-
 #: STRINGS.UI.MAINSCREEN.CREDITS
 msgid "Credits"
 msgstr "制作人员"
@@ -102841,10 +102857,6 @@ msgstr "皮肤预设"
 #: STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgid "Weaveable Filter: {mode}"
 msgstr "仅显示可制作：{mode}"
-
-#: STRINGS.ACTIONS.MIX
-msgid "Mix"
-msgstr "配制"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE
 msgid "Brew of Phobic Abrogation"
@@ -104086,14 +104098,6 @@ msgstr "在成长的恐怖"
 msgid "BROTHER! WHAT HAS DRIVEN YOU MAD!"
 msgstr "兄弟！是什么在驱动你的疯狂！"
 
-#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
-msgid "Hearthsfire Bomb"
-msgstr "炉火爆破"
-
-#: STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
-msgid "Parry"
-msgstr "格挡"
-
 #: STRINGS.BOARLORD_ROUND1_START.1
 msgid "What have we here?"
 msgstr "看看我们这有什么？"
@@ -104353,6 +104357,126 @@ msgstr "它是如此沉重，就像我的灵魂。"
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.RHINODRILL
 msgid "Brotherly camaraderie will not save you."
 msgstr "兄弟情谊救不了你。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEETLETAUR
+msgid "That lock must be heavy on its snout."
+msgstr "它鼻子上的锁一定很重。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Safety first."
+msgstr "安全第一。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I prefer my books."
+msgstr "我更喜欢我的书。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Goodness. I could never lift that!"
+msgstr "天呐，我可拿不动那个。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL
+msgid "Prone to unnecessary displays of masculinity."
+msgstr "倾向于不必要的男子气概展示。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEETLETAUR
+msgid "Bet you think you're safe in all that armor."
+msgstr "你肯定认为你在那副盔甲里很安全。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Woohoo! I should put that on."
+msgstr "沃吼！我应该穿上那个。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "FIRE! FIRE! FIRE!"
+msgstr "火！火！火！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "No way I can use that!"
+msgstr "我绝对用不了那个！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RHINODRILL
+msgid "Pfft. Whatever Rhinocebros."
+msgstr "切，随便什么犀牛兄弟吧。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.BEETLETAUR
+msgid "Go back to your cage."
+msgstr "回你的笼子里去"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Can't go wrong with armor."
+msgstr "穿上盔甲错不了的。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Here's fire in yer eye!"
+msgstr "你眼里有火！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "That'll do the trick."
+msgstr "它会很有用。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.RHINODRILL
+msgid "Am I supposed to be impressed?"
+msgstr "我应该留下深刻的印象吗？"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEETLETAUR
+msgid "Is not scaring Wolfgang."
+msgstr "吓不到沃尔夫冈。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Is mighty like Wolfgang."
+msgstr "跟沃尔夫冈一样强大。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "Wolfgang doesn't like."
+msgstr "沃尔夫冈不喜欢。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "Is might sword for mighty Wolfgang!"
+msgstr "给强大沃尔夫冈的强大武器！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RHINODRILL
+msgid "Wolfgang is more macho."
+msgstr "沃尔夫冈更有男子气概。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEETLETAUR
+msgid "Gotta chop that armor up."
+msgstr "得把那副盔甲砍下来。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "Better armor up."
+msgstr "最好穿上盔甲。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I'll leave that for someone else."
+msgstr "我就把那个留给别人吧。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "I could use that."
+msgstr "我可以用那个。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.RHINODRILL
+msgid "They really like bumping chests like that, eh?"
+msgstr "他们真的很喜欢像那样撞胸，哈？"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.BEETLETAUR
+msgid "STILL A WEAK FLESHLING UNDERNEATH THAT ARMOR"
+msgstr "那盔甲下面仍然是一副脆弱的肉体"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_ARMOR_HP
+msgid "ARMOR FOR MY IRON CASING"
+msgstr "为我的铁壳提供防护"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_FIREBOMB
+msgid "I AM NOT COMPATIBLE WITH THAT INTERFACE"
+msgstr "我和那个接口不兼容"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_HEAVYBLADE
+msgid "I WILL USE IT BETTER THAN ANYONE"
+msgstr "我会用的比任何人都好"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.RHINODRILL
+msgid "YOU CORRUPT THAT MACHINE ON YOUR HORN!"
+msgstr "你玷污了你角上的机器！"
 
 #: STRINGS.NAMES.BEETLETAUR
 msgid "Infernal Swineclops"
@@ -106410,10 +106534,6 @@ msgstr "冬季盛宴快乐\n您的好朋友Klei"
 msgid "Carol"
 msgstr "赞歌"
 
-#: STRINGS.ACTIONS.ATTACK.PROP
-msgid "Smack"
-msgstr "掴"
-
 #: STRINGS.NAMES.PIGELITE1
 msgid "Wade"
 msgstr "韦德"
@@ -106860,7 +106980,7 @@ msgstr "牛仔雨帽"
 
 #: STRINGS.SKIN_NAMES.reviver_cupid_3
 msgid "Staked Heart"
-msgstr "木桩刺心"
+msgstr "木桩穿心"
 
 #: STRINGS.SKIN_NAMES.spear_wathgrithr_wrestle
 msgid "Ultimate Spear"
@@ -106964,7 +107084,7 @@ msgstr "自动"
 
 #: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.HALLOWED_NIGHTS
 msgid "Hallowed Nights"
-msgstr "万盛夜"
+msgstr "万圣夜"
 
 #: STRINGS.UI.SANDBOXMENU.SPECIAL_EVENTS.WINTERS_FEAST
 msgid "Winters Feast"
@@ -107268,215 +107388,159 @@ msgstr "向贪食的致敬。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.PIG_TOKEN
 msgid "Yet another unnecessary plaything."
-msgstr "又一件不必要的玩物"
+msgstr "又一件不必要的玩物。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD1
 msgid "Something died for that feast."
-msgstr "为了那个宴会而死的某个东西"
+msgstr "有什么东西因这盛宴而死。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD2
 msgid "I don't want to eat that."
-msgstr "我不想吃那个"
+msgstr "我不想吃那个。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.YOTP_FOOD3
 msgid "It'll keep me alive a little longer."
-msgstr "它会让我多活那么一点时间"
+msgstr "它会让我多活那么一点时间。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "This is no time for fun and games!"
-msgstr "没有时间取乐玩游戏了"
+msgstr "没有时间取乐做游戏了！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "I'll need to do some tidying up first."
-msgstr "我首先需要做些清理"
+msgstr "我首先需要做些清理。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "No time for that now. It'll be dark soon."
-msgstr "没时间了，天快要黑了"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEETLETAUR
-msgid "That lock must be heavy on its snout."
-msgstr "它鼻子上的锁一定很重"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Safety first."
-msgstr "安全第一"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I prefer my books."
-msgstr "我更喜欢我的书"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "Goodness. I could never lift that!"
-msgstr "天呐，我可拿不动那个"
+msgstr "没时间了，天快要黑了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE1
 msgid "He's saturated with markings."
-msgstr "他身上到处是斑纹"
+msgstr "他身上到处是斑纹。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE2
 msgid "Rather hot-tempered."
-msgstr "脾气相当火爆，"
+msgstr "脾气相当火爆。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE3
 msgid "Has an earthy musk to him."
-msgstr "他身上有土香味"
+msgstr "他身上有土香味。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGELITE4
 msgid "I wonder what those green markings signify."
-msgstr "我想知道那些绿色斑纹意味着什么"
+msgstr "我想知道那些绿色斑纹意味着什么。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.BURNT
 msgid "No use to me like this."
-msgstr "像这样的对我无用"
+msgstr "像这样对我无用。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.EMPTY
 msgid "It needs a sacrifice of meat."
-msgstr "它需要肉的献祭"
+msgstr "它需要肉的献祭。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIGSHRINE.GENERIC
 msgid "A Porcine tribute."
-msgstr "猪的贡养"
+msgstr "猪的贡养。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.PIG_TOKEN
 msgid "How did they could achieve such detail using pig hooves?"
 msgstr "他们是如何用猪蹄完成这些细节的？"
 
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.RHINODRILL
-msgid "Prone to unnecessary displays of masculinity."
-msgstr "倾向于不必要的男子气概展示"
-
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD1
 msgid "A feast fit for a festival!"
-msgstr "节日用的宴品"
+msgstr "节日用的宴品！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD2
 msgid "Not fit for human consumption."
-msgstr "不适合人类消费"
+msgstr "不适合人类消费。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.YOTP_FOOD3
 msgid "I do enjoy a snack now and then."
-msgstr "我有时候很喜欢小吃"
+msgstr "我有时候很喜欢小吃。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Not now! There's big jerks around."
-msgstr "现在不行！周围有很大的骚动"
+msgstr "现在不行！周围有很大的骚动。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "Aww... You mean I gotta clean up first?"
-msgstr "哦呜...你意思是我要先清理吗"
+msgstr "唔...你的意思是我要先清理吗。"
 
 #: STRINGS.CHARACTERS.WILLOW.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Naw. It's too late."
-msgstr "不行，太晚了"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.BEETLETAUR
-msgid "Bet you think you're safe in all that armor."
-msgstr "你肯定认为你在那副盔甲里很安全"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Woohoo! I should put that on."
-msgstr "沃吼！我应该穿上那个"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "FIRE! FIRE! FIRE!"
-msgstr "火！火！火！"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "No way I can use that!"
-msgstr "我绝不可能用那个"
+msgstr "不行，太晚了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE1
 msgid "All washed up."
-msgstr "全都洗过了"
+msgstr "全完蛋了。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE2
 msgid "You, I like."
-msgstr "你，我喜欢"
+msgstr "你，我喜欢。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE3
 msgid "Eat dirt!"
-msgstr "忍气吞声！"
+msgstr "吃土吧你！"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGELITE4
 msgid "Sure does like using those signs."
-msgstr "一定很喜欢用那些牌子"
+msgstr "一定很喜欢用那些牌子。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.BURNT
 msgid "Burnt. I like it."
-msgstr "烧了，我喜欢"
+msgstr "烧了，我喜欢。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.EMPTY
 msgid "Needs meat."
-msgstr "需要肉"
+msgstr "需要肉。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Where's the shrine to me?"
-msgstr "我的神龛在哪儿？"
+msgstr "哪里有给我的神龛？"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.PIG_TOKEN
 msgid "I'd burn it, but it might be worth something."
-msgstr "我可以烧了它，但是它应该还能做别的事"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.RHINODRILL
-msgid "Pfft. Whatever Rhinocebros."
-msgstr "切，随便它是哪只犀牛"
+msgstr "我可以烧了它，但是它应该还能做别的事。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD1
 msgid "I'm gonna eat it all!"
-msgstr "我要把它全吃掉"
+msgstr "我要把它全吃掉。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD2
 msgid "Nah. I'll feed it to something."
-msgstr "不，我要把它喂给某个生物"
+msgstr "不，我要把它喂给某个生物。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.YOTP_FOOD3
 msgid "A little snack to fill my belly."
-msgstr "充填我肚子的一点小吃"
+msgstr "充填我肚子的一点小吃。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Nah. It ain't safe for that now."
-msgstr "不，现在不安全"
+msgstr "不，现在不安全。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "Gotta clean up first."
-msgstr "必须先清理"
+msgstr "必须先清理。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Nah. I'll wait until morning."
-msgstr "不，我会等到早上"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.BEETLETAUR
-msgid "Go back to your cage."
-msgstr "回你的笼子里去"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Can't go wrong with armor."
-msgstr "穿上盔甲不会出乱子"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "Here's fire in yer eye!"
-msgstr "你眼里有火！"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "That'll do the trick."
-msgstr "它会很有用"
+msgstr "不，我会等到早上。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE1
 msgid "Swell tattoos you got there."
-msgstr "纹身壮汉你来了"
+msgstr "纹身壮汉你来了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE2
 msgid "Chill out, red."
-msgstr "放松，阿红"
+msgstr "放松，阿红。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE3
 msgid "He's giving me a dirty look."
-msgstr "他在狠狠地瞪着我"
+msgstr "他在狠狠地瞪着我。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGELITE4
 msgid "Stand still so I can hit you with a sign."
-msgstr "站着别动我才能用牌子打你"
+msgstr "站着不动我正好用牌子打你。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.BURNT
 msgid "No good now."
@@ -107484,19 +107548,15 @@ msgstr "这样可不好。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.EMPTY
 msgid "I gotta find some meat for it."
-msgstr "我必须给他找些肉"
+msgstr "我必须给他找些肉。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIGSHRINE.GENERIC
 msgid "A bunch of things to build."
-msgstr "一堆东西建的"
+msgstr "一堆东西建起来的。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.PIG_TOKEN
 msgid "Too big for me to wear."
-msgstr "给我戴太大了"
-
-#: STRINGS.CHARACTERS.WINONA.DESCRIBE.RHINODRILL
-msgid "Am I supposed to be impressed?"
-msgstr "我需要留下深刻的印象吗"
+msgstr "给我戴太大了。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD1
 msgid "Now that's a feast!"
@@ -107504,11 +107564,11 @@ msgstr "那是一顿盛宴！"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD2
 msgid "I'll give it to a pig or somethin'."
-msgstr "我会把它给猪或者其他东西"
+msgstr "我会把它给猪或者其他东西。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.YOTP_FOOD3
 msgid "Somethin' to chew on."
-msgstr "一些东西可以咀嚼"
+msgstr "有东西可嚼了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "Is too scary for that now!"
@@ -107520,27 +107580,11 @@ msgstr "沃尔夫冈先打扫干净。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "Is dark. No games now."
-msgstr "天黑了，现在别玩游戏。"
+msgstr "天黑了，现在别比了。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.ANCIENT_ALTAR_BROKEN
 msgid "Is broken altar."
 msgstr "是个坏掉的祭坛。"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BEETLETAUR
-msgid "Is not scaring Wolfgang."
-msgstr "吓不到沃尔夫冈"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Is mighty like Wolfgang."
-msgstr "跟沃尔夫冈一样强大"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "Wolfgang doesn't like."
-msgstr "沃尔夫冈不喜欢"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "Is might sword for mighty Wolfgang!"
-msgstr "给强大的沃尔夫冈的强力武器"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE1
 msgid "Wolfgang wave to little piggy!"
@@ -107548,35 +107592,31 @@ msgstr "沃尔夫冈向小猪挥手！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE2
 msgid "He is having nasty temper."
-msgstr "他有一副坏脾气"
+msgstr "他有一副坏脾气。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE3
 msgid "Is dirty fighter."
-msgstr "阴险的打手"
+msgstr "阴险的打手。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGELITE4
 msgid "Is mighty. Wolfgang mightier."
-msgstr "很强。沃尔夫冈更强"
+msgstr "很强。沃尔夫冈更强。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.BURNT
 msgid "Poor little piggy."
-msgstr "可怜的小猪"
+msgstr "可怜的小猪。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.EMPTY
 msgid "Wolfgang give it meat."
-msgstr "沃尔夫冈拿肉给它"
+msgstr "沃尔夫冈拿肉给它。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Is pretty piggy."
-msgstr "不错的小猪"
+msgstr "不错的小猪。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.PIG_TOKEN
 msgid "Is not fitting Wolfgang."
-msgstr "不适合沃尔夫冈"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.RHINODRILL
-msgid "Wolfgang is more macho."
-msgstr "沃尔夫冈更有男子气概"
+msgstr "不适合沃尔夫冈。"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.YOTP_FOOD1
 msgid "Make Wolfgang mighty!"
@@ -107602,33 +107642,17 @@ msgstr "应该先打扫一下。"
 msgid "Can't do that now. It'll be dark soon."
 msgstr "现在不可以，天就要黑了。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BEETLETAUR
-msgid "Gotta chop that armor up."
-msgstr "必须砍碎那副盔甲"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "Better armor up."
-msgstr "最好穿上盔甲"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I'll leave that for someone else."
-msgstr "我要把那个留给某人"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "I could use that."
-msgstr "我可以用那个"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE1
 msgid "Looks a little blue."
-msgstr "看起来有点下流"
+msgstr "看起来有点蓝。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE2
 msgid "Too hot-headed if you ask me."
-msgstr "如果你问我，我会说太鲁莽了"
+msgstr "如果你问我，我会说太鲁莽了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE3
 msgid "Sure likes that gold."
-msgstr "就像金子一样"
+msgstr "就像金子一样。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGELITE4
 msgid "Something about that guy I like."
@@ -107644,15 +107668,11 @@ msgstr "我认为它需要肉，露西。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIGSHRINE.GENERIC
 msgid "Would ya look at that."
-msgstr "你会看那个吗"
+msgstr "你会看那个吗。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.PIG_TOKEN
 msgid "Looks like something those pigs would make."
 msgstr "看起来像是那些猪做的东西。"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.RHINODRILL
-msgid "They really like bumping chests like that, eh?"
-msgstr "他们很喜欢像那样撞胸"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD1
 msgid "Want some, Lucy?"
@@ -107660,11 +107680,11 @@ msgstr "要来点吗，露西？"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD2
 msgid "Doesn't look to appetizing. Sorry."
-msgstr "不好意思，看起来不是很开胃"
+msgstr "不好意思，看起来不是很开胃。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.YOTP_FOOD3
 msgid "I don't need nothin' fancy."
-msgstr "我不需要无用的怪东西"
+msgstr "我不需要无用的怪东西。"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_DANGER
 msgid "WARNING: DANGER DETECTED"
@@ -107672,27 +107692,11 @@ msgstr "警告:侦测到危险"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_MESSY
 msgid "ERROR: GROUND REQUIRES DISKCLEANUP"
-msgstr "错误:大地磁盘需要清理"
+msgstr "错误:地面需要清理"
 
 #: STRINGS.CHARACTERS.WX78.ACTIONFAIL.GIVE.PIGKINGGAME_TOOLATE
 msgid "WARNING: NIGHT APPROACHING"
-msgstr "警告:夜晚将至"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.BEETLETAUR
-msgid "STILL A WEAK FLESHLING UNDERNEATH THAT ARMOR"
-msgstr "那盔甲之下不过是一副虚弱的肉体"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_ARMOR_HP
-msgid "ARMOR FOR MY IRON CASING"
-msgstr "为我的铁壳提供防护"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_FIREBOMB
-msgid "I AM NOT COMPATIBLE WITH THAT INTERFACE"
-msgstr "我和那个接口不兼容"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.LAVAARENA_HEAVYBLADE
-msgid "I WILL USE IT BETTER THAN ANYONE"
-msgstr "我会用的比任何人都好"
+msgstr "警告:夜晚接近"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE1
 msgid "ENEMY FLESHSACK"
@@ -107700,7 +107704,7 @@ msgstr "敌对肉块"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE2
 msgid "A FLESHSACK FIREWALL FOR GOLD"
-msgstr "一道金子的肉袋防火墙"
+msgstr "金子的一道肉袋防火墙"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIGELITE3
 msgid "IT HAS A FILTHY HABIT OF HITTING ME"
@@ -107725,10 +107729,6 @@ msgstr "非肉体向肉袋进贡"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.PIG_TOKEN
 msgid "ONE GAME TOKEN"
 msgstr "一场游戏的令牌"
-
-#: STRINGS.CHARACTERS.WX78.DESCRIBE.RHINODRILL
-msgid "YOU CORRUPT THAT MACHINE ON YOUR HORN!"
-msgstr "你腐化了你角上的机器！"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.YOTP_FOOD1
 msgid "FANCY FOODFUEL"
