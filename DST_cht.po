@@ -224,7 +224,7 @@ msgstr "描繪"
 
 #: STRINGS.ACTIONS.DRAWITEM
 msgid "Draw {item}"
-msgstr "描繪 {item}"
+msgstr "描繪{item}"
 
 #: STRINGS.ACTIONS.DROP.GENERIC
 msgid "Drop"
@@ -8107,7 +8107,7 @@ msgstr "我沒什麼補給了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DAMP
 msgid "Slick for battle."
-msgstr "戰鬥時，靈活一點。"
+msgstr "對戰鬥來説太滑了。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_DEERCLOPS
 msgid "A worthy foe approaches."
@@ -78331,7 +78331,7 @@ msgstr "復活的骨架"
 
 #: STRINGS.NAMES.STALKER_ATRIUM
 msgid "Ancient Fuelweaver"
-msgstr "遠古影織者"
+msgstr "遠古織影者"
 
 #: STRINGS.NAMES.STALKER_MINION
 msgid "Woven Shadow"
@@ -81287,7 +81287,7 @@ msgstr "王的寶座！"
 
 #: STRINGS.RECIPE_DESC.SALTLICK
 msgid "Keep your livestock content."
-msgstr "保證了你的家畜不\n會餓。"
+msgstr "保證你的家畜不會\n被餓著。"
 
 #: STRINGS.RECIPE_DESC.SCARECROW
 msgid "Models all the latest fall fashions."
@@ -84411,7 +84411,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_portal
 msgid "Equip this item to change your character's background portrait.\n\nAfter defeating Battlemaster Pugna and reactivating the Molten Gateway, the survivors found themselves flung into the plagued Gate Realm of the Gorge."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n在打敗戰神帕格納並重新激活熔融之門後，倖存者發現他們又被扔進了一個瘟疫肆虐的門界。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n在打敗戰神帕格納並重新激活熔火大門後，倖存者發現他們又被扔進了一個瘟疫肆虐的門界。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_pothanger
 msgid "Equip this item to change your character's background portrait."
@@ -84691,7 +84691,7 @@ msgstr "將你的頭像設置為冬季盛宴的紫色節日彩燈。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_3
 msgid "Set your profile icon to a piercing Fuelweaver Winter's Feast ornament."
-msgstr "將你的頭像設置為華麗影織者節日飾品。"
+msgstr "將你的頭像設置為華麗織影者節日飾品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_4
 msgid "Set your profile icon to a swirly red Winter's Feast bauble."
@@ -87823,7 +87823,7 @@ msgstr "漂亮的陶罐背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_portal
 msgid "Mossy Gateway Portrait"
-msgstr "苔蘚之門背景"
+msgstr "苔蘚大門背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_pothanger
 msgid "Pot Hanger Portrait"
@@ -88103,7 +88103,7 @@ msgstr "紫色節日彩燈"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_3
 msgid "Magnificent Fuelweaver Ornament"
-msgstr "華麗的影織者飾品"
+msgstr "華麗的織影者飾品"
 
 #: STRINGS.SKIN_NAMES.profileflair_ornaments_4
 msgid "Red Festive Bauble"
@@ -94687,7 +94687,7 @@ msgstr "熔爐"
 
 #: STRINGS.UI.GAMEMODES.LAVAARENA_DESCRIPTION
 msgid "Prove yourself to Battlemaster Pugna in this Gate Realm.\n* Enter the world through the Molten Gateway.\n* No hunger or sanity.\n* Use what you can find. No outside weapons in the Pit!"
-msgstr "在這個門界中向戰神帕格納證明自己吧。\n*通過熔融之門來到這個世界。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能找到的一切武器吧！"
+msgstr "在這個門界中向戰神帕格納證明自己。\n*通過熔火大門來到這個世界。\n*沒有飽食度和理智度。\n*這裡可沒武器製作，使用你能找到的一切武器吧！"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE
 msgid "The Gorge"
@@ -94695,7 +94695,7 @@ msgstr "暴食"
 
 #: STRINGS.UI.GAMEMODES.QUAGMIRE_DESCRIPTION
 msgid "Cook delicious dishes to appease the Eternal Gnaw in this Gate Realm.\n* Enter the world through the Mossy Gateway.\n* No nighttime.\n* Use what you can find to cook offerings for the altar!"
-msgstr "在這個門界中烹飪美味的菜肴來安撫不朽的噬咬吧。\n*通過苔蘚之門來到這個世界。\n* 沒有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
+msgstr "在這個門界中烹飪美味的菜肴來安撫不朽的噬咬。\n*通過苔蘚大門來到這個世界。\n* 沒有黑夜降臨。\n*用你能找到的一切烹飪貢品，獻給祭壇吧！"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL
 msgid "Survival"
@@ -94703,7 +94703,7 @@ msgstr "生存"
 
 #: STRINGS.UI.GAMEMODES.SURVIVAL_DESCRIPTION
 msgid "We survive together, we die together!\n\n* Enter the world through the Florid Postern.\n* Become a ghost when you die.\n* Ghost players cause a sanity drain for living players."
-msgstr "我們將同生共死！！\n\n*通過絢麗之門進入這個世界。\n*當你死後變成幽靈。\n*變成鬼魂的玩家存在會造成正常的玩家下降精神值。"
+msgstr "我們將同生共死！\n\n*通過絢麗之門進入這個世界。\n*當你死後變成幽靈。\n*變成鬼魂的玩家存在會造成正常的玩家下降精神值。"
 
 #: STRINGS.UI.GAMEMODES.UNKNOWN
 msgid "Game Mode Unknown"
