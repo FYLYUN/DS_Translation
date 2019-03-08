@@ -13432,7 +13432,7 @@ msgstr "用野兽身上温暖的毛皮能做成一件非常棒的衣服。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRUNK_COOKED
 msgid "A juicy reward after a hard battle."
-msgstr "苦战之后的奖励是一杯果汁。"
+msgstr "苦战之后的丰厚奖励。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TRUNK_SUMMER
 msgid "A powerful trunk of a fallen not-so-hairy beast."
