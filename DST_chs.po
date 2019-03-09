@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ABANDON
+#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -72430,10 +72430,6 @@ msgstr "*免疫火焰伤害 \n*可以制造小巧的打火机和可爱的小熊 
 msgid "\n*Grows a magnificent beard"
 msgstr "\n*可以长出一把宏伟的胡子。"
 
-#: STRINGS.CHARACTER_DESCRIPTIONS.winona
-msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Brings her own tools"
-msgstr "*一个熟练的建造者\n*可以在黑暗中免疫一次攻击\n*带着自己的修复工具"
-
 #: STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 msgid "*Grows stronger on a full belly \n*Is afraid of monsters and the dark"
 msgstr "*吃饱时会变强 \n*害怕怪物和黑暗"
@@ -84106,10 +84102,6 @@ msgstr "这个宝箱包含4件\n冬季盛宴的珍宝。"
 msgid "This chest contains 4x\nForge Event curios."
 msgstr "这个宝箱包含4件\n熔炉事件的珍宝。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
-msgid "This chest contains 4x\nYear of the Varg curios."
-msgstr "这个宝箱包含4件\n座狼之年的珍宝。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.mysterybox_victorian_4
 msgid "This chest contains 4x\nGorge Event curios."
 msgstr "这个宝箱包含4件\n暴食事件的珍宝。"
@@ -84349,10 +84341,6 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_gravestones
 msgid "Equip this item to change your character's background portrait.\n\nThe lives of many goats were claimed by the Gnaw's plague. In the end, only a few remained."
 msgstr "使用这个藏品来改变你的角色背景图案。\n\n许多山羊的生命被噬咬的诅咒夺去了。最后，只有少数存留下来。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard
-msgid "Equip this item to change your character's background portrait.\n\nMany residents of the Gorge turned to worshipping the Gnaw, hoping to be spared from its terrible plague."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n暴食沼地的许多居民纷纷转向崇拜噬咬，希望以此免遭可怕的诅咒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heart1
 msgid "Equip this item to change your character's background portrait."
@@ -84737,10 +84725,6 @@ msgstr "将你的头像设置为猪王。\n\n 猪王十分富有，倘若能引�
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_pumpkinlantern
 msgid "Set your profile icon to a pumpkin lantern."
 msgstr "将你的头像设置为南瓜灯。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_puppington
-msgid "Set your profile icon to a sweet litle Vargling.\nHappy Year of the Varg!"
-msgstr "将你的头像设置为小座狼。\n座狼之年快乐！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rabbit
 msgid "Set your profile icon to a rabbit."
@@ -85313,10 +85297,6 @@ msgstr "薇洛会将角斗场烧成灰烬"
 #: STRINGS.SKIN_DESCRIPTIONS.willow_ice
 msgid "Coldfire is Willow's favorite type of fire... After hot fire, warm fire, tepid fire, and vaguely lukewarm fire."
 msgstr "薇洛非常喜爱在冬季点燃火焰，温暖的火焰会让人们感到安心。火势过于旺盛的火焰会让人们感到不安，但薇洛热爱熊熊大火，但只有她自己会喜欢…"
-
-#: STRINGS.SKIN_DESCRIPTIONS.willow_rose
-msgid "Willow was always a bit prickly. Now she's just moreso."
-msgstr "薇洛一向冲动易怒，不过现在她将约束自己的行为。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.willow_shadow
 msgid "Willow enjoys flickering flames of inky blackness."
@@ -87762,10 +87742,6 @@ msgstr "草原背景"
 msgid "Gnaw Cemetery Portrait"
 msgstr "噬咬公墓背景"
 
-#: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard
-msgid "Gnaw Worshipper Portrait"
-msgstr "噬咬崇拜者背景"
-
 #: STRINGS.SKIN_NAMES.playerportrait_bg_heart1
 msgid "Luxurious Stage Portrait"
 msgstr "奢华的舞台背景"
@@ -88429,10 +88405,6 @@ msgstr "行李箱"
 #: STRINGS.SKIN_NAMES.treasurechest_traincase
 msgid "Train Case"
 msgstr "小旅行箱"
-
-#: STRINGS.SKIN_NAMES.treasurechest_traveltrunk
-msgid "Traveller's Trunk"
-msgstr "旅行者用的皮箱"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_combatant
 msgid "The Challenger"
@@ -91393,10 +91365,6 @@ msgstr "网络视频头测试版"
 #: STRINGS.UI.BROADCASTING.YES
 msgid "Yes"
 msgstr "是"
-
-#: STRINGS.UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
-msgid "Please enter a description of your issue."
-msgstr "请描述你发现的游戏漏洞。"
 
 #: STRINGS.UI.BUGREPORTSCREEN.NO
 msgid "No"
@@ -96320,7 +96288,7 @@ msgstr "Mod已禁用"
 
 #: STRINGS.UI.MODSSCREEN.DOWNLOADINGMOD
 msgid "Downloading:\n{name}"
-msgstr "正在下载：\n{name}"
+msgstr "正在下载:\n{name}"
 
 #: STRINGS.UI.MODSSCREEN.DST_COMPAT_WARNING
 msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
@@ -102566,10 +102534,6 @@ msgstr "壮观的引路牌背景"
 msgid "World's Greatest Big Top Tent Portrait"
 msgstr "世界上最宏伟的大帐篷背景"
 
-#: STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus
-msgid "Umbrella the Big Top Portrait"
-msgstr "头等大雨伞背景"
-
 #: STRINGS.SKIN_NAMES.playerportrait_bg_winterometercircus
 msgid "Thermal Strength Measurer Portrait"
 msgstr "热力测力器背景"
@@ -102577,10 +102541,6 @@ msgstr "热力测力器背景"
 #: STRINGS.SKIN_NAMES.playerportrait_bg_birdcagecircus
 msgid "The Amazing Sideshow Portrait"
 msgstr "惊人的马戏鸟笼背景"
-
-#: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
-msgid "Portrait of the Equestrienne Headdress"
-msgstr "马戏女骑手头饰背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgid "The Magnificent Rainometer Portrait"
@@ -102590,17 +102550,9 @@ msgstr "华丽的雨量计背景"
 msgid "Amazing Ringmaster Hat Portrait"
 msgstr "惊人的驯兽师帽背景"
 
-#: STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
-msgid "Spectacular Stationary Wayfinder Icon"
-msgstr "壮观的引路牌头像"
-
 #: STRINGS.SKIN_NAMES.profileflair_tent_circus
 msgid "World's Greatest Big Top Tent Icon "
 msgstr "世界上最宏伟的大帐篷头像"
-
-#: STRINGS.SKIN_NAMES.profileflair_umbrella_circus
-msgid "Umbrella the Big Top Icon"
-msgstr "头等大雨伞头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_winterometer_circus
 msgid "Thermal Strength Measurer Icon"
@@ -102609,10 +102561,6 @@ msgstr "热力测力器头像"
 #: STRINGS.SKIN_NAMES.profileflair_birdcage_circus
 msgid "The Amazing Sideshow Icon"
 msgstr "惊人的马戏鸟笼头像"
-
-#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
-msgid "Icon of the Equestrienne Headdress"
-msgstr "马戏女骑手头饰头像"
 
 #: STRINGS.SKIN_NAMES.profileflair_rainometer_circus
 msgid "The Magnificent Rainometer Icon"
@@ -102625,10 +102573,6 @@ msgstr "惊人的驯兽师帽头像"
 #: STRINGS.SKIN_NAMES.tent_circus
 msgid "World's Greatest Big Top Tent"
 msgstr "世界上最宏伟的大帐篷"
-
-#: STRINGS.SKIN_NAMES.umbrella_circus
-msgid "Umbrella the Big Top"
-msgstr "头等大雨伞"
 
 #: STRINGS.SKIN_NAMES.winterometer_circus
 msgid "Thermal Strength Measurer"
@@ -103018,10 +102962,6 @@ msgstr "残缺的机器人身体。你可以看见里面正在运转的齿轮。
 msgid "Arachnid combat boots."
 msgstr "蛛形纲生物的战斗靴。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.feet_wendy_creepy
-msgid "Supernatural footware."
-msgstr "超自然鞋袜。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wes_clown
 msgid "Schadenfreuded shoes."
 msgstr "幸灾乐祸的鞋子。"
@@ -103037,10 +102977,6 @@ msgstr "陈旧的基础设备。"
 #: STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
 msgid "The spikes on these cuffs look scary, but they're actually quite soft."
 msgstr "这些袖口看起来很瘆人，但实际上很柔软舒适。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist
-msgid "Laboratory gloves impregnated with mercury, to encourage madness. (Don't try this at home.)"
-msgstr "实验室里的手套上全是水银，让人崩溃。（不要在家里捣鼓这个。）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip
 msgid "Just wires and bolts."
@@ -103169,10 +103105,6 @@ msgstr "给在万圣节的晚上被迫于这个世界上游荡的人的时尚配
 #: STRINGS.SKIN_DESCRIPTIONS.webber_punk
 msgid "Don't let the man get you down, man."
 msgstr "别让那家伙给你放倒了，兄弟。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.wendy_creepy
-msgid "Wendy's supernatural powers makes her a supernatural hero. Or villian."
-msgstr "温蒂的超自然力量让她成为了一个超自然英雄。或者反派。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wes_clown
 msgid "A hopelessly romantic clown."
@@ -104550,33 +104482,13 @@ msgstr "无论你做什么，千万不要低头！"
 msgid "Shroud yourself with the burning fires of Ragnarok."
 msgstr "让诸神黄昏的烈焰包裹你。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_magma
-msgid "Armor that barely contains your firey anger."
-msgstr "像这样的铠甲才刚好能容纳你的怒火。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.body_webber_magma
-msgid "Add some much needed fire to your fur."
-msgstr "为你的毛皮添加一些火焰。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.body_wendy_magma
-msgid "A frock of flames to rise from the ashes."
-msgstr "从灰烬中重生的火焰连衣裙。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_magma
 msgid "A passion for justice fuels the fire within this blouse."
 msgstr "对正义的激情引燃了这件衬衫上的火焰。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_magma
-msgid "The arm wrappings and leather robe protect when scrutinizing lava flows."
-msgstr "让你检查岩浆流的手臂有所保护。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_magma
 msgid "A frock with the power to appease the Fire Gods."
 msgstr "蕴含能够安抚火神的力量的连衣裙。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.body_wilson_magma
-msgid "Use this armor for obsidious purposes."
-msgstr "用这件铠甲塑造十胜石般的意志。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_magma
 msgid "Multipurpose armor that also works as welding gear."
@@ -104602,14 +104514,6 @@ msgstr "看那可怕的弯角！"
 msgid "Watch out for the spikey bits."
 msgstr "当心那个小尖刺。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma
-msgid "Battle gloves to withstand the flames that will consume this world."
-msgstr "为了抵御吞噬世界的烈火而戴上的战斗手套。"
-
-: STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma
-msgid "Gloves worthy of wrathful combat."
-msgstr "配得上此等狂怒战斗的手套。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma
 msgid "Like little candle flames for your claws."
 msgstr "你的爪子就像是小小的烛火。"
@@ -104618,10 +104522,6 @@ msgstr "你的爪子就像是小小的烛火。"
 msgid "Flaming winged accessories to accompany your rebirth."
 msgstr "燃烧的翅膀配件伴随你一同重生。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma
-msgid "Foppish gloves of firey justice."
-msgstr "执行火焰般正义的花哨手套。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_magma
 msgid "Armored gloves for handling hot magma samples."
 msgstr "用于处理热岩浆样本的手部护甲。"
@@ -104629,10 +104529,6 @@ msgstr "用于处理热岩浆样本的手部护甲。"
 #: STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma
 msgid "Impress a deity with these sacrificial bangles."
 msgstr "让这些手镯给神灵带來深刻的印象。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma
-msgid "Rock hard gloves, ready for combat."
-msgstr "戴上岩石般的手套，准备战斗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_winona_magma
 msgid "Perfectly welded welding gloves."
@@ -104646,10 +104542,6 @@ msgstr "用来装饰你手腕的燃烧饰品。"
 msgid "Studded gloves for peerless gripping of an axe."
 msgstr "戴上带钉的手套，无以伦比地挥舞斧头。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma
-msgid "Com-bust some heads with these furnace gloves."
-msgstr "用这些火炉手套打爆某些人的头。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.feet_webber_magma
 msgid "Hot-foot it into the ring."
 msgstr "战场上的急忙脚步。"
@@ -104657,10 +104549,6 @@ msgstr "战场上的急忙脚步。"
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wendy_magma
 msgid "Tip-toe across the ashes you rose from."
 msgstr "踮起脚走过你重生的灰烬。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.feet_wes_magma
-msgid "Fine footware for delivering flaming justice."
-msgstr "传递燃烧的正义之人的一双好鞋。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wickerbottom_magma
 msgid "Gold tipped lava leapers."
@@ -104678,17 +104566,9 @@ msgstr "健步走向世界的终结。"
 msgid "Stomp out the fires of your enemies' belly."
 msgstr "踩灭你敌人心中的火焰。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.legs_willow_magma
-msgid "Made for dancing on firey graves."
-msgstr "用于在燃烧的坟头上蹦迪。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wilson_magma
 msgid "Rock out with these rock hard boots."
 msgstr "穿上这双岩石靴子摇滚起来吧。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.legs_winona_magma
-msgid "Protection for when the sparks fly in the arena."
-msgstr "在场上火星飞舞时提供保护。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_magma
 msgid "Wolfgang strong. Wolfgang need no foot protection."
@@ -104918,25 +104798,9 @@ msgstr "只要保证钻头对准你的敌人你就能赢。"
 msgid "Wigfrid is ready for Ragnarok."
 msgstr "薇德弗雷已经准备好迎接诸神黄昏了。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.waxwell_magma
-msgid "Maxwell rage has split him in two."
-msgstr "麦斯威尔的狂怒几乎使他裂成两半。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.webber_magma
-msgid "The flaming skull is just for show."
-msgstr "燃烧的骷髅只是演出来的。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_magma
 msgid "Wendy, like Abigail, will rise from the ashes."
 msgstr "温蒂，和阿比盖尔，将从灰烬中崛起。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.wes_magma
-msgid "By day, a French mime dandy. By night, a formidable swordsmime."
-msgstr "在白天，一个法国哑剧演员。在夜里，一个可怕的剑客。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.wickerbottom_magma
-msgid "Wickerbottom saves her wrath for those who ignore the Dewey Decimal System."
-msgstr "维克波顿把她的怒火留给了那些无视图书分类法的人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.willow_magma
 msgid "Willow has never been so at home."
@@ -104949,14 +104813,6 @@ msgstr "为战术B做准备。"
 #: STRINGS.SKIN_DESCRIPTIONS.winona_magma
 msgid "Winona the Welder can do it!"
 msgstr "薇诺娜可以做焊工活！"
-
-#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_magma
-msgid "Wolfgang is magnanimous and magmatic."
-msgstr "沃尔夫冈心胸广阔、充满岩浆。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.woodie_magma
-msgid "Nothing but wood under Woodie's hood."
-msgstr "在伍迪的引擎盖下除了木头什么都没有。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_magma
 msgid "WX-78 is big on incineration."
@@ -105008,7 +104864,7 @@ msgstr "点火者的裙子"
 
 #: STRINGS.SKIN_NAMES.body_wilson_magma
 msgid "Obsidian's Armor"
-msgstr "十胜石铠甲"
+msgstr "黑曜石铠甲"
 
 #: STRINGS.SKIN_NAMES.body_winona_magma
 msgid "Welder's Apron"
@@ -105084,7 +104940,7 @@ msgstr "点火者的手镯"
 
 #: STRINGS.SKIN_NAMES.hand_wilson_magma
 msgid "Obsidian's Gloves"
-msgstr "十胜石手套"
+msgstr "黑曜石手套"
 
 #: STRINGS.SKIN_NAMES.hand_winona_magma
 msgid "Welder's Gloves"
@@ -105116,7 +104972,7 @@ msgstr "点火者的袜子"
 
 #: STRINGS.SKIN_NAMES.legs_wilson_magma
 msgid "Obsidian's Legs"
-msgstr "十胜石护腿"
+msgstr "黑曜石护腿"
 
 #: STRINGS.SKIN_NAMES.legs_winona_magma
 msgid "Welder's Lowers"
@@ -105450,13 +105306,9 @@ msgstr "\"小心我喷出的火成岩，亲爱的。\""
 msgid "\"All fire, all the time!!\""
 msgstr "\"全是火焰！全天的火焰！！\""
 
-#: STRINGS.SKIN_QUOTES.wilson_magma
-msgid "\"Obsidious.\""
-msgstr "\"真叫人讨厌。\""
-
 #: STRINGS.SKIN_QUOTES.winona_magma
 msgid "\"Tough as obsidian.\""
-msgstr "\"坚韧如十胜石。\""
+msgstr "\"坚韧如黑曜石。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_magma
 msgid "\"Wolfgang is on the fire.\""
@@ -106854,14 +106706,6 @@ msgstr "薇德弗雷的把麦技能无人能敌！"
 msgid "A golden helm fit for a golden warrior."
 msgstr "适合黄金勇士的黄金头盔。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
-msgid "He's a lover and a fighter."
-msgstr "他是情人，也是斗士。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_wrestler
-msgid "Wolfgang says his prayers and eats his vitamins."
-msgstr "沃尔夫冈做了他的祷告也吃掉了他的维生素。"
-
 #: STRINGS.SKIN_NAMES.beefalohat_pigking
 msgid "Pig King Hat"
 msgstr "猪王帽"
@@ -107021,10 +106865,6 @@ msgstr "巨人"
 #: STRINGS.SKIN_QUOTES.wathgrithr_wrestler
 msgid "\"I am the best that ever was!!\""
 msgstr "\"我是有史以来最棒的！！\""
-
-#: STRINGS.SKIN_QUOTES.wolfgang_wrestler
-msgid "\"Wolfgang says his prayers and eats his vitamins.\""
-msgstr "\"沃尔夫冈做了他的祷告也吃掉了\n他的维生素。\""
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.YOTP
 msgid "Year of the Pig King Collection"
@@ -107741,3 +107581,614 @@ msgstr "给肉块们的食物燃料"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.YOTP_FOOD3
 msgid "BASIC FOODFUEL"
 msgstr "基本食物燃料"
+
+#: STRINGS.NAMES.WINONA_BATTERY_HIGH
+msgid "Winona's G.E.M.erator"
+msgstr "薇诺娜的珐电机"
+
+#: STRINGS.NAMES.WINONA_BATTERY_LOW
+msgid "Winona's Generator"
+msgstr "薇诺娜的发电机"
+
+#: STRINGS.NAMES.WINONA_CATAPULT
+msgid "Winona's Catapult"
+msgstr "薇诺娜的投石器"
+
+#: STRINGS.NAMES.WINONA_SPOTLIGHT
+msgid "Winona's Spotlight"
+msgstr "薇诺娜的聚光灯"
+
+#: STRINGS.RECIPE_DESC.WINONA_BATTERY_HIGH
+msgid "This one uses gems, so you know it's good."
+msgstr "这个用的是宝石，所以你懂的，会更好一点。"
+
+#: STRINGS.RECIPE_DESC.WINONA_BATTERY_LOW
+msgid "Someone's gotta keep the juice flowing."
+msgstr "总有东西要保持活动。"
+
+#: STRINGS.RECIPE_DESC.WINONA_CATAPULT
+msgid "Lob big rocks at fearful foes."
+msgstr "向敌人投掷大石块。"
+
+#: STRINGS.RECIPE_DESC.WINONA_SPOTLIGHT
+msgid "Shine a light both day and night."
+msgstr "没日没夜的发光。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_factory
+msgid "When it comes to factory safety, proper signage is key."
+msgstr "正确的标识是工厂安全生产的关键。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_factory
+msgid "Winona's uniform from her short-lived stint at the Voxola factory."
+msgstr "薇诺娜在Voxola工厂短暂工作时的工服。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_formalp
+msgid "A formal blazer and matching skirt for a sensible party gal."
+msgstr "这件衣服非常适合女孩穿上参加派对。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_rosep
+msgid "Wild roses don't claim hillsides by being delicate."
+msgstr "野蔷薇不会因为不够鲜艳而对大地提什么要求。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_shadowp
+msgid "Blood is thicker than water. Oil is thicker than both."
+msgstr "血浓于水。但是油比它们都要浓。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_winona_survivorp
+msgid "You're just about overall this wilderness survival."
+msgstr "你只是在这荒野中求生而已。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.bugnet_spider
+msgid "This lil guy can't get enough! Don't worry though, he'll share everything he catches with you."
+msgstr "这小家伙根本停不下来！不用担心，他抓到的东西都会拿出来跟你分享。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_winona_factory
+msgid "Sturdy workboots courtesy of the Voxola Radio Company."
+msgstr "Voxola广播公司的结实工靴。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.fence_factory
+msgid "This fence is made of metal piping for that chic \"industrial\" look."
+msgstr "这栅栏是用金属管道做的，看上去十分“工业”十分时髦。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.fence_factory_item
+msgid "n/a"
+msgstr "缺少描述"
+
+#: STRINGS.SKIN_DESCRIPTIONS.firesuppressor_circus
+msgid "Look and be amazed by the incredible automatic snowball juggling machine!"
+msgstr "瞧一瞧，看一看，神奇的自动雪球杂耍机！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma
+msgid "Gloves worthy of wrathful combat."
+msgstr "值得在愤怒战斗中使用的手套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_winona_factory
+msgid "Standard issue Voxola workgloves, so you don't get fingerprints on the merchandise."
+msgstr "标配Voxola工作手套，防止在商品上留下指纹。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_factory_items
+msgid "This Voxola Warehouse Chest contains the following skin items: Factory Signpost, Pipe Fencing, Factory Portrait, and Factory Signpost Icon."
+msgstr "这个Voxola仓库宝箱仓库宝箱包含以下皮肤物品：工厂标志牌，管道栅栏，工厂背景和工厂标志牌头像。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe
+msgid "This Deluxe Wardrobe contains Winona's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Industrious skin items."
+msgstr "这个豪华衣柜包含薇诺娜的全套尊贵的客人、蔷薇、幸存者、胜者和勤劳者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_factory
+msgid "This Chest contains Winona's complete set of Industrious skin items."
+msgstr "这个宝箱包含薇诺娜的全套勤劳者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_formal
+msgid "This Chest contains Winona's complete set of Guest of Honor skin items."
+msgstr "这个宝箱包含薇诺娜的全套尊贵的客人皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_rose
+msgid "This Chest contains Winona's complete set of Roseate skin items."
+msgstr "这个宝箱包含薇诺娜的全套蔷薇皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_shadow
+msgid "This Chest contains Winona's complete set of Triumphant skin items."
+msgstr "这个宝箱包含薇诺娜的全套胜者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_winona_survivor
+msgid "This Chest contains Winona's complete set of Survivor skin items."
+msgstr "这个宝箱包含薇诺娜的全套幸存者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_factory
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_firesuppressorcircus
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_factory
+msgid "Set your profile icon to a Voxola factory sign."
+msgstr "将你的头像设置为Voxola工厂标识。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_firesuppressor_circus
+msgid "Set your profile icon to an Amazing Snowball Juggler."
+msgstr "将你的头像设置为神奇的雪球杂耍器。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_factory
+msgid "When all signs pointed towards the Voxola Radio Company, Winona knew what she had to do."
+msgstr "当所有的迹象都指向Voxola广播公司时，薇诺娜认为她必须要做些什么了。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_formalp
+msgid "This isn't what Winona expected when she read \"Formal Assembly\" on the invitation."
+msgstr "当薇诺娜在晚会邀请函上读到“需要正装”的时候，她并不喜欢这样。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_rosep
+msgid "By any other name, she'd smell of engine grease."
+msgstr "即使是穿上了蔷薇色的礼服参加聚会，薇诺娜仍在思考工作。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_shadowp
+msgid "No one knows the depths of Winona's dark machinations."
+msgstr "没有人知道薇诺娜内心深处有什么阴谋。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_survivorp
+msgid "Winona's always been made of rough stuff."
+msgstr "薇诺娜经常老练地用粗糙的材料制作东西。"
+
+#: STRINGS.SKIN_NAMES.arrowsign_post_factory
+msgid "Factory Signpost"
+msgstr "工厂标志牌"
+
+#: STRINGS.SKIN_NAMES.body_winona_factory
+msgid "Voxola Work Uniform"
+msgstr "Voxola工作制服"
+
+#: STRINGS.SKIN_NAMES.body_winona_formalp
+msgid "Skirt and Blazer"
+msgstr "裙子和运动上衣"
+
+#: STRINGS.SKIN_NAMES.body_winona_rosep
+msgid "Coral Rose Slacks"
+msgstr "珊瑚蔷薇长裤"
+
+#: STRINGS.SKIN_NAMES.body_winona_shadowp
+msgid "Shadow Coverall"
+msgstr "暗影套装"
+
+#: STRINGS.SKIN_NAMES.body_winona_survivorp
+msgid "Worn Workwear"
+msgstr "磨损的工作服"
+
+#: STRINGS.SKIN_NAMES.bugnet_spider
+msgid "Ravenous Spidernet"
+msgstr "贪婪的蜘蛛网"
+
+#: STRINGS.SKIN_NAMES.feet_winona_factory
+msgid "Voxola Safety Boots"
+msgstr "Voxola安全靴"
+
+#: STRINGS.SKIN_NAMES.fence_factory
+msgid "Pipe Fencing"
+msgstr "管道栅栏"
+
+#: STRINGS.SKIN_NAMES.fence_factory_item
+msgid "Pipe Fencing"
+msgstr "管道栅栏"
+
+#: STRINGS.SKIN_NAMES.firesuppressor_circus
+msgid "Amazing Snowball Juggler"
+msgstr "神奇的雪球杂耍器"
+
+#: STRINGS.SKIN_NAMES.hand_winona_factory
+msgid "Voxola Safety Gloves"
+msgstr "Voxola安全手套"
+
+#: STRINGS.SKIN_NAMES.pack_factory_items
+msgid "Voxola Warehouse Chest"
+msgstr "Voxola仓库宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_winona_deluxe
+msgid "Winona Deluxe Wardrobe"
+msgstr "薇诺娜豪华衣柜"
+
+#: STRINGS.SKIN_NAMES.pack_winona_factory
+msgid "Winona Industrious Chest"
+msgstr "薇诺娜勤劳者宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_winona_formal
+msgid "Winona Guest of Honor Chest"
+msgstr "薇诺娜尊贵的客人宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_winona_rose
+msgid "Winona Roseate Chest"
+msgstr "薇诺娜蔷薇宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_winona_shadow
+msgid "Winona Triumphant Chest"
+msgstr "薇诺娜胜者宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_winona_survivor
+msgid "Winona Survivor Chest"
+msgstr "薇诺娜幸存者宝箱"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_factory
+msgid "Factory Portrait"
+msgstr "工厂背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_firesuppressorcircus
+msgid "Amazing Snowball Juggler Portrait"
+msgstr "神奇的雪球杂耍器背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_factory
+msgid "Factory Signpost"
+msgstr "工厂标志牌"
+
+#: STRINGS.SKIN_NAMES.profileflair_firesuppressor_circus
+msgid "Amazing Snowball Juggler"
+msgstr "神奇的雪球杂耍器"
+
+#: STRINGS.SKIN_NAMES.winona_factory
+msgid "The Industrious"
+msgstr "勤劳者"
+
+#: STRINGS.SKIN_NAMES.winona_formalp
+msgid "Guest of Honor"
+msgstr "尊贵的客人"
+
+#: STRINGS.SKIN_NAMES.winona_rosep
+msgid "The Roseate"
+msgstr "蔷薇"
+
+#: STRINGS.SKIN_NAMES.winona_shadowp
+msgid "The Triumphant"
+msgstr "胜者"
+
+#: STRINGS.SKIN_NAMES.winona_survivorp
+msgid "The Survivor"
+msgstr "幸存者"
+
+#: STRINGS.SKIN_QUOTES.winona_factory
+msgid "\"Time to roll up my sleeves.\""
+msgstr "\"是时候卷起袖子了。\""
+
+#: STRINGS.SKIN_QUOTES.winona_formalp
+msgid "\"The life of the party has arrived!\""
+msgstr "\"聚会生活开始了！\""
+
+#: STRINGS.SKIN_QUOTES.winona_rosep
+msgid "\"Thought and conscientiousness nips all problems in the bud.\""
+msgstr "\"思考和责任心可以在把问题解决在\n发生之前。\""
+
+#: STRINGS.SKIN_QUOTES.winona_shadowp
+msgid "\"You are but a cog in my machine.\""
+msgstr "\"你不过是我机器里一个小零件。\""
+
+#: STRINGS.SKIN_QUOTES.winona_survivorp
+msgid "\"I don't break down easy.\""
+msgstr "\"我绝不轻言放弃。\""
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.BUGNET
+msgid "Bug Net"
+msgstr "捕虫网"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.FENCE
+msgid "Wood Fence"
+msgstr "木栅栏"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.FIRESUPPRESSOR
+msgid "Ice Flingomatic"
+msgstr "雪球发射器"
+
+#: STRINGS.TABS.ENGINEERING
+msgid "Engineering"
+msgstr "工程学"
+
+#: STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
+msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgstr "你还没有提交你的反馈。\n你确定要取消吗？"
+
+#: STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
+msgid "Cancel Bug Report?"
+msgstr "取消bug反馈吗？"
+
+#: STRINGS.UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
+msgid "Change Bug Description"
+msgstr "修改bug的描述"
+
+#: STRINGS.UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
+msgid "Enter Bug Description"
+msgstr "开始描述你的bug"
+
+#: STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
+msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgstr "提交一个bug反馈将会上传你的游戏信息以及已保存的世界的信息到Klei，来帮助我们分析这个问题。\n\n这将会花一些时间来上传。"
+
+#: STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
+msgid "Submit Bug Report?"
+msgstr "提交bug反馈？"
+
+#: STRINGS.UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
+msgid "Files successfully uploaded. Thanks for the report!"
+msgstr "文件上传成功。感谢你的反馈！"
+
+#: STRINGS.UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
+msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
+msgstr "请描述你遇到的问题。"
+
+#: STRINGS.UI.EMOTES.CHEER
+msgid "Cheer"
+msgstr "欢呼"
+
+#: STRINGS.UI.EMOTES.CHICKEN
+msgid "Chicken Dance"
+msgstr "火鸡舞"
+
+#: STRINGS.UI.EMOTES.FISTSHAKE
+msgid "Fist Shake"
+msgstr "握拳"
+
+#: STRINGS.UI.EMOTES.FLEX
+msgid "Flex"
+msgstr "屈伸"
+
+#: STRINGS.UI.EMOTES.IMPATIENT
+msgid "Impatient"
+msgstr "不耐烦"
+
+#: STRINGS.UI.EMOTES.LAUGH
+msgid "Laugh"
+msgstr "笑"
+
+#: STRINGS.UI.EMOTES.ROBOT
+msgid "Robot Dance"
+msgstr "机器舞"
+
+#: STRINGS.UI.EMOTES.SHRUG
+msgid "Shrug"
+msgstr "耸肩"
+
+#: STRINGS.UI.EMOTES.SLOWCLAP
+msgid "Slow Clap"
+msgstr "慢拍"
+
+#: STRINGS.UI.EMOTES.STEP
+msgid "Step Dance"
+msgstr "踢踏舞"
+
+#: STRINGS.UI.EMOTES.UNLOCKABLES
+msgid "Extras"
+msgstr "附加功能"
+
+#: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY
+msgid "Welcome back!\nPlease enjoy this daily gift."
+msgstr "欢迎回来！\n请享受这份每日礼物。"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
+msgid "Due to an error, dynamic content loading has been disabled."
+msgstr "出现错误，以停止加载动态内容"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK
+msgid "I understand"
+msgstr "我明白"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_RE_ENABLE
+msgid "Re-enable"
+msgstr "重新启用"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_TITLE
+msgid "Dynamic Content"
+msgstr "动态内容"
+
+#: STRINGS.UI.OPTIONS.BUGREPORT
+msgid "Submit a Bug Report"
+msgstr "提交bug反馈"
+
+#: STRINGS.UI.OPTIONS.DYNAMICCONTENT_ENABLE
+msgid "Re-enable Dynamic Content"
+msgstr "重新启用动态内容"
+
+#: STRINGS.UI.RARITY.Character
+msgid "Character"
+msgstr "角色"
+
+#: STRINGS.UI.RARITY.Classic
+msgid "Classic - "
+msgstr "经典 - "
+
+#: STRINGS.UI.RARITY.HeirloomClassy
+msgid "Heirloom Classy"
+msgstr "优质的传家宝"
+
+#: STRINGS.UI.RARITY.HeirloomDistinguished
+msgid "Heirloom Distinguished"
+msgstr "杰出的传家宝"
+
+#: STRINGS.UI.RARITY.HeirloomElegant
+msgid "Heirloom Elegant"
+msgstr "精美的传家宝"
+
+#: STRINGS.UI.RARITY.HeirloomSpiffy
+msgid "Heirloom Spiffy"
+msgstr "出色的传家宝"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.winona
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
+msgstr "*一个熟练的建造者\n*可以在黑暗中免疫一次攻击\n*制造她自己的小工具"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_magma
+msgid "Armor that barely contains your fiery anger."
+msgstr "像这样的铠甲才刚好能容纳你的怒火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_webber_magma
+msgid "The flaming skull is just for show."
+msgstr "那个燃烧的骷髅头只是做做样子罢了。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wendy_magma
+msgid "A frock of flames to fly like the phoenix."
+msgstr "这件连衣裙的火焰就像不死鸟一样飞翔。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_magma
+msgid "Dress for the occasion when scrutinizing lava flows in the field."
+msgstr "适合用来仔细检查战场上流动的岩浆。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_wilson_magma
+msgid "Wear this decorative armor while carrying out your obsidious plans."
+msgstr "穿上这件装饰盔甲来执行你那可憎的计划。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wendy_creepy
+msgid "Supernatural footwear."
+msgstr "超自然鞋袜。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_wes_magma
+msgid "Fine footwear for delivering flaming justice."
+msgstr "传递燃烧的正义之人的一双好鞋。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma
+msgid "Battle gloves to withstand the flames that will consume this world."
+msgstr "这双战斗手套足以抵御毁灭世界的烈火。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma
+msgid "Fancy fingers for fiery fighting."
+msgstr "为火热战斗而用的华丽指套。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist
+msgid "Laboratory gloves imbued with mercury, to encourage madness. (Don't try this at home.)"
+msgstr "实验室里的手套上全是水银，让人崩溃。（不要在家里捣鼓这个。）"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma
+msgid "Rock hard gloves, sure to intimidate."
+msgstr "戴上岩石般的手套，确保它很吓人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma
+msgid "Com-bust some heads in style sporting these Furnace Gloves."
+msgstr "用这些火炉手套打爆某些人的头。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_willow_magma
+msgid "Made for dancing on fiery graves."
+msgstr "用于在燃烧的坟头上蹦迪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_winona_magma
+msgid "Peace of mind for when the sparks fly in the arena."
+msgstr "让你在火花四溅的竞技场上感到安心。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.mysterybox_nature_4
+msgid "This chest contains 4x\nSpring curios."
+msgstr "这个宝箱包含4件\n春节的珍宝。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard
+msgid "Equip this item to change your character's background portrait.\n\nMany residents of the Gorge turned to worshiping the Gnaw, hoping to be spared from its terrible plague."
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n暴食沼地的许多居民纷纷转向崇拜噬咬，希望以此免遭可怕的诅咒。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_puppington
+msgid "Set your profile icon to a sweet little Vargling.\nHappy Year of the Varg!"
+msgstr "将你的头像设置为暖心的小座狼。\n座狼之年快乐！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.waxwell_magma
+msgid "Maxwell's rage has split him in two."
+msgstr "麦斯威尔的狂怒几乎使他裂成两半。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.webber_magma
+msgid "Add some much needed fire to your fur."
+msgstr "给你的皮毛添加些火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wendy_creepy
+msgid "Wendy's supernatural powers makes her a supernatural hero. Or villain."
+msgstr "温蒂的超自然力量让她成为了一个超自然英雄。或者反派。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wes_magma
+msgid "By day, a refined French mime. By night, a formidable swordsmime."
+msgstr "在白天，一个法国哑剧演员。在夜里，一个可怕的剑客。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
+msgid "Wes is the ultimate babyface."
+msgstr "维斯是个终极娃娃脸。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wickerbottom_magma
+msgid "Wickerbottom saves her wrath for those who besmirch the Dewey Decimal System."
+msgstr "维克波顿把她的怒火留给了那些破坏图书分类系统的人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_rose
+msgid "Willow was always a bit prickly. Now she's just more so."
+msgstr "薇洛一向有些刺人，现在的她更是如此。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_magma
+msgid "Wolfgang is feeling magnanimous and magmatic."
+msgstr "沃尔夫冈心胸广阔、充满岩浆。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_wrestler
+msgid "Wolfgang's stepping into the ring!"
+msgstr "沃尔夫冈跨进了竞技场！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.woodie_magma
+msgid "Woodie's confidence in battle is rooted in experience."
+msgstr "伍迪对战斗的信心植根于丰富老道的经验。"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_featherhatcircus
+msgid "Equestrienne Headdress Portrait"
+msgstr "马戏女骑手头饰背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_graveyard
+msgid "Gnaw Worshiper Portrait"
+msgstr "噬咬崇拜者背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_umbrellacircus
+msgid "Big Top Umbrella Portrait"
+msgstr "头等大雨伞背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
+msgid "Spectacular Stationary Wayfinder"
+msgstr "壮观的引路牌"
+
+#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
+msgstr "马戏女骑手头饰"
+
+#: STRINGS.SKIN_NAMES.profileflair_umbrella_circus
+msgid "Big Top Umbrella Icon"
+msgstr "头等大雨伞头像"
+
+#: STRINGS.SKIN_NAMES.treasurechest_traveltrunk
+msgid "Traveler's Trunk"
+msgstr "旅行者的皮箱"
+
+#: STRINGS.SKIN_NAMES.umbrella_circus
+msgid "Big Top Umbrella"
+msgstr "头等大雨伞"
+
+#: STRINGS.SKIN_QUOTES.wilson_magma
+msgid "\"I've harnessed the power of the earth's core!\""
+msgstr "\"我已经驾驭了地核的力量!\""
+
+#: STRINGS.SKIN_QUOTES.wolfgang_wrestler
+msgid "\"Mightiest Wolfgang is no heel!\""
+msgstr "\"最强大的沃尔夫冈没有弱点！\""
+
+#: STRINGS.UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
+msgid "Please describe your issue."
+msgstr "请描述你的问题。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_FASTBUILD.1
+msgid "This's hungry work."
+msgstr "这真是饥饿的工作。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_FASTBUILD.2
+msgid "I'm working up an appetite."
+msgstr "我开始有食欲了。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_FASTBUILD.3
+msgid "That made me a lil hungry."
+msgstr "这让我饿极了。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_FASTBUILD.4
+msgid "I'll need some brainfood at this rate."
+msgstr "照这样下去，我需要一些食物。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.1
+msgid "My head's all clouded by hunger!"
+msgstr "我的头都饿晕了！"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.2
+msgid "Oof. I got the brainfog."
+msgstr "噢，我脑子都进水了。"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.3
+msgid "Maybe I could take a snack break?"
+msgstr "也许我该休息一下，吃点点心？"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.4
+msgid "I could sure go for some grub."
+msgstr ""
