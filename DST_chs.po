@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ABANDON
+#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
