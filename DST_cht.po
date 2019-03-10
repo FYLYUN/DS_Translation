@@ -108196,3 +108196,795 @@ msgstr "也許我該休息一下，吃點點心？"
 #: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.4
 msgid "I could sure go for some grub."
 msgstr "我想吃些東西。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "It's on fire!"
+msgstr "它著火了！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Science couldn't save it."
+msgstr "科學沒能拯救它。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "Hey! That's not science!"
+msgstr "嘿！那可不是科學！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "It'll turn off soon."
+msgstr "它很快就會關掉了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Science beats magic, every time."
+msgstr "科學每次都能戰勝魔法。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "It's on fire!"
+msgstr "它著火了！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Science couldn't save it."
+msgstr "科學沒能拯救它。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "Looks science-y. How does it work?"
+msgstr "看起來很科——學，它怎麼工作的？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "It's getting low on power."
+msgstr "電量正在下降。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "I could get it working, if Winona's busy."
+msgstr "如果薇諾娜沒空的話，我也能讓它工作起來。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "It's on fire!"
+msgstr "它著火了！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Science couldn't save it."
+msgstr "科學沒能拯救它。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "She's made a sort of automatic defense system."
+msgstr "她建造了一種自動防禦系統。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "It needs some electricity."
+msgstr "它需要一些電力。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "It's on fire!"
+msgstr "它著火了！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Science couldn't save it."
+msgstr "科學沒能拯救它。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "What an ingenious idea!"
+msgstr "很棒的注意！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "It needs some electricity."
+msgstr "它需要一些電力。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Tis engulfed in flame!"
+msgstr "它被火焰包圍了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Twas devoured by Hel's fire!"
+msgstr "被海拉的火焰吞噬了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "Tis fueled by glorious magic."
+msgstr "它由偉大的魔法驅動。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "T'will not hold out much longer!"
+msgstr "看起來堅持不了多久！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "It hath lost its incredible power!"
+msgstr "它已經失去了那驚人的力量！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Tis engulfed in flame!"
+msgstr "它被火焰包圍了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Twas devoured by Hel's fire!"
+msgstr "被海拉的火焰吞噬了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "The tinkerer hath many tricks."
+msgstr "工匠的花樣還真多。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "T'will not hold out much longer!"
+msgstr "看起來堅持不了多久！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "It hath lost its incredible power!"
+msgstr "它已經失去了那驚人的力量！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Tis engulfed in flame!"
+msgstr "它被火焰包圍了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Twas devoured by Hel's fire!"
+msgstr "被海拉的火焰吞噬了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "Reinforcements hath arrived! To battle!"
+msgstr "增援部隊以至！隨我衝鋒！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "It has no fighting spirit."
+msgstr "它沒有了鬥志。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Tis engulfed in flame!"
+msgstr "它被火焰包圍了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Twas devoured by Hel's fire!"
+msgstr "被海拉的火焰吞噬了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "It can't get enough of me!"
+msgstr "它一直看不夠我！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "It has no fighting spirit."
+msgstr "它沒有了鬥志。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "I'm going to pretend I don't see it."
+msgstr "我會假裝我看不見它。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Oh. What a pity."
+msgstr "噢，真是遺憾。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "At least she has the sense to use gems."
+msgstr "至少她有用寶石的覺悟。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "I think it's losing power."
+msgstr "我覺得它的能量在流失。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Magic isn't so easy, is it?"
+msgstr "魔法可沒這麼容易，對吧？"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "I'm going to pretend I don't see it."
+msgstr "我會假裝我沒看見它。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Oh. What a pity."
+msgstr "噢，真是遺憾。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "Where does she find the time to build all this."
+msgstr "她哪來的時間造這些？"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "I think it's losing power."
+msgstr "我覺得它的能量在流失。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "See? It wasn't so great after all."
+msgstr "看吧，它也沒有那麼好。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "I'm going to pretend I don't see it."
+msgstr "我會假裝我沒看見它。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Oh. What a pity."
+msgstr "噢，真是遺憾。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "I could have thought of that."
+msgstr "我怎麼沒想到這個。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "It's useless out here without power."
+msgstr "沒有能量它就沒用了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "I'm going to pretend I don't see it."
+msgstr "我會假裝我沒看見它。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Oh. What a pity."
+msgstr "噢，真是遺憾。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "Well sure, if you want to take the easy way out."
+msgstr "好吧，如果你想要走捷徑的話。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "It's useless out here without power."
+msgstr "沒有能量它就沒用了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Oh, oh!"
+msgstr "噢，哦！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Oh no! It got burnt!"
+msgstr "哦不！它被燒掉了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "Machines think gem power is really tasty."
+msgstr "機器們覺得寶石的力量很好吃。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "We think it's running low."
+msgstr "我們覺得那快用光了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Winoooona! The thing broke!"
+msgstr "薇——諾——娜！那東西碎了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Oh, oh!"
+msgstr "噢，哦！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Oh no! It got burnt!"
+msgstr "哦不！它被燒掉了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "It feeds hungry machines."
+msgstr "它能餵飽飢餓的機器們。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "We think it's running low."
+msgstr "我們覺得那快用光了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "Hey Winona! How do we fix it?"
+msgstr "嘿薇諾娜！我們該怎麼修好它呢？"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Oh, oh!"
+msgstr "噢，哦！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Oh no! It got burnt!"
+msgstr "哦不！它被燒掉了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "We feel safer already!"
+msgstr "我們已經感覺安全多了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "How come it's not on?"
+msgstr "怎麼沒打開呢？"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Oh, oh!"
+msgstr "噢，哦！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Oh no! It got burnt!"
+msgstr "哦不！它被燒掉了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "She made us a nightlight!"
+msgstr "她給我們做了一盞夜燈！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "How come it's not on?"
+msgstr "怎麼沒打開呢？"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Oh no..."
+msgstr "噢不..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "It all crumbles to ash, in the end."
+msgstr "最終，一切燒都成了灰燼。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "This one looks odd."
+msgstr "那個看起來有點古怪。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "It's slowly dying."
+msgstr "它正慢慢地死去。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "I think it wants... gems..."
+msgstr "我覺得它想要...寶石..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Oh no..."
+msgstr "噢不..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "It all crumbles to ash, in the end."
+msgstr "最終，一切燒都成了灰燼。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "It's a kind of electrical box."
+msgstr "這是某種供電盒。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "It's not long for this world."
+msgstr "對於這世界來說並不長久。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "What did Winona put in it again? Oh..."
+msgstr "薇諾娜又往裡面放了什麼？哦..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Oh no..."
+msgstr "噢不..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "It all crumbles to ash, in the end."
+msgstr "最終，一切燒都成了灰燼。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "It visits death upon intruders."
+msgstr "讓入侵者全部死去。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "It's dead..."
+msgstr "它死了..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Oh no..."
+msgstr "噢不..."
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "It all crumbles to ash, in the end."
+msgstr "最終，一切燒都成了灰燼。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "But what if I liked the dark?"
+msgstr "可是如果我喜歡黑暗呢？"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "It's dead..."
+msgstr "它死了..."
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Oh dear, who did this?"
+msgstr "噢天，是誰幹的？"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "I do hope she'll build another."
+msgstr "我希望她能再造一個。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "It's good to see her keeping an open mind."
+msgstr "看到她的思維如此開放真是太好了。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "The magical focus will wear out soon."
+msgstr "魔力焦點很快就會損壞的。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "It needs a new magic focus."
+msgstr "它需要一個新的魔力焦點。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Oh dear, who did this?"
+msgstr "噢天，是誰幹的？"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "I do hope she'll build another."
+msgstr "我希望她能再造一個。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "An electrical power supply for her lovely inventions."
+msgstr "為她的可愛發明提供電力。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "Hm, her invention is starting to run down."
+msgstr "嗯，她的發明要開始停機了。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "I'll grab the nitre, yes?"
+msgstr "我去拿塊硝石，好嗎？"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Oh dear, who did this?"
+msgstr "噢天，是誰幹的？"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "I do hope she'll build another."
+msgstr "我希望她能再造一個。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "That Winona is quite resourceful."
+msgstr "那個薇諾娜真是足智多謀。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "It requires a power source."
+msgstr "它需要電源。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Oh dear, who did this?"
+msgstr "噢天，是誰幹的？"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "I do hope she'll build another."
+msgstr "我希望她能再造一個。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "A sensible safety precaution."
+msgstr "合理的安全措施。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "It requires a power source."
+msgstr "它需要電源。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Hehehe!"
+msgstr "嘿嘿嘿！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Well, that was mildly entertaining."
+msgstr "好吧，那還算挺有趣的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "More of Winona's weird junk."
+msgstr "更多薇諾娜的古怪垃圾。
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "It's on its last legs."
+msgstr "這玩意快不行了。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Oops. It broke."
+msgstr "哎呀，壞了。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Hehehe!"
+msgstr "嘿嘿嘿！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Well, that was mildly entertaining."
+msgstr "好吧，那還算挺有趣的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "Iunno, it's Winona's junk."
+msgstr "吶，這是薇諾娜的垃圾。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "It's on its last legs."
+msgstr "這玩意快不行了。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "Oops. It broke."
+msgstr "哎呀，壞了。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Hehehe!"
+msgstr "嘿嘿嘿！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Well, that was mildly entertaining."
+msgstr "好吧，那還算挺有趣的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "It flings big stinkin' rocks."
+msgstr "它拋出又大又臭的石頭。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "Is this thing on?"
+msgstr "這東西開了沒？"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Hehehe!"
+msgstr "嘿嘿嘿！"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Well, that was mildly entertaining."
+msgstr "好吧，那還算挺有趣的。"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "So no more night fires then?"
+msgstr "以後晚上再也不用火了？"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "Is this thing on?"
+msgstr "這東西開了沒？"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Quick! Put it out!"
+msgstr "塊！撲滅掉！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Criminy! My machine!"
+msgstr "天啊！我的機器！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "I don't get how gems work, I just know they do."
+msgstr "我也不知道寶石是怎麼工作的，我只知道它們能這麼做。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "Gonna need a top up soon."
+msgstr "很快就需要重新加滿了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Needs a few more'a those gem thingies."
+msgstr "還要再來更多寶石之類的東西。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Quick! Put it out!"
+msgstr "塊！撲滅掉！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Aw, nuts and bolts!"
+msgstr "嗷，燒的只剩渣渣了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "That oughta do it."
+msgstr "這應該可以了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "Just about out of juice."
+msgstr "快沒電了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "Needs some more nitre."
+msgstr "需要再來更多硝石。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Quick! Put it out!"
+msgstr "塊！撲滅掉！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Aw, nuts and bolts!"
+msgstr "嗷，燒的只剩渣渣了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "Not a bad result considering the materials."
+msgstr "原料那麼一般，做成這樣算不錯了。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "Gotta hook it up to the generator."
+msgstr "需要接上發電機。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Quick! Put it out!"
+msgstr "塊！撲滅掉！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Criminy! My machine!"
+msgstr "天啊！我的機器！"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "Sorry, Charlie."
+msgstr "對不起，查理。"
+
+#: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "Gotta hook it up to the generator."
+msgstr "需要接上發電機。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Is burning!"
+msgstr "燒著了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "Is all burned up."
+msgstr "完全燒掉了。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "Fixing lady doohickeys."
+msgstr "維修女士的小發明。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "It does not look so good."
+msgstr "看著不怎麼樣。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Fixing lady, quick, come fix!"
+msgstr "維修女士，快來修啊！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Is burning!"
+msgstr "燒著了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "Is all burned up."
+msgstr "完全燒掉了。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "Thingamabob made by fixing lady."
+msgstr "維修女工做的小玩意。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "Is supposed to look like that?"
+msgstr "看著這樣正常嗎？"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "Thingamabob is dead!"
+msgstr "小玩意死了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Is burning!"
+msgstr "燒著了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "Is all burned up."
+msgstr "完全燒掉了。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "Little fixing lady has very big brainmeats."
+msgstr "維修女士有個很強的大腦。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "Is not working."
+msgstr "不工作了。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Is burning!"
+msgstr "燒著了！"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "Is all burned up."
+msgstr "完全燒掉了。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "Fixing lady knows Wolfgang not like dark."
+msgstr "維修女士知道沃爾夫岡不喜歡黑暗。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "Is not working."
+msgstr "不工作了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "Woah! Careful, Lucy!"
+msgstr "唔哇！小心點，露西！"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "That's a right shame."
+msgstr "那真是太可惜了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "Pretty odd looking gadget there."
+msgstr "那玩意看著真古怪。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "Just about dead."
+msgstr "馬上就沒電了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "Plum tuckered."
+msgstr "油盡燈枯了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "Woah! Careful, Lucy!"
+msgstr "唔哇！小心點，露西！"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "That's a right shame."
+msgstr "那真是太可惜了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "Looks like Winona's work."
+msgstr "看著像薇諾娜做的。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "Just about dead."
+msgstr "馬上就沒電了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "Plum tuckered."
+msgstr "油盡燈枯了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "Woah! Careful, Lucy!"
+msgstr "唔哇！小心點，露西！"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "That's a right shame."
+msgstr "那真是太可惜了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "Looks kinda fun if I'm honest."
+msgstr "老實說看著挺好玩。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "Does it look like it's working, Lucy?"
+msgstr "露西，這東西是在工作么？"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "Woah! Careful, Lucy!"
+msgstr "唔哇！小心點，露西！"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "That's a right shame."
+msgstr "那真是太可惜了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "Fine, as long as it don't start no forest fires."
+msgstr "好吧，別點著森林大火就行。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "Does it look like it's working, Lucy?"
+msgstr "露西，這東西是在工作么？"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.BURNING
+msgid "HURRY, SAVE IT"
+msgstr "快點啊，救救它"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.BURNT
+msgid "IT WAS A GOOD MACHINE"
+msgstr "它曾是一台優秀的機器"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.GENERIC
+msgid "MORE POWER. YES"
+msgstr "更多的能量。這樣好"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.LOWPOWER
+msgid "DO NOT DIE ON ME, SISTER"
+msgstr "千萬別死在這，姐姐"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_HIGH.OFF
+msgid "WHY"
+msgstr "為甚麼"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.BURNING
+msgid "HURRY, SAVE IT"
+msgstr "快點啊，救救它"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.BURNT
+msgid "IT WAS A GOOD MACHINE"
+msgstr "它曾是一台優秀的機器"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.GENERIC
+msgid "OVERALLS IS NOW MY LEAST HATED MINION"
+msgstr "穿工裝的那個現在是我最不討厭的跟班"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.LOWPOWER
+msgid "DO NOT GIVE UP, BROTHER"
+msgstr "不要放棄，兄弟"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_BATTERY_LOW.OFF
+msgid "NOOO"
+msgstr "不——！"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_CATAPULT.BURNING
+msgid "HURRY, SAVE IT"
+msgstr "快點啊，救救它"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_CATAPULT.BURNT
+msgid "IT WAS A GOOD MACHINE"
+msgstr "它曾是一台優秀的機器"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_CATAPULT.GENERIC
+msgid "MY MINION CONTRIBUTES FORCES TO THE ROBOT WAR"
+msgstr "我的跟班為機器人大戰做出了貢獻"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_CATAPULT.OFF
+msgid "IT'S JUST SLEEPING"
+msgstr "它只是在睡覺"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.BURNING
+msgid "HURRY, SAVE IT"
+msgstr "快點啊，救救它"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.BURNT
+msgid "IT WAS A GOOD MACHINE"
+msgstr "它曾是一台優秀的機器"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
+msgid "THE OVERALLS FLESHLING HAS PROVED USEFUL"
+msgstr "穿工裝的那個肉塊還是有點用的"
+
+#: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.OFF
+msgid "IT'S JUST SLEEPING"
+msgstr "它只是在睡覺"
