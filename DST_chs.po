@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -107584,7 +107584,7 @@ msgstr "基本食物燃料"
 
 #: STRINGS.NAMES.WINONA_BATTERY_HIGH
 msgid "Winona's G.E.M.erator"
-msgstr "薇诺娜的珐电机"
+msgstr "薇诺娜宝石电机"
 
 #: STRINGS.NAMES.WINONA_BATTERY_LOW
 msgid "Winona's Generator"
@@ -107600,11 +107600,11 @@ msgstr "薇诺娜的聚光灯"
 
 #: STRINGS.RECIPE_DESC.WINONA_BATTERY_HIGH
 msgid "This one uses gems, so you know it's good."
-msgstr "这个用的是宝石，所以你懂的，会更好一点。"
+msgstr "这个用的是宝石，你懂的，更好一点。"
 
 #: STRINGS.RECIPE_DESC.WINONA_BATTERY_LOW
 msgid "Someone's gotta keep the juice flowing."
-msgstr "总有东西要保持活动。"
+msgstr "总有东西需要保持运转。"
 
 #: STRINGS.RECIPE_DESC.WINONA_CATAPULT
 msgid "Lob big rocks at fearful foes."
@@ -107612,7 +107612,7 @@ msgstr "向敌人投掷大石块。"
 
 #: STRINGS.RECIPE_DESC.WINONA_SPOTLIGHT
 msgid "Shine a light both day and night."
-msgstr "没日没夜的发光。"
+msgstr "没日没夜的亮着。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_factory
 msgid "When it comes to factory safety, proper signage is key."
@@ -107756,7 +107756,7 @@ msgstr "磨损的工作服"
 
 #: STRINGS.SKIN_NAMES.bugnet_spider
 msgid "Ravenous Spidernet"
-msgstr "贪婪的蜘蛛网"
+msgstr "贪吃的蜘蛛网"
 
 #: STRINGS.SKIN_NAMES.feet_winona_factory
 msgid "Voxola Safety Boots"
@@ -107876,7 +107876,7 @@ msgstr "雪球发射器"
 
 #: STRINGS.TABS.ENGINEERING
 msgid "Engineering"
-msgstr "工程学"
+msgstr "工程"
 
 #: STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
 msgid "You have not submitted your report.\nAre you sure you want to cancel?"
@@ -107960,7 +107960,7 @@ msgstr "欢迎回来！\n请享受这份每日礼物。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgid "Due to an error, dynamic content loading has been disabled."
-msgstr "出现错误，以停止加载动态内容"
+msgstr "出现错误，以停止加载动态内容。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK
 msgid "I understand"
@@ -108191,4 +108191,4 @@ msgstr "也许我该休息一下，吃点点心？"
 
 #: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.4
 msgid "I could sure go for some grub."
-msgstr ""
+msgstr "我想吃些东西。"

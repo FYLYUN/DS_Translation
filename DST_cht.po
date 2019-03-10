@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -107586,10 +107586,9 @@ msgstr "給肉塊們的食物燃料"
 msgid "BASIC FOODFUEL"
 msgstr "基本食物燃料"
 
-
 #: STRINGS.NAMES.WINONA_BATTERY_HIGH
 msgid "Winona's G.E.M.erator"
-msgstr "薇諾娜的琺電機"
+msgstr "薇諾娜寶石電機"
 
 #: STRINGS.NAMES.WINONA_BATTERY_LOW
 msgid "Winona's Generator"
@@ -107605,11 +107604,11 @@ msgstr "薇諾娜的聚光燈"
 
 #: STRINGS.RECIPE_DESC.WINONA_BATTERY_HIGH
 msgid "This one uses gems, so you know it's good."
-msgstr "這個用的是寶石，所以你懂的，會更好一點。"
+msgstr "這個用的是寶石，你懂的，更好一點。"
 
 #: STRINGS.RECIPE_DESC.WINONA_BATTERY_LOW
 msgid "Someone's gotta keep the juice flowing."
-msgstr "總有東西要保持活動。"
+msgstr "總有東西需要保持運轉。"
 
 #: STRINGS.RECIPE_DESC.WINONA_CATAPULT
 msgid "Lob big rocks at fearful foes."
@@ -107617,7 +107616,7 @@ msgstr "向敵人投擲大石塊。"
 
 #: STRINGS.RECIPE_DESC.WINONA_SPOTLIGHT
 msgid "Shine a light both day and night."
-msgstr "沒日沒夜的發光。"
+msgstr "沒日沒夜的亮著。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.arrowsign_post_factory
 msgid "When it comes to factory safety, proper signage is key."
@@ -107761,7 +107760,7 @@ msgstr "磨損的工作服"
 
 #: STRINGS.SKIN_NAMES.bugnet_spider
 msgid "Ravenous Spidernet"
-msgstr "貪婪的蜘蛛網"
+msgstr "貪吃的蜘蛛網"
 
 #: STRINGS.SKIN_NAMES.feet_winona_factory
 msgid "Voxola Safety Boots"
@@ -107881,7 +107880,7 @@ msgstr "雪球發射器"
 
 #: STRINGS.TABS.ENGINEERING
 msgid "Engineering"
-msgstr "工程學"
+msgstr "工程"
 
 #: STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
 msgid "You have not submitted your report.\nAre you sure you want to cancel?"
@@ -107965,7 +107964,7 @@ msgstr "歡迎回來！\n請享受這份每日禮物。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgid "Due to an error, dynamic content loading has been disabled."
-msgstr "出現錯誤，以停止載入動態內容"
+msgstr "出現錯誤，以停止載入動態內容。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_OK
 msgid "I understand"
@@ -108193,3 +108192,7 @@ msgstr "噢，我腦子都進水了。"
 #: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.3
 msgid "Maybe I could take a snack break?"
 msgstr "也許我該休息一下，吃點點心？"
+
+#: STRINGS.CHARACTERS.WINONA.ANNOUNCE_HUNGRY_SLOWBUILD.4
+msgid "I could sure go for some grub."
+msgstr "我想吃些東西。"
