@@ -31620,7 +31620,7 @@ msgstr "指引我的明燈。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REDMOONEYE
 msgid "Now Wolfgang won't get \"lost\" when I invite him to play."
-msgstr "現在我再邀請沃夫岡來玩，他就不會再「迷路」了。"
+msgstr "現在我再邀請沃爾夫岡來玩，他就不會再「迷路」了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.REDPOUCH
 msgid "What lies within?"
@@ -72564,7 +72564,7 @@ msgstr "？"
 
 #: STRINGS.CHARACTER_TITLES.wathgrithr
 msgid "The Performance Artist"
-msgstr "表演藝術家\n維德弗雷"
+msgstr "表演藝術家\n薇格弗德"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
@@ -72580,7 +72580,7 @@ msgstr "喪失親人者\n溫蒂"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者\n維斯"
+msgstr "沉默者\n韋斯"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
@@ -103028,7 +103028,7 @@ msgstr "這個靈異寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "這個喜劇小丑寶箱包含\n維斯的全套萬聖夜系列皮膚。"
+msgstr "這個喜劇小丑寶箱包含\n韋斯的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
@@ -104576,7 +104576,7 @@ msgstr "穿上這雙岩石靴子搖滾起來吧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wolfgang_magma
 msgid "Wolfgang strong. Wolfgang need no foot protection."
-msgstr "沃尔夫冈很强，沃尔夫冈不需要足部保護。"
+msgstr "沃爾夫岡很强，沃爾夫岡不需要足部保護。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_woodie_magma
 msgid "These boots are on fire."
@@ -104628,7 +104628,7 @@ msgstr "這個岩漿寶箱包含\n溫蒂的全套岩漿系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_magma_wes
 msgid "This Magmatic Chest contains Wes' complete set of Magmatic skin items."
-msgstr "這個岩漿寶箱包含\n維斯的全套岩漿系列皮膚。"
+msgstr "這個岩漿寶箱包含\n韋斯的全套岩漿系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_magma_wickerbottom
 msgid "This Magmatic Chest contains Wickerbottom's complete set of Magmatic skin items."
@@ -104800,7 +104800,7 @@ msgstr "只要保證鑽頭對準你的敵人你就能贏。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_magma
 msgid "Wigfrid is ready for Ragnarok."
-msgstr "薇德弗雷已經準備好迎接諸神黃昏了。"
+msgstr "薇格弗德已經準備好迎接諸神黃昏了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_magma
 msgid "Wendy, like Abigail, will rise from the ashes."
@@ -105020,7 +105020,7 @@ msgstr "岩漿捆綁包"
 
 #: STRINGS.SKIN_NAMES.pack_magma_wathgrithr
 msgid "Wigfrid Magmatic Chest"
-msgstr "薇德弗雷的岩漿寶箱"
+msgstr "薇格弗德的岩漿寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_magma_waxwell
 msgid "Maxwell Magmatic Chest"
@@ -105036,7 +105036,7 @@ msgstr "溫蒂的岩漿寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_magma_wes
 msgid "Wes Magmatic Chest"
-msgstr "維斯的岩漿寶箱"
+msgstr "韋斯的岩漿寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_magma_wickerbottom
 msgid "Wickerbottom Magmatic Chest"
@@ -106612,15 +106612,15 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_promo1
 msgid "This Promo Chest contains the Contenders skins for Wigfrid, Wes and Wolfgang, the Golden Helm, Ultimate Spear, Lover's Umbrella, Lover's Wardrobe, Cowboy Straw Hat and Prybar Hammer."
-msgstr "這個促銷寶箱包含了薇德弗雷，維斯和沃爾夫岡的競爭者系列皮膚，黃金頭盔，終極長矛，情人的雨傘，情人的衣櫃，牛仔雨帽和撬棍錘。"
+msgstr "這個促銷寶箱包含了薇格弗德，韋斯和沃爾夫岡的競爭者系列皮膚，黃金頭盔，終極長矛，情人的雨傘，情人的衣櫃，牛仔雨帽和撬棍錘。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr
 msgid "This Contenders Chest contains Wigfrid's complete set of Contenders skin items, as well as the Golden Helm and Ultimate Spear."
-msgstr "這個競爭者寶箱包含了薇德弗雷的全套競爭者系列皮膚，以及黃金頭盔和終極長矛。"
+msgstr "這個競爭者寶箱包含了薇格弗德的全套競爭者系列皮膚，以及黃金頭盔和終極長矛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wes
 msgid "This Contenders Chest contains Wes' complete set of Contenders skin items, as well as the Lover's Umbrella and Lover's Wardrobe."
-msgstr "這個競爭者寶箱包含了維斯的全套競爭者系列皮膚，以及情人的雨傘和情人的衣櫃。"
+msgstr "這個競爭者寶箱包含了韋斯的全套競爭者系列皮膚，以及情人的雨傘和情人的衣櫃。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wolfgang
 msgid "This Contenders Chest contains Wolfgang's complete set of Contenders skin items, as well as the Cowboy Straw Hat and Prybar Hammer."
@@ -106704,7 +106704,7 @@ msgstr "愛上這個新造型。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_wrestler
 msgid "Wigfrid's mic skills can't be beat!"
-msgstr "薇德弗雷的把麥技能無人能敵！"
+msgstr "薇格弗德的把麥技能無人能敵！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wathgrithrhat_wrestle
 msgid "A golden helm fit for a golden warrior."
@@ -108100,7 +108100,7 @@ msgstr "在白天，一個法國啞劇演員。在夜裡，一個可怕的劍客
 
 #: STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
 msgid "Wes is the ultimate babyface."
-msgstr "維斯是個終極娃娃臉。"
+msgstr "韋斯是個終極娃娃臉。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wickerbottom_magma
 msgid "Wickerbottom saves her wrath for those who besmirch the Dewey Decimal System."

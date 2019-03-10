@@ -72580,7 +72580,7 @@ msgstr "丧失亲人者\n温蒂"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者\n维斯"
+msgstr "沉默者\n韦斯"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
@@ -103032,7 +103032,7 @@ msgstr "这个灵异宝箱包含\n温蒂的全套万圣夜系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "这个喜剧小丑宝箱包含\n维斯的全套万圣夜系列皮肤。"
+msgstr "这个喜剧小丑宝箱包含\n韦斯的全套万圣夜系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
@@ -104624,7 +104624,7 @@ msgstr "这个岩浆宝箱包含\n温蒂的全套岩浆系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_magma_wes
 msgid "This Magmatic Chest contains Wes' complete set of Magmatic skin items."
-msgstr "这个岩浆宝箱包含\n维斯的全套岩浆系列皮肤。"
+msgstr "这个岩浆宝箱包含\n韦斯的全套岩浆系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_magma_wickerbottom
 msgid "This Magmatic Chest contains Wickerbottom's complete set of Magmatic skin items."
@@ -105032,7 +105032,7 @@ msgstr "温蒂的岩浆宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_magma_wes
 msgid "Wes Magmatic Chest"
-msgstr "维斯的岩浆宝箱"
+msgstr "韦斯的岩浆宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_magma_wickerbottom
 msgid "Wickerbottom Magmatic Chest"
@@ -106608,7 +106608,7 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_promo1
 msgid "This Promo Chest contains the Contenders skins for Wigfrid, Wes and Wolfgang, the Golden Helm, Ultimate Spear, Lover's Umbrella, Lover's Wardrobe, Cowboy Straw Hat and Prybar Hammer."
-msgstr "这个促销宝箱包含了薇德弗雷，维斯和沃尔夫冈的竞争者系列皮肤，黄金头盔，终极长矛，情人的雨伞，情人的衣柜，牛仔雨帽和撬棍锤。"
+msgstr "这个促销宝箱包含了薇德弗雷，韦斯和沃尔夫冈的竞争者系列皮肤，黄金头盔，终极长矛，情人的雨伞，情人的衣柜，牛仔雨帽和撬棍锤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wathgrithr
 msgid "This Contenders Chest contains Wigfrid's complete set of Contenders skin items, as well as the Golden Helm and Ultimate Spear."
@@ -106616,7 +106616,7 @@ msgstr "这个竞争者宝箱包含了薇德弗雷的全套竞争者系列皮肤
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wes
 msgid "This Contenders Chest contains Wes' complete set of Contenders skin items, as well as the Lover's Umbrella and Lover's Wardrobe."
-msgstr "这个竞争者宝箱包含了维斯的全套竞争者系列皮肤，以及情人的雨伞和情人的衣柜。"
+msgstr "这个竞争者宝箱包含了韦斯的全套竞争者系列皮肤，以及情人的雨伞和情人的衣柜。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_wrestler_wolfgang
 msgid "This Contenders Chest contains Wolfgang's complete set of Contenders skin items, as well as the Cowboy Straw Hat and Prybar Hammer."
@@ -108096,7 +108096,7 @@ msgstr "在白天，一个法国哑剧演员。在夜里，一个可怕的剑客
 
 #: STRINGS.SKIN_DESCRIPTIONS.wes_wrestler
 msgid "Wes is the ultimate babyface."
-msgstr "维斯是个终极娃娃脸。"
+msgstr "韦斯是个终极娃娃脸。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wickerbottom_magma
 msgid "Wickerbottom saves her wrath for those who besmirch the Dewey Decimal System."
