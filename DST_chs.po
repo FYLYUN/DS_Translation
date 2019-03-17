@@ -6992,7 +6992,7 @@ msgstr "谁知道那风滚草捡到了什么。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_BADLANDS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CARPETFLOOR
 msgid "It's surprisingly scratchy."
@@ -7000,7 +7000,7 @@ msgstr "出人意料的刺耳"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CAVE
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CHECKERFLOOR
 msgid "These are pretty snazzy."
@@ -7008,7 +7008,7 @@ msgstr "这些非常时髦"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DECIDUOUS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DESERTDIRT
 msgid "A chunk of ground."
@@ -7016,7 +7016,7 @@ msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DIRT
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DRAGONFLY
 msgid "Do you want proof that it's fireproof?"
@@ -7024,11 +7024,11 @@ msgstr "你想看看那是不是防火的吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FOREST
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FUNGUS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "A chunk of ground."
@@ -7040,15 +7040,15 @@ msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_GRASS
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MARSH
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MUD
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_ROAD
 msgid "Hastily cobbled stones."
@@ -7056,7 +7056,7 @@ msgstr "匆忙修饰的鹅卵石。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_ROCKY
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SANDY
 msgid "Yet another ground type."
@@ -7064,19 +7064,19 @@ msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SAVANNA
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SINKHOLE
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_UNDERROCK
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_WOODFLOOR
 msgid "These are floorboards."
-msgstr "这些是地板"
+msgstr "这些是地板。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURKEYDINNER
 msgid "Mmmm."
@@ -72544,7 +72544,7 @@ msgstr "\"我将用我的头脑征服这个世界！\""
 
 #: STRINGS.CHARACTER_QUOTES.winona
 msgid "\"Anything can be fixed with hard work and elbow grease.\""
-msgstr "\"只要勤劳工作，任何东西都能完\n成。\""
+msgstr "\"所有东西都能靠着\n勤劳和努力来修复！\""
 
 #: STRINGS.CHARACTER_QUOTES.wolfgang
 msgid "\"I am mighty! No one is mightier!\""
@@ -78792,7 +78792,7 @@ msgstr "地毯地板"
 
 #: STRINGS.NAMES.TURF_CAVE
 msgid "Guano Turf"
-msgstr "鸟粪草地"
+msgstr "鸟粪地皮"
 
 #: STRINGS.NAMES.TURF_CHECKERFLOOR
 msgid "Checkered Flooring"
@@ -78800,15 +78800,15 @@ msgstr "方格地板"
 
 #: STRINGS.NAMES.TURF_DECIDUOUS
 msgid "Deciduous Turf"
-msgstr "季节性草地"
+msgstr "落叶林地皮"
 
 #: STRINGS.NAMES.TURF_DESERTDIRT
 msgid "Sandy Turf"
-msgstr "沙地"
+msgstr "沙土地皮"
 
 #: STRINGS.NAMES.TURF_DIRT
 msgid "Dirt Turf"
-msgstr "污垢草皮"
+msgstr "泥土地皮"
 
 #: STRINGS.NAMES.TURF_DRAGONFLY
 msgid "Scaled Flooring"
@@ -78816,31 +78816,31 @@ msgstr "龙鳞地板"
 
 #: STRINGS.NAMES.TURF_FOREST
 msgid "Forest Turf"
-msgstr "森林草皮"
+msgstr "森林地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS_GREEN
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS_RED
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_GRASS
 msgid "Grass Turf"
-msgstr "长草草皮"
+msgstr "长草地皮"
 
 #: STRINGS.NAMES.TURF_MARSH
 msgid "Marsh Turf"
-msgstr "沼泽草皮"
+msgstr "沼泽地皮"
 
 #: STRINGS.NAMES.TURF_MUD
 msgid "Mud Turf"
-msgstr "泥泞草地"
+msgstr "泥泞地皮"
 
 #: STRINGS.NAMES.TURF_ROAD
 msgid "Cobblestones"
@@ -78848,7 +78848,7 @@ msgstr "卵石路"
 
 #: STRINGS.NAMES.TURF_ROCKY
 msgid "Rocky Turf"
-msgstr "岩石草皮"
+msgstr "岩石地皮"
 
 #: STRINGS.NAMES.TURF_SAVANNA
 msgid "Savanna Turf"
@@ -78856,11 +78856,11 @@ msgstr "热带草原草皮"
 
 #: STRINGS.NAMES.TURF_SINKHOLE
 msgid "Slimy Turf"
-msgstr "泥泞的地皮"
+msgstr "泥泞地皮"
 
 #: STRINGS.NAMES.TURF_UNDERROCK
 msgid "Cave Rock Turf"
-msgstr "洞穴石地"
+msgstr "洞穴石地皮"
 
 #: STRINGS.NAMES.TURF_WOODFLOOR
 msgid "Wooden Flooring"
@@ -107584,7 +107584,7 @@ msgstr "基本食物燃料"
 
 #: STRINGS.NAMES.WINONA_BATTERY_HIGH
 msgid "Winona's G.E.M.erator"
-msgstr "薇诺娜宝石电机"
+msgstr "薇诺娜的G.E.M电机"
 
 #: STRINGS.NAMES.WINONA_BATTERY_LOW
 msgid "Winona's Generator"
