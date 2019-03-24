@@ -10660,7 +10660,7 @@ msgstr "我不认为我能骑那匹马。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_SUMMER
 msgid "Dearest creature... I am going to eat you."
-msgstr "亲爱的生物……我要吃掉你。"
+msgstr "亲爱的生物…我要来吃了你。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_WINTER
 msgid "Poor unsuspecting meat beast."
@@ -10668,7 +10668,7 @@ msgstr "可怜的畜生都不知道怎么死的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KRAMPUS
 msgid "You don't scare me, goat!"
-msgstr "你不怕我，色鬼！"
+msgstr "你吓不到我，山羊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KRAMPUS_SACK
 msgid "The sack itself is the present."
@@ -30004,7 +30004,7 @@ msgstr "它反抗着残酷的自然力量"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS
 msgid "Hello, foul creature of the underworld."
-msgstr "你好啊，地下的邪恶生物"
+msgstr "你好啊，地狱的肮脏生物。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS_SACK
 msgid "It smells of goat."
@@ -55888,7 +55888,7 @@ msgstr "可怕的山羊人！跑啊！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KRAMPUS_SACK
 msgid "Goat man finally give up his sack!"
-msgstr "小偷终于丢弃了他的袋子！"
+msgstr "山羊人终于丢弃了他的袋子！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LANTERN
 msgid "It keeps me safe from dark."
@@ -62344,7 +62344,7 @@ msgstr "他们在冬天会变得更好吃。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS
 msgid "Back off, hoser!"
-msgstr "滚回去，骗子！"
+msgstr "呸，滚开！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS_SACK
 msgid "Seems wrong to take someone else's sack."
@@ -89024,7 +89024,7 @@ msgstr "\"淘气。真是淘气。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_krampus_d
 msgid "\"Naughty. Definitely naughty.\""
-msgstr "\"顽皮，十分的顽皮。\""
+msgstr "\"淘气，真是淘气。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_nature
 msgid "\"There is magic in the trees.\""
@@ -89036,7 +89036,7 @@ msgstr "\"蔷薇的刺无法隐藏。这是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
-msgstr "\"说实话，伙计，我状态并不好。\""
+msgstr "\"嘿，伙计，我看起来状态不佳。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_unshadow
 msgid "\"The poor unsuspecting fool has no idea what's coming.\""
@@ -89112,11 +89112,11 @@ msgstr "\"我们迟早会变得冰冷。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant
 msgid "\"So alluring...\""
-msgstr "\"非常的诱人……\""
+msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant_d
 msgid "\"So alluring...\""
-msgstr "\"非常的诱人……\""
+msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_rose
 msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
