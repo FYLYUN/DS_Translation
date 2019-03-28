@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -6992,7 +6992,7 @@ msgstr "谁知道那风滚草捡到了什么。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_BADLANDS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CARPETFLOOR
 msgid "It's surprisingly scratchy."
@@ -7000,7 +7000,7 @@ msgstr "出人意料的刺耳"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CAVE
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_CHECKERFLOOR
 msgid "These are pretty snazzy."
@@ -7008,7 +7008,7 @@ msgstr "这些非常时髦"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DECIDUOUS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DESERTDIRT
 msgid "A chunk of ground."
@@ -7016,7 +7016,7 @@ msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DIRT
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_DRAGONFLY
 msgid "Do you want proof that it's fireproof?"
@@ -7024,11 +7024,11 @@ msgstr "你想看看那是不是防火的吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FOREST
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FUNGUS
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "A chunk of ground."
@@ -7040,15 +7040,15 @@ msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_GRASS
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MARSH
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MUD
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_ROAD
 msgid "Hastily cobbled stones."
@@ -7056,7 +7056,7 @@ msgstr "匆忙修饰的鹅卵石。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_ROCKY
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SANDY
 msgid "Yet another ground type."
@@ -7064,19 +7064,19 @@ msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SAVANNA
 msgid "A chunk of ground."
-msgstr "一块土地"
+msgstr "一大块土地。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_SINKHOLE
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_UNDERROCK
 msgid "Yet another ground type."
-msgstr "又是一种新地形"
+msgstr "又是一种新地形。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_WOODFLOOR
 msgid "These are floorboards."
-msgstr "这些是地板"
+msgstr "这些是地板。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURKEYDINNER
 msgid "Mmmm."
@@ -10660,7 +10660,7 @@ msgstr "我不认为我能骑那匹马。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_SUMMER
 msgid "Dearest creature... I am going to eat you."
-msgstr "亲爱的生物……我要吃掉你。"
+msgstr "亲爱的生物…我要来吃了你。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KOALEFANT_WINTER
 msgid "Poor unsuspecting meat beast."
@@ -10668,7 +10668,7 @@ msgstr "可怜的畜生都不知道怎么死的。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KRAMPUS
 msgid "You don't scare me, goat!"
-msgstr "你不怕我，色鬼！"
+msgstr "你吓不到我，山羊！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.KRAMPUS_SACK
 msgid "The sack itself is the present."
@@ -13448,7 +13448,7 @@ msgstr "逃跑吧，懦夫！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_BADLANDS
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CARPETFLOOR
 msgid "It soaks up the blood of battle."
@@ -13456,7 +13456,7 @@ msgstr "它吸收了战场上的鲜血。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CAVE
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_CHECKERFLOOR
 msgid "Fancy floor."
@@ -13464,47 +13464,47 @@ msgstr "奇特的地板。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_DECIDUOUS
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_DESERTDIRT
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_DIRT
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_DRAGONFLY
 msgid "A warm piece of the battlefield."
-msgstr "战场上的温馨部分。"
+msgstr "战场上温暖的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_FOREST
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_FUNGUS
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_FUNGUS_RED
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_GRASS
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_MARSH
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_MUD
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_ROAD
 msgid "The road to battle leads wherever we will it."
@@ -13512,23 +13512,23 @@ msgstr "通向战斗的路引领着我们到达任何想去的地方。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_ROCKY
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SANDY
 msgid "A piece of the battlefield."
-msgstr "一片战场。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SAVANNA
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_SINKHOLE
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_UNDERROCK
 msgid "A piece of the battlefield."
-msgstr "战场的一片区域。"
+msgstr "战场的一部分。"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.TURF_WOODFLOOR
 msgid "Wooden flooring, a fine surface for mortal combat."
@@ -19904,7 +19904,7 @@ msgstr "翻滚吧，野草。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_BADLANDS
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_CARPETFLOOR
 msgid "That's a quality, high-pile carpet sample!"
@@ -19912,7 +19912,7 @@ msgstr "那是个，高品质人造长毛绒地毯样品！"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_CAVE
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_CHECKERFLOOR
 msgid "That's my natural habitat."
@@ -19920,7 +19920,7 @@ msgstr "那是我的自然栖息地"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_DECIDUOUS
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_DESERTDIRT
 msgid "Turf."
@@ -19928,11 +19928,11 @@ msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_DIRT
 msgid "Dusty."
-msgstr "有灰的。"
+msgstr "肮脏。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_DRAGONFLY
 msgid "It's warm, but quells flame."
-msgstr "它很温暖，但是内压火焰。"
+msgstr "它很温暖，但能熄灭火焰。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_FOREST
 msgid "Smells like mud."
@@ -19940,7 +19940,7 @@ msgstr "闻起来像灰尘。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_FUNGUS
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "Turf."
@@ -19960,7 +19960,7 @@ msgstr "它散落得到处都是"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_MUD
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_ROAD
 msgid "At least this one is useful."
@@ -19972,23 +19972,23 @@ msgstr "有点粗糙"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SANDY
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SAVANNA
 msgid "Dirty."
-msgstr "肮脏"
+msgstr "肮脏."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_SINKHOLE
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_UNDERROCK
 msgid "Turf."
-msgstr "草地"
+msgstr "地皮。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURF_WOODFLOOR
 msgid "I prefer hardwoods."
-msgstr "我更喜欢硬木"
+msgstr "我更喜欢硬木."
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.TURKEYDINNER
 msgid "How festive."
@@ -30004,7 +30004,7 @@ msgstr "它反抗着残酷的自然力量"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS
 msgid "Hello, foul creature of the underworld."
-msgstr "你好啊，地下的邪恶生物"
+msgstr "你好啊，地狱的肮脏生物。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.KRAMPUS_SACK
 msgid "It smells of goat."
@@ -55888,7 +55888,7 @@ msgstr "可怕的山羊人！跑啊！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.KRAMPUS_SACK
 msgid "Goat man finally give up his sack!"
-msgstr "小偷终于丢弃了他的袋子！"
+msgstr "山羊人终于丢弃了他的袋子！"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.LANTERN
 msgid "It keeps me safe from dark."
@@ -62344,7 +62344,7 @@ msgstr "他们在冬天会变得更好吃。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS
 msgid "Back off, hoser!"
-msgstr "滚回去，骗子！"
+msgstr "呸，滚开！"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.KRAMPUS_SACK
 msgid "Seems wrong to take someone else's sack."
@@ -72544,7 +72544,7 @@ msgstr "\"我将用我的头脑征服这个世界！\""
 
 #: STRINGS.CHARACTER_QUOTES.winona
 msgid "\"Anything can be fixed with hard work and elbow grease.\""
-msgstr "\"只要勤劳工作，任何东西都能完\n成。\""
+msgstr "\"所有东西都能靠着\n勤劳和努力来修复！\""
 
 #: STRINGS.CHARACTER_QUOTES.wolfgang
 msgid "\"I am mighty! No one is mightier!\""
@@ -78792,7 +78792,7 @@ msgstr "地毯地板"
 
 #: STRINGS.NAMES.TURF_CAVE
 msgid "Guano Turf"
-msgstr "鸟粪草地"
+msgstr "鸟粪地皮"
 
 #: STRINGS.NAMES.TURF_CHECKERFLOOR
 msgid "Checkered Flooring"
@@ -78800,15 +78800,15 @@ msgstr "方格地板"
 
 #: STRINGS.NAMES.TURF_DECIDUOUS
 msgid "Deciduous Turf"
-msgstr "季节性草地"
+msgstr "落叶林地皮"
 
 #: STRINGS.NAMES.TURF_DESERTDIRT
 msgid "Sandy Turf"
-msgstr "沙地"
+msgstr "沙土地皮"
 
 #: STRINGS.NAMES.TURF_DIRT
 msgid "Dirt Turf"
-msgstr "污垢草皮"
+msgstr "泥土地皮"
 
 #: STRINGS.NAMES.TURF_DRAGONFLY
 msgid "Scaled Flooring"
@@ -78816,31 +78816,31 @@ msgstr "龙鳞地板"
 
 #: STRINGS.NAMES.TURF_FOREST
 msgid "Forest Turf"
-msgstr "森林草皮"
+msgstr "森林地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS_GREEN
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_FUNGUS_RED
 msgid "Fungal Turf"
-msgstr "菌类草地"
+msgstr "菌类地皮"
 
 #: STRINGS.NAMES.TURF_GRASS
 msgid "Grass Turf"
-msgstr "长草草皮"
+msgstr "长草地皮"
 
 #: STRINGS.NAMES.TURF_MARSH
 msgid "Marsh Turf"
-msgstr "沼泽草皮"
+msgstr "沼泽地皮"
 
 #: STRINGS.NAMES.TURF_MUD
 msgid "Mud Turf"
-msgstr "泥泞草地"
+msgstr "泥泞地皮"
 
 #: STRINGS.NAMES.TURF_ROAD
 msgid "Cobblestones"
@@ -78848,7 +78848,7 @@ msgstr "卵石路"
 
 #: STRINGS.NAMES.TURF_ROCKY
 msgid "Rocky Turf"
-msgstr "岩石草皮"
+msgstr "岩石地皮"
 
 #: STRINGS.NAMES.TURF_SAVANNA
 msgid "Savanna Turf"
@@ -78856,11 +78856,11 @@ msgstr "热带草原草皮"
 
 #: STRINGS.NAMES.TURF_SINKHOLE
 msgid "Slimy Turf"
-msgstr "泥泞的地皮"
+msgstr "泥泞地皮"
 
 #: STRINGS.NAMES.TURF_UNDERROCK
 msgid "Cave Rock Turf"
-msgstr "洞穴石地"
+msgstr "洞穴石地皮"
 
 #: STRINGS.NAMES.TURF_WOODFLOOR
 msgid "Wooden Flooring"
@@ -81016,7 +81016,7 @@ msgstr "一路顺风。"
 
 #: STRINGS.RECIPE_DESC.PERDSHRINE
 msgid "Make offerings to the majestic Gobbler."
-msgstr "供奉神圣的火鸡吧\n。"
+msgstr "向宏伟之火鸡献上祭品。"
 
 #: STRINGS.RECIPE_DESC.PICKAXE
 msgid "Break down rocks."
@@ -81476,7 +81476,7 @@ msgstr "按照你的心情改变\n你的样子。"
 
 #: STRINGS.RECIPE_DESC.WARGSHRINE
 msgid "Make offerings to the earthen Varg."
-msgstr "向座狼献上祭品吧。"
+msgstr "向陶瓷之座狼献上祭品。"
 
 #: STRINGS.RECIPE_DESC.WATERBALLOON
 msgid "Spheroid fire suppression."
@@ -87316,7 +87316,7 @@ msgstr "战神护腿"
 
 #: STRINGS.SKIN_NAMES.legs_wathgrithr_nature
 msgid "Grove Sentinel Leggings"
-msgstr "哨兵护腿"
+msgstr "森林哨兵护腿"
 
 #: STRINGS.SKIN_NAMES.legs_wathgrithr_victorian
 msgid "Tragedienne Trousers"
@@ -89024,7 +89024,7 @@ msgstr "\"淘气。真是淘气。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_krampus_d
 msgid "\"Naughty. Definitely naughty.\""
-msgstr "\"顽皮，十分的顽皮。\""
+msgstr "\"淘气，真是淘气。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_nature
 msgid "\"There is magic in the trees.\""
@@ -89036,7 +89036,7 @@ msgstr "\"蔷薇的刺无法隐藏。这是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
-msgstr "\"说实话，伙计，我状态并不好。\""
+msgstr "\"嘿，伙计，我看起来状态不佳。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_unshadow
 msgid "\"The poor unsuspecting fool has no idea what's coming.\""
@@ -89112,11 +89112,11 @@ msgstr "\"我们迟早会变得冰冷。\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant
 msgid "\"So alluring...\""
-msgstr "\"非常的诱人……\""
+msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_lureplant_d
 msgid "\"So alluring...\""
-msgstr "\"非常的诱人……\""
+msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_rose
 msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
@@ -106404,7 +106404,7 @@ msgstr "索耶"
 
 #: STRINGS.NAMES.PIGSHRINE
 msgid "Pig Shrine"
-msgstr "猪神坛"
+msgstr "猪人神坛"
 
 #: STRINGS.NAMES.PIG_TOKEN
 msgid "Golden Belt"
@@ -106544,7 +106544,7 @@ msgstr "给朋友"
 
 #: STRINGS.RECIPE_DESC.PIGSHRINE
 msgid "Make offerings to the affluent Pig."
-msgstr "向富有的猪人献上祭品吧。"
+msgstr "向富足之猪人献上祭品。"
 
 #: STRINGS.RECIPE_DESC.YOTP_FOOD1
 msgid "A roasted tribute to the Pig King."
@@ -107584,7 +107584,7 @@ msgstr "基本食物燃料"
 
 #: STRINGS.NAMES.WINONA_BATTERY_HIGH
 msgid "Winona's G.E.M.erator"
-msgstr "薇诺娜宝石电机"
+msgstr "薇诺娜的G.E.M电机"
 
 #: STRINGS.NAMES.WINONA_BATTERY_LOW
 msgid "Winona's Generator"
@@ -108259,7 +108259,7 @@ msgstr "科学没能拯救它。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.GENERIC
 msgid "What an ingenious idea!"
-msgstr "很棒的注意！"
+msgstr "很棒的主意！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WINONA_SPOTLIGHT.OFF
 msgid "It needs some electricity."
@@ -108427,7 +108427,7 @@ msgstr "我们觉得那快用光了。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_HIGH.OFF
 msgid "Winoooona! The thing broke!"
-msgstr "薇——诺——娜！那东西碎了！"
+msgstr "薇——诺——娜！那东西坏了！"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINONA_BATTERY_LOW.BURNING
 msgid "Oh, oh!"
@@ -108984,3 +108984,31 @@ msgstr "穿工装的那个肉块还是有点用的"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.OFF
 msgid "IT'S JUST SLEEPING"
 msgstr "它只是在睡觉"
+
+#: STRINGS.CHARACTER_QUOTES.wortox
+msgid "\"Pardon me if I don't shake your hand.\""
+msgstr "\"如果我没有和你握手，请谅解一下。\""
+
+#: STRINGS.CHARACTER_TITLES.wortox
+msgid "The Soul Starved"
+msgstr "灵魂吞噬者\n沃拓克斯"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.wortox
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*是个小妖怪\n*能穿越时间与空间\n*从物理食物中获取不了足够的营养"
+
+#: STRINGS.CHARACTERS.WORTOX.BATTLECRY.GENERIC
+msgid "let's have some fun."
+msgstr "让我们找点乐子吧。"
+
+#: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
+msgid "I can come and go as I please."
+msgstr "我可以来去自如。"
+
+#: STRINGS.SKIN_NAMES.wortox_survivor
+msgid "The Survivor"
+msgstr "幸存者"
+
+#: STRINGS.SKIN_NAMES.wortox_minotaur
+msgid "The Minotaur"
+msgstr "米诺陶洛斯"
