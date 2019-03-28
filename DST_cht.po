@@ -109008,3 +109008,11 @@ msgstr "讓我們找點樂子吧。"
 #: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "I can come and go as I please."
 msgstr "我可以來去自如。"
+
+#: STRINGS.SKIN_NAMES.wortox_survivor
+msgid "The Survivor"
+msgstr "幸存者"
+
+#: STRINGS.SKIN_NAMES.wortox_minotaur
+msgid "The Minotaur"
+msgstr "米諾陶洛斯"
