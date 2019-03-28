@@ -87316,7 +87316,7 @@ msgstr "戰神護腿"
 
 #: STRINGS.SKIN_NAMES.legs_wathgrithr_nature
 msgid "Grove Sentinel Leggings"
-msgstr "哨兵護腿"
+msgstr "森林哨兵護腿"
 
 #: STRINGS.SKIN_NAMES.legs_wathgrithr_victorian
 msgid "Tragedienne Trousers"
@@ -108988,3 +108988,23 @@ msgstr "穿工裝的那個肉塊還是有點用的"
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.WINONA_SPOTLIGHT.OFF
 msgid "IT'S JUST SLEEPING"
 msgstr "它只是在睡覺"
+
+#: STRINGS.CHARACTER_QUOTES.wortox
+msgid "\"Pardon me if I don't shake your hand.\""
+msgstr "\"如果我沒有和你握手，請諒解一下。\""
+
+#: STRINGS.CHARACTER_TITLES.wortox
+msgid "The Soul Starved"
+msgstr "靈魂吞噬著\n沃拓克斯"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.wortox
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*是個小妖怪\n*能穿越時間與空間\n*從物理食物中獲取不了足夠的營養"
+
+#: STRINGS.CHARACTERS.WORTOX.BATTLECRY.GENERIC
+msgid "let's have some fun."
+msgstr "讓我們找點樂子吧。"
+
+#: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
+msgid "I can come and go as I please."
+msgstr "我可以來去自如。"
