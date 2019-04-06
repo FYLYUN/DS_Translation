@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -72461,15 +72461,15 @@ msgstr "傀儡掌控者"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "难以消化"
+msgstr "难以消化者"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "丧失亲人者"
+msgstr "丧失亲人的女孩"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者"
+msgstr "哑剧演员"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
@@ -72485,11 +72485,11 @@ msgstr "绅士科学家"
 
 #: STRINGS.CHARACTER_TITLES.winona
 msgid "The Handywoman"
-msgstr "手巧的女人"
+msgstr "女巧匠"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "男子汉"
+msgstr "大力士"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
@@ -102173,7 +102173,7 @@ msgstr "天体灵球"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Celestial Portal"
-msgstr "天体之门"
+msgstr "天体传送门"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
@@ -108773,7 +108773,7 @@ msgstr "灵魂吞噬者"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wortox
 msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
-msgstr "*是个恶魔\n*能穿越时间与空间\n*从物理食物中获取不了足够的营养"
+msgstr "*是个恶魔\n*能穿越时间与空间\n*从凡人的食物中获取不了足够的营养"
 
 #: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "I can come and go as I please."
@@ -108782,10 +108782,6 @@ msgstr "我可以来去自如。"
 #: STRINGS.SKIN_NAMES.wortox_survivor
 msgid "The Survivor"
 msgstr "幸存者"
-
-#: STRINGS.SKIN_NAMES.wortox_minotaur
-msgid "The Minotaur"
-msgstr "米诺陶洛斯"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER
 msgid "I'm gonna roll up a papyrus newspaper, just in case."
@@ -108940,7 +108936,6 @@ msgid "Items can be unraveled into Spools to weave special items."
 msgstr "它可以用来制作特殊物品。"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.19
-msgid "a monarch's sorrow..."（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Wortox's hooves..."
 msgstr "沃拓克斯的双蹄……"
 
@@ -109024,4 +109019,30 @@ msgstr "可怕的黑暗……"
 msgid "a touch of magic..."
 msgstr "一丝魔法……"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE
+msgid "A little piece of a great big beast."
+msgstr "宏伟巨兽的一小部分。"
 
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I can't create from nothing."
+msgstr "我不能无中生有。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RAINOMETER.GENERIC
+msgid "Will it rain? Or will it shine?"
+msgstr "会下雨吗？或者会是晴天？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CONSTRUCTION_PLANS
+msgid "But it's more fun to wing it!"
+msgstr "即兴表演会更好玩！"
+
+#. STRINGS.SKIN_NAMES.body_wortox_minotaur
+msgid "Minotaur Chest"
+msgstr "牛头人胸部"
+
+#. STRINGS.SKIN_NAMES.body_wortox_original
+msgid "Forest Fawn Chest"
+msgstr "森林幼崽胸部"
+
+#. STRINGS.SKIN_NAMES.body_wortox_survivor
+msgid "Grimy Goblin Chest"
+msgstr "哥布林胸部"
