@@ -21064,7 +21064,7 @@ msgstr "我们成功了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOSTDRAIN
 msgid "We're becoming... even more monstrous!"
-msgstr "我们都快…变异了！"
+msgstr "我们变得…更加怪物了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HIGHRESEARCH
 msgid "I'm learning so much!"
@@ -21076,7 +21076,7 @@ msgstr "热死了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HOUNDS
 msgid "Doggies are coming!"
-msgstr "一举成名的机会要来了！"
+msgstr "小狗们要来了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HUNGRY
 msgid "It's time for a snack!"
@@ -77713,7 +77713,7 @@ msgstr "科学机器"
 
 #: STRINGS.NAMES.RESEARCHLAB2
 msgid "Alchemy Engine"
-msgstr "炼金术引擎"
+msgstr "炼金引擎"
 
 #: STRINGS.NAMES.RESEARCHLAB3
 msgid "Shadow Manipulator"
@@ -82581,7 +82581,7 @@ msgstr "这个毛茸茸的白蜘蛛身上有一条温暖的围巾！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_webber_rose
 msgid "Wild flowers are just as beautiful as any fancy show rose."
-msgstr "野花也能和精致的蔷薇一样华丽。"
+msgstr "野花也能和精致的玫瑰一样华丽。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_webber_shadow
 msgid "The hollowed out body of an elegant black widow."
@@ -82613,7 +82613,7 @@ msgstr "看起来像一株迷人的食人花。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_rose
 msgid "The captive rose is bound by the lattice."
-msgstr "透明的格子束缚着着一朵美丽的蔷薇。"
+msgstr "透明的格子束缚着着一朵美丽的玫瑰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadow
 msgid "Finally the darkness envelops you, as you always knew it would."
@@ -82645,7 +82645,7 @@ msgstr "这些艺术家这样穿都是为了演出。毕竟旷野中可不好找
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_rose
 msgid "No outfit is too loud when you're a rosy-cheeked mime."
-msgstr "一个蔷薇色调的哑剧演员，依旧不能大声说话。"
+msgstr "一个玫瑰色调的哑剧演员，依旧不能大声说话。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_shadow
 msgid "Dark clothes for cool people."
@@ -82677,7 +82677,7 @@ msgstr "这套带电的服装会让你看起来像一只可爱的伏特羊！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_rose
 msgid "All the culture and elegance of an Old Garden rose."
-msgstr "一朵古老的透露着优雅的蔷薇。"
+msgstr "一朵古老的透露着优雅的玫瑰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_shadow
 msgid "This dress is made from many shadow fragments sewn together."
@@ -82741,7 +82741,7 @@ msgstr "为了万圣夜打扮成一头可怕的猪人守卫！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_rose
 msgid "Rose cultivation is truly a most delicate science."
-msgstr "种植蔷薇的确是一件很微妙的事。"
+msgstr "种植玫瑰的确是一件很微妙的事。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadow
 msgid "A suit made of shadows. Quite the opposite of flashy."
@@ -82773,7 +82773,7 @@ msgstr "这件令人愉快的工作服凉爽舒适，方便一个下午的园艺
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_rose
 msgid "Wild roses don't claim hillsides by being delicate."
-msgstr "野蔷薇不会因为不够鲜艳而对大地提什么要求。"
+msgstr "野玫瑰不会因为不够鲜艳而对大地提什么要求。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_shadow
 msgid "Blood is thicker than water. Oil is thicker than both."
@@ -82801,7 +82801,7 @@ msgstr "这件长袍穿上后透露出了一种贡献精神。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_rose
 msgid "When the muscle is stripped away all that remains is a sweet, delicate flower."
-msgstr "不用在意穿它的人的肌肉，忽略了这一点剩下的就是娇艳的蔷薇了。"
+msgstr "不用在意穿它的人的肌肉，忽略了这一点剩下的就是娇艳的玫瑰了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_shadow
 msgid "These clothes put hair on your chest."
@@ -82833,7 +82833,7 @@ msgstr "不含苹果。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_rose
 msgid "Wildrose, grow wild and free."
-msgstr "野蔷薇，充满野性和自由。"
+msgstr "野玫瑰，充满野性和自由。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_shadow
 msgid "Clothes for leaping from tree to tree and eating buttered scones."
@@ -82869,7 +82869,7 @@ msgstr "这套发条战车服装将会给你一次运用财富的机会。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_rose
 msgid "Vines wrapped around wires, wires wrapped around vines."
-msgstr "蔷薇藤缠绕着金属，蔷薇藤缠绕着金属。"
+msgstr "玫瑰藤缠绕着金属，玫瑰藤缠绕着金属。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow
 msgid "A dark automaton chassis with a lovely decorative gemstone."
@@ -83433,7 +83433,7 @@ msgstr "这支火魔杖竟然让我想起在熔炉找到的地狱法杖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firestaff_rose
 msgid "firestaff_rose"
-msgstr "蔷薇火魔杖"
+msgstr "玫瑰火魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgid "This feather hat is so luxurious to the touch!"
@@ -83713,7 +83713,7 @@ msgstr "蜜蜂冰魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.icestaff_rose
 msgid "icestaff_rose"
-msgstr "蔷薇冰魔杖"
+msgstr "玫瑰冰魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_winter
 msgid "Did this Kittykit just get cuter? (How's that even possible?!)"
@@ -85013,7 +85013,7 @@ msgstr "韦伯从来都不需要在冬季购买御寒衣物，韦伯会量身制
 
 #: STRINGS.SKIN_DESCRIPTIONS.webber_rose
 msgid "The rosebuds are tangled in there real good."
-msgstr "蔷薇花蕾装饰的华丽衣物十分漂亮。"
+msgstr "玫瑰花蕾装饰的华丽衣物十分漂亮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.webber_shadow
 msgid "Dark spiders have poisonous fangs."
@@ -85057,7 +85057,7 @@ msgstr "温蒂十分喜爱这发色。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_rose
 msgid "A dark crimson rose represents mourning."
-msgstr "深红色的蔷薇象征对所爱之人逝世的哀悼。"
+msgstr "深红色的玫瑰象征对所爱之人逝世的哀悼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_shadow
 msgid "Wendy has always been comfortable with darkness."
@@ -85229,7 +85229,7 @@ msgstr "威尔逊常常到最后一刻才想起来着装自己。他总是忙于
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_rose
 msgid "Who knew rose dye was so permanent?"
-msgstr "谁知道蔷薇色染料持续时间有多久？"
+msgstr "谁知道玫瑰色染料持续时间有多久？"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_shadow
 msgid "Wilson has learned the science of shadows."
@@ -85273,7 +85273,7 @@ msgstr "薇诺娜的手有厚厚的茧，厚到连玫瑰的刺都无法感觉到
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_rose
 msgid "By any other name, she'd smell of engine grease."
-msgstr "即使是穿上了蔷薇色的礼服参加聚会，薇诺娜仍在思考工作。"
+msgstr "即使是穿上了玫瑰色的礼服参加聚会，薇诺娜仍在思考工作。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_shadow
 msgid "No one knows the depths of Winona's dark machinations."
@@ -85945,7 +85945,7 @@ msgstr "德鲁伊之袍"
 
 #: STRINGS.SKIN_NAMES.body_waxwell_rose
 msgid "Twisted Rose Attire"
-msgstr "扭曲的蔷薇上衣"
+msgstr "扭曲的玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_waxwell_survivor
 msgid "Frayed Finery"
@@ -85977,7 +85977,7 @@ msgstr "雪蛛躯体"
 
 #: STRINGS.SKIN_NAMES.body_webber_rose
 msgid "Mossrose Drapery"
-msgstr "百叶蔷薇褶布"
+msgstr "百叶玫瑰褶布"
 
 #: STRINGS.SKIN_NAMES.body_webber_shadow
 msgid "Shadow Spider Body"
@@ -86009,7 +86009,7 @@ msgstr "肉球茎上衣"
 
 #: STRINGS.SKIN_NAMES.body_wendy_rose
 msgid "Blushrose Capelet"
-msgstr "红蔷薇披肩"
+msgstr "红玫瑰披肩"
 
 #: STRINGS.SKIN_NAMES.body_wendy_shadow
 msgid "Shadow Frock"
@@ -86041,7 +86041,7 @@ msgstr "野兽派风格罩衫"
 
 #: STRINGS.SKIN_NAMES.body_wes_rose
 msgid "Greenrose Ensemble"
-msgstr "绿蔷薇服装"
+msgstr "绿玫瑰服装"
 
 #: STRINGS.SKIN_NAMES.body_wes_shadow
 msgid "Cool Shadow Clothes"
@@ -86105,7 +86105,7 @@ msgstr "冰焰连衣裙"
 
 #: STRINGS.SKIN_NAMES.body_willow_rose
 msgid "Velvet Rose Frock"
-msgstr "丝绒蔷薇连衣裙"
+msgstr "丝绒玫瑰连衣裙"
 
 #: STRINGS.SKIN_NAMES.body_willow_shadow
 msgid "Shadow Dress"
@@ -86137,7 +86137,7 @@ msgstr "猪人守卫上衣"
 
 #: STRINGS.SKIN_NAMES.body_wilson_rose
 msgid "Gardenrose Attire"
-msgstr "蔷薇园丁装"
+msgstr "玫瑰园丁装"
 
 #: STRINGS.SKIN_NAMES.body_wilson_shadow
 msgid "Shadow Suit"
@@ -86169,7 +86169,7 @@ msgstr "园艺围裙"
 
 #: STRINGS.SKIN_NAMES.body_winona_rose
 msgid "Coral Rose Slacks"
-msgstr "珊瑚蔷薇长裤"
+msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadow
 msgid "Shadow Coverall"
@@ -86197,7 +86197,7 @@ msgstr "旧霜长袍"
 
 #: STRINGS.SKIN_NAMES.body_wolfgang_rose
 msgid "Circus Rose Attire"
-msgstr "马戏团的蔷薇上衣"
+msgstr "马戏团的玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_wolfgang_shadow
 msgid "Shadow Jumpsuit"
@@ -86229,7 +86229,7 @@ msgstr "果农长袍"
 
 #: STRINGS.SKIN_NAMES.body_woodie_rose
 msgid "Wildrose Duds"
-msgstr "野蔷薇上衣"
+msgstr "野玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_woodie_shadow
 msgid "Shadow Feller's Kit"
@@ -86265,7 +86265,7 @@ msgstr "战车躯体"
 
 #: STRINGS.SKIN_NAMES.body_wx78_rose
 msgid "Fieldrose Vessel"
-msgstr "蔷薇容器"
+msgstr "玫瑰容器"
 
 #: STRINGS.SKIN_NAMES.body_wx78_shadow
 msgid "Shadow Chassis"
@@ -86829,7 +86829,7 @@ msgstr "地狱炎杖"
 
 #: STRINGS.SKIN_NAMES.firestaff_rose
 msgid "Rose Fire Staff"
-msgstr "蔷薇火杖"
+msgstr "玫瑰火杖"
 
 #: STRINGS.SKIN_NAMES.flowerhat_crown
 msgid "Feathered Wreath"
@@ -87109,7 +87109,7 @@ msgstr "冰冷的蜂之杖"
 
 #: STRINGS.SKIN_NAMES.icestaff_rose
 msgid "Rose Ice Staff"
-msgstr "蔷薇冰杖"
+msgstr "玫瑰冰杖"
 
 #: STRINGS.SKIN_NAMES.kitten_winter
 msgid "Snowkit"
@@ -88189,11 +88189,11 @@ msgstr "松散的雨帽"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod
 msgid "Alchemy Pod"
-msgstr "炼金术打印舱"
+msgstr "炼金打印舱"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod_alt
 msgid "Alchemy Pod"
-msgstr "炼金术打印舱"
+msgstr "炼金打印舱"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
@@ -88237,7 +88237,7 @@ msgstr "黄蜂之矛"
 
 #: STRINGS.SKIN_NAMES.spear_rose
 msgid "Rose Pike"
-msgstr "蔷薇长枪"
+msgstr "玫瑰长枪"
 
 #: STRINGS.SKIN_NAMES.strawhat_floppy
 msgid "Floppy Straw Hat"
@@ -88325,7 +88325,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_shadow
 msgid "The Triumphant"
@@ -88369,7 +88369,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.waxwell_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.waxwell_survivor
 msgid "The Survivor"
@@ -88413,7 +88413,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.webber_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.webber_shadow
 msgid "The Triumphant"
@@ -88457,7 +88457,7 @@ msgstr "眼球花装扮"
 
 #: STRINGS.SKIN_NAMES.wendy_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wendy_shadow
 msgid "The Triumphant"
@@ -88501,7 +88501,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.wes_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wes_shadow
 msgid "The Triumphant"
@@ -88545,7 +88545,7 @@ msgstr "伏特羊装扮"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_shadow
 msgid "The Triumphant"
@@ -88589,7 +88589,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.willow_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.willow_shadow
 msgid "The Triumphant"
@@ -88633,7 +88633,7 @@ msgstr "猪人装扮"
 
 #: STRINGS.SKIN_NAMES.wilson_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wilson_shadow
 msgid "The Triumphant"
@@ -88677,7 +88677,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.winona_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.winona_shadow
 msgid "The Triumphant"
@@ -88737,7 +88737,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.wolfgang_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wolfgang_shadow
 msgid "The Triumphant"
@@ -88781,7 +88781,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.woodie_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.woodie_shadow
 msgid "The Triumphant"
@@ -88833,7 +88833,7 @@ msgstr "战车装扮"
 
 #: STRINGS.SKIN_NAMES.wx78_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wx78_shadow
 msgid "The Triumphant"
@@ -88877,7 +88877,7 @@ msgstr "\"我誓死守护森林!\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_rose
 msgid "\"Applause röars as red, red röses flööd my stage!\""
-msgstr "\"如果掌声和喝彩是红蔷薇，那我\n的舞台就是蔷薇的海洋！\""
+msgstr "\"如果掌声和喝彩是红玫瑰，那我\n的舞台就是玫瑰的海洋！\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_shadow
 msgid "\"I will deströy my enemies!\""
@@ -88921,7 +88921,7 @@ msgstr "\"源自树林之中神奇的魔法.\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_rose
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
-msgstr "\"蔷薇的刺无法隐藏。这是它的本\n性。\""
+msgstr "\"玫瑰的刺无法隐藏。这是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
@@ -88965,7 +88965,7 @@ msgstr "\"我们喜欢在雪地里玩！\""
 
 #: STRINGS.SKIN_QUOTES.webber_rose
 msgid "\"The rose shelters our fur from the morning dew.\""
-msgstr "\"蔷薇可以帮我们遮蔽清晨的露\n水。\""
+msgstr "\"玫瑰可以帮我们遮蔽清晨的露\n水。\""
 
 #: STRINGS.SKIN_QUOTES.webber_shadow
 msgid "\"Come closer - we are hungry!\""
@@ -89009,7 +89009,7 @@ msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_rose
 msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
-msgstr "\"一朵凄美的蔷薇，盛放之时却被\n撷下，何必呢？\""
+msgstr "\"一朵凄美的玫瑰，盛放之时却被\n撷下，何必呢？\""
 
 #: STRINGS.SKIN_QUOTES.wendy_shadow
 msgid "\"Shadows are as black as ink, or night, or nightmares.\""
@@ -89053,7 +89053,7 @@ msgstr "\"它需要的仅是天才的尤里卡。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_rose
 msgid "\"Ah, to see the world through rose-colored glasses.\""
-msgstr "\"啊，透过蔷薇色的眼镜看世界。\""
+msgstr "\"啊，透过玫瑰色的眼镜看世界。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_shadow
 msgid "\"Knowledge is power!\""
@@ -89097,7 +89097,7 @@ msgstr "\"这为什么不是温暖的火焰呢？\""
 
 #: STRINGS.SKIN_QUOTES.willow_rose
 msgid "\"A rose to symbolize the flames of passion.\""
-msgstr "\"象征热情火焰的蔷薇！\""
+msgstr "\"象征热情火焰的玫瑰！\""
 
 #: STRINGS.SKIN_QUOTES.willow_shadow
 msgid "\"Shadows are just inverted flames.\""
@@ -89221,7 +89221,7 @@ msgstr "\"寒冷根本影响不了强壮的沃尔夫\n冈！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_rose
 msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
-msgstr "\"鲜艳的蔷薇让强壮的沃尔夫冈有\n了绅士的气质。\""
+msgstr "\"鲜艳的玫瑰让强壮的沃尔夫冈有\n了绅士的气质。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_shadow
 msgid "\"Do not challenge the Mighty Wolfgang!\""
@@ -89429,7 +89429,7 @@ msgstr "周边藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE
 msgid "Rose Collection"
-msgstr "蔷薇藏品"
+msgstr "玫瑰藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SHADOW
 msgid "Shadow Collection"
@@ -89509,7 +89509,7 @@ msgstr "黄色"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
 msgid "Alchemy Engine"
-msgstr "炼金术引擎"
+msgstr "炼金引擎"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED
 msgid "Life Giving Amulet"
@@ -92845,7 +92845,7 @@ msgstr "经典"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "使用<炼金术引擎>\n建造一个原型体！"
+msgstr "使用<炼金引擎>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgid "Use a Prestihatitator to build a prototype!"
@@ -106361,7 +106361,7 @@ msgstr "用一个可爱的石窑容纳你最舒适的火焰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar
 msgid "A mighty man hammers with a crowbar."
-msgstr "一个强人使用的撬棍。"
+msgstr "物理学圣剑，只配强者拥有。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler
 msgid "Hand wraps and padded gloves mean hands are protected for better punches."
@@ -107405,7 +107405,7 @@ msgstr "这件衣服非常适合女孩穿上参加派对。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_rosep
 msgid "Wild roses don't claim hillsides by being delicate."
-msgstr "野蔷薇不会因为不够鲜艳而对大地提什么要求。"
+msgstr "野玫瑰不会因为不够鲜艳而对大地提什么要求。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_shadowp
 msgid "Blood is thicker than water. Oil is thicker than both."
@@ -107449,7 +107449,7 @@ msgstr "这个Voxola仓库宝箱仓库宝箱包含以下皮肤物品：工厂标
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe
 msgid "This Deluxe Wardrobe contains Winona's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Industrious skin items."
-msgstr "这个豪华衣柜包含薇诺娜的全套尊贵的客人、蔷薇、幸存者、胜者和勤劳者皮肤物品。"
+msgstr "这个豪华衣柜包含薇诺娜的全套尊贵的客人、玫瑰、幸存者、胜者和勤劳者皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_factory
 msgid "This Chest contains Winona's complete set of Industrious skin items."
@@ -107461,7 +107461,7 @@ msgstr "这个宝箱包含薇诺娜的全套尊贵的客人皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_rose
 msgid "This Chest contains Winona's complete set of Roseate skin items."
-msgstr "这个宝箱包含薇诺娜的全套蔷薇皮肤物品。"
+msgstr "这个宝箱包含薇诺娜的全套玫瑰皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_shadow
 msgid "This Chest contains Winona's complete set of Triumphant skin items."
@@ -107497,7 +107497,7 @@ msgstr "当薇诺娜在晚会邀请函上读到“需要正装”的时候，她
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_rosep
 msgid "By any other name, she'd smell of engine grease."
-msgstr "即使是穿上了蔷薇色的礼服参加聚会，薇诺娜仍在思考工作。"
+msgstr "即使是穿上了玫瑰色的礼服参加聚会，薇诺娜仍在思考工作。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_shadowp
 msgid "No one knows the depths of Winona's dark machinations."
@@ -107521,7 +107521,7 @@ msgstr "裙子和运动上衣"
 
 #: STRINGS.SKIN_NAMES.body_winona_rosep
 msgid "Coral Rose Slacks"
-msgstr "珊瑚蔷薇长裤"
+msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadowp
 msgid "Shadow Coverall"
@@ -107573,7 +107573,7 @@ msgstr "薇诺娜尊贵的客人宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_winona_rose
 msgid "Winona Roseate Chest"
-msgstr "薇诺娜蔷薇宝箱"
+msgstr "薇诺娜玫瑰宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_winona_shadow
 msgid "Winona Triumphant Chest"
@@ -107609,7 +107609,7 @@ msgstr "尊贵的客人"
 
 #: STRINGS.SKIN_NAMES.winona_rosep
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.winona_shadowp
 msgid "The Triumphant"
@@ -107733,7 +107733,7 @@ msgstr "附加功能"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY
 msgid "Welcome back!\nPlease enjoy this daily gift."
-msgstr "欢迎回来！\n请享受这份每日礼物。"
+msgstr "欢迎回来！\n这是你的每日礼物。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgid "Due to an error, dynamic content loading has been disabled."
