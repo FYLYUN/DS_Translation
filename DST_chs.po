@@ -8890,18 +8890,6 @@ msgstr "蜡烛匠的东西。"
 msgid "I prefer the ringing resonance of clashing blades."
 msgstr "我更爱刀剑碰撞的共鸣。"
 
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
-msgid "What a brave bear!"
-msgstr "多么勇敢的熊！"
-
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "He has gone to Valhalla."
-msgstr "他去了英灵殿。"
-
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
-msgid "It's a stuffed bear."
-msgstr "这是一只玩具熊。"
-
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERRIES
 msgid "Fruits. I don't like 'em."
 msgstr "水果，不喜欢。"
@@ -28189,18 +28177,6 @@ msgstr "它本身无用，就像我。"
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BELL
 msgid "Ring in the dead."
 msgstr "在死者中敲响。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
-msgid "He dances to forget the pain."
-msgstr "他起舞是为了忘记痛苦。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "He has passed."
-msgstr "他已经离去了。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
-msgid "He's had a rough life."
-msgstr "他的生活很艰苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
 msgid "These berries are tart."
@@ -60518,10 +60494,6 @@ msgstr "它令人震惊地发出了清脆的声音。"
 msgid "I guess I should be used to weird stuff by now."
 msgstr "看来我现在是得用点奇怪的东西了。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "Poor lil guy."
-msgstr "可怜的小家伙。"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "Cute, isn't it 'Luce?"
 msgstr "挺可爱的，是吧露西？"
@@ -72266,15 +72238,6 @@ msgstr "威尔逊确实是个有科学头脑的人，本能使他\n无法抗拒�
 msgid "Winona is a former assembly line worker with a boisterous attitude and love of all things mechanical."
 msgstr "薇诺娜曾是一个流水线工人，她对一切事物\n都十分热爱并对它们有独特的个人看法。"
 
-#: STRINGS.CHARACTER_ABOUTME.wolfgang
-msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
-msgstr "沃尔夫冈是一个和蔼可亲，肌肉发达却又饱\n受恐惧折磨的壮汉。"
-
-#. STRINGS.CHARACTER_ABOUTME.wortox
-msgctxt "STRINGS.CHARACTER_ABOUTME.wortox"
-msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
-msgstr "沃拓克斯是一个顽皮的恶魔。\n它的轻浮只是为了掩饰内心的罪恶感，\n因为它一生吞噬了许多灵魂。"
-
 #: STRINGS.CHARACTER_ABOUTME.woodie
 msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
 msgstr "伍迪是一个粗犷且长满胡子的伐木工，他喜\n欢自然，格子衬衫和他所信赖的斧头露西。"
@@ -72310,10 +72273,6 @@ msgstr "*不会说话\n*很难活着\n*使用气球戏法"
 #: STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Knows many things \n*Self-publishes books \n*Can't sleep, hates spoilage"
 msgstr "*知道很多事情\n*自己发行了书籍\n*不能睡觉，讨厌变质食物"
-
-#: STRINGS.CHARACTER_DESCRIPTIONS.willow
-msgid "*Is resistant to fire damage \n*Can craft a reliable lighter and a cuddly bear \n*Can't keep warm when insane"
-msgstr "*免疫火焰伤害 \n*可以制造小巧的打火机和可爱的小熊 \n*低理智时不能保持温暖"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgid "\n*Grows a magnificent beard"
@@ -82581,7 +82540,7 @@ msgstr "这个毛茸茸的白蜘蛛身上有一条温暖的围巾！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_webber_rose
 msgid "Wild flowers are just as beautiful as any fancy show rose."
-msgstr "野花也能和精致的蔷薇一样华丽。"
+msgstr "野花也能和精致的玫瑰一样华丽。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_webber_shadow
 msgid "The hollowed out body of an elegant black widow."
@@ -82613,7 +82572,7 @@ msgstr "看起来像一株迷人的食人花。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_rose
 msgid "The captive rose is bound by the lattice."
-msgstr "透明的格子束缚着着一朵美丽的蔷薇。"
+msgstr "透明的格子束缚着着一朵美丽的玫瑰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wendy_shadow
 msgid "Finally the darkness envelops you, as you always knew it would."
@@ -82645,7 +82604,7 @@ msgstr "这些艺术家这样穿都是为了演出。毕竟旷野中可不好找
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_rose
 msgid "No outfit is too loud when you're a rosy-cheeked mime."
-msgstr "一个蔷薇色调的哑剧演员，依旧不能大声说话。"
+msgstr "一个玫瑰色调的哑剧演员，依旧不能大声说话。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wes_shadow
 msgid "Dark clothes for cool people."
@@ -82677,7 +82636,7 @@ msgstr "这套带电的服装会让你看起来像一只可爱的伏特羊！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_rose
 msgid "All the culture and elegance of an Old Garden rose."
-msgstr "一朵古老的透露着优雅的蔷薇。"
+msgstr "一朵古老的透露着优雅的玫瑰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wickerbottom_shadow
 msgid "This dress is made from many shadow fragments sewn together."
@@ -82741,7 +82700,7 @@ msgstr "为了万圣夜打扮成一头可怕的猪人守卫！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_rose
 msgid "Rose cultivation is truly a most delicate science."
-msgstr "种植蔷薇的确是一件很微妙的事。"
+msgstr "种植玫瑰的确是一件很微妙的事。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wilson_shadow
 msgid "A suit made of shadows. Quite the opposite of flashy."
@@ -82773,7 +82732,7 @@ msgstr "这件令人愉快的工作服凉爽舒适，方便一个下午的园艺
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_rose
 msgid "Wild roses don't claim hillsides by being delicate."
-msgstr "野蔷薇不会因为不够鲜艳而对大地提什么要求。"
+msgstr "野玫瑰不会因为不够鲜艳而对大地提什么要求。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_shadow
 msgid "Blood is thicker than water. Oil is thicker than both."
@@ -82801,7 +82760,7 @@ msgstr "这件长袍穿上后透露出了一种贡献精神。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_rose
 msgid "When the muscle is stripped away all that remains is a sweet, delicate flower."
-msgstr "不用在意穿它的人的肌肉，忽略了这一点剩下的就是娇艳的蔷薇了。"
+msgstr "不用在意穿它的人的肌肉，忽略了这一点剩下的就是娇艳的玫瑰了。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wolfgang_shadow
 msgid "These clothes put hair on your chest."
@@ -82833,7 +82792,7 @@ msgstr "不含苹果。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_rose
 msgid "Wildrose, grow wild and free."
-msgstr "野蔷薇，充满野性和自由。"
+msgstr "野玫瑰，充满野性和自由。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_woodie_shadow
 msgid "Clothes for leaping from tree to tree and eating buttered scones."
@@ -82869,7 +82828,7 @@ msgstr "这套发条战车服装将会给你一次运用财富的机会。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_rose
 msgid "Vines wrapped around wires, wires wrapped around vines."
-msgstr "蔷薇藤缠绕着金属，蔷薇藤缠绕着金属。"
+msgstr "玫瑰藤缠绕着金属，玫瑰藤缠绕着金属。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wx78_shadow
 msgid "A dark automaton chassis with a lovely decorative gemstone."
@@ -83433,7 +83392,7 @@ msgstr "这支火魔杖竟然让我想起在熔炉找到的地狱法杖。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firestaff_rose
 msgid "firestaff_rose"
-msgstr "蔷薇火魔杖"
+msgstr "玫瑰火魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
 msgid "This feather hat is so luxurious to the touch!"
@@ -83713,7 +83672,7 @@ msgstr "蜜蜂冰魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.icestaff_rose
 msgid "icestaff_rose"
-msgstr "蔷薇冰魔杖"
+msgstr "玫瑰冰魔杖"
 
 #: STRINGS.SKIN_DESCRIPTIONS.kitten_winter
 msgid "Did this Kittykit just get cuter? (How's that even possible?!)"
@@ -84051,10 +84010,6 @@ msgstr "这个熙春宝箱包含\n薇格弗德的全套熙春系列皮肤。"
 msgid "This Spring Chest contains Maxwell's complete set of Verdant skin items."
 msgstr "这个熙春宝箱包含\n麦斯威尔的全套熙春系列皮肤。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
-msgid "This Spring Chest contains Wes's complete set of Verdant skin items."
-msgstr "这个熙春宝箱包含\n韦斯的全套熙春系列皮肤。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_winona
 msgid "This Spring Chest contains Winona's complete set of Verdant skin items."
 msgstr "这个熙春宝箱包含\n薇诺娜的全套熙春系列皮肤。"
@@ -84375,10 +84330,6 @@ msgstr "将你的头像设置为皮弗娄牛。"
 msgid "Set your profile icon to Bernie the Bear.\n\nBernie's never abandoned Willow, and she plans to always return the favor."
 msgstr "将你的头像设置为小熊伯尼。\n\n伯尼永远不会抛弃薇洛，它只是一直在等待。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
-msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Shadow Throne."
-msgstr "将你的头像设置为发条主教。\n\n麦斯威尔在他统治时期制造了许多发条主教。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_catcoon
 msgid "Set your profile icon to a cute catcoon."
 msgstr "将你的头像设置为一只可爱的浣猫。"
@@ -84511,10 +84462,6 @@ msgstr "将你的头像设置为猎犬。"
 msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
 msgstr "将你的头像设置为蓝色猎犬。\n\n在麦斯威尔还坐在噩梦王座上时，他将蓝宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
-msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Shadow Throne."
-msgstr "将你的头像设置为发条骑士。\n\n麦斯威尔在他统治时期制造了许多发条骑士。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_koalefant
 msgid "Set your profile icon to a skittish koalefant."
 msgstr "将你的头像设置为考拉象。"
@@ -84622,10 +84569,6 @@ msgstr "将你的头像设置为兔子。"
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redhound
 msgid "Set your profile icon to a fiery Red Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
 msgstr "将你的头像设置为红色猎犬。\n\n在麦斯威尔还坐在噩梦王座上时，他将红宝石的魔力注入普通猎狗体内，创造出了这些怪兽。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
-msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Shadow Throne."
-msgstr "将你的头像设置为发条战车。\n\n麦斯威尔在他统治时期制造了许多发条战车。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rose
 msgid "Set your profile icon to a rose flower.\n\nFew things are as timeless as a red rose."
@@ -85013,7 +84956,7 @@ msgstr "韦伯从来都不需要在冬季购买御寒衣物，韦伯会量身制
 
 #: STRINGS.SKIN_DESCRIPTIONS.webber_rose
 msgid "The rosebuds are tangled in there real good."
-msgstr "蔷薇花蕾装饰的华丽衣物十分漂亮。"
+msgstr "玫瑰花蕾装饰的华丽衣物十分漂亮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.webber_shadow
 msgid "Dark spiders have poisonous fangs."
@@ -85057,7 +85000,7 @@ msgstr "温蒂十分喜爱这发色。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_rose
 msgid "A dark crimson rose represents mourning."
-msgstr "深红色的蔷薇象征对所爱之人逝世的哀悼。"
+msgstr "深红色的玫瑰象征对所爱之人逝世的哀悼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wendy_shadow
 msgid "Wendy has always been comfortable with darkness."
@@ -85229,7 +85172,7 @@ msgstr "威尔逊常常到最后一刻才想起来着装自己。他总是忙于
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_rose
 msgid "Who knew rose dye was so permanent?"
-msgstr "谁知道蔷薇色染料持续时间有多久？"
+msgstr "谁知道玫瑰色染料持续时间有多久？"
 
 #: STRINGS.SKIN_DESCRIPTIONS.wilson_shadow
 msgid "Wilson has learned the science of shadows."
@@ -85273,7 +85216,7 @@ msgstr "薇诺娜的手有厚厚的茧，厚到连玫瑰的刺都无法感觉到
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_rose
 msgid "By any other name, she'd smell of engine grease."
-msgstr "即使是穿上了蔷薇色的礼服参加聚会，薇诺娜仍在思考工作。"
+msgstr "即使是穿上了玫瑰色的礼服参加聚会，薇诺娜仍在思考工作。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_shadow
 msgid "No one knows the depths of Winona's dark machinations."
@@ -85945,7 +85888,7 @@ msgstr "德鲁伊之袍"
 
 #: STRINGS.SKIN_NAMES.body_waxwell_rose
 msgid "Twisted Rose Attire"
-msgstr "扭曲的蔷薇上衣"
+msgstr "扭曲的玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_waxwell_survivor
 msgid "Frayed Finery"
@@ -85977,7 +85920,7 @@ msgstr "雪蛛躯体"
 
 #: STRINGS.SKIN_NAMES.body_webber_rose
 msgid "Mossrose Drapery"
-msgstr "百叶蔷薇褶布"
+msgstr "百叶玫瑰褶布"
 
 #: STRINGS.SKIN_NAMES.body_webber_shadow
 msgid "Shadow Spider Body"
@@ -86009,7 +85952,7 @@ msgstr "肉球茎上衣"
 
 #: STRINGS.SKIN_NAMES.body_wendy_rose
 msgid "Blushrose Capelet"
-msgstr "红蔷薇披肩"
+msgstr "红玫瑰披肩"
 
 #: STRINGS.SKIN_NAMES.body_wendy_shadow
 msgid "Shadow Frock"
@@ -86041,7 +85984,7 @@ msgstr "野兽派风格罩衫"
 
 #: STRINGS.SKIN_NAMES.body_wes_rose
 msgid "Greenrose Ensemble"
-msgstr "绿蔷薇服装"
+msgstr "绿玫瑰服装"
 
 #: STRINGS.SKIN_NAMES.body_wes_shadow
 msgid "Cool Shadow Clothes"
@@ -86105,7 +86048,7 @@ msgstr "冰焰连衣裙"
 
 #: STRINGS.SKIN_NAMES.body_willow_rose
 msgid "Velvet Rose Frock"
-msgstr "丝绒蔷薇连衣裙"
+msgstr "丝绒玫瑰连衣裙"
 
 #: STRINGS.SKIN_NAMES.body_willow_shadow
 msgid "Shadow Dress"
@@ -86137,7 +86080,7 @@ msgstr "猪人守卫上衣"
 
 #: STRINGS.SKIN_NAMES.body_wilson_rose
 msgid "Gardenrose Attire"
-msgstr "蔷薇园丁装"
+msgstr "玫瑰园丁装"
 
 #: STRINGS.SKIN_NAMES.body_wilson_shadow
 msgid "Shadow Suit"
@@ -86169,7 +86112,7 @@ msgstr "园艺围裙"
 
 #: STRINGS.SKIN_NAMES.body_winona_rose
 msgid "Coral Rose Slacks"
-msgstr "珊瑚蔷薇长裤"
+msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadow
 msgid "Shadow Coverall"
@@ -86197,7 +86140,7 @@ msgstr "旧霜长袍"
 
 #: STRINGS.SKIN_NAMES.body_wolfgang_rose
 msgid "Circus Rose Attire"
-msgstr "马戏团的蔷薇上衣"
+msgstr "马戏团的玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_wolfgang_shadow
 msgid "Shadow Jumpsuit"
@@ -86229,7 +86172,7 @@ msgstr "果农长袍"
 
 #: STRINGS.SKIN_NAMES.body_woodie_rose
 msgid "Wildrose Duds"
-msgstr "野蔷薇上衣"
+msgstr "野玫瑰上衣"
 
 #: STRINGS.SKIN_NAMES.body_woodie_shadow
 msgid "Shadow Feller's Kit"
@@ -86265,7 +86208,7 @@ msgstr "战车躯体"
 
 #: STRINGS.SKIN_NAMES.body_wx78_rose
 msgid "Fieldrose Vessel"
-msgstr "蔷薇容器"
+msgstr "玫瑰容器"
 
 #: STRINGS.SKIN_NAMES.body_wx78_shadow
 msgid "Shadow Chassis"
@@ -86829,7 +86772,7 @@ msgstr "地狱炎杖"
 
 #: STRINGS.SKIN_NAMES.firestaff_rose
 msgid "Rose Fire Staff"
-msgstr "蔷薇火杖"
+msgstr "玫瑰火杖"
 
 #: STRINGS.SKIN_NAMES.flowerhat_crown
 msgid "Feathered Wreath"
@@ -86885,11 +86828,11 @@ msgstr "扣带手套"
 
 #: STRINGS.SKIN_NAMES.hand_beltedgloves_red_firehound
 msgid "Buckled Gloves"
-msgstr "带扣的手套"
+msgstr "扣带手套"
 
 #: STRINGS.SKIN_NAMES.hand_beltedgloves_teal_jungle
 msgid "Buckled Gloves"
-msgstr "带扣的手套"
+msgstr "扣带手套"
 
 #: STRINGS.SKIN_NAMES.hand_drivergloves_white_ivory
 msgid "Driving Gloves"
@@ -86905,7 +86848,7 @@ msgstr "长手套"
 
 #: STRINGS.SKIN_NAMES.hand_longgloves_white_pure
 msgid "Long Gloves"
-msgstr "长长的手套"
+msgstr "长手套"
 
 #: STRINGS.SKIN_NAMES.hand_longgloves_yellow_straw
 msgid "Long Gloves"
@@ -87109,7 +87052,7 @@ msgstr "冰冷的蜂之杖"
 
 #: STRINGS.SKIN_NAMES.icestaff_rose
 msgid "Rose Ice Staff"
-msgstr "蔷薇冰杖"
+msgstr "玫瑰冰杖"
 
 #: STRINGS.SKIN_NAMES.kitten_winter
 msgid "Snowkit"
@@ -87177,7 +87120,7 @@ msgstr "短裙"
 
 #: STRINGS.SKIN_NAMES.legs_skirt_basic_pink_pigman
 msgid "Skirt"
-msgstr "裙子"
+msgstr "短裙"
 
 #: STRINGS.SKIN_NAMES.legs_skirt_basic_tan_cream
 msgid "Skirt"
@@ -87185,11 +87128,11 @@ msgstr "短裙"
 
 #: STRINGS.SKIN_NAMES.legs_skirt_plaid_blue_cornflower
 msgid "Plaid Skirt"
-msgstr "彩格裙"
+msgstr "格子裙"
 
 #: STRINGS.SKIN_NAMES.legs_skirt_plaid_green_pistachio
 msgid "Plaid Skirt"
-msgstr "彩格裙"
+msgstr "格子裙"
 
 #: STRINGS.SKIN_NAMES.legs_tweed_knickerbocker_green_hunters
 msgid "Knee Pants"
@@ -88237,7 +88180,7 @@ msgstr "黄蜂之矛"
 
 #: STRINGS.SKIN_NAMES.spear_rose
 msgid "Rose Pike"
-msgstr "蔷薇长枪"
+msgstr "玫瑰长枪"
 
 #: STRINGS.SKIN_NAMES.strawhat_floppy
 msgid "Floppy Straw Hat"
@@ -88325,7 +88268,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wathgrithr_shadow
 msgid "The Triumphant"
@@ -88369,7 +88312,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.waxwell_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.waxwell_survivor
 msgid "The Survivor"
@@ -88413,7 +88356,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.webber_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.webber_shadow
 msgid "The Triumphant"
@@ -88457,7 +88400,7 @@ msgstr "眼球花装扮"
 
 #: STRINGS.SKIN_NAMES.wendy_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wendy_shadow
 msgid "The Triumphant"
@@ -88501,7 +88444,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.wes_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wes_shadow
 msgid "The Triumphant"
@@ -88545,7 +88488,7 @@ msgstr "伏特羊装扮"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wickerbottom_shadow
 msgid "The Triumphant"
@@ -88589,7 +88532,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.willow_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.willow_shadow
 msgid "The Triumphant"
@@ -88633,7 +88576,7 @@ msgstr "猪人装扮"
 
 #: STRINGS.SKIN_NAMES.wilson_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wilson_shadow
 msgid "The Triumphant"
@@ -88677,7 +88620,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.winona_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.winona_shadow
 msgid "The Triumphant"
@@ -88737,7 +88680,7 @@ msgstr "盛雪"
 
 #: STRINGS.SKIN_NAMES.wolfgang_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wolfgang_shadow
 msgid "The Triumphant"
@@ -88781,7 +88724,7 @@ msgstr "苍翠"
 
 #: STRINGS.SKIN_NAMES.woodie_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.woodie_shadow
 msgid "The Triumphant"
@@ -88833,7 +88776,7 @@ msgstr "战车装扮"
 
 #: STRINGS.SKIN_NAMES.wx78_rose
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wx78_shadow
 msgid "The Triumphant"
@@ -88877,7 +88820,7 @@ msgstr "\"我誓死守护森林!\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_rose
 msgid "\"Applause röars as red, red röses flööd my stage!\""
-msgstr "\"如果掌声和喝彩是红蔷薇，那我\n的舞台就是蔷薇的海洋！\""
+msgstr "\"如果掌声和喝彩是红玫瑰，那我\n的舞台就是玫瑰的海洋！\""
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_shadow
 msgid "\"I will deströy my enemies!\""
@@ -88921,7 +88864,7 @@ msgstr "\"源自树林之中神奇的魔法.\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_rose
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
-msgstr "\"蔷薇的刺无法隐藏。这是它的本\n性。\""
+msgstr "\"玫瑰的刺无法隐藏。这是它的本\n性。\""
 
 #: STRINGS.SKIN_QUOTES.waxwell_survivor
 msgid "\"Say, pal, I don't look so good.\""
@@ -88965,7 +88908,7 @@ msgstr "\"我们喜欢在雪地里玩！\""
 
 #: STRINGS.SKIN_QUOTES.webber_rose
 msgid "\"The rose shelters our fur from the morning dew.\""
-msgstr "\"蔷薇可以帮我们遮蔽清晨的露\n水。\""
+msgstr "\"玫瑰可以帮我们遮蔽清晨的露\n水。\""
 
 #: STRINGS.SKIN_QUOTES.webber_shadow
 msgid "\"Come closer - we are hungry!\""
@@ -89009,7 +88952,7 @@ msgstr "\"非常的诱人…\""
 
 #: STRINGS.SKIN_QUOTES.wendy_rose
 msgid "\"A sickly, sweet rose, plucked in its prime. Why?\""
-msgstr "\"一朵凄美的蔷薇，盛放之时却被\n撷下，何必呢？\""
+msgstr "\"一朵凄美的玫瑰，盛放之时却被\n撷下，何必呢？\""
 
 #: STRINGS.SKIN_QUOTES.wendy_shadow
 msgid "\"Shadows are as black as ink, or night, or nightmares.\""
@@ -89053,7 +88996,7 @@ msgstr "\"它需要的仅是天才的尤里卡。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_rose
 msgid "\"Ah, to see the world through rose-colored glasses.\""
-msgstr "\"啊，透过蔷薇色的眼镜看世界。\""
+msgstr "\"啊，透过玫瑰色的眼镜看世界。\""
 
 #: STRINGS.SKIN_QUOTES.wickerbottom_shadow
 msgid "\"Knowledge is power!\""
@@ -89097,15 +89040,15 @@ msgstr "\"这为什么不是温暖的火焰呢？\""
 
 #: STRINGS.SKIN_QUOTES.willow_rose
 msgid "\"A rose to symbolize the flames of passion.\""
-msgstr "\"象征热情火焰的蔷薇！\""
+msgstr "\"象征热情火焰的玫瑰！\""
 
 #: STRINGS.SKIN_QUOTES.willow_shadow
 msgid "\"Shadows are just inverted flames.\""
-msgstr "\"暗影只是褪色的光明。\""
+msgstr "\"暗影不过是褪色的火焰。\""
 
 #: STRINGS.SKIN_QUOTES.willow_survivor
 msgid "\"Surviving just requires strength of will. (And fire.)\""
-msgstr "\"生存只需要坚强的意志。\n（和火焰。）\""
+msgstr "\"生存只需要坚强的意志。\n（还有火。）\""
 
 #: STRINGS.SKIN_QUOTES.willow_victorian
 msgid "\"Fancy a matchstick, sir?\""
@@ -89221,7 +89164,7 @@ msgstr "\"寒冷根本影响不了强壮的沃尔夫\n冈！\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_rose
 msgid "\"Dainty rose make Wolfgang strong, cultured man.\""
-msgstr "\"鲜艳的蔷薇让强壮的沃尔夫冈有\n了绅士的气质。\""
+msgstr "\"鲜艳的玫瑰让强壮的沃尔夫冈有\n了绅士的气质。\""
 
 #: STRINGS.SKIN_QUOTES.wolfgang_shadow
 msgid "\"Do not challenge the Mighty Wolfgang!\""
@@ -89375,10 +89318,6 @@ msgstr "沃尔夫冈"
 msgid "Woodie"
 msgstr "伍迪"
 
-#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WX78
-msgid "WX78"
-msgstr "WX78"
-
 #: STRINGS.SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY
 msgid "Body"
 msgstr "身体"
@@ -89429,7 +89368,7 @@ msgstr "周边藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ROSE
 msgid "Rose Collection"
-msgstr "蔷薇藏品"
+msgstr "玫瑰藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SHADOW
 msgid "Shadow Collection"
@@ -91053,7 +90992,7 @@ msgstr "不用了"
 
 #: STRINGS.UI.BARTERSCREEN.COMMERCE_BUY
 msgid "Weave"
-msgstr "制作"
+msgstr "编织"
 
 #: STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND
 msgid "Unravel"
@@ -91073,7 +91012,7 @@ msgstr "连接没有成功"
 
 #: STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT
 msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
-msgstr "需要{doodad_count}线来交换物品：{item_name}。\n\n你还需要{doodad_net}个线来交换这件物品。\n线可以通过拆分物品获得。"
+msgstr "需要{doodad_count}线来编织物品：{item_name}。\n\n你还需要{doodad_net}个线来交换这件物品。\n线可以通过拆散物品获得。"
 
 #: STRINGS.UI.BARTERSCREEN.OK
 msgid "OK"
@@ -95086,10 +95025,6 @@ msgstr "感谢赏玩"
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_STORE
 msgid "Enjoy your gift"
 msgstr "享受你的赠品"
-
-#: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
-msgid "Thanks for watching Twitch"
-msgstr "感谢收看Twitch"
 
 #: STRINGS.UI.ITEM_SCREEN.USE_LATER
 msgid "Use Later"
@@ -102399,10 +102334,6 @@ msgstr "温度测量器"
 msgid "Celestial"
 msgstr "天体"
 
-#: STRINGS.THANKS_POPUP.TWITCH_DROP
-msgid "Thanks for watching Twitch"
-msgstr "感谢你观看Twitch直播"
-
 #: STRINGS.UI.COMMANDSSCREEN.HIDE_SERVERNAME
 msgid "Hide Server Name"
 msgstr "隐藏服务器名称"
@@ -102581,7 +102512,7 @@ msgstr "皮肤预设"
 
 #: STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgid "Weaveable Filter: {mode}"
-msgstr "仅显示可制作：{mode}"
+msgstr "仅显示可编织：{mode}"
 
 #: STRINGS.NAMES.HALLOWEENPOTION_BRAVERY_LARGE
 msgid "Brew of Phobic Abrogation"
@@ -102803,30 +102734,6 @@ msgstr "这个万圣夜宝箱包含完整的万圣夜系列皮肤。"
 msgid "This Hallowed Nights Chest contains all Hallowed Nights belongings skin items."
 msgstr "这个万圣夜宝箱包含\n所有的万圣夜系列物品皮肤。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
-msgid "The Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
-msgstr "这个叛逆者宝箱包含\n韦伯的全套万圣夜系列皮肤。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
-msgid "The Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
-msgstr "这个灵异宝箱包含\n温蒂的全套万圣夜系列皮肤。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
-msgid "The Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "这个喜剧小丑宝箱包含\n韦斯的全套万圣夜系列皮肤。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
-msgid "The Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
-msgstr "这个悲伤主妇宝箱包含\n薇洛的全套万圣夜系列皮肤。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
-msgid "The Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
-msgstr "这个疯狂科学家宝箱包含\n威尔逊的全套万圣夜系列皮肤。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
-msgid "The Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
-msgstr "这个未完成品宝箱包含\nWX-78的全套万圣夜系列皮肤。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
 msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
 msgstr "使用这个藏品来改变你的角色背景图案。\n\n所有的东西都会死去，但并不是所有的东西都一直是死的。"
@@ -102874,10 +102781,6 @@ msgstr "标志着姐妹友谊的火焰树状。"
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster
 msgid "An evil place to put your goods."
 msgstr "一个用来存放你东西的邪恶宝箱"
-
-#: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
-msgid "You'll never know when you arach-need one."
-msgstr "你永远不知道你什么时候需要呼叫援助。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
@@ -106003,18 +105906,6 @@ msgstr "使用这个藏品来改变你的角色背景图案。\n\n彩色的灯�
 msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
 msgstr "使用这个藏品来改变你的角色背景图案。\n\n抓紧吃喝吧，吃饱了好上路。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
-msgid "Set your profile icon to a festive Golden Present"
-msgstr "将你的头像设置为金色的节日赠礼。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
-msgid "Set your profile icon to a jolly Green Gift"
-msgstr "将你的头像设置为欢乐的绿色礼物。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
-msgid "Set your profile icon to a Poorly Wrapped Package"
-msgstr "将你的头像设置为低质量的包裹。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_14
 msgid "Set your profile icon to a festive Deerclops Ornament."
 msgstr "将你的头像设置为喜庆的独眼巨鹿饰品。"
@@ -107405,7 +107296,7 @@ msgstr "这件衣服非常适合女孩穿上参加派对。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_rosep
 msgid "Wild roses don't claim hillsides by being delicate."
-msgstr "野蔷薇不会因为不够鲜艳而对大地提什么要求。"
+msgstr "野玫瑰不会因为不够鲜艳而对大地提什么要求。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_winona_shadowp
 msgid "Blood is thicker than water. Oil is thicker than both."
@@ -107449,7 +107340,7 @@ msgstr "这个Voxola仓库宝箱仓库宝箱包含以下皮肤物品：工厂标
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_deluxe
 msgid "This Deluxe Wardrobe contains Winona's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Industrious skin items."
-msgstr "这个豪华衣柜包含薇诺娜的全套尊贵的客人、蔷薇、幸存者、胜者和勤劳者皮肤物品。"
+msgstr "这个豪华衣柜包含薇诺娜的全套尊贵的客人、玫瑰、幸存者、胜者和勤劳者皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_factory
 msgid "This Chest contains Winona's complete set of Industrious skin items."
@@ -107461,7 +107352,7 @@ msgstr "这个宝箱包含薇诺娜的全套尊贵的客人皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_rose
 msgid "This Chest contains Winona's complete set of Roseate skin items."
-msgstr "这个宝箱包含薇诺娜的全套蔷薇皮肤物品。"
+msgstr "这个宝箱包含薇诺娜的全套玫瑰皮肤物品。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_winona_shadow
 msgid "This Chest contains Winona's complete set of Triumphant skin items."
@@ -107497,7 +107388,7 @@ msgstr "当薇诺娜在晚会邀请函上读到“需要正装”的时候，她
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_rosep
 msgid "By any other name, she'd smell of engine grease."
-msgstr "即使是穿上了蔷薇色的礼服参加聚会，薇诺娜仍在思考工作。"
+msgstr "即使是穿上了玫瑰色的礼服参加聚会，薇诺娜仍在思考工作。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winona_shadowp
 msgid "No one knows the depths of Winona's dark machinations."
@@ -107521,11 +107412,11 @@ msgstr "裙子和运动上衣"
 
 #: STRINGS.SKIN_NAMES.body_winona_rosep
 msgid "Coral Rose Slacks"
-msgstr "珊瑚蔷薇长裤"
+msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadowp
 msgid "Shadow Coverall"
-msgstr "暗影套装"
+msgstr "暗影工装"
 
 #: STRINGS.SKIN_NAMES.body_winona_survivorp
 msgid "Worn Workwear"
@@ -107573,7 +107464,7 @@ msgstr "薇诺娜尊贵的客人宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_winona_rose
 msgid "Winona Roseate Chest"
-msgstr "薇诺娜蔷薇宝箱"
+msgstr "薇诺娜玫瑰宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_winona_shadow
 msgid "Winona Triumphant Chest"
@@ -107609,7 +107500,7 @@ msgstr "尊贵的客人"
 
 #: STRINGS.SKIN_NAMES.winona_rosep
 msgid "The Roseate"
-msgstr "蔷薇"
+msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.winona_shadowp
 msgid "The Triumphant"
@@ -107910,10 +107801,6 @@ msgstr "头等大雨伞背景"
 #: STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
 msgid "Spectacular Stationary Wayfinder"
 msgstr "壮观的引路牌"
-
-#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
-msgid ""
-msgstr "马戏女骑手头饰"
 
 #: STRINGS.SKIN_NAMES.profileflair_umbrella_circus
 msgid "Big Top Umbrella Icon"
@@ -108785,7 +108672,7 @@ msgstr "幸存者"
 
 #: STRINGS.SKIN_NAMES.wortox_minotaur
 msgid "The Minotaur"
-msgstr "米诺陶洛斯"
+msgstr "米诺陶"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER
 msgid "I'm gonna roll up a papyrus newspaper, just in case."
@@ -108921,11 +108808,11 @@ msgstr "这件藏品不能被拆分成线。"
 
 #: STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT
 msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
-msgstr "用{doodad_count}线来编织物品：{item_name}？\n\n你将剩下{doodad_net}线。\n线可以用来编织“编织”品质的藏品。"
+msgstr "用{doodad_count}线来编织物品：{item_name}？\n\n你将剩下{doodad_net}线。\n线可以用来编织“织物”品质的藏品。"
 
 #: STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
 msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
-msgstr "拆分这件{item_name}成{doodad_count}个线？\n\n你的总线数将变成{doodad_net}。\n线可以用来编织“编织”品质的藏品。"
+msgstr "拆散这件{item_name}成{doodad_count}个线？\n\n你的总线数将变成{doodad_net}。\n线可以用来编织“织物”品质的藏品。"
 
 #: STRINGS.UI.BARTERSCREEN.NO_MARKET
 msgid "This curio cannot be traded or sold."
@@ -108937,10 +108824,9 @@ msgstr "藏品置换机"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.CURRENCY_EXPLAIN
 msgid "Items can be unraveled into Spools to weave special items."
-msgstr "它可以用来制作特殊物品。"
+msgstr "它可以用来编织特殊物品。"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.19
-msgid "a monarch's sorrow..."（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Wortox's hooves..."
 msgstr "沃拓克斯的双蹄……"
 
@@ -109023,5 +108909,1090 @@ msgstr "可怕的黑暗……"
 #: STRINGS.UI.WORLDGEN.NOUNS.39
 msgid "a touch of magic..."
 msgstr "一丝魔法……"
+
+#: STRINGS.ACTIONS.BLINK.GENERIC
+msgid "Telepoof"
+msgstr "传送"
+
+#: STRINGS.ACTIONS.BLINK.SOUL
+msgid "Soul Hop"
+msgstr "灵魂跳跃"
+
+#: STRINGS.ACTIONS.DROP.FREESOUL
+msgid "Release Soul"
+msgstr "释放灵魂"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
+msgid "What a brave beast!"
+msgstr "多么勇敢的野兽！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "It has gone to Valhalla."
+msgstr "它去了英灵殿。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
+msgid "It's a stuffed beast."
+msgstr "这是一头毛绒野兽。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
+msgid "It dances to forget the pain."
+msgstr "它起舞是为了忘记痛苦。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "It has passed."
+msgstr "它已经离去了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
+msgid "It's had a rough life."
+msgstr "它的生活很艰苦。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "Poor lil thing."
+msgstr "可怜的小东西。"
+
+#: STRINGS.CHARACTER_ABOUTME.wolfgang
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "沃尔夫冈是一个和蔼可亲，肌肉发达却又饱\n受恐惧折磨的巨人。"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.willow
+msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
+msgstr "*免疫火焰，但厌恶寒冷 \n*被她可爱的小熊伯尼所保护 \n*可以制造一个可靠的打火机"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
+msgid "This Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
+msgstr "这个叛逆者宝箱包含\n韦伯的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
+msgid "This Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
+msgstr "这个灵异宝箱包含\n温蒂的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
+msgid "This Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
+msgstr "这个喜剧小丑宝箱包含\n韦斯的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
+msgid "This Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
+msgstr "这个悲伤主妇宝箱包含\n薇洛的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
+msgid "This Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
+msgstr "这个疯狂科学家宝箱包含\n威尔逊的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
+msgid "This Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
+msgstr "这个未完成品宝箱包含\nWX-78的全套万圣夜系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
+msgid "This Spring Chest contains Wes' complete set of Verdant skin items."
+msgstr "这个熙春宝箱包含\n韦斯的全套熙春系列皮肤。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
+msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
+msgstr "将你的头像设置为发条主教。\n\n麦斯威尔在他还在噩梦王座上的时候制造了许多发条主教。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
+msgid "Set your profile icon to a festive Golden Present."
+msgstr "将你的头像设置为金色的节日赠礼。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
+msgid "Set your profile icon to a jolly Green Gift."
+msgstr "将你的头像设置为欢乐的绿色礼物。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
+msgid "Set your profile icon to a Poorly Wrapped Package."
+msgstr "将你的头像设置为低质量的包裹。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
+msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Nightmare Throne."
+msgstr "将你的头像设置为发条骑士。\n\n麦斯威尔在他还在噩梦王座上的时候制造了许多发条骑士。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
+msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Nightmare Throne."
+msgstr "将你的头像设置为发条战车。\n\n麦斯威尔在他还在噩梦王座上的时候制造了许多发条战车。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
+msgid "You never know when you'll arach-need one."
+msgstr "你永远不知道你什么时候需要帮“蛛”。"
+
+#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
+msgid "Equestrienne Headdress"
+msgstr "马戏女骑手头饰"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WX78
+msgid "WX-78"
+msgstr "WX-78"
+
+#: STRINGS.THANKS_POPUP.TWITCH_DROP
+msgid "Thanks for watching game streams"
+msgstr "感谢收看游戏直播"
+
+#: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
+msgid "Thanks for watching game streams"
+msgstr "感谢收看游戏直播"
+
+#: STRINGS.CHARACTER_ABOUTME.wortox
+msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
+msgstr "沃拓克斯是一个顽皮的恶魔。它的轻浮 只是为了掩饰内心的罪恶感，因为 它被迫吞噬了许多灵魂。"
+
+#: STRINGS.CHARACTER_NAMES.wortox
+msgid "Wortox"
+msgstr "沃拓克斯"
+
+#: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*占位符"
+
+#: STRINGS.NAMES.BERNIE_BIG
+msgid "BERNIE!"
+msgstr "伯 尼！"
+
+#: STRINGS.NAMES.WORTOX
+msgid "Wortox"
+msgstr "沃拓克斯"
+
+#: STRINGS.NAMES.WORTOX_SOUL
+msgid "Soul"
+msgstr "灵魂"
+
+#: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*占位符"
+
+#: STRINGS.SKIN_DESCRIPTIONS.bernie_cat
+msgid "Willow will be so happy to see Ashley again!"
+msgstr "薇洛再见到艾希莉一定会很高兴！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.bernie_cat_active
+msgid "Willow will be so happy to see Ashley again!"
+msgstr "薇洛再见到艾希莉一定会很高兴！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.bernie_cat_big
+msgid "Willow will be so happy to see Ashley again!"
+msgstr "薇洛再见到艾希莉一定会很高兴！"
+
+#: STRINGS.SKIN_NAMES.bernie_cat
+msgid "Ashley"
+msgstr "艾希莉"
+
+#: STRINGS.SKIN_NAMES.bernie_cat_active
+msgid "Ashley"
+msgstr "艾希莉"
+
+#: STRINGS.SKIN_NAMES.bernie_cat_big
+msgid "ASHLEY"
+msgstr "艾 希 莉"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.SALE_TXT
+msgid "-{sale_percent}%\nSale!"
+msgstr "-{sale_percent}%\n促销!"
+
+#: STRINGS.UI.RARITY.Woven
+msgid "Woven - "
+msgstr "织物 - "
+
+#: STRINGS.UI.SERVERADMINSCREEN.DAY_UNKNOWN
+msgid "Unknown Day"
+msgstr "未知天数"
+
+#: STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY
+msgid "Restore Day {day_count}"
+msgstr "恢复到第{day_count}天"
+
+#: STRINGS.UI.SERVERADMINSCREEN.HEADER_DAY_UNKNOWN
+msgid "Restore Unknown Day"
+msgstr "恢复到第未知天数"
+
+#: STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_SEASON_V2
+msgid "{season} Day {day_count}"
+msgstr "{season}第{day_count}天"
+
+#: STRINGS.UI.SERVERCREATIONSCREEN.SERVERDAY_V2
+msgid "Day {day_count}"
+msgstr "第{day_count}天"
+
+#: STRINGS.UI.STATSPANEL.MOTD_BODY
+msgid "Character and item skin sets now available for purchase!"
+msgstr "角色和道具皮肤套装现在已经可购买！"
+
+#: STRINGS.UI.STATSPANEL.MOTD_TITLE
+msgid "Now Available!"
+msgstr "现已到来！"
+
+#: STRINGS.UI.NOTIFICATION.CHECK_DAILY_GIFT
+msgid "Checking for daily gifts"
+msgstr "查看每日礼物"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.BERNIE
+msgid "Bernie"
+msgstr "伯尼"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.HEATROCK
+msgid "Thermal Stone"
+msgstr "热能石"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.LIGHTER
+msgid "Willow's Lighter"
+msgstr "薇洛的打火机"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CRYSTAL
+msgid "Crystalline Collection"
+msgstr "水晶藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL
+msgid "Forlorn Doll Collection"
+msgstr "凄惨玩偶藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR
+msgid "Minotaur Collection"
+msgstr "米诺陶藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.NEXTKIN
+msgid "Next of Kin Collection"
+msgstr "近亲藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL
+msgid "Uncorrupted Collection"
+msgstr "无邪藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORTOX
+msgid "Wortox"
+msgstr "沃拓克斯"
+
+#: STRINGS.SKIN_NAMES.lighter_haunteddoll
+msgid "Cursed Sterling Lighter"
+msgstr "诅咒纯银打火机"
+
+#: STRINGS.SKIN_NAMES.pack_character_wortox
+msgid "Wortox Chest"
+msgstr "沃拓克斯宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_haunteddoll_items
+msgid "Ghastly Attic Chest"
+msgstr "闹鬼阁楼宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_willow_deluxe
+msgid "Willow Deluxe Wardrobe"
+msgstr "薇洛豪华衣柜"
+
+#: STRINGS.SKIN_NAMES.pack_willow_formal
+msgid "Willow Guest of Honor Chest"
+msgstr "薇洛尊贵的客人宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_willow_haunteddoll
+msgid "Willow Forlorn Doll Chest"
+msgstr "薇洛凄凉玩偶宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_willow_rose
+msgid "Willow Roseate Chest"
+msgstr "薇洛玫瑰宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_willow_shadow
+msgid "Willow Triumphant Chest"
+msgstr "薇洛胜者宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_willow_survivor
+msgid "Willow Survivor Chest"
+msgstr "薇洛幸存者宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wortox_deluxe
+msgid "Wortox Deluxe Chest"
+msgstr "沃拓克斯豪华宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wortox_minotaur
+msgid "Wortox Minotaur Chest"
+msgstr "沃拓克斯米诺陶宝箱"
+
+#: STRINGS.SKIN_NAMES.pack_wortox_original
+msgid "Wortox Uncorrupted Chest"
+msgstr "沃拓克斯无邪宝箱"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_heatrockfire
+msgid "Metamorphosed Flame Portrait"
+msgstr "水晶焰背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_heatrock_fire
+msgid "Metamorphosed Flame"
+msgstr "水晶焰"
+
+#: STRINGS.SKIN_NAMES.umbrella_parasol
+msgid "Baleful Lace Parasol"
+msgstr "不详的花边阳伞"
+
+#: STRINGS.SKIN_NAMES.wathgrithr_none
+msgid "Wigfrid"
+msgstr "薇格弗德"
+
+#: STRINGS.SKIN_NAMES.waxwell_none
+msgid "Maxwell"
+msgstr "麦斯威尔"
+
+#: STRINGS.SKIN_NAMES.webber_none
+msgid "Webber"
+msgstr "韦伯"
+
+#: STRINGS.SKIN_NAMES.wendy_none
+msgid "Wendy"
+msgstr "温蒂"
+
+#: STRINGS.SKIN_NAMES.wes_none
+msgid "Wes"
+msgstr "韦斯"
+
+#: STRINGS.SKIN_NAMES.wickerbottom_none
+msgid "Wickerbottom"
+msgstr "维克巴顿"
+
+#: STRINGS.SKIN_NAMES.willow_formalp
+msgid "Guest of Honor"
+msgstr "尊贵的客人"
+
+#: STRINGS.SKIN_NAMES.willow_haunteddoll
+msgid "The Forlorn Doll"
+msgstr "凄惨玩偶"
+
+#: STRINGS.SKIN_NAMES.willow_none
+msgid "Willow"
+msgstr "薇洛"
+
+#: STRINGS.SKIN_NAMES.willow_rosep
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#: STRINGS.SKIN_NAMES.willow_shadowp
+msgid "The Triumphant"
+msgstr "胜者"
+
+#: STRINGS.SKIN_NAMES.willow_survivorp
+msgid "The Survivor"
+msgstr "幸存者"
+
+#: STRINGS.SKIN_NAMES.body_buttons_blue_sapphire
+msgid "Buttoned Shirt"
+msgstr "纽扣衬衫"
+
+#: STRINGS.SKIN_NAMES.body_buttons_grey_gainsboro
+msgid "Buttoned Shirt"
+msgstr "纽扣衬衫"
+
+#: STRINGS.SKIN_NAMES.body_buttons_purple_violet
+msgid "Buttoned Shirt"
+msgstr "纽扣衬衫"
+
+#: STRINGS.SKIN_NAMES.body_buttons_red_burgundy
+msgid "Buttoned Shirt"
+msgstr "纽扣衬衫"
+
+#: STRINGS.SKIN_NAMES.body_buttons_teal_jade
+msgid "Buttoned Shirt"
+msgstr "纽扣衬衫"
+
+#: STRINGS.SKIN_NAMES.body_cableknit_sweater_tan_khaki
+msgid "Cable Knit Sweater"
+msgstr "粗糙毛衣"
+
+#: STRINGS.SKIN_NAMES.body_flannel_grey_silver
+msgid "Lumberjack Shirt"
+msgstr "伐木工衬衫"
+
+#: STRINGS.SKIN_NAMES.body_flannel_red_higgsbury
+msgid "Lumberjack Shirt"
+msgstr "伐木工衬衫"
+
+#: STRINGS.SKIN_NAMES.body_overalls_brown_fawn
+msgid "Overalls"
+msgstr "工作服"
+
+#: STRINGS.SKIN_NAMES.body_overalls_tan_grass
+msgid "Overalls"
+msgstr "工作服"
+
+#: STRINGS.SKIN_NAMES.body_polo_blue_cornflower
+msgid "Collared Shirt"
+msgstr "带领衬衫"
+
+#: STRINGS.SKIN_NAMES.body_polo_green_pistachio
+msgid "Collared Shirt"
+msgstr "带领衬衫"
+
+#: STRINGS.SKIN_NAMES.body_polo_pink_hibiscus
+msgid "Collared Shirt"
+msgstr "带领衬衫"
+
+#: STRINGS.SKIN_NAMES.body_suspenders_black_davys
+msgid "Suspension Shirt"
+msgstr "带领衬衫"
+
+#: STRINGS.SKIN_NAMES.body_suspenders_blue_cornflower
+msgid "Suspension Shirt"
+msgstr "带领衬衫"
+
+#: STRINGS.SKIN_NAMES.body_sweatervest_navy_ocean
+msgid "Sweater Vest"
+msgstr "毛背心"
+
+#: STRINGS.SKIN_NAMES.body_swimsuit2_blue_lightning
+msgid "Suit"
+msgstr "连体泳衣"
+
+#: STRINGS.SKIN_NAMES.body_swimsuit_red_ruby
+msgid "Swimming Costume"
+msgstr "泳装"
+
+#: STRINGS.SKIN_NAMES.body_trenchcoat_grey_dark
+msgid "Trench Coat"
+msgstr "风衣"
+
+#: STRINGS.SKIN_NAMES.body_trenchcoat_tan_clay
+msgid "Trench Coat"
+msgstr "风衣"
+
+#: STRINGS.SKIN_NAMES.body_trimmed_blouse_blue_sky
+msgid "Pleated Shirt"
+msgstr "百褶衬衫"
+
+#: STRINGS.SKIN_NAMES.body_trimmed_blouse_green_celadon
+msgid "Pleated Shirt"
+msgstr "百褶衬衫"
+
+#: STRINGS.SKIN_NAMES.body_trimmed_blouse_pink_pearl
+msgid "Pleated Shirt"
+msgstr "百褶衬衫"
+
+#: STRINGS.SKIN_NAMES.body_tshirt_blue_cerulean
+msgid "T-Shirt"
+msgstr "T恤"
+
+#: STRINGS.SKIN_NAMES.body_tshirt_green_leaf
+msgid "T-Shirt"
+msgstr "T恤"
+
+#: STRINGS.SKIN_NAMES.body_tshirt_orange_pumpkin
+msgid "T-Shirt"
+msgstr "T恤"
+
+#: STRINGS.SKIN_NAMES.body_tweedvest_pink_raspberry
+msgid "Tweed Waistcoat"
+msgstr "粗花呢背心"
+
+#: STRINGS.SKIN_NAMES.body_willow_formalp
+msgid "Cocktail Dress"
+msgstr "鸡尾酒礼服"
+
+#: STRINGS.SKIN_NAMES.body_willow_haunteddoll
+msgid "Forlorn Doll Frock"
+msgstr "凄凉玩偶连衣裙"
+
+#: STRINGS.SKIN_NAMES.body_willow_rosep
+msgid "Velvet Rose Frock"
+msgstr "丝绒玫瑰连衣裙"
+
+#: STRINGS.SKIN_NAMES.body_willow_shadowp
+msgid "Shadow Dress"
+msgstr "暗影长裙"
+
+#: STRINGS.SKIN_NAMES.body_willow_survivorp
+msgid "Raggedy Rags"
+msgstr "褴褛的衣服"
+
+#: STRINGS.SKIN_NAMES.body_wortox_minotaur
+msgid "Minotaur Chest"
+msgstr "米诺陶胸脯"
+
+#: STRINGS.SKIN_NAMES.body_wortox_original
+msgid "Forest Fawn Chest"
+msgstr "森林幼崽胸脯"
+
+#: STRINGS.SKIN_NAMES.body_wortox_survivor
+msgid "Grimy Goblin Chest"
+msgstr "肮脏哥布林胸脯"
+
+#: STRINGS.SKIN_NAMES.feet_ankleboot_black_jet
+msgid "Ankle Boots"
+msgstr "脚踝短靴"
+
+#: STRINGS.SKIN_NAMES.feet_ankleboot_brown_beaver
+msgid "Ankle Boots"
+msgstr "脚踝短靴"
+
+#: STRINGS.SKIN_NAMES.feet_ankleboot_grey_dark
+msgid "Ankle Boots"
+msgstr "脚踝短靴"
+
+#: STRINGS.SKIN_NAMES.feet_ankleboot_red_firehound
+msgid "Ankle Boots"
+msgstr "脚踝短靴"
+
+#: STRINGS.SKIN_NAMES.feet_buckle_shoe_black_jet
+msgid "Buckled Shoes"
+msgstr "扣带鞋"
+
+#: STRINGS.SKIN_NAMES.feet_buckle_shoe_navy_phthalo
+msgid "Buckled Shoes"
+msgstr "扣带鞋"
+
+#: STRINGS.SKIN_NAMES.feet_buckle_shoe_pink_mulberry
+msgid "Buckled Shoes"
+msgstr "扣带鞋"
+
+#: STRINGS.SKIN_NAMES.feet_buckle_shoe_red_garnet
+msgid "Buckled Shoes"
+msgstr "扣带鞋"
+
+#: STRINGS.SKIN_NAMES.feet_buckle_shoe_tan_clay
+msgid "Buckled Shoes"
+msgstr "扣带鞋"
+
+#: STRINGS.SKIN_NAMES.feet_captoe_shoe_black_jet
+msgid "Oxford Shoes"
+msgstr "牛津鞋"
+
+#: STRINGS.SKIN_NAMES.feet_captoe_shoe_brown_beaver
+msgid "Oxford Shoes"
+msgstr "牛津鞋"
+
+#: STRINGS.SKIN_NAMES.feet_captoe_shoe_navy_midnight
+msgid "Oxford Shoes"
+msgstr "牛津鞋"
+
+#: STRINGS.SKIN_NAMES.feet_captoe_shoe_tan_beefalo
+msgid "Oxford Shoes"
+msgstr "牛津鞋"
+
+#: STRINGS.SKIN_NAMES.feet_captoe_shoe_white_ivory
+msgid "Oxford Shoes"
+msgstr "牛津鞋"
+
+#: STRINGS.SKIN_NAMES.feet_formal_stilettop_black_scribble
+msgid "High Heels"
+msgstr "高跟鞋"
+
+#: STRINGS.SKIN_NAMES.feet_formal_winklepicker_white_ivory
+msgid "Winklepickers"
+msgstr "尖头皮鞋"
+
+#: STRINGS.SKIN_NAMES.feet_loafers_black_jet
+msgid "Loafers"
+msgstr "乐福鞋"
+
+#: STRINGS.SKIN_NAMES.feet_loafers_brown_beaver
+msgid "Loafers"
+msgstr "乐福鞋"
+
+#: STRINGS.SKIN_NAMES.feet_loafers_orange_sienna
+msgid "Loafers"
+msgstr "乐福鞋"
+
+#: STRINGS.SKIN_NAMES.feet_loafers_tan_khaki
+msgid "Loafers"
+msgstr "乐福鞋"
+
+#: STRINGS.SKIN_NAMES.feet_sneakers_brown_umber
+msgid "Sneakers"
+msgstr "运动鞋"
+
+#: STRINGS.SKIN_NAMES.feet_sneakers_tan_beefalo
+msgid "Sneakers"
+msgstr "运动鞋"
+
+#: STRINGS.SKIN_NAMES.feet_swimflippers_black_scribble
+msgid "Flippers"
+msgstr "脚蹼"
+
+#: STRINGS.SKIN_NAMES.feet_swimshoes_blue_lightning
+msgid "Swim Socks"
+msgstr "游泳袜"
+
+#: STRINGS.SKIN_NAMES.feet_twotone_shoe_black_scribble
+msgid "Spectator Shoes"
+msgstr "观者鞋"
+
+#: STRINGS.SKIN_NAMES.feet_twotone_shoe_brown_sepia
+msgid "Spectator Shoes"
+msgstr "观者鞋"
+
+#: STRINGS.SKIN_NAMES.feet_twotone_shoe_green_laurel
+msgid "Spectator Shoes"
+msgstr "观者鞋"
+
+#: STRINGS.SKIN_NAMES.feet_twotone_shoe_navy_midnight
+msgid "Spectator Shoes"
+msgstr "观者鞋"
+
+#: STRINGS.SKIN_NAMES.feet_twotone_shoe_red_auburn
+msgid "Spectator Shoes"
+msgstr "观者鞋"
+
+#: STRINGS.SKIN_NAMES.feet_willow_haunteddoll
+msgid "Forlorn Doll Mary Janes"
+msgstr "凄凉玩偶玛丽珍鞋"
+
+#: STRINGS.SKIN_NAMES.feet_workboot_black_jet
+msgid "Steel-Toed Boots"
+msgstr "钢趾靴"
+
+#: STRINGS.SKIN_NAMES.feet_workboot_brown_walnut
+msgid "Steel-Toed Boots"
+msgstr "钢趾靴"
+
+#: STRINGS.SKIN_NAMES.hand_beltedgloves_navy_ocean
+msgid "Buckled Gloves"
+msgstr "扣带手套"
+
+#: STRINGS.SKIN_NAMES.hand_beltedgloves_orange_sienna
+msgid "Buckled Gloves"
+msgstr "扣带手套"
+
+#: STRINGS.SKIN_NAMES.hand_drivergloves_brown_sepia
+msgid "Driving Gloves"
+msgstr "驾驶手套"
+
+#: STRINGS.SKIN_NAMES.hand_drivergloves_grey_dark
+msgid "Driving Gloves"
+msgstr "驾驶手套"
+
+#: STRINGS.SKIN_NAMES.hand_drivergloves_tan_grass
+msgid "Driving Gloves"
+msgstr "驾驶手套"
+
+#: STRINGS.SKIN_NAMES.hand_longgloves_black_scribble
+msgid "Long Gloves"
+msgstr "长手套"
+
+#: STRINGS.SKIN_NAMES.hand_longgloves_blue_cerulean
+msgid "Long Gloves"
+msgstr "长手套"
+
+#: STRINGS.SKIN_NAMES.hand_longgloves_red_ruby
+msgid "Long Gloves"
+msgstr "长手套"
+
+#: STRINGS.SKIN_NAMES.hand_shortgloves_grey_dark
+msgid "Hand Covers"
+msgstr "手套"
+
+#: STRINGS.SKIN_NAMES.hand_shortgloves_navy_midnight
+msgid "Hand Covers"
+msgstr "手套"
+
+#: STRINGS.SKIN_NAMES.hand_shortgloves_purple_violet
+msgid "Hand Covers"
+msgstr "手套"
+
+#: STRINGS.SKIN_NAMES.hand_willow_haunteddoll
+msgid "Forlorn Doll Sleeves"
+msgstr "凄凉玩偶袖子"
+
+#: STRINGS.SKIN_NAMES.hand_workgloves_brown_chocolate
+msgid "Unprotective Gloves"
+msgstr "无保护作用的手套"
+
+#: STRINGS.SKIN_NAMES.hand_workgloves_grey_gainsboro
+msgid "Unprotective Gloves"
+msgstr "无保护作用的手套"
+
+#: STRINGS.SKIN_NAMES.hand_workgloves_red_higgsbury
+msgid "Unprotective Gloves"
+msgstr "无保护作用的手套"
+
+#: STRINGS.SKIN_NAMES.hand_workgloves_tan_grass
+msgid "Unprotective Gloves"
+msgstr "无保护作用的手套"
+
+#: STRINGS.SKIN_NAMES.hand_wortox_minotaur
+msgid "Minotaur Mitts"
+msgstr "米诺陶连指手套"
+
+#: STRINGS.SKIN_NAMES.hand_wortox_original
+msgid "Forest Fawn Paws"
+msgstr "森林幼崽爪子"
+
+#: STRINGS.SKIN_NAMES.hand_wortox_survivor
+msgid "Grimy Goblin Grapplers"
+msgstr "肮脏哥布林爪子"
+
+#: STRINGS.SKIN_NAMES.heatrock_fire
+msgid "Metamorphosed Flame"
+msgstr "水晶焰"
+
+#: STRINGS.SKIN_NAMES.legs_checkered_pleats_grey_slate
+msgid "Checkered Trousers"
+msgstr "格纹裤子"
+
+#: STRINGS.SKIN_NAMES.legs_checkered_pleats_orange_lumberjack
+msgid "Checkered Trousers"
+msgstr "格纹裤子"
+
+#: STRINGS.SKIN_NAMES.legs_checkered_pleats_tan_grass
+msgid "Checkered Trousers"
+msgstr "格纹裤子"
+
+#: STRINGS.SKIN_NAMES.legs_jeans_black_scribble
+msgid "Jeans"
+msgstr "牛仔裤"
+
+#: STRINGS.SKIN_NAMES.legs_jeans_blue_peacock
+msgid "Jeans"
+msgstr "牛仔裤"
+
+#: STRINGS.SKIN_NAMES.legs_jeans_grey_silver
+msgid "Jeans"
+msgstr "牛仔裤"
+
+#: STRINGS.SKIN_NAMES.legs_jeans_navy_ocean
+msgid "Jeans"
+msgstr "牛仔裤"
+
+#: STRINGS.SKIN_NAMES.legs_pants_basic_blue_sky
+msgid "Pants"
+msgstr "裤子"
+
+#: STRINGS.SKIN_NAMES.legs_pants_basic_yellow_mustard
+msgid "Pants"
+msgstr "裤子"
+
+#: STRINGS.SKIN_NAMES.legs_pinstripe_pants_black_jet
+msgid "Pinstripe Pants"
+msgstr "条纹裤"
+
+#: STRINGS.SKIN_NAMES.legs_pinstripe_pants_brown_chocolate
+msgid "Pinstripe Pants"
+msgstr "条纹裤"
+
+#: STRINGS.SKIN_NAMES.legs_pinstripe_pants_navy_crow
+msgid "Pinstripe Pants"
+msgstr "条纹裤"
+
+#: STRINGS.SKIN_NAMES.legs_pinstripe_pants_purple_violet
+msgid "Pinstripe Pants"
+msgstr "条纹裤"
+
+#: STRINGS.SKIN_NAMES.legs_pinstripe_pants_red_garnet
+msgid "Pinstripe Pants"
+msgstr "条纹裤"
+
+#: STRINGS.SKIN_NAMES.legs_shorts_black_scribble
+msgid "Shorts"
+msgstr "短裤"
+
+#: STRINGS.SKIN_NAMES.legs_shorts_blue_cerulean
+msgid "Shorts"
+msgstr "短裤"
+
+#: STRINGS.SKIN_NAMES.legs_shorts_green_hunters
+msgid "Shorts"
+msgstr "短裤"
+
+#: STRINGS.SKIN_NAMES.legs_shorts_red_firehound
+msgid "Shorts"
+msgstr "短裤"
+
+#: STRINGS.SKIN_NAMES.legs_shorts_tan_khaki
+msgid "Shorts"
+msgstr "短裤"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_basic_blue_peacock
+msgid "Skirt"
+msgstr "短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_basic_green_leaf
+msgid "Skirt"
+msgstr "短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_button_blue_catcoon
+msgid "Buttoned Skirt"
+msgstr "纽扣短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_button_green_viridian
+msgid "Buttoned Skirt"
+msgstr "纽扣短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_button_purple_mauve
+msgid "Buttoned Skirt"
+msgstr "纽扣短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_button_red_rook
+msgid "Buttoned Skirt"
+msgstr "纽扣短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_button_white_ivory
+msgid "Buttoned Skirt"
+msgstr "纽扣短裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_plaid_purple_lavender
+msgid "Plaid Skirt"
+msgstr "格子裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_plaid_red_ruby
+msgid "Plaid Skirt"
+msgstr "格子裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_plaid_yellow_butter
+msgid "Plaid Skirt"
+msgstr "格子裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_pleated_blue_winter
+msgid "Pleated Skirt"
+msgstr "百褶裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_pleated_brown_walnut
+msgid "Pleated Skirt"
+msgstr "百褶裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_pleated_red_burgundy
+msgid "Pleated Skirt"
+msgstr "百褶裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_pleated_tan_khaki
+msgid "Pleated Skirt"
+msgstr "百褶裙"
+
+#: STRINGS.SKIN_NAMES.legs_skirt_pleated_teal_jungle
+msgid "Pleated Skirt"
+msgstr "百褶裙"
+
+#: STRINGS.SKIN_NAMES.legs_swing_pants_brown_umber
+msgid "Swing Pants"
+msgstr "甩裤"
+
+#: STRINGS.SKIN_NAMES.legs_swing_pants_navy_midnight
+msgid "Swing Pants"
+msgstr "甩裤"
+
+#: STRINGS.SKIN_NAMES.legs_swing_pants_pink_raspberry
+msgid "Swing Pants"
+msgstr "甩裤"
+
+#: STRINGS.SKIN_NAMES.legs_swing_pants_red_higgsbury
+msgid "Swing Pants"
+msgstr "甩裤"
+
+#: STRINGS.SKIN_NAMES.legs_swing_pants_tan_khaki
+msgid "Swing Pants"
+msgstr "甩裤"
+
+#: STRINGS.SKIN_NAMES.legs_tweed_knickerbocker_brown_chocolate
+msgid "Knee Pants"
+msgstr "及膝的短裤"
+
+#: STRINGS.SKIN_NAMES.legs_tweed_knickerbocker_grey_steel
+msgid "Knee Pants"
+msgstr "及膝的短裤"
+
+#: STRINGS.SKIN_NAMES.legs_wortox_minotaur
+msgid "Minotaur Hooves"
+msgstr "米诺陶蹄子"
+
+#: STRINGS.SKIN_NAMES.legs_wortox_original
+msgid "Forest Fawn Haunches"
+msgstr "森林幼崽臀部"
+
+#: STRINGS.SKIN_NAMES.legs_wortox_survivor
+msgid "Grimy Goblin Hoofsies"
+msgstr "肮脏哥布林腿部"
+
+#: STRINGS.SKIN_QUOTES.willow_formalp
+msgid "\"He died before getting to see these beautiful flames.\""
+msgstr "\"他还没能见到这些绚丽焰火就死\n了。\""
+
+#: STRINGS.SKIN_QUOTES.willow_haunteddoll
+msgid "\"Why did you leave me?\""
+msgstr "\"你为什么丢下我？\""
+
+#: STRINGS.SKIN_QUOTES.willow_rosep
+msgid "\"A rose to symbolize the flames of passion.\""
+msgstr "\"象征热情火焰的玫瑰！\""
+
+#: STRINGS.SKIN_QUOTES.willow_shadowp
+msgid "\"Shadows are just inverted flames.\""
+msgstr "\"暗影不过是褪色的火焰。\""
+
+#: STRINGS.SKIN_QUOTES.willow_survivorp
+msgid "\"Surviving just requires strength of will. (And fire.)\""
+msgstr "\"生存只需要坚强的意志。\n（还有火。）\""
+
+#: STRINGS.SKIN_QUOTES.wortox_minotaur
+msgid "\"Won't you visit me at the heart of the labyrinth?\""
+msgstr "\"你会来迷宫中心见我吗？\""
+
+#: STRINGS.SKIN_QUOTES.wortox_original
+msgid "\"Ol'Kramps says my powers should grow in soon. Hyuyu!\""
+msgstr "\"坎普斯说我的力量很快会变得更强。呦！\""
+
+#: STRINGS.SKIN_QUOTES.wortox_survivor
+msgid "\"Try not to cower in fear, my dear!\""
+msgstr "\"亲爱的，别害怕！\""
+
+#: STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgid "This curio is not weaveable."
+msgstr "这件藏品无法编织。"
+
+#: STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgid "This curio is not currently weaveable."
+msgstr "这件藏品无法在现在编织。"
+
+#: STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
+msgid "You must have {character} unlocked to weave this item from Spools."
+msgstr "你必须解锁{character}才能用线轴编织此物品。"
+
+#: STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
+msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgstr "拆散这个物品后，将不能再使用{character}角色进行游戏。 已有的角色相关物品将不能直接使用，但你还是可以拆散它们。"
+
+#: STRINGS.UI.LOBBYSCREEN.UNOWNED_CHARACTER_BODY
+msgid "You have not yet unlocked {character}.\nTo play this character, you must either weave them using Spools, or purchase them from the Shop."
+msgstr "你尚未拥有{character}。\n想使用这个角色，你必须用线轴编织或从商店氪金购买。"
+
+#: STRINGS.UI.LOBBYSCREEN.UNOWNED_CHARACTER_TITLE
+msgid "Character Not Owned"
+msgstr "未拥有角色"
+
+#: STRINGS.UI.LOBBYSCREEN.VISIT_SHOP
+msgid "Visit Shop"
+msgstr "前去氪金"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
+msgid "Clear Dynamic Content"
+msgstr "清空动态内容"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DISABLE
+msgid "Disable Dynamic Content"
+msgstr "关闭动态内容"
+
+#: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_ENABLE
+msgid "Enable Dynamic Content"
+msgstr "启用动态内容"
+
+#: STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED
+msgid "Your account has been marked for deletion and cannot be used anymore."
+msgstr "你的账号已登记删除，将不能再使用。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED
+msgid "Account Deleted"
+msgstr "账户已删除"
+
+#: STRINGS.UI.NOTIFICATION.CHECK_EVENT
+msgid "Catching up on current events"
+msgstr "正在检查活动"
+
+#: STRINGS.UI.NOTIFICATION.CHECK_INVENTORY
+msgid "Updating inventory"
+msgstr "正在更新背包"
+
+#: STRINGS.UI.NOTIFICATION.CHECK_SHOP
+msgid "Updating the shop"
+msgstr "正在更新商店"
+
+#: STRINGS.UI.OPTIONS.TARGETLOCKING
+msgid "Target Locking:"
+msgstr "目标锁定："
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_BODY
+msgid "Unfortunately you failed to download your item collection, would you like you try again?"
+msgstr "下载物品收藏失败，是否重新下载？"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_NO
+msgid "No"
+msgstr "否"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_TITLE
+msgid "Item Collection Download Failed"
+msgstr "物品收藏下载失败"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.FAILED_INVENTORY_YES
+msgid "Yes"
+msgstr "是"
+
+#: STRINGS.UI.PLAYERSUMMARYSCREEN.GET_INVENTORY
+msgid "Downloading Item Collection"
+msgstr "正在下载物品收藏"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.DISCOUNT_FILTER
+msgid "Discount:"
+msgstr "折扣："
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EMPTY_AFTER_FILTER
+msgid "There are currently no chests for sale that match your filter criteria."
+msgstr "没有宝箱满足你的筛选条件。"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EXPIRE_DAYS_TXT
+msgid "Offer expires in {days} days!"
+msgstr "促销将在{days}天后结束！"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EXPIRE_DAY_TXT
+msgid "Offer expires in 1 day!"
+msgstr "促销将在1天后结束！"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EXPIRE_HOURS_TXT
+msgid "Offer expires in {hours} hours!"
+msgstr "促销将在{hours}小时后结束！"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EXPIRE_HOUR_TXT
+msgid "Offer expires in 1 hour!"
+msgstr "促销将在1小时后结束！"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.EXPIRE_SOON_TXT
+msgid "Offer expires soon!"
+msgstr "促销马上结束！"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_BUNDLE
+msgid "Bundles"
+msgstr "捆绑包"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.FILTER_SALE
+msgid "Sales"
+msgstr "促销"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.UNOWNED_CHARACTER_BODY
+msgid "You do not currently own {character}.\nThis chest contains skins for {character}, which will be unusable without owning them."
+msgstr "你还没有{character}。\n这个宝箱包含{character}的皮肤，没有角色还怎么使用皮肤？"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.VIEW_REQUIRED
+msgid "View {character} Chests"
+msgstr "查看{character}宝箱"
+
+#: STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_BODY
+msgid "Are you sure you want to overwrite your save data? Your settings and worlds will be lost. This process can not be undone."
+msgstr "你确定要覆盖存档吗？你会失去你的设置和世界，无法挽回。"
+
+#: STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
+msgid "Overwrite save data"
+msgstr "覆盖存档"
+
+#: STRINGS.UI.WARDROBESCREEN.SORT_COUNT
+msgid "Owned Count"
+msgstr "拥有数量"
+
+#: STRINGS.SKIN_NAMES.wortox_original
+msgid "The Uncorrupted"
+msgstr "无邪"
+
+#: STRINGS.SKIN_NAMES.wx78_none
+msgid "WX-78"
+msgstr "WX-78"
+
+#: STRINGS.SKIN_NAMES.wilson_none
+msgid "Wilson"
+msgstr "威尔逊"
+
+#: STRINGS.SKIN_NAMES.winona_none
+msgid "Winona"
+msgstr "薇诺娜"
+
+#: STRINGS.SKIN_NAMES.wolfgang_none
+msgid "Wolfgang"
+msgstr "沃尔夫冈"
+
+#: STRINGS.SKIN_NAMES.woodie_none
+msgid "Woodie"
+msgstr "伍迪"
+
+#: STRINGS.SKIN_NAMES.wortox_none
+msgid "Essential Wortox"
+msgstr "基础沃拓克斯"
+
+
+
+
+
 
 
