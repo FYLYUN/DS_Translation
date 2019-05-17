@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -75168,63 +75168,63 @@ msgstr "破碎的發條機器"
 
 #: STRINGS.NAMES.CHESSPIECE_BEARGER
 msgid "Bearger Figure"
-msgstr "熊獾棋子"
+msgstr "熊獾雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BEARGER_BUILDER
 msgid "Bearger Figure"
-msgstr "熊獾棋子"
+msgstr "熊獾雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BISHOP
 msgid "Bishop Figure"
-msgstr "主教棋子"
+msgstr "主教雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BISHOP_BUILDER
 msgid "Bishop Figure"
-msgstr "主教棋子"
+msgstr "主教雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND
 msgid "Hound Figure"
-msgstr "獵犬棋子"
+msgstr "獵犬雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_BUILDER
 msgid "Hound Figure"
-msgstr "獵犬棋子"
+msgstr "獵犬雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG
 msgid "Varg Figure"
-msgstr "座狼棋子"
+msgstr "座狼雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG_BUILDER
 msgid "Varg Figure"
-msgstr "座狼棋子"
+msgstr "座狼雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG_SKETCH
 msgid "Clay Varg Figure Sketch"
-msgstr "粘土座狼草圖"
+msgstr "粘土座狼雕塑草圖"
 
 #: STRINGS.NAMES.CHESSPIECE_DEERCLOPS
 msgid "Deerclops Figure"
-msgstr "獨眼巨鹿棋子"
+msgstr "獨眼巨鹿雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DEERCLOPS_BUILDER
 msgid "Deerclops Figure"
-msgstr "獨眼巨鹿棋子"
+msgstr "獨眼巨鹿雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DRAGONFLY
 msgid "Dragonfly Figure"
-msgstr "龍蠅棋子"
+msgstr "龍蠅雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DRAGONFLY_BUILDER
 msgid "Dragonfly Figure"
-msgstr "龍蠅棋子"
+msgstr "龍蠅雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_FORMAL
 msgid "Kingly Figure"
-msgstr "國王棋子"
+msgstr "國王雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_FORMAL_BUILDER
 msgid "Kingly Figure"
-msgstr "國王棋子"
+msgstr "國王雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA
 msgid "Carved Hornucopia"
@@ -75236,39 +75236,39 @@ msgstr "豐饒角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT
 msgid "Knight Figure"
-msgstr "騎士棋子"
+msgstr "騎士雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT_BUILDER
 msgid "Knight Figure"
-msgstr "騎士棋子"
+msgstr "騎士雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE
 msgid "Moose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_ALT
 msgid "Goose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_BUILDER
 msgid "Moose/Goose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MUSE
 msgid "Queenly Figure"
-msgstr "皇后棋子"
+msgstr "皇后雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MUSE_BUILDER
 msgid "Queenly Figure"
-msgstr "皇后棋子"
+msgstr "皇后雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PAWN
 msgid "Pawn Figure"
-msgstr "禁衛棋子"
+msgstr "禁衛雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PAWN_BUILDER
 msgid "Pawn Figure"
-msgstr "禁衛棋子"
+msgstr "禁衛雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PIPE
 msgid "Bubble Pipe Carving"
@@ -75280,11 +75280,11 @@ msgstr "冒泡煙斗雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_ROOK
 msgid "Rook Figure"
-msgstr "戰車棋子"
+msgstr "戰車雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_ROOK_BUILDER
 msgid "Rook Figure"
-msgstr "戰車棋子"
+msgstr "戰車雕塑"
 
 #: STRINGS.NAMES.CHESTER
 msgid "Chester"
@@ -109988,7 +109988,7 @@ msgstr "長滿了毛，很噁心"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_SKETCH
 msgid "Hound Figure Sketch"
-msgstr "獵犬棋子草圖"
+msgstr "獵犬雕塑草圖"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.39
 msgid "a touch of magic..."
@@ -110104,11 +110104,11 @@ msgstr "蟻尾魚"
 
 #: STRINGS.NAMES.BATHBOMB
 msgid "Bath Bomb"
-msgstr "浴鹽炸彈"
+msgstr "爆炸浴鹽"
 
 #: STRINGS.NAMES.BATHBOMB_BLUEPRINT
 msgid "Bath Bomb Blueprint"
-msgstr "浴鹽炸彈藍圖"
+msgstr "爆炸炸彈藍圖"
 
 #: STRINGS.NAMES.BOAT
 msgid "Boat"
