@@ -3538,10 +3538,6 @@ msgstr "这个羽毛笔写出来的字都有科学的气息。"
 msgid "A canary feather."
 msgstr "金丝雀羽毛。"
 
-#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_CROW
-msgid "A crow feather."
-msgstr "乌鸦羽毛。"
-
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_ROBIN
 msgid "A redbird feather."
 msgstr "红雀羽毛。"
@@ -7209,10 +7205,6 @@ msgstr "我最终肯定能把它派上用场"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.BURNING
 msgid "That's burning fast!"
 msgstr "烧！烧！烧！"
-
-#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.BURNT
-msgid "It's outta style now."
-msgstr "那个已经落伍了。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.GENERIC
 msgid "It holds dark, forbidden secrets..."
@@ -20202,10 +20194,6 @@ msgstr "旧习难改…你也会这样的！"
 msgid "Trust only yourself, hey %s?"
 msgstr "只相信自己，嘿，%s？"
 
-#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL
-msgid "I'm so sorry Charlie."
-msgstr "真对不起，查理。"
-
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WEBBER.ATTACKER
 msgid "%s is looking downright feral..."
 msgstr "%s看上去已经彻底的屈服于自己的兽性了…"
@@ -29270,10 +29258,6 @@ msgstr "大…大概我会随便写些东西……只要没人看向这边。"
 msgid "A canary feather, golden as the gilded cage."
 msgstr "一根金丝雀的羽毛，金得像镀金的笼子。"
 
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_CROW
-msgid "A crow feather, black like eternal darkness."
-msgstr "一根乌鸦的羽毛，黑得挺彻底的。"
-
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_ROBIN
 msgid "A redbird feather, red like blood."
 msgstr "一根红鸟的羽毛，红得像血一样。"
@@ -34810,10 +34794,6 @@ msgstr "详细的图纸。"
 msgid "Such a rare and detailed drawing!"
 msgstr "多么罕见而详细的图纸！"
 
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_CAP
-msgid "This seems to have medicinal properties"
-msgstr "它看起来有药用价值"
-
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_CAP_COOKED
 msgid "Chemistry has altered it."
 msgstr "化学变化改变了它。"
@@ -34889,10 +34869,6 @@ msgstr "这是个扁平的机翼"
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BRUSH
 msgid "Microscopic barbs allow for optimal hair retrieval."
 msgstr "微小的倒钩是最理想的回收毛发的工具。"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUGNET
-msgid "The tool of entomologists"
-msgstr "昆虫学者的工具"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUNDLE
 msgid "At least someone's bundled up out here."
@@ -35725,10 +35701,6 @@ msgstr "噢，我错过了合适的书写工具！"
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHER_CANARY
 msgid "Feather of Canaria."
 msgstr "金丝雀的羽毛。"
-
-#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHER_CROW
-msgid "Feather of Corvus."
-msgstr "乌鸦的羽毛。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHER_ROBIN
 msgid "Feather of Cardinalis."
@@ -42201,10 +42173,6 @@ msgstr "羽毛又可以做什么？"
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_CANARY
 msgid "Canary feather. It probably smells terrible on fire."
 msgstr "金丝雀的羽毛，烧起来味道估计很难闻。"
-
-#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_CROW
-msgid "Crow feather. It probably smells terrible on fire."
-msgstr "乌鸦的羽毛，烧起来味道估计很难闻。"
 
 #: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_ROBIN
 msgid "Redbird feather. It probably smells terrible on fire."
@@ -53877,10 +53845,6 @@ msgstr "这个聚会令我感到好笑。"
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BATCAVE
 msgid "It's the hidey hole for the flying mousies!"
 msgstr "这是飞天老鼠的藏身处！"
-
-#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BATWING
-msgid "Is all hairy and gross"
-msgstr "长满了毛，很恶心"
 
 #: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BATWING_COOKED
 msgid "Crispy!"
@@ -75225,10 +75189,6 @@ msgstr "猎犬棋子"
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_BUILDER
 msgid "Hound Figure"
 msgstr "猎犬棋子"
-
-#: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_SKETCH
-msgid "Clay Hound Figure Sketch"
-msgstr "粘土猎犬草图"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG
 msgid "Varg Figure"
@@ -96980,7 +96940,11 @@ msgstr "服务器版本与你的不同。\n请检查你的游戏版本是否是�
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ARNBETA
 msgid "The server is running the A New Reign Beta version. You'll need to opt into the beta to play on this server."
-msgstr "服务器使用的是ANR测试版。\n你将需要在Steam参加测试后才能加入。"
+msgstr "服务器使用的是新王朝测试版。\n你将需要在Steam参加测试后才能加入。"
+
+#: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
+msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
+msgstr "服务器使用的是旧神回归测试版。\n你将需要在Steam参加测试后才能加入。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
 msgid "This server is on a newer version than you. Please download the latest update to connect."
@@ -97212,7 +97176,11 @@ msgstr "版本不匹配"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ARNBETA
 msgid "A New Reign Beta"
-msgstr "新的统治 β版"
+msgstr "新王朝 Beta版"
+
+#: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
+msgid "Return of Them Beta"
+msgstr "旧神回归 Beta版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
 msgid "Version Mismatch"
@@ -108902,38 +108870,6 @@ msgstr "原始的本能……"
 msgid "terrible darkness..."
 msgstr "可怕的黑暗……"
 
-#: STRINGS.UI.WORLDGEN.NOUNS.39
-msgid "a touch of magic..."
-msgstr "一丝魔法……"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE
-msgid "A little piece of a great big beast."
-msgstr "宏伟巨兽的一小部分。"
-
-#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
-msgid "I can't create from nothing."
-msgstr "我不能无中生有。"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RAINOMETER.GENERIC
-msgid "Will it rain? Or will it shine?"
-msgstr "会下雨吗？或者会是晴天？"
-
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CONSTRUCTION_PLANS
-msgid "But it's more fun to wing it!"
-msgstr "即兴表演会更好玩！"
-
-#. STRINGS.SKIN_NAMES.body_wortox_minotaur
-msgid "Minotaur Chest"
-msgstr "牛头人胸部"
-
-#. STRINGS.SKIN_NAMES.body_wortox_original
-msgid "Forest Fawn Chest"
-msgstr "森林幼崽胸部"
-
-#. STRINGS.SKIN_NAMES.body_wortox_survivor
-msgid "Grimy Goblin Chest"
-msgstr "哥布林胸部"
-
 #: STRINGS.ACTIONS.BLINK.GENERIC
 msgid "Telepoof"
 msgstr "传送"
@@ -110013,3 +109949,563 @@ msgstr "伍迪"
 #: STRINGS.SKIN_NAMES.wortox_none
 msgid "Essential Wortox"
 msgstr "基础沃拓克斯"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_CROW
+msgid "A feather from a black bird."
+msgstr "黑色鸟儿的羽毛。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.BURNT
+msgid "It's out of style now."
+msgstr "那个已经落伍了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WAXWELLJOURNAL
+msgid "I'm so sorry, Charlie."
+msgstr "对不起，查理。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_CROW
+msgid "A soft feather, black like eternal darkness."
+msgstr "一根柔软的羽毛，黑得挺彻底的。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BLUE_CAP
+msgid "This seems to have medicinal properties."
+msgstr "它看起来有药用价值。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BUGNET
+msgid "The tool of entomologists."
+msgstr "昆虫学者的工具。"
+
+#: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.FEATHER_CROW
+msgid "Feather of Corvus. Or Alcidae?"
+msgstr "乌鸦的羽毛。或者是海雀的？"
+
+#: STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_CROW
+msgid "Black bird feather. It probably smells terrible on fire."
+msgstr "黑鸟的羽毛，烧起来味道估计很难闻。"
+
+#: STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.BATWING
+msgid "Is all hairy and gross."
+msgstr "长满了毛，很恶心"
+
+#: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_SKETCH
+msgid "Hound Figure Sketch"
+msgstr "猎犬棋子草图"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.39
+msgid "a touch of magic..."
+msgstr "一丝魔法..."
+
+#: STRINGS.UI.BOAT.HEALTH
+msgid "Boat Health: "
+msgstr "船只生命值："
+
+#: STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
+msgid "Return of Them Beta"
+msgstr "旧神回归 Beta版"
+
+#: STRINGS.TABS.MOON_ALTAR
+msgid "Celestial"
+msgstr "天体"
+
+#: STRINGS.TABS.SEAFARING
+msgid "Seafaring"
+msgstr "航行"
+
+#: STRINGS.ACTIONS.ABANDON_SHIP
+msgid "Abandon Ship"
+msgstr "弃船"
+
+#: STRINGS.ACTIONS.BATHBOMB
+msgid "Toss In"
+msgstr "扔"
+
+#: STRINGS.ACTIONS.CAST_NET
+msgid "Cast Net"
+msgstr "撒网"
+
+#: STRINGS.ACTIONS.DEPLOY.WATER
+msgid "Launch"
+msgstr "下水"
+
+#: STRINGS.ACTIONS.DISMOUNT_PLANK
+msgid "Dismount Plank"
+msgstr "离开支板"
+
+#: STRINGS.ACTIONS.EXTEND_PLANK
+msgid "Extend Plank"
+msgstr "伸出支板"
+
+#: STRINGS.ACTIONS.LOWER_ANCHOR
+msgid "Lower Anchor"
+msgstr "下锚"
+
+#: STRINGS.ACTIONS.LOWER_SAIL
+msgid "Lower Sail"
+msgstr "下帆"
+
+#: STRINGS.ACTIONS.MOUNT_PLANK
+msgid "Mount Plank"
+msgstr "登上支板"
+
+#: STRINGS.ACTIONS.RAISE_ANCHOR
+msgid "Raise Anchor"
+msgstr "收锚"
+
+#: STRINGS.ACTIONS.RAISE_SAIL
+msgid "Hoist Sail"
+msgstr "扬帆"
+
+#: STRINGS.ACTIONS.REPAIR.GENERIC
+msgid "Repair"
+msgstr "修复"
+
+#: STRINGS.ACTIONS.REPAIR.SOCKET
+msgid "Socket"
+msgstr "插入"
+
+#: STRINGS.ACTIONS.REPAIR_LEAK
+msgid "Repair Leak"
+msgstr "修复泄漏"
+
+#: STRINGS.ACTIONS.RETRACT_PLANK
+msgid "Retract Plank"
+msgstr "收回支板"
+
+#: STRINGS.ACTIONS.ROW
+msgid "Row"
+msgstr "划"
+
+#: STRINGS.ACTIONS.ROW_FAIL
+msgid "Row"
+msgstr "划"
+
+#: STRINGS.ACTIONS.SET_HEADING
+msgid "Set Heading"
+msgstr "设置航路"
+
+#: STRINGS.ACTIONS.STEER_BOAT
+msgid "Steer"
+msgstr "掌舵"
+
+#: STRINGS.ACTIONS.STOP_STEERING_BOAT
+msgid "Stop Steering"
+msgstr "停止掌舵"
+
+#: STRINGS.NAMES.ANCHOR_ITEM
+msgid "Anchor Kit"
+msgstr "锚套件"
+
+#: STRINGS.NAMES.ANCHOR_SKETCH
+msgid "\"Moon\" Sketch"
+msgstr "“月亮”草图"
+
+#: STRINGS.NAMES.ANTCHOVIES
+msgid "Ant-Chovy"
+msgstr "蚁尾鱼"
+
+#: STRINGS.NAMES.BATHBOMB
+msgid "Bath Bomb"
+msgstr "浴盐炸弹"
+
+#: STRINGS.NAMES.BATHBOMB_BLUEPRINT
+msgid "Bath Bomb Blueprint"
+msgstr "浴盐炸弹蓝图"
+
+#: STRINGS.NAMES.BOAT
+msgid "Boat"
+msgstr "船只"
+
+#: STRINGS.NAMES.BOATFRAGMENT01
+msgid "Boat Fragment"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOATFRAGMENT02
+msgid "Boat Fragment"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOATFRAGMENT03
+msgid "Boat Fragment"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOATFRAGMENT04
+msgid "Boat Fragment"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOATFRAGMENT05
+msgid "Boat Fragment"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOATPATCH
+msgid "Boat Patch"
+msgstr "船只碎片"
+
+#: STRINGS.NAMES.BOAT_ITEM
+msgid "Boat Kit"
+msgstr "船只套件"
+
+#: STRINGS.NAMES.BOAT_LEAK
+msgid "Leak"
+msgstr "泄漏"
+
+#: STRINGS.NAMES.BULLKELP_PLANT
+msgid "Bull Kelp"
+msgstr "大型海藻"
+
+#: STRINGS.NAMES.BULLKELP_ROOT
+msgid "Bull Kelp Stalk"
+msgstr "大型海藻茎"
+
+#: STRINGS.NAMES.BUTTERFLY_SKETCH
+msgid "Moon Moth Sketch"
+msgstr "月球蛾草图"
+
+#: STRINGS.NAMES.CARRAT
+msgid "Carrat"
+msgstr "萝卜鼠"
+
+#: STRINGS.NAMES.CARRAT_PLANTED
+msgid "Carrot"
+msgstr "胡萝卜"
+
+#: STRINGS.NAMES.CHESSPIECE_ANCHOR
+msgid "Anchor Figure"
+msgstr "锚雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_ANCHOR_BUILDER
+msgid "Anchor Figure"
+msgstr "锚雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_ANCHOR_SKETCH
+msgid "Anchor Figure Sketch"
+msgstr "锚雕塑草图"
+
+#: STRINGS.NAMES.CHESSPIECE_BUTTERFLY
+msgid "Moon Moth Figure"
+msgstr "月蛾雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_BUTTERFLY_BUILDER
+msgid "Moon Moth Figure"
+msgstr "月蛾雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_BUTTERFLY_SKETCH
+msgid "Butterfly Figure Sketch"
+msgstr "蝴蝶雕塑草图"
+
+#: STRINGS.NAMES.CHESSPIECE_MOON
+msgid "\"Moon\" Figure"
+msgstr "“月亮”雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_MOON_BUILDER
+msgid "\"Moon\" Figure"
+msgstr "“月亮”雕塑"
+
+#: STRINGS.NAMES.CHESSPIECE_MOON_SKETCH
+msgid "\"Moon\" Figure Sketch"
+msgstr "“月亮”雕塑草图"
+
+#: STRINGS.NAMES.CRITTER_LUNARMOTHLING
+msgid "Mothling"
+msgstr "小飞蛾"
+
+#: STRINGS.NAMES.CRITTER_LUNARMOTHLING_BUILDER
+msgid "Mothling"
+msgstr "小飞蛾"
+
+#: STRINGS.NAMES.DEAD_SEA_BONES
+msgid "Sea Bones"
+msgstr "海骸骨"
+
+#: STRINGS.NAMES.DRIFTWOOD_LOG
+msgid "Driftwood Piece"
+msgstr "浮木碎片"
+
+#: STRINGS.NAMES.DRIFTWOOD_TREE
+msgid "Driftwood"
+msgstr "浮木"
+
+#: STRINGS.NAMES.DROWNING
+msgid "Drowning"
+msgstr "溺水"
+
+#: STRINGS.NAMES.DUG_ROCK_AVOCADO_BUSH
+msgid "Stone Fruit Bush"
+msgstr "石果灌木"
+
+#: STRINGS.NAMES.DUG_SAPLING_MOON
+msgid "Sapling"
+msgstr "树苗"
+
+#: STRINGS.NAMES.FISHINGNET
+msgid "Fishing Net"
+msgstr "渔网"
+
+#: STRINGS.NAMES.FRUITDRAGON
+msgid "Saladmander"
+msgstr "沙拉蜥蜴"
+
+#: STRINGS.NAMES.GESTALT
+msgid "Gestalt"
+msgstr "完形"
+
+#: STRINGS.NAMES.GLASSCUTTER
+msgid "Glass Cutter"
+msgstr "镜片刀"
+
+#: STRINGS.NAMES.GLASSCUTTER_BLUEPRINT
+msgid "Glass Cutter Blueprint"
+msgstr "镜片刀蓝图"
+
+#: STRINGS.NAMES.HOTSPRING
+msgid "Hot Spring"
+msgstr "温泉"
+
+#: STRINGS.NAMES.HOUNDCORPSE
+msgid "Hound"
+msgstr "猎犬"
+
+#: STRINGS.NAMES.ICEBERG
+msgid "Mini Iceberg"
+msgstr "迷你冰山"
+
+#: STRINGS.NAMES.ICEBERG_MELTED
+msgid "Melted Iceberg"
+msgstr "融化的冰山"
+
+#: STRINGS.NAMES.KELP
+msgid "Kelp Fronds"
+msgstr "海藻叶"
+
+#: STRINGS.NAMES.KELPHAT
+msgid "Seawreath"
+msgstr "海花环"
+
+#: STRINGS.NAMES.KELP_COOKED
+msgid "Cooked Kelp Fronds"
+msgstr "烤熟的海藻叶"
+
+#: STRINGS.NAMES.KELP_DRIED
+msgid "Dried Kelp Fronds"
+msgstr "晾干的海藻叶"
+
+#: STRINGS.NAMES.MAST
+msgid "Mast"
+msgstr "桅杆"
+
+#: STRINGS.NAMES.MAST_ITEM
+msgid "Mast"
+msgstr "桅杆"
+
+#: STRINGS.NAMES.MINIFLARE
+msgid "Flare"
+msgstr "信号弹"
+
+#: STRINGS.NAMES.MOONBUTTERFLY
+msgid "Moon Moth"
+msgstr "月蛾"
+
+#: STRINGS.NAMES.MOONBUTTERFLYWINGS
+msgid "Moon Moth Wings"
+msgstr "月蛾翅膀"
+
+#: STRINGS.NAMES.MOONBUTTERFLY_SAPLING
+msgid "Lune Tree Sapling"
+msgstr "半月树树苗"
+
+#: STRINGS.NAMES.MOONGLASS
+msgid "Moon Shard"
+msgstr "月亮碎片"
+
+#: STRINGS.NAMES.MOONGLASSAXE
+msgid "Moon Glass Axe"
+msgstr "月镜片斧"
+
+#: STRINGS.NAMES.MOONGLASSAXE_BLUEPRINT
+msgid "Moon Axe Blueprint"
+msgstr "月斧蓝图"
+
+#: STRINGS.NAMES.MOONGLASS_ROCK
+msgid "Moon Glass"
+msgstr "月镜片"
+
+#: STRINGS.NAMES.MOONSPIDERDEN
+msgid "Shattered Spider Hole"
+msgstr "碎片蜘蛛洞"
+
+#: STRINGS.NAMES.MOONSPIDER_SPIKE
+msgid "Shattered Spider"
+msgstr "碎片蜘蛛"
+
+#: STRINGS.NAMES.MOON_ALTAR.MOON_ALTAR
+msgid "Celestial Altar"
+msgstr "天体祭坛"
+
+#: STRINGS.NAMES.MOON_ALTAR.MOON_ALTAR_WIP
+msgid "Partially Assembled Altar"
+msgstr "部分组装的祭坛"
+
+#: STRINGS.NAMES.MOON_ALTAR_GLASS
+msgid "Celestial Altar Base"
+msgstr "天体祭坛地基"
+
+#: STRINGS.NAMES.MOON_ALTAR_IDOL
+msgid "Celestial Altar Idol"
+msgstr "天体祭坛图腾"
+
+#: STRINGS.NAMES.MOON_ALTAR_ROCK_GLASS
+msgid "Inviting Formation"
+msgstr "诱人的结构"
+
+#: STRINGS.NAMES.MOON_ALTAR_ROCK_IDOL
+msgid "Inviting Formation"
+msgstr "诱人的结构"
+
+#: STRINGS.NAMES.MOON_ALTAR_ROCK_SEED
+msgid "Inviting Formation"
+msgstr "诱人的结构"
+
+#: STRINGS.NAMES.MOON_ALTAR_SEED
+msgid "Celestial Altar Orb"
+msgstr "天体祭坛灵球"
+
+#: STRINGS.NAMES.MOON_FISSURE
+msgid "Celestial Fissure"
+msgstr "天体裂缝"
+
+#: STRINGS.NAMES.MOON_TREE
+msgid "Lune Tree"
+msgstr "半月树"
+
+#: STRINGS.NAMES.MOON_TREE_BLOSSOM
+msgid "Lune Tree Blossom"
+msgstr "半月树花"
+
+#: STRINGS.NAMES.MUTATEDHOUND
+msgid "Horror Hound"
+msgstr "恐怖猎犬"
+
+#: STRINGS.NAMES.MUTATED_PENGUIN
+msgid "Moonrock Pengull"
+msgstr "月岩企鸥"
+
+#: STRINGS.NAMES.OAR
+msgid "Oar"
+msgstr "桨"
+
+#: STRINGS.NAMES.PUFFIN
+msgid "Puffin"
+msgstr "海雀"
+
+#: STRINGS.NAMES.ROCK_AVOCADO_BUSH
+msgid "Stone Fruit Bush"
+msgstr "石果灌木"
+
+#: STRINGS.NAMES.ROCK_AVOCADO_FRUIT
+msgid "Stone Fruit"
+msgstr "石果"
+
+#: STRINGS.NAMES.ROCK_AVOCADO_FRUIT_RIPE
+msgid "Ripe Stone Fruit"
+msgstr "成熟的石果"
+
+#: STRINGS.NAMES.ROCK_AVOCADO_FRUIT_RIPE_COOKED
+msgid "Cooked Stone Fruit"
+msgstr "烤熟的石果"
+
+#: STRINGS.NAMES.ROCK_AVOCADO_FRUIT_SPROUT
+msgid "Sprouting Stone Fruit"
+msgstr "发芽的石果"
+
+#: STRINGS.NAMES.SEAFARER_KIT
+msgid "Seafarer's Kit"
+msgstr "航海家套装"
+
+#: STRINGS.NAMES.SEASTACK
+msgid "Sea Stack"
+msgstr "海蚀柱"
+
+#: STRINGS.NAMES.SPIDER_MOON
+msgid "Shattered Spider"
+msgstr "碎片蜘蛛"
+
+#: STRINGS.NAMES.STEERINGWHEEL
+msgid "Steering Wheel"
+msgstr "舵轮"
+
+#: STRINGS.NAMES.STEERINGWHEEL_ITEM
+msgid "Steering Wheel Kit"
+msgstr "舵轮套件"
+
+#: STRINGS.NAMES.TURF_METEOR
+msgid "Moon Crater Turf"
+msgstr "月球环形山地皮"
+
+#: STRINGS.NAMES.TURF_METEOR_BLUEPRINT
+msgid "Crater Turf Blueprint"
+msgstr "环形山地皮蓝图"
+
+#: STRINGS.NAMES.TURF_PEBBLEBEACH
+msgid "Rocky Beach Turf"
+msgstr "岩石海滩地皮"
+
+#: STRINGS.NAMES.WALKINGPLANK
+msgid "Plank"
+msgstr "支板"
+
+#: STRINGS.NAMES.WORLD
+msgid "The World"
+msgstr "世界"
+
+#: STRINGS.NAMES.ANCHOR
+msgid "Anchor"
+msgstr "锚"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wathgrithr_none
+msgid "Wigfrid's favorite costume."
+msgstr "薇格弗德最爱的戏服。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.waxwell_none
+msgid "The standard look of a distinguished gentleman."
+msgstr "尊贵绅士的标准造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.webber_none
+msgid "The natural look of a monster and a friend."
+msgstr "一个怪物和一位朋友的自然造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wendy_none
+msgid "The favored look of a morose young woman."
+msgstr "忧郁少女所青睐的造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wes_none
+msgid "Quintessential mime attire."
+msgstr "经典的小丑装。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wickerbottom_none
+msgid "A timeless look for an accomplished librarian."
+msgstr "一位优秀图书管理员的经典造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_none
+msgid "A typical look for someone with fire on the brain."
+msgstr "这是一个典型的头脑发热的人。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wilson_none
+msgid "A look that says \"gentleman scientist\"."
+msgstr "一个“绅士科学家”的造型。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.winona_none
+msgid "The most sensible gear for a practical woman."
+msgstr "最搭配实干女性的装束。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wolfgang_none
+msgid "A strongman in his purest essence."
+msgstr "尽显强人本色的装束。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.woodie_none
+msgid "Time-tested lumberjack apparel."
+msgstr "经过时间考验的伐木工服装。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wortox_none
+msgid "Wortox has arrived, and he's ready to play some tricks!"
+msgstr "沃拓克斯来了，他准备整人了！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wx78_none
+msgid "Original design, version 1.0."
+msgstr "设计原型，1.0版本"
