@@ -108910,6 +108910,34 @@ msgstr "可怕的黑暗……"
 msgid "a touch of magic..."
 msgstr "一丝魔法……"
 
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE
+msgid "A little piece of a great big beast."
+msgstr "宏伟巨兽的一小部分。"
+
+#. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.CONSTRUCT.EMPTY
+msgid "I can't create from nothing."
+msgstr "我不能无中生有。"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RAINOMETER.GENERIC
+msgid "Will it rain? Or will it shine?"
+msgstr "会下雨吗？或者会是晴天？"
+
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CONSTRUCTION_PLANS
+msgid "But it's more fun to wing it!"
+msgstr "即兴表演会更好玩！"
+
+#. STRINGS.SKIN_NAMES.body_wortox_minotaur
+msgid "Minotaur Chest"
+msgstr "牛头人胸部"
+
+#. STRINGS.SKIN_NAMES.body_wortox_original
+msgid "Forest Fawn Chest"
+msgstr "森林幼崽胸部"
+
+#. STRINGS.SKIN_NAMES.body_wortox_survivor
+msgid "Grimy Goblin Chest"
+msgstr "哥布林胸部"
+
 #: STRINGS.ACTIONS.BLINK.GENERIC
 msgid "Telepoof"
 msgstr "传送"
