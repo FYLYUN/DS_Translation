@@ -8890,18 +8890,6 @@ msgstr "蠟燭匠的東西。"
 msgid "I prefer the ringing resonance of clashing blades."
 msgstr "我更愛刀劍碰撞的共鳴。"
 
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
-msgid "What a brave beast!"
-msgstr "多麼勇敢的野獸！"
-
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "It has gone to Valhalla."
-msgstr "它去了英靈殿。"
-
-#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
-msgid "It's a stuffed beast."
-msgstr "這是一頭毛絨野獸。"
-
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERRIES
 msgid "Fruits. I don't like 'em."
 msgstr "水果，不喜歡。"
@@ -21064,7 +21052,7 @@ msgstr "我們成功了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOSTDRAIN
 msgid "We're becoming... even more monstrous!"
-msgstr "我們都快…變異了！"
+msgstr "我們變得…更加怪物了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HIGHRESEARCH
 msgid "I'm learning so much!"
@@ -21076,7 +21064,7 @@ msgstr "熱死了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HOUNDS
 msgid "Doggies are coming!"
-msgstr "一舉成名的機會要來了！"
+msgstr "小狗們要來了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HUNGRY
 msgid "It's time for a snack!"
@@ -28189,18 +28177,6 @@ msgstr "它本身無用，就像我。"
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BELL
 msgid "Ring in the dead."
 msgstr "在死者中敲響。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
-msgid "It dances to forget the pain."
-msgstr "它起舞是為了忘記痛苦。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "It has passed."
-msgstr "它已經離去了。"
-
-#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
-msgid "It's had a rough life."
-msgstr "它的生活很艱苦。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERRIES
 msgid "These berries are tart."
@@ -60518,10 +60494,6 @@ msgstr "它令人震驚地發出了清脆的聲音。"
 msgid "I guess I should be used to weird stuff by now."
 msgstr "看來我現在是得用點奇怪的東西了。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "Poor lil thing."
-msgstr "可憐的小東西。"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgid "Cute, isn't it 'Luce?"
 msgstr "挺可愛的，是吧露西？"
@@ -72266,14 +72238,6 @@ msgstr "威爾遜確實是個有科學頭腦的人，本能使他\n無法抗拒�
 msgid "Winona is a former assembly line worker with a boisterous attitude and love of all things mechanical."
 msgstr "薇諾娜曾是一個流水線工人，她對一切事物\n都十分熱愛並對它們有獨特的個人看法。"
 
-#: STRINGS.CHARACTER_ABOUTME.wolfgang
-msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
-msgstr "沃爾夫岡是一個和藹可親，肌肉發達卻又飽\n受恐懼折磨的巨人。"
-
-#: STRINGS.CHARACTER_ABOUTME.wortox
-msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
-msgstr "沃拓克斯是一個頑皮的惡魔。\n它的輕浮只是為了掩飾內心的罪惡感，\n因為它一生吞噬了許多靈魂。"
-
 #: STRINGS.CHARACTER_ABOUTME.woodie
 msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
 msgstr "伍迪是一個粗獷且長滿鬍子的伐木工，他喜\n歡自然，格子襯衫和他所信賴的斧頭露西。"
@@ -72309,10 +72273,6 @@ msgstr "*不會說話\n*很難活著\n*使用氣球戲法"
 #: STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgid "*Knows many things \n*Self-publishes books \n*Can't sleep, hates spoilage"
 msgstr "*知道很多事情\n*自己發行了書籍\n*不能睡覺，討厭變質食物"
-
-#: STRINGS.CHARACTER_DESCRIPTIONS.willow
-msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
-msgstr "*免疫火焰，但厭惡寒冷 \n*被她可愛的小熊伯尼所保護 \n*可以製造一個可靠的打火機"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgid "\n*Grows a magnificent beard"
@@ -72460,15 +72420,15 @@ msgstr "傀儡掌控者"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "難以消化"
+msgstr "難以消化者"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "喪失親人者"
+msgstr "喪失親人的女孩"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者"
+msgstr "啞劇演員"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
@@ -72484,11 +72444,11 @@ msgstr "紳士科學家"
 
 #: STRINGS.CHARACTER_TITLES.winona
 msgid "The Handywoman"
-msgstr "手巧的女人"
+msgstr "女巧匠"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "男子漢"
+msgstr "大力士"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
@@ -77712,7 +77672,7 @@ msgstr "科學機器"
 
 #: STRINGS.NAMES.RESEARCHLAB2
 msgid "Alchemy Engine"
-msgstr "鍊金術引擎"
+msgstr "鍊金引擎"
 
 #: STRINGS.NAMES.RESEARCHLAB3
 msgid "Shadow Manipulator"
@@ -84050,10 +84010,6 @@ msgstr "這個熙春寶箱包含\n薇格弗德的全套熙春系列皮膚。"
 msgid "This Spring Chest contains Maxwell's complete set of Verdant skin items."
 msgstr "這個熙春寶箱包含\n麥斯威爾的全套熙春系列皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
-msgid "This Spring Chest contains Wes' complete set of Verdant skin items."
-msgstr "這個熙春寶箱包含\n韋斯的全套熙春系列皮膚。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.pack_nature_winona
 msgid "This Spring Chest contains Winona's complete set of Verdant skin items."
 msgstr "這個熙春寶箱包含\n薇諾娜的全套熙春系列皮膚。"
@@ -84374,10 +84330,6 @@ msgstr "將你的頭像設置為皮弗婁牛。"
 msgid "Set your profile icon to Bernie the Bear.\n\nBernie's never abandoned Willow, and she plans to always return the favor."
 msgstr "將你的頭像設置為小熊伯尼。\n\n伯尼永遠不會拋棄薇洛，它只是一直在等待。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
-msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
-msgstr "將你的頭像設置為發條主教。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條主教。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_catcoon
 msgid "Set your profile icon to a cute catcoon."
 msgstr "將你的頭像設置為一隻可愛的浣貓。"
@@ -84510,10 +84462,6 @@ msgstr "將你的頭像設置為獵犬。"
 msgid "Set your profile icon to a chilly Blue Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Blue Gems."
 msgstr "將你的頭像設置為藍色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將藍寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
-msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Nightmare Throne."
-msgstr "將你的頭像設置為發條騎士。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條騎士。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_koalefant
 msgid "Set your profile icon to a skittish koalefant."
 msgstr "將你的頭像設置為考拉象。"
@@ -84621,10 +84569,6 @@ msgstr "將你的頭像設置為兔子。"
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_redhound
 msgid "Set your profile icon to a fiery Red Hound.\n\nDuring his time on the Nightmare Throne, Maxwell created these monsters by imbuing regular Hounds with the magic of Red Gems."
 msgstr "將你的頭像設置為紅色獵犬。\n\n在麥斯威爾還坐在噩夢王座上時，他將紅寶石的魔力注入普通獵狗體內，創造出了這些怪獸。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
-msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Nightmare Throne."
-msgstr "將你的頭像設置為發條戰車。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條戰車。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_rose
 msgid "Set your profile icon to a rose flower.\n\nFew things are as timeless as a red rose."
@@ -88188,11 +88132,11 @@ msgstr "鬆散的雨帽"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod
 msgid "Alchemy Pod"
-msgstr "鍊金術列印艙"
+msgstr "鍊金列印艙"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod_alt
 msgid "Alchemy Pod"
-msgstr "鍊金術列印艙"
+msgstr "鍊金列印艙"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
@@ -89374,10 +89318,6 @@ msgstr "沃爾夫岡"
 msgid "Woodie"
 msgstr "伍迪"
 
-#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WX78
-msgid "WX-78"
-msgstr "WX-78"
-
 #: STRINGS.SKIN_TAG_CATEGORIES.CLOTHINGTYPE.CLOTHING_BODY
 msgid "Body"
 msgstr "身體"
@@ -89508,7 +89448,7 @@ msgstr "黃色"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
 msgid "Alchemy Engine"
-msgstr "鍊金術引擎"
+msgstr "鍊金引擎"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED
 msgid "Life Giving Amulet"
@@ -92844,7 +92784,7 @@ msgstr "經典"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "使用<鍊金術引擎>\n建造一個原型體！"
+msgstr "使用<鍊金引擎>\n建造一個原型體！"
 
 #: STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgid "Use a Prestihatitator to build a prototype!"
@@ -95085,10 +95025,6 @@ msgstr "感謝賞玩"
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_STORE
 msgid "Enjoy your gift"
 msgstr "享受你的贈品"
-
-#: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
-msgid "Thanks for watching game streams"
-msgstr "感謝收看遊戲直播"
 
 #: STRINGS.UI.ITEM_SCREEN.USE_LATER
 msgid "Use Later"
@@ -102172,7 +102108,7 @@ msgstr "天體靈球"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Celestial Portal"
-msgstr "天體之門"
+msgstr "天體傳送門"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
@@ -102397,10 +102333,6 @@ msgstr "溫度測量器"
 #: STRINGS.TABS.CELESTIAL
 msgid "Celestial"
 msgstr "天體"
-
-#: STRINGS.THANKS_POPUP.TWITCH_DROP
-msgid "Thanks for watching game streams"
-msgstr "感謝收看遊戲直播"
 
 #: STRINGS.UI.COMMANDSSCREEN.HIDE_SERVERNAME
 msgid "Hide Server Name"
@@ -102802,30 +102734,6 @@ msgstr "這個萬聖夜寶箱包含完整的萬聖夜系列皮膚。"
 msgid "This Hallowed Nights Chest contains all Hallowed Nights belongings skin items."
 msgstr "這個萬聖夜寶箱包含\n所有的萬聖夜系列物品皮膚。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
-msgid "This Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
-msgstr "這個叛逆者寶箱包含\n韋伯的全套萬聖夜系列皮膚。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
-msgid "This Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
-msgstr "這個靈異寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
-msgid "This Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "這個喜劇小丑寶箱包含\n韋斯的全套萬聖夜系列皮膚。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
-msgid "This Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
-msgstr "這個悲傷主婦寶箱包含\n薇洛的全套萬聖夜系列皮膚。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
-msgid "This Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
-msgstr "這個瘋狂科學家寶箱包含\n威爾遜的全套萬聖夜系列皮膚。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
-msgid "This Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
-msgstr "這個未完成品寶箱包含\nWX-78的全套萬聖夜系列皮膚。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_graveyard2
 msgid "Equip this item to change your character's background portrait.\n\nAll things die. Not all things stay dead."
 msgstr "使用這個藏品來改變你的角色背景圖案。\n\n所有的東西都會死去，但並不是所有的東西都一直是死的。"
@@ -102873,10 +102781,6 @@ msgstr "標誌著姐妹友誼的火焰樹狀。"
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_monster
 msgid "An evil place to put your goods."
 msgstr "一個用來存放你東西的邪惡寶箱"
-
-#: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
-msgid "You never know when you'll arach-need one."
-msgstr "你永遠不知道你什麼時候需要幫「蛛」。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.watermelonhat_pumpkin
 msgid "Fashionable accessory for those forced to wander this world on Halloween Night."
@@ -106002,18 +105906,6 @@ msgstr "使用這個藏品來改變你的角色背景圖案。\n\n彩色的燈�
 msgid "Equip this item to change your character's background portrait.\n\nEat, drink and be merry for tomorrow you may die."
 msgstr "使用這個藏品來改變你的角色背景圖案。\n\n抓緊吃喝吧，吃飽了好上路。"
 
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
-msgid "Set your profile icon to a festive Golden Present."
-msgstr "將你的頭像設置為金色的節日贈禮。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
-msgid "Set your profile icon to a jolly Green Gift."
-msgstr "將你的頭像設置為歡樂的綠色禮物。"
-
-#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
-msgid "Set your profile icon to a Poorly Wrapped Package."
-msgstr "將你的頭像設置為低質量的包裹。"
-
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_ornaments_14
 msgid "Set your profile icon to a festive Deerclops Ornament."
 msgstr "將你的頭像設置為喜慶的獨眼巨鹿飾品。"
@@ -106360,7 +106252,7 @@ msgstr "用一個可愛的石窯容納你最舒適的火焰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar
 msgid "A mighty man hammers with a crowbar."
-msgstr "一個強人使用的撬棍。"
+msgstr "物理學聖劍，只配強者擁有。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler
 msgid "Hand wraps and padded gloves mean hands are protected for better punches."
@@ -107732,7 +107624,7 @@ msgstr "附加功能"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY
 msgid "Welcome back!\nPlease enjoy this daily gift."
-msgstr "歡迎回來！\n請享受這份每日禮物。"
+msgstr "歡迎回來！\n這是你的每日禮物。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgid "Due to an error, dynamic content loading has been disabled."
@@ -107909,10 +107801,6 @@ msgstr "頭等大雨傘背景"
 #: STRINGS.SKIN_NAMES.profileflair_arrowsignpost_circus
 msgid "Spectacular Stationary Wayfinder"
 msgstr "壯觀的引路牌"
-
-#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
-msgid "Equestrienne Headdress"
-msgstr "馬戲女騎手頭飾"
 
 #: STRINGS.SKIN_NAMES.profileflair_umbrella_circus
 msgid "Big Top Umbrella Icon"
@@ -108772,7 +108660,7 @@ msgstr "靈魂吞噬者"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wortox
 msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
-msgstr "*是個惡魔\n*能穿越時間與空間\n*從物理食物中獲取不了足夠的營養"
+msgstr "*是個惡魔\n*能穿越時間與空間\n*從凡人的食物中獲取不了足夠的營養"
 
 #: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "I can come and go as I please."
@@ -108781,10 +108669,6 @@ msgstr "我可以來去自如。"
 #: STRINGS.SKIN_NAMES.wortox_survivor
 msgid "The Survivor"
 msgstr "倖存者"
-
-#: STRINGS.SKIN_NAMES.wortox_minotaur
-msgid "The Minotaur"
-msgstr "米諾陶"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER
 msgid "I'm gonna roll up a papyrus newspaper, just in case."
@@ -109022,10 +108906,6 @@ msgstr "可怕的黑暗……"
 msgid "a touch of magic..."
 msgstr "一絲魔法……"
 
-#: STRINGS.ACTIONS.BLINK.GENERIC
-msgid "Telepoof"
-msgstr "傳送"
-
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FOSSIL_PIECE
 msgid "A little piece of a great big beast."
 msgstr "宏偉巨獸的一小部分。"
@@ -109054,6 +108934,10 @@ msgstr "森林幼崽胸部"
 msgid "Grimy Goblin Chest"
 msgstr "哥布林胸部"
 
+#: STRINGS.ACTIONS.BLINK.GENERIC
+msgid "Telepoof"
+msgstr "傳送"
+
 #: STRINGS.ACTIONS.BLINK.SOUL
 msgid "Soul Hop"
 msgstr "靈魂跳躍"
@@ -109061,6 +108945,114 @@ msgstr "靈魂跳躍"
 #: STRINGS.ACTIONS.DROP.FREESOUL
 msgid "Release Soul"
 msgstr "釋放靈魂"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_ACTIVE
+msgid "What a brave beast!"
+msgstr "多麼勇敢的野獸！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "It has gone to Valhalla."
+msgstr "它去了英靈殿。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.BERNIE_INACTIVE.GENERIC
+msgid "It's a stuffed beast."
+msgstr "這是一頭毛絨野獸。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_ACTIVE
+msgid "It dances to forget the pain."
+msgstr "它起舞是為了忘記痛苦。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "It has passed."
+msgstr "它已經離去了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BERNIE_INACTIVE.GENERIC
+msgid "It's had a rough life."
+msgstr "它的生活很艱苦。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgid "Poor lil thing."
+msgstr "可憐的小東西。"
+
+#: STRINGS.CHARACTER_ABOUTME.wolfgang
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "沃爾夫岡是一個和藹可親，肌肉發達卻又飽\n受恐懼折磨的巨人。"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.willow
+msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
+msgstr "*免疫火焰，但厭惡寒冷 \n*被她可愛的小熊伯尼所保護 \n*可以製造一個可靠的打火機"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
+msgid "This Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
+msgstr "這個叛逆者寶箱包含\n韋伯的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wendy
+msgid "This Supernatural Chest contains Wendy's complete set of Hallowed Nights skin items."
+msgstr "這個靈異寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
+msgid "This Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
+msgstr "這個喜劇小丑寶箱包含\n韋斯的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
+msgid "This Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
+msgstr "這個悲傷主婦寶箱包含\n薇洛的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wilson
+msgid "This Mad Scientist Chest contains Wilson's complete set of Hallowed Nights skin items."
+msgstr "這個瘋狂科學家寶箱包含\n威爾遜的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wx78
+msgid "This Unfinished Chest contains WX-78's complete set of Hallowed Nights skin items."
+msgstr "這個未完成品寶箱包含\nWX-78的全套萬聖夜系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_nature_wes
+msgid "This Spring Chest contains Wes' complete set of Verdant skin items."
+msgstr "這個熙春寶箱包含\n韋斯的全套熙春系列皮膚。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_bishop
+msgid "Set your profile icon to a clockwork bishop.\n\nMaxwell produced many Clockwork Bishops during his reign on the Nightmare Throne."
+msgstr "將你的頭像設置為發條主教。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條主教。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_1
+msgid "Set your profile icon to a festive Golden Present."
+msgstr "將你的頭像設置為金色的節日贈禮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_2
+msgid "Set your profile icon to a jolly Green Gift."
+msgstr "將你的頭像設置為歡樂的綠色禮物。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_gift_3
+msgid "Set your profile icon to a Poorly Wrapped Package."
+msgstr "將你的頭像設置為低質量的包裹。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_knight
+msgid "Set your profile icon to a clockwork knight.\n\nMaxwell produced many Clockwork Knights during his reign on the Nightmare Throne."
+msgstr "將你的頭像設置為發條騎士。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條騎士。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_rook
+msgid "Set your profile icon to a clockwork rook.\n\nMaxwell produced many Clockwork Rooks during his reign on the Nightmare Throne."
+msgstr "將你的頭像設置為發條戰車。\n\n麥斯威爾在他還在噩夢王座上的時候製造了許多發條戰車。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_spider
+msgid "You never know when you'll arach-need one."
+msgstr "你永遠不知道你什麼時候需要幫「蛛」。"
+
+#: STRINGS.SKIN_NAMES.profileflair_featherhat_circus
+msgid "Equestrienne Headdress"
+msgstr "馬戲女騎手頭飾"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WX78
+msgid "WX-78"
+msgstr "WX-78"
+
+#: STRINGS.THANKS_POPUP.TWITCH_DROP
+msgid "Thanks for watching game streams"
+msgstr "感謝收看遊戲直播"
+
+#: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_TITLE_TWITCH
+msgid "Thanks for watching game streams"
+msgstr "感謝收看遊戲直播"
 
 #: STRINGS.CHARACTER_ABOUTME.wortox
 msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."

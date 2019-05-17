@@ -21052,7 +21052,7 @@ msgstr "我们成功了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_GHOSTDRAIN
 msgid "We're becoming... even more monstrous!"
-msgstr "我们都快…变异了！"
+msgstr "我们变得…更加怪物了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HIGHRESEARCH
 msgid "I'm learning so much!"
@@ -21064,7 +21064,7 @@ msgstr "热死了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HOUNDS
 msgid "Doggies are coming!"
-msgstr "一举成名的机会要来了！"
+msgstr "小狗们要来了！"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_HUNGRY
 msgid "It's time for a snack!"
@@ -72420,15 +72420,15 @@ msgstr "傀儡掌控者"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "难以消化"
+msgstr "难以消化者"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
-msgstr "丧失亲人者"
+msgstr "丧失亲人的女孩"
 
 #: STRINGS.CHARACTER_TITLES.wes
 msgid "The Silent"
-msgstr "沉默者"
+msgstr "哑剧演员"
 
 #: STRINGS.CHARACTER_TITLES.wickerbottom
 msgid "The Librarian"
@@ -72444,11 +72444,11 @@ msgstr "绅士科学家"
 
 #: STRINGS.CHARACTER_TITLES.winona
 msgid "The Handywoman"
-msgstr "手巧的女人"
+msgstr "女巧匠"
 
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
-msgstr "男子汉"
+msgstr "大力士"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
@@ -77672,7 +77672,7 @@ msgstr "科学机器"
 
 #: STRINGS.NAMES.RESEARCHLAB2
 msgid "Alchemy Engine"
-msgstr "炼金术引擎"
+msgstr "炼金引擎"
 
 #: STRINGS.NAMES.RESEARCHLAB3
 msgid "Shadow Manipulator"
@@ -88132,11 +88132,11 @@ msgstr "松散的雨帽"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod
 msgid "Alchemy Pod"
-msgstr "炼金术打印舱"
+msgstr "炼金打印舱"
 
 #: STRINGS.SKIN_NAMES.researchlab2_pod_alt
 msgid "Alchemy Pod"
-msgstr "炼金术打印舱"
+msgstr "炼金打印舱"
 
 #: STRINGS.SKIN_NAMES.researchlab4_catcoon_costume
 msgid "Presticatator"
@@ -89448,7 +89448,7 @@ msgstr "黄色"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ALCHEMY
 msgid "Alchemy Engine"
-msgstr "炼金术引擎"
+msgstr "炼金引擎"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.AMULET_RED
 msgid "Life Giving Amulet"
@@ -92784,7 +92784,7 @@ msgstr "经典"
 
 #: STRINGS.UI.CRAFTING.NEEDALCHEMYENGINE
 msgid "Use an alchemy engine to build a prototype!"
-msgstr "使用<炼金术引擎>\n建造一个原型体！"
+msgstr "使用<炼金引擎>\n建造一个原型体！"
 
 #: STRINGS.UI.CRAFTING.NEEDPRESTIHATITATOR
 msgid "Use a Prestihatitator to build a prototype!"
@@ -102108,7 +102108,7 @@ msgstr "天体灵球"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK
 msgid "Celestial Portal"
-msgstr "天体之门"
+msgstr "天体传送门"
 
 #: STRINGS.NAMES.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
 msgid "Portal Paraphernalia"
@@ -106252,7 +106252,7 @@ msgstr "用一个可爱的石窑容纳你最舒适的火焰。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar
 msgid "A mighty man hammers with a crowbar."
-msgstr "一个强人使用的撬棍。"
+msgstr "物理学圣剑，只配强者拥有。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler
 msgid "Hand wraps and padded gloves mean hands are protected for better punches."
@@ -107624,7 +107624,7 @@ msgstr "附加功能"
 
 #: STRINGS.UI.ITEM_SCREEN.THANKS_POPUP_DAILY
 msgid "Welcome back!\nPlease enjoy this daily gift."
-msgstr "欢迎回来！\n请享受这份每日礼物。"
+msgstr "欢迎回来！\n这是你的每日礼物。"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_DESC
 msgid "Due to an error, dynamic content loading has been disabled."
@@ -108660,7 +108660,7 @@ msgstr "灵魂吞噬者"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wortox
 msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
-msgstr "*是个恶魔\n*能穿越时间与空间\n*从物理食物中获取不了足够的营养"
+msgstr "*是个恶魔\n*能穿越时间与空间\n*从凡人的食物中获取不了足够的营养"
 
 #: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "I can come and go as I please."
@@ -108669,10 +108669,6 @@ msgstr "我可以来去自如。"
 #: STRINGS.SKIN_NAMES.wortox_survivor
 msgid "The Survivor"
 msgstr "幸存者"
-
-#: STRINGS.SKIN_NAMES.wortox_minotaur
-msgid "The Minotaur"
-msgstr "米诺陶"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WEBBER.ATTACKER
 msgid "I'm gonna roll up a papyrus newspaper, just in case."
@@ -110017,10 +110013,3 @@ msgstr "伍迪"
 #: STRINGS.SKIN_NAMES.wortox_none
 msgid "Essential Wortox"
 msgstr "基础沃拓克斯"
-
-
-
-
-
-
-
