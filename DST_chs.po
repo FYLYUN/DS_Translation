@@ -72380,11 +72380,11 @@ msgstr "表演艺术家"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
-msgstr "傀儡掌控者"
+msgstr "傀儡之王"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "难以消化者"
+msgstr "难以消化的孩子"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
@@ -96944,7 +96944,7 @@ msgstr "服务器使用的是新王朝测试版。\n你将需要在Steam参加�
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
 msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
-msgstr "服务器使用的是旧神回归测试版。\n你将需要在Steam参加测试后才能加入。"
+msgstr "服务器使用的是旧神归来测试版。\n你将需要在Steam参加测试后才能加入。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
 msgid "This server is on a newer version than you. Please download the latest update to connect."
@@ -97180,7 +97180,7 @@ msgstr "新王朝 Beta版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
 msgid "Return of Them Beta"
-msgstr "旧神回归 Beta版"
+msgstr "旧神归来 Beta版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
 msgid "Version Mismatch"
@@ -110000,7 +110000,7 @@ msgstr "船只生命值："
 
 #: STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgid "Return of Them Beta"
-msgstr "旧神回归 Beta版"
+msgstr "旧神归来 Beta版"
 
 #: STRINGS.TABS.MOON_ALTAR
 msgid "Celestial"
@@ -110016,7 +110016,7 @@ msgstr "弃船"
 
 #: STRINGS.ACTIONS.BATHBOMB
 msgid "Toss In"
-msgstr "扔"
+msgstr "投入"
 
 #: STRINGS.ACTIONS.CAST_NET
 msgid "Cast Net"
@@ -110024,7 +110024,7 @@ msgstr "撒网"
 
 #: STRINGS.ACTIONS.DEPLOY.WATER
 msgid "Launch"
-msgstr "下水"
+msgstr "入水"
 
 #: STRINGS.ACTIONS.DISMOUNT_PLANK
 msgid "Dismount Plank"
@@ -110036,11 +110036,11 @@ msgstr "伸出支板"
 
 #: STRINGS.ACTIONS.LOWER_ANCHOR
 msgid "Lower Anchor"
-msgstr "下锚"
+msgstr "抛锚"
 
 #: STRINGS.ACTIONS.LOWER_SAIL
 msgid "Lower Sail"
-msgstr "下帆"
+msgstr "收帆"
 
 #: STRINGS.ACTIONS.MOUNT_PLANK
 msgid "Mount Plank"
@@ -110088,7 +110088,7 @@ msgstr "掌舵"
 
 #: STRINGS.ACTIONS.STOP_STEERING_BOAT
 msgid "Stop Steering"
-msgstr "停止掌舵"
+msgstr "停止驾驶"
 
 #: STRINGS.NAMES.ANCHOR_ITEM
 msgid "Anchor Kit"
@@ -110136,7 +110136,7 @@ msgstr "船只碎片"
 
 #: STRINGS.NAMES.BOATPATCH
 msgid "Boat Patch"
-msgstr "船只碎片"
+msgstr "船只补丁"
 
 #: STRINGS.NAMES.BOAT_ITEM
 msgid "Boat Kit"
@@ -110240,7 +110240,7 @@ msgstr "渔网"
 
 #: STRINGS.NAMES.FRUITDRAGON
 msgid "Saladmander"
-msgstr "沙拉蜥蜴"
+msgstr "沙拉蝾螈"
 
 #: STRINGS.NAMES.GESTALT
 msgid "Gestalt"
@@ -110509,3 +110509,244 @@ msgstr "沃拓克斯来了，他准备整人了！"
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_none
 msgid "Original design, version 1.0."
 msgstr "设计原型，1.0版本"
+
+#: STRINGS.RECIPE_DESC.ANCHOR_ITEM
+msgid "Boat brakes."
+msgstr "给船用的刹车系统。"
+
+#: STRINGS.RECIPE_DESC.ANCHOR_SKETCH
+msgid "The moon and sea will be your inspirations."
+msgstr "月亮与大海将赋予你启迪。"
+
+#: STRINGS.RECIPE_DESC.BATHBOMB
+msgid "Flowers, for hotsprings? Groundbreaking."
+msgstr "把花扔进温泉里？\n真是个开创性的壮举。"
+
+#: STRINGS.RECIPE_DESC.BATHBOMB_BLUEPRINT
+msgid "Unlock the secret of hot spring alchemy."
+msgstr "破解温泉炼金术的秘方。"
+
+#: STRINGS.RECIPE_DESC.BUTTERFLY_SKETCH
+msgid "Let the moon send you visions of butterflies."
+msgstr "让月亮带给你蝴蝶之幻象。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_BUILDER
+msgid "Ground your base with a stone anchor."
+msgstr "用一个石锚把你的基地固定好。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_SKETCH
+msgid "A sculpture sketch of an anchor."
+msgstr "一张锚雕像的草图。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_BUTTERFLY_BUILDER
+msgid "This sculpture's a moth-have."
+msgstr "这雕像上有蛀“虫”。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_BUTTERFLY_SKETCH
+msgid "A sculpture sketch of a Moon Moth."
+msgstr "一张月蛾雕像的草图。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_MOON_BUILDER
+msgid "It's a selene figurine!"
+msgstr "这是月之女神的雕塑！"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_MOON_SKETCH
+msgid "A sculpture sketch of the moon itself."
+msgstr "一张月亮本身雕像的草图。"
+
+#: STRINGS.RECIPE_DESC.CRITTER_LUNARMOTHLING_BUILDER
+msgid "Befriend a delicate Mothling."
+msgstr "和一只纤弱的小飞蛾交朋友。"
+
+#: STRINGS.RECIPE_DESC.FISHINGNET
+msgid "Nothin' but net."
+msgstr "网里除了网啥也没有。"
+
+#: STRINGS.RECIPE_DESC.GLASSCUTTER
+msgid "Cutting edge weaponry."
+msgstr "顶尖武器。"
+
+#: STRINGS.RECIPE_DESC.GLASSCUTTER_BLUEPRINT
+msgid "The moon will protect you."
+msgstr "月亮会保护你的。"
+
+#: STRINGS.RECIPE_DESC.KELPHAT
+msgid "Something to agitate the nerves."
+msgstr "一些刺激神经的东西。"
+
+#: STRINGS.RECIPE_DESC.MINIFLARE
+msgid "Light the way for your trusted friends."
+msgstr "为你值得信赖的朋友照亮道路。"
+
+#: STRINGS.RECIPE_DESC.MOONGLASSAXE
+msgid "Fragile but effective."
+msgstr "易碎但有效。"
+
+#: STRINGS.RECIPE_DESC.MOONGLASSAXE_BLUEPRINT
+msgid "Knowledge bestowed by the moon itself."
+msgstr "让月亮赋予你知识。"
+
+#: STRINGS.RECIPE_DESC.MOON_SKETCH
+msgid "Look upon the face of the moon."
+msgstr "抬头，直面月光。"
+
+#: STRINGS.RECIPE_DESC.SEAFARER_KIT
+msgid "Build a boat to stay afloat."
+msgstr "造一艘能漂起来的船。"
+
+#: STRINGS.RECIPE_DESC.SEAFARING_PROTOTYPER
+msgid "Science at sea."
+msgstr "关于海洋的科学。"
+
+#: STRINGS.RECIPE_DESC.STEERINGWHEEL_ITEM
+msgid "It's wheely important to have one."
+msgstr "一个舵轮必不可少。"
+
+#: STRINGS.RECIPE_DESC.TURF_METEOR
+msgid "The cratered surface of the moon."
+msgstr "坑坑洼洼的月球表面。"
+
+#: STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT
+msgid "Learn to mold the moon's surface."
+msgstr "学习塑造月球表面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "That would be a waste of a bath bomb."
+msgstr "这会把爆炸浴盐浪费掉。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "I can't, the surface is glassed over."
+msgstr "我做不到，那上面结晶了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING0
+msgid "Too soon!"
+msgstr "太快了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING1
+msgid "My timing is off!"
+msgstr "没找对时机！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING2
+msgid "Not again!"
+msgstr "别再来了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SAIL.REPAIR
+msgid "It doesn't need repairing."
+msgstr "它不需要修复。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_LEAK
+msgid "We're taking on a lot of water."
+msgstr "我们的船进了很多水。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_SINK
+msgid "I don't want to drown!"
+msgstr "我还不想淹死啊！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN
+msgid "I wonder who set that flare?"
+msgstr "我想知道是谁放了那个信号？"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Uh-oh. Sea monsters!"
+msgstr "呃噢，海怪！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "Aw, we wanted to do it!"
+msgstr "唔，我们想这么做！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "There's too much glass in the way."
+msgstr "那里已经有太多晶片了。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SAIL.REPAIR
+msgid "But the boat's not damaged."
+msgstr "但是船还没坏啊。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_LEAK
+msgid "The boat is crying!"
+msgstr "小船在哭泣！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_SINK
+msgid "We're too young to drown!"
+msgstr "我们还小不想淹死啊！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN
+msgid "Oh, someone's calling us to come over."
+msgstr "噢，有人呼叫我们过去。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "We'll get you out."
+msgstr "我们会把你弄出来的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "We'll get you out."
+msgstr "我们会把你弄出来的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "We'll get you out."
+msgstr "我们会把你弄出来的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Don't eat us!"
+msgstr "不要吃我们！"
+
