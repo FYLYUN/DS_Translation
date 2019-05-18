@@ -110080,7 +110080,7 @@ msgstr "划"
 
 #: STRINGS.ACTIONS.SET_HEADING
 msgid "Set Heading"
-msgstr "设置航路"
+msgstr "设置航向"
 
 #: STRINGS.ACTIONS.STEER_BOAT
 msgid "Steer"
@@ -110518,10 +110518,6 @@ msgstr "给船用的刹车系统。"
 msgid "The moon and sea will be your inspirations."
 msgstr "月亮与大海将赋予你启迪。"
 
-#: STRINGS.RECIPE_DESC.BATHBOMB
-msgid "Flowers, for hotsprings? Groundbreaking."
-msgstr "把花扔进温泉里？\n真是个开创性的壮举。"
-
 #: STRINGS.RECIPE_DESC.BATHBOMB_BLUEPRINT
 msgid "Unlock the secret of hot spring alchemy."
 msgstr "破解温泉炼金术的秘方。"
@@ -110750,3 +110746,26 @@ msgstr "你自由了！"
 msgid "Don't eat us!"
 msgstr "不要吃我们！"
 
+#: STRINGS.RECIPE_DESC.BATHBOMB
+msgid "Flowers, for springs? Groundbreaking."
+msgstr "把花扔进温泉里？\n真是个开创性的壮举。"
+
+#: STRINGS.NAMES.SEAFARING_PROTOTYPER
+msgid "Think Tank"
+msgstr "智库"
+
+#: STRINGS.RECIPE_DESC.BOATPATCH
+msgid "It's never too late to patch things up."
+msgstr "亡羊补牢，犹未晚也。"
+
+#: STRINGS.RECIPE_DESC.BOAT_ITEM
+msgid "Let the seas be your domain."
+msgstr "让海洋成为你的领地。"
+
+#: STRINGS.RECIPE_DESC.MAST_ITEM
+msgid "Sail away, sail away."
+msgstr "扬帆起航！\n扬帆起航！"
+
+#: STRINGS.RECIPE_DESC.OAR
+msgid "Row, row, row your boat."
+msgstr "划动你的小圆舟。"

@@ -109808,7 +109808,7 @@ msgstr "未擁有角色"
 
 #: STRINGS.UI.LOBBYSCREEN.VISIT_SHOP
 msgid "Visit Shop"
-msgstr "前往商店"
+msgstr "前去氪金"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
 msgid "Clear Dynamic Content"
@@ -110036,7 +110036,7 @@ msgstr "伸出支板"
 
 #: STRINGS.ACTIONS.LOWER_ANCHOR
 msgid "Lower Anchor"
-msgstr "抛錨"
+msgstr "拋錨"
 
 #: STRINGS.ACTIONS.LOWER_SAIL
 msgid "Lower Sail"
@@ -110080,7 +110080,7 @@ msgstr "劃"
 
 #: STRINGS.ACTIONS.SET_HEADING
 msgid "Set Heading"
-msgstr "設置航路"
+msgstr "設置航向"
 
 #: STRINGS.ACTIONS.STEER_BOAT
 msgid "Steer"
@@ -110088,7 +110088,7 @@ msgstr "掌舵"
 
 #: STRINGS.ACTIONS.STOP_STEERING_BOAT
 msgid "Stop Steering"
-msgstr "停止驾驶"
+msgstr "停止駕駛"
 
 #: STRINGS.NAMES.ANCHOR_ITEM
 msgid "Anchor Kit"
@@ -110512,19 +110512,15 @@ msgstr "設計原型，1.0版本"
 
 #: STRINGS.RECIPE_DESC.ANCHOR_ITEM
 msgid "Boat brakes."
-msgstr "給船用的刹車系統。"
+msgstr "給船用的剎車系統。"
 
 #: STRINGS.RECIPE_DESC.ANCHOR_SKETCH
 msgid "The moon and sea will be your inspirations."
-msgstr "月亮與大海將賦予你啓迪。"
-
-#: STRINGS.RECIPE_DESC.BATHBOMB
-msgid "Flowers, for hotsprings? Groundbreaking."
-msgstr "把花扔進溫泉裏？\n真是個開創性的壯舉。"
+msgstr "月亮與大海將賦予你啟迪。"
 
 #: STRINGS.RECIPE_DESC.BATHBOMB_BLUEPRINT
 msgid "Unlock the secret of hot spring alchemy."
-msgstr "破解溫泉煉金術的秘方。"
+msgstr "破解溫泉鍊金術的秘方。"
 
 #: STRINGS.RECIPE_DESC.BUTTERFLY_SKETCH
 msgid "Let the moon send you visions of butterflies."
@@ -110552,7 +110548,7 @@ msgstr "這是月之女神的雕塑！"
 
 #: STRINGS.RECIPE_DESC.CHESSPIECE_MOON_SKETCH
 msgid "A sculpture sketch of the moon itself."
-msgstr "一張月亮自身雕像的草圖。"
+msgstr "一張月亮本身雕像的草圖。"
 
 #: STRINGS.RECIPE_DESC.CRITTER_LUNARMOTHLING_BUILDER
 msgid "Befriend a delicate Mothling."
@@ -110560,7 +110556,7 @@ msgstr "和一隻纖弱的小飛蛾交朋友。"
 
 #: STRINGS.RECIPE_DESC.FISHINGNET
 msgid "Nothin' but net."
-msgstr "網裏除了網啥也沒有。"
+msgstr "網裡除了網啥也沒有。"
 
 #: STRINGS.RECIPE_DESC.GLASSCUTTER
 msgid "Cutting edge weaponry."
@@ -110576,7 +110572,7 @@ msgstr "一些刺激神經的東西。"
 
 #: STRINGS.RECIPE_DESC.MINIFLARE
 msgid "Light the way for your trusted friends."
-msgstr "爲你值得信賴的朋友照亮道路。"
+msgstr "為你值得信賴的朋友照亮道路。"
 
 #: STRINGS.RECIPE_DESC.MOONGLASSAXE
 msgid "Fragile but effective."
@@ -110588,7 +110584,7 @@ msgstr "讓月亮賦予你知識。"
 
 #: STRINGS.RECIPE_DESC.MOON_SKETCH
 msgid "Look upon the face of the moon."
-msgstr "臺頭，直面月光。"
+msgstr "抬頭，直面月光。"
 
 #: STRINGS.RECIPE_DESC.SEAFARER_KIT
 msgid "Build a boat to stay afloat."
@@ -110609,3 +110605,167 @@ msgstr "坑坑窪窪的月球表面。"
 #: STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT
 msgid "Learn to mold the moon's surface."
 msgstr "學習塑造月球表面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "That would be a waste of a bath bomb."
+msgstr "這會把爆炸浴鹽浪費掉。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "I can't, the surface is glassed over."
+msgstr "我做不到，那上面結晶了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING0
+msgid "Too soon!"
+msgstr "太快了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING1
+msgid "My timing is off!"
+msgstr "沒找對時機！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING2
+msgid "Not again!"
+msgstr "別再來了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SAIL.REPAIR
+msgid "It doesn't need repairing."
+msgstr "它不需要修復。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_LEAK
+msgid "We're taking on a lot of water."
+msgstr "我們的船進了很多水。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_SINK
+msgid "I don't want to drown!"
+msgstr "我還不想淹死啊！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN
+msgid "I wonder who set that flare?"
+msgstr "我想知道是誰放了那個信號？"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出來了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "There's a form trapped inside."
+msgstr "有什麼東西被困在裡面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出來了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "There's a form trapped inside."
+msgstr "有什麼東西被困在裡面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出來了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "There's a form trapped inside."
+msgstr "有什麼東西被困在裡面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Uh-oh. Sea monsters!"
+msgstr "呃噢，海怪！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "Aw, we wanted to do it!"
+msgstr "唔，我們想這麼做！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "There's too much glass in the way."
+msgstr "那裡已經有太多晶片了。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SAIL.REPAIR
+msgid "But the boat's not damaged."
+msgstr "但是船還沒壞啊。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_LEAK
+msgid "The boat is crying!"
+msgstr "小船在哭泣！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_SINK
+msgid "We're too young to drown!"
+msgstr "我們還小不想淹死啊！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN
+msgid "Oh, someone's calling us to come over."
+msgstr "噢，有人呼叫我們過去。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "We'll get you out."
+msgstr "我們會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "We'll get you out."
+msgstr "我們會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "We'll get you out."
+msgstr "我們會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Don't eat us!"
+msgstr "不要吃我們！"
+
+#: STRINGS.RECIPE_DESC.BATHBOMB
+msgid "Flowers, for springs? Groundbreaking."
+msgstr "把花扔進溫泉里？\n真是個開創性的壯舉。"
+
+#: STRINGS.NAMES.SEAFARING_PROTOTYPER
+msgid "Think Tank"
+msgstr "智庫"
+
+#: STRINGS.RECIPE_DESC.BOATPATCH
+msgid "It's never too late to patch things up."
+msgstr "亡羊補牢，猶未晚也。"
+
+#: STRINGS.RECIPE_DESC.BOAT_ITEM
+msgid "Let the seas be your domain."
+msgstr "讓海洋成為你的領地。"
+
+#: STRINGS.RECIPE_DESC.MAST_ITEM
+msgid "Sail away, sail away."
+msgstr "揚帆起航！\n揚帆起航！"
+
+#: STRINGS.RECIPE_DESC.OAR
+msgid "Row, row, row your boat."
+msgstr "划動你的小圓舟。"
