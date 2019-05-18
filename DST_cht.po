@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遺棄"
 
@@ -72380,11 +72380,11 @@ msgstr "表演藝術家"
 
 #: STRINGS.CHARACTER_TITLES.waxwell
 msgid "The Puppet Master"
-msgstr "傀儡掌控者"
+msgstr "傀儡之王"
 
 #: STRINGS.CHARACTER_TITLES.webber
 msgid "The Indigestible"
-msgstr "難以消化者"
+msgstr "難以消化的孩子"
 
 #: STRINGS.CHARACTER_TITLES.wendy
 msgid "The Bereaved"
@@ -75168,63 +75168,63 @@ msgstr "破碎的發條機器"
 
 #: STRINGS.NAMES.CHESSPIECE_BEARGER
 msgid "Bearger Figure"
-msgstr "熊獾棋子"
+msgstr "熊獾雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BEARGER_BUILDER
 msgid "Bearger Figure"
-msgstr "熊獾棋子"
+msgstr "熊獾雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BISHOP
 msgid "Bishop Figure"
-msgstr "主教棋子"
+msgstr "主教雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_BISHOP_BUILDER
 msgid "Bishop Figure"
-msgstr "主教棋子"
+msgstr "主教雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND
 msgid "Hound Figure"
-msgstr "獵犬棋子"
+msgstr "獵犬雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_BUILDER
 msgid "Hound Figure"
-msgstr "獵犬棋子"
+msgstr "獵犬雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG
 msgid "Varg Figure"
-msgstr "座狼棋子"
+msgstr "座狼雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG_BUILDER
 msgid "Varg Figure"
-msgstr "座狼棋子"
+msgstr "座狼雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYWARG_SKETCH
 msgid "Clay Varg Figure Sketch"
-msgstr "粘土座狼草圖"
+msgstr "粘土座狼雕塑草圖"
 
 #: STRINGS.NAMES.CHESSPIECE_DEERCLOPS
 msgid "Deerclops Figure"
-msgstr "獨眼巨鹿棋子"
+msgstr "獨眼巨鹿雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DEERCLOPS_BUILDER
 msgid "Deerclops Figure"
-msgstr "獨眼巨鹿棋子"
+msgstr "獨眼巨鹿雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DRAGONFLY
 msgid "Dragonfly Figure"
-msgstr "龍蠅棋子"
+msgstr "龍蠅雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_DRAGONFLY_BUILDER
 msgid "Dragonfly Figure"
-msgstr "龍蠅棋子"
+msgstr "龍蠅雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_FORMAL
 msgid "Kingly Figure"
-msgstr "國王棋子"
+msgstr "國王雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_FORMAL_BUILDER
 msgid "Kingly Figure"
-msgstr "國王棋子"
+msgstr "國王雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_HORNUCOPIA
 msgid "Carved Hornucopia"
@@ -75236,39 +75236,39 @@ msgstr "豐饒角雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT
 msgid "Knight Figure"
-msgstr "騎士棋子"
+msgstr "騎士雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_KNIGHT_BUILDER
 msgid "Knight Figure"
-msgstr "騎士棋子"
+msgstr "騎士雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE
 msgid "Moose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_ALT
 msgid "Goose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MOOSEGOOSE_BUILDER
 msgid "Moose/Goose Figure"
-msgstr "麋鹿鵝棋子"
+msgstr "麋鹿鵝雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MUSE
 msgid "Queenly Figure"
-msgstr "皇后棋子"
+msgstr "皇后雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_MUSE_BUILDER
 msgid "Queenly Figure"
-msgstr "皇后棋子"
+msgstr "皇后雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PAWN
 msgid "Pawn Figure"
-msgstr "禁衛棋子"
+msgstr "禁衛雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PAWN_BUILDER
 msgid "Pawn Figure"
-msgstr "禁衛棋子"
+msgstr "禁衛雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_PIPE
 msgid "Bubble Pipe Carving"
@@ -75280,11 +75280,11 @@ msgstr "冒泡煙斗雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_ROOK
 msgid "Rook Figure"
-msgstr "戰車棋子"
+msgstr "戰車雕塑"
 
 #: STRINGS.NAMES.CHESSPIECE_ROOK_BUILDER
 msgid "Rook Figure"
-msgstr "戰車棋子"
+msgstr "戰車雕塑"
 
 #: STRINGS.NAMES.CHESTER
 msgid "Chester"
@@ -96944,7 +96944,7 @@ msgstr "伺服器使用的是新王朝測試版。\n你將需要在Steam參加�
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_ROTBETA
 msgid "The server is running the Return of Them Beta version. You'll need to opt into the beta to play on this server."
-msgstr "伺服器使用的是舊神回歸測試版。\n你將需要在Steam參加測試後才能加入。"
+msgstr "伺服器使用的是舊神歸來測試版。\n你將需要在Steam參加測試後才能加入。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_CLIENT
 msgid "This server is on a newer version than you. Please download the latest update to connect."
@@ -97180,7 +97180,7 @@ msgstr "新王朝 Beta版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_ROTBETA
 msgid "Return of Them Beta"
-msgstr "舊神回歸 Beta版"
+msgstr "舊神歸來 Beta版"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_MISMATCH_OLD_CLIENT
 msgid "Version Mismatch"
@@ -109808,7 +109808,7 @@ msgstr "未擁有角色"
 
 #: STRINGS.UI.LOBBYSCREEN.VISIT_SHOP
 msgid "Visit Shop"
-msgstr "前去氪金"
+msgstr "前往商店"
 
 #: STRINGS.UI.MAINSCREEN.DYNAMICCONTENT_CLEAR
 msgid "Clear Dynamic Content"
@@ -109988,7 +109988,7 @@ msgstr "長滿了毛，很噁心"
 
 #: STRINGS.NAMES.CHESSPIECE_CLAYHOUND_SKETCH
 msgid "Hound Figure Sketch"
-msgstr "獵犬棋子草圖"
+msgstr "獵犬雕塑草圖"
 
 #: STRINGS.UI.WORLDGEN.NOUNS.39
 msgid "a touch of magic..."
@@ -110000,7 +110000,7 @@ msgstr "船隻生命值："
 
 #: STRINGS.UI.MAINSCREEN.MAINBANNER_ROT_BETA_TITLE
 msgid "Return of Them Beta"
-msgstr "舊神回歸 Beta版"
+msgstr "舊神歸來 Beta版"
 
 #: STRINGS.TABS.MOON_ALTAR
 msgid "Celestial"
@@ -110016,7 +110016,7 @@ msgstr "棄船"
 
 #: STRINGS.ACTIONS.BATHBOMB
 msgid "Toss In"
-msgstr "扔"
+msgstr "投入"
 
 #: STRINGS.ACTIONS.CAST_NET
 msgid "Cast Net"
@@ -110024,7 +110024,7 @@ msgstr "撒網"
 
 #: STRINGS.ACTIONS.DEPLOY.WATER
 msgid "Launch"
-msgstr "下水"
+msgstr "入水"
 
 #: STRINGS.ACTIONS.DISMOUNT_PLANK
 msgid "Dismount Plank"
@@ -110036,11 +110036,11 @@ msgstr "伸出支板"
 
 #: STRINGS.ACTIONS.LOWER_ANCHOR
 msgid "Lower Anchor"
-msgstr "下錨"
+msgstr "抛錨"
 
 #: STRINGS.ACTIONS.LOWER_SAIL
 msgid "Lower Sail"
-msgstr "下帆"
+msgstr "收帆"
 
 #: STRINGS.ACTIONS.MOUNT_PLANK
 msgid "Mount Plank"
@@ -110088,7 +110088,7 @@ msgstr "掌舵"
 
 #: STRINGS.ACTIONS.STOP_STEERING_BOAT
 msgid "Stop Steering"
-msgstr "停止掌舵"
+msgstr "停止驾驶"
 
 #: STRINGS.NAMES.ANCHOR_ITEM
 msgid "Anchor Kit"
@@ -110104,11 +110104,11 @@ msgstr "蟻尾魚"
 
 #: STRINGS.NAMES.BATHBOMB
 msgid "Bath Bomb"
-msgstr "浴鹽炸彈"
+msgstr "爆炸浴鹽"
 
 #: STRINGS.NAMES.BATHBOMB_BLUEPRINT
 msgid "Bath Bomb Blueprint"
-msgstr "浴鹽炸彈藍圖"
+msgstr "爆炸浴鹽藍圖"
 
 #: STRINGS.NAMES.BOAT
 msgid "Boat"
@@ -110136,7 +110136,7 @@ msgstr "船隻碎片"
 
 #: STRINGS.NAMES.BOATPATCH
 msgid "Boat Patch"
-msgstr "船隻碎片"
+msgstr "船隻補丁"
 
 #: STRINGS.NAMES.BOAT_ITEM
 msgid "Boat Kit"
@@ -110240,7 +110240,7 @@ msgstr "漁網"
 
 #: STRINGS.NAMES.FRUITDRAGON
 msgid "Saladmander"
-msgstr "沙拉蜥蜴"
+msgstr "沙拉蠑螈"
 
 #: STRINGS.NAMES.GESTALT
 msgid "Gestalt"
@@ -110509,3 +110509,103 @@ msgstr "沃拓克斯來了，他準備整人了！"
 #: STRINGS.SKIN_DESCRIPTIONS.wx78_none
 msgid "Original design, version 1.0."
 msgstr "設計原型，1.0版本"
+
+#: STRINGS.RECIPE_DESC.ANCHOR_ITEM
+msgid "Boat brakes."
+msgstr "給船用的刹車系統。"
+
+#: STRINGS.RECIPE_DESC.ANCHOR_SKETCH
+msgid "The moon and sea will be your inspirations."
+msgstr "月亮與大海將賦予你啓迪。"
+
+#: STRINGS.RECIPE_DESC.BATHBOMB
+msgid "Flowers, for hotsprings? Groundbreaking."
+msgstr "把花扔進溫泉裏？\n真是個開創性的壯舉。"
+
+#: STRINGS.RECIPE_DESC.BATHBOMB_BLUEPRINT
+msgid "Unlock the secret of hot spring alchemy."
+msgstr "破解溫泉煉金術的秘方。"
+
+#: STRINGS.RECIPE_DESC.BUTTERFLY_SKETCH
+msgid "Let the moon send you visions of butterflies."
+msgstr "讓月亮帶給你蝴蝶之幻象。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_BUILDER
+msgid "Ground your base with a stone anchor."
+msgstr "用一個石錨把你的基地固定好。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_ANCHOR_SKETCH
+msgid "A sculpture sketch of an anchor."
+msgstr "一張錨雕像的草圖。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_BUTTERFLY_BUILDER
+msgid "This sculpture's a moth-have."
+msgstr "這雕像上有蛀「蟲」。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_BUTTERFLY_SKETCH
+msgid "A sculpture sketch of a Moon Moth."
+msgstr "一張月蛾雕像的草圖。"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_MOON_BUILDER
+msgid "It's a selene figurine!"
+msgstr "這是月之女神的雕塑！"
+
+#: STRINGS.RECIPE_DESC.CHESSPIECE_MOON_SKETCH
+msgid "A sculpture sketch of the moon itself."
+msgstr "一張月亮自身雕像的草圖。"
+
+#: STRINGS.RECIPE_DESC.CRITTER_LUNARMOTHLING_BUILDER
+msgid "Befriend a delicate Mothling."
+msgstr "和一隻纖弱的小飛蛾交朋友。"
+
+#: STRINGS.RECIPE_DESC.FISHINGNET
+msgid "Nothin' but net."
+msgstr "網裏除了網啥也沒有。"
+
+#: STRINGS.RECIPE_DESC.GLASSCUTTER
+msgid "Cutting edge weaponry."
+msgstr "頂尖武器。"
+
+#: STRINGS.RECIPE_DESC.GLASSCUTTER_BLUEPRINT
+msgid "The moon will protect you."
+msgstr "月亮會保護你的。"
+
+#: STRINGS.RECIPE_DESC.KELPHAT
+msgid "Something to agitate the nerves."
+msgstr "一些刺激神經的東西。"
+
+#: STRINGS.RECIPE_DESC.MINIFLARE
+msgid "Light the way for your trusted friends."
+msgstr "爲你值得信賴的朋友照亮道路。"
+
+#: STRINGS.RECIPE_DESC.MOONGLASSAXE
+msgid "Fragile but effective."
+msgstr "易碎但有效。"
+
+#: STRINGS.RECIPE_DESC.MOONGLASSAXE_BLUEPRINT
+msgid "Knowledge bestowed by the moon itself."
+msgstr "讓月亮賦予你知識。"
+
+#: STRINGS.RECIPE_DESC.MOON_SKETCH
+msgid "Look upon the face of the moon."
+msgstr "臺頭，直面月光。"
+
+#: STRINGS.RECIPE_DESC.SEAFARER_KIT
+msgid "Build a boat to stay afloat."
+msgstr "造一艘能漂起來的船。"
+
+#: STRINGS.RECIPE_DESC.SEAFARING_PROTOTYPER
+msgid "Science at sea."
+msgstr "關於海洋的科學。"
+
+#: STRINGS.RECIPE_DESC.STEERINGWHEEL_ITEM
+msgid "It's wheely important to have one."
+msgstr "一個舵輪必不可少。"
+
+#: STRINGS.RECIPE_DESC.TURF_METEOR
+msgid "The cratered surface of the moon."
+msgstr "坑坑窪窪的月球表面。"
+
+#: STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT
+msgid "Learn to mold the moon's surface."
+msgstr "學習塑造月球表面。"
