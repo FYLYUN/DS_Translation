@@ -48328,7 +48328,7 @@ msgstr "和身处在我的老板的工作室的感觉一样。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODBASE.READY
 msgid "I guess it wants the Voxola?"
-msgstr "我猜它想要几张黑胶碟片？"
+msgstr "我猜它想要Voxola的东西？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgid "At least I assembled it right."
@@ -48336,7 +48336,7 @@ msgstr "至少我要把它组装好再说。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODSTART
 msgid "That's a Voxola! What's it doing here?"
-msgstr "那是达萨拉！她在这儿做什么？"
+msgstr "那是Voxola！它在这儿做什么？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONBODYHAT
 msgid "It's the beast's tummy!"
