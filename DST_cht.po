@@ -22784,7 +22784,7 @@ msgstr "用帥氣的繃帶使它更好如何，樹先生？"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.GENERIC
 msgid "Pines are always greener on the other side of the fence."
-msgstr "人們總是想得到別人擁有的東西。"
+msgstr "圍墻另一邊的松樹總是看起來更綠一些。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.BURNING
 msgid "What a senseless waste of firewood."
@@ -27768,7 +27768,7 @@ msgstr "阿比蓋爾已經準備好了，但是她需要一點空間。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.LONG
 msgid "It was my sister's flower. She's gone far away."
-msgstr "那是我妹妹的花。她已經死了。"
+msgstr "那是我姐妹的花。她已經死了。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
 msgid "I can sense Abigail's presence growing stronger."
@@ -30144,7 +30144,7 @@ msgstr "好運早就拋下了我…"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LUCY
 msgid "Hello... \"Lucy\"... I'd like you to meet my sister."
-msgstr "你好啊…露西…想讓你見見我姐姐。"
+msgstr "你好啊…露西…想讓你見見我的孿生姐妹。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.LUMPY_SAPLING
 msgid "This life appeared from nowhere."
@@ -32216,7 +32216,7 @@ msgstr "鋒利致命"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STRAWHAT
 msgid "When the sun beats mercilessly, life finds a way. Ugh."
-msgstr "當太陽暴晒時，生命可以得其庇護。"
+msgstr "當太陽無情的鞭撻，生命總能找到出路。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.STUFFEDEGGPLANT
 msgid "A nightshade. Probably not filled with poison."
@@ -46424,7 +46424,7 @@ msgstr "我可不是什麼藝術家。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.ABIGAILHEART
 msgid "No one should ever lose a sister."
-msgstr "任何人都不應該失去妹妹。"
+msgstr "任何人都不應該失去姐妹。"
 
 #: STRINGS.CHARACTERS.WINONA.ACTIONFAIL.GIVE.BUSY
 msgid "They're busy working."
@@ -47824,7 +47824,7 @@ msgstr "就像在這裡一樣舒適。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.CAMPFIRE.OUT
 msgid "My sister was afraid of the dark."
-msgstr "我的妹妹害怕黑暗。"
+msgstr "我的妹妹曾經很害怕黑暗。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.CANARY.GENERIC
 msgid "That brings back memories."
@@ -48328,7 +48328,7 @@ msgstr "和身處在我的老闆的工作室的感覺一樣。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODBASE.READY
 msgid "I guess it wants the Voxola?"
-msgstr "我猜它想要幾張黑膠碟片？"
+msgstr "我猜它想要Voxola的東西？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODBASE.UNLOCKED
 msgid "At least I assembled it right."
@@ -48336,7 +48336,7 @@ msgstr "至少我要把它組裝好再說。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DIVININGRODSTART
 msgid "That's a Voxola! What's it doing here?"
-msgstr "那是達薩拉！她在這兒做什麼？"
+msgstr "那是Voxola！它在這兒做什麼？"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.DRAGONBODYHAT
 msgid "It's the beast's tummy!"
@@ -49528,7 +49528,7 @@ msgstr "蔬菜湯，馬上就好。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MANDRAKE_ACTIVE
 msgid "This is exactly what having a little sister's like."
-msgstr "這看起來像個小女孩的模樣。"
+msgstr "這就像有個妹妹一樣。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.MANDRAKE_COOKED
 msgid "Dead as several doornails."
@@ -67348,7 +67348,7 @@ msgstr "這些食物很乏味"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_BANANA_TREE
 msgid "LIFE FINDS A WAY, UNFORTUNATELY"
-msgstr "不幸的是，生活無論如何都會繼續下去。"
+msgstr "生命總能找到出路，真不幸。"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.CAVE_ENTRANCE
 msgid "DESCENT BLOCKED. HOW TO PROCEED?"
@@ -68996,7 +68996,7 @@ msgstr "帶刺的樹已不復存在"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.CHOPPED
 msgid "SPIKY TREE DEFEATED"
-msgstr "擊敗帶刺的數"
+msgstr "擊敗帶刺的樹"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.MARSH_TREE.GENERIC
 msgid "A SPIKY TREE"
@@ -72180,7 +72180,7 @@ msgstr "韋伯是一個彬彬有禮的小怪物，他關心他的\n所有朋友�
 
 #: STRINGS.CHARACTER_ABOUTME.wendy
 msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
-msgstr "溫蒂是一個憂鬱的小女孩，她與妹妹之間的\n濃厚親情甚至超越了死亡。"
+msgstr "溫蒂是一個憂鬱的小女孩，她與她孿生姐妹\n之間的濃厚親情甚至超越了死亡。"
 
 #: STRINGS.CHARACTER_ABOUTME.wes
 msgid "Wes is a mime of many thoughts, but few words."
@@ -72228,7 +72228,7 @@ msgstr "*是一隻怪物\n*可以與蜘蛛交朋友\n*會長出一嘴毛絨絨�
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wendy
 msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Doesn't hit very hard"
-msgstr "*被她的雙胞胎妹妹所縈繞\n*不懼怕黑暗\n*力氣很小不是很能打"
+msgstr "*被她的孿生姐妹所縈繞\n*不懼怕黑暗\n*力氣很小不是很能打"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgid "*Can't talk \n*Has trouble staying alive \n*Practices balloonomancy"
@@ -73160,7 +73160,7 @@ msgstr "*有它的小蜘蛛跟隨\n\n\n\n可使用武器種類：\n吹箭"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wendy
 msgid "*Protected by her twin sister, Abigail\n\n\n\nExpertise:\nDarts, Staves"
-msgstr "*受她的孿生妹妹阿比蓋爾保護\n\n\n\n可使用武器種類：\n吹箭，法杖"
+msgstr "*受她的孿生姐妹阿比蓋爾保護\n\n\n\n可使用武器種類：\n吹箭，法杖"
 
 #: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wes
 msgid "*Can be revived twice as quickly\n*Gains minimal aggro when attacking\n*Less likely to lose aggro once drawn\n\nExpertise:\nMelee, Darts, Staves"
@@ -76656,11 +76656,11 @@ msgstr "月相盤"
 
 #: STRINGS.NAMES.MOONROCKCRATER
 msgid "Cratered Moonrock"
-msgstr "帶孔月石"
+msgstr "帶孔月岩"
 
 #: STRINGS.NAMES.MOONROCKNUGGET
 msgid "Moon Rock"
-msgstr "月之石"
+msgstr "月岩"
 
 #: STRINGS.NAMES.MOONROCK_PIECES
 msgid "Moon Rubble"
@@ -83812,7 +83812,7 @@ msgstr "震耳欲聾的聲音充斥在空氣中沒有停止的意思，\n誰敢�
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_critters
 msgid "It was once thought that the beasts of the Constant were too wild and ferocious to be tamed. As it turns out, all any critter needs to make friends is a bit of love."
-msgstr "人們曾經以為這些永恆之境的怪獸殘忍狂野，難以馴服。然而事實證明，所有生靈都需要朋友，這就是愛。"
+msgstr "人們曾經以為這些永恆領域的怪獸殘忍狂野，難以馴服。然而事實證明，所有生靈都需要朋友，這就是愛。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_deerclops_yule
 msgid "The night had seemed dead 'fore the sound broke the hush.\nThere! Something doth stir in the thick underbrush.\nTHUMP, THUMP, CLOMP, CLOMP, sound its footsteps together,\nThen you sight the clumped fur, the thin legs like black leather.\nIts eye trains on yours in a horrid red glow,\n...How swift might you flee through the knee-deep snow?"
@@ -83836,11 +83836,11 @@ msgstr "麥斯威爾在夢魘王座上的長期統治以一種未知的方式改
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_merm
 msgid "Merms inhabited the marshes of The Constant long before humans, and will probably exist long after."
-msgstr "魚人族早在人類出現之前就已經居住在這片永恆之境的沼澤中，並且很可能一直存在下去。"
+msgstr "魚人族早在人類出現之前就已經居住在這片永恆領域的沼澤中，並且很可能一直存在下去。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_pigking
 msgid "Legend has it the Pig King and his followers left their home long ago to rule freely in The Constant."
-msgstr "傳說豬王和他的追隨者們很久以前就離開了他們的家園，在這片永恆之境上實行著自由統治。"
+msgstr "傳說豬王和他的追隨者們很久以前就離開了他們的家園，在這片永恆領域上實行著自由統治。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_webber
 msgid "Webber could have easily seen his unique predicament as an affliction or a curse. Instead, he's chosen to view it as a second chance, and one that he fully intends not to waste."
@@ -83848,7 +83848,7 @@ msgstr "韋伯本應把自己獨特的困境看成是一種折磨或詛咒。然
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wendy
 msgid "Wendy clings fiercely to the grief over her sister's death, for fear that moving on would cause Abigail's memory to fade."
-msgstr "溫蒂沉溺於姐姐離開的悲痛之中，時常擔心時間會抹去她對姐姐的記憶。"
+msgstr "溫蒂沉溺於姐妹相离的悲痛之中，時常擔心時間會抹去她對她孿生姐妹的記憶。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_wendy_victorian
 msgid "Wendy finds a strange comfort in elaborate mourning rituals.\nIt takes the guesswork out of grieving."
@@ -83876,7 +83876,7 @@ msgstr "有時，在寒冷和痛苦的夜晚，人們可能會在一根點燃的
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willowfire
 msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all."
-msgstr "薇洛總是把被帶到這個永恆之境當作一個新的起點。畢竟，在這她能夠把一切都拋在身後。"
+msgstr "薇洛總是把被帶到這個永恆領域當作一個新的起點。畢竟，在這她能夠把一切都拋在身後。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_winona_victorian
 msgid "The clank of hammers is music to the blacksmith's ears.\nThe smell of coal, a sweet perfume."
@@ -84268,7 +84268,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_abigail_flower
 msgid "Set your profile icon to Abigail's flower.\n\nAbigail's flower is Wendy's only remaining keepsake of her departed sister."
-msgstr "將你的頭像設置為阿比蓋爾的花。\n\n它是溫蒂對姐姐唯一的紀念。"
+msgstr "將你的頭像設置為阿比蓋爾之花。\n\n它是溫蒂對她姐妹唯一的紀念。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_babybeefalo
 msgid "Set your profile icon to a baby beefalo."
@@ -84428,7 +84428,7 @@ msgstr "將你的頭像設置為考拉象。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_krampus
 msgid "Set your profile icon to Krampus.\n\nThe Krampus is compelled to visit all naughty denizens of The Constant."
-msgstr "將你的頭像設置為坎普斯。\n\n坎普斯被迫去拜訪每一位淘氣的永恆之域居民。"
+msgstr "將你的頭像設置為坎普斯。\n\n坎普斯被迫去拜訪每一位淘氣的永恆領域居民。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mactusk
 msgid "Set your profile icon to a MacTusk."
@@ -84628,7 +84628,7 @@ msgstr "將你的頭像設置為咆哮的瘋豬。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_wererabbit
 msgid "Set your profile icon to a grinning bunnyman.\n\nBunnymen make their homes deep in the caverns of The Constant."
-msgstr "將你的頭像設置為友善的兔人。\n\n兔人們把家安在永恆之域的洞穴深處。"
+msgstr "將你的頭像設置為友善的兔人。\n\n兔人們把家安在永恆領域的洞穴深處。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_bearger
 msgid "Set your profile icon to a grumpy Bearger, recently roused from deep hibernation.\n\nHappy Winter's Feast!"
@@ -84636,7 +84636,7 @@ msgstr "將你的頭像設置為一個剛從冬眠沉睡中醒來的暴戾熊獾
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_claus
 msgid "Set your profile icon to the fearsome Klaus.\n\nThe Constant always seems to have an odd effect on Klaus this time of year; although we all tend to show our holiday spirit in different ways. Happy Winter's Feast!"
-msgstr "將你的頭像設置為嚇人的克勞斯。\n\n每年這個時候永恆之域都會對克勞斯產生怪異的影響；儘管我們都傾向於用不同的方式來展示我們的節日精神。冬季盛宴快樂！"
+msgstr "將你的頭像設置為嚇人的克勞斯。\n\n每年這個時候永恆領域都會對克勞斯產生怪異的影響；儘管我們都傾向於用不同的方式來展示我們的節日精神。冬季盛宴快樂！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_yule_deer
 msgid "Set your profile icon to a fuzzy No-Eyed Deer.\n\nHappy Winter's Feast!"
@@ -92944,7 +92944,7 @@ msgstr "Facebook"
 
 #: STRINGS.UI.CREDITS.FMOD
 msgid "FMOD Sound System,\nCopyright Firelight Technologies"
-msgstr "FMOD聲音引擎版權屬於\nFirelight技術公司"
+msgstr "FMOD聲音引擎版權屬於\nFirelight技術公司\n\n本漢化模組由L.M.U漢化組製作"
 
 #: STRINGS.UI.CREDITS.LOLLI.NAMES.1
 msgid "Daniel Segarra"
@@ -93196,7 +93196,7 @@ msgstr "Shane Bettenhausen\nAdam Boyes\nBrian Silva\nNick Suttner\nAlessandro Bo
 
 #: STRINGS.UI.CREDITS.THANKS
 msgid "And a very special thanks to all our supporters who braved the challenge of the \"Early-Access\nBeta\". You are too numerous to name - our amazing moderators, the wonderful artists, musicians,\nlivestreamers, to all who made a Let's Play video and everybody who chimed in to let us know\nexactly what you think. Your encouragement, passion and support has been amazing.\n\nDon't Starve Together is truly a better game because of all of you."
-msgstr "非常感謝那些勇敢面對「搶先體驗版本」的我們的支持者們。你們人數眾多不便全部點名——我們使人驚奇的會議主席，令人讚歎的畫師，音樂師，\n獻給所有讓宣傳視頻充滿鼓舞與激情的直播人員，你們的支持令人欣喜。\n\nDon't Starve Together變成了更好遊戲，多虧了你們所有人。"
+msgstr "非常感謝那些勇敢面對「搶先體驗版本」的我們的支持者們。\n你們人數眾多不便全部點名——我們使人驚奇的會議主席，令人讚歎的畫師，音樂師，\n獻給所有讓宣傳視頻充滿鼓舞與激情的直播人員，你們的支持令人欣喜。\n\n《饑荒聯機版》變得更好，多虧了你們所有人。"
 
 #: STRINGS.UI.CREDITS.THANKYOU
 msgid "Thank you!"
@@ -108660,7 +108660,7 @@ msgstr "這是狂戰士的力量。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WENDY.GHOST
 msgid "%s is looking a bit too much like her sister."
-msgstr "%s和她妹妹看起來太像了。"
+msgstr "%s和她姐妹看起來太像了。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WICKERBOTTOM.FIRESTARTER
 msgid "Never pinned you for the wanton destruction type."
@@ -110100,7 +110100,7 @@ msgstr "「月亮」草圖"
 
 #: STRINGS.NAMES.ANTCHOVIES
 msgid "Ant-Chovy"
-msgstr "蟻尾魚"
+msgstr "蟻鳀魚"
 
 #: STRINGS.NAMES.BATHBOMB
 msgid "Bath Bomb"
@@ -110605,6 +110605,247 @@ msgstr "坑坑窪窪的月球表面。"
 #: STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT
 msgid "Learn to mold the moon's surface."
 msgstr "學習塑造月球表面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "That would be a waste of a bath bomb."
+msgstr "这会把爆炸浴鹽浪费掉。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "I can't, the surface is glassed over."
+msgstr "我做不到，那上面結晶了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING0
+msgid "Too soon!"
+msgstr "太快了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING1
+msgid "My timing is off!"
+msgstr "沒找對時機！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING2
+msgid "Not again!"
+msgstr "別再來了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SAIL.REPAIR
+msgid "It doesn't need repairing."
+msgstr "它不需要修复。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_LEAK
+msgid "We're taking on a lot of water."
+msgstr "我們的船進了很多水。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_SINK
+msgid "I don't want to drown!"
+msgstr "我还不想淹死啊！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN
+msgid "I wonder who set that flare?"
+msgstr "我想知道是谁放了那个信号？"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "I've almost got it out."
+msgstr "我就快把它弄出来了。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "There's a form trapped inside."
+msgstr "有什么东西被困在里面。"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Uh-oh. Sea monsters!"
+msgstr "呃噢，海怪！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "Aw, we wanted to do it!"
+msgstr "唔，我们想这么做！"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "There's too much glass in the way."
+msgstr "哪裏已經有太多晶片了。"
+
+#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SAIL.REPAIR
+msgid "But the boat's not damaged."
+msgstr "但是船還沒坏啊。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_LEAK
+msgid "The boat is crying!"
+msgstr "小船在哭泣！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_SINK
+msgid "We're too young to drown!"
+msgstr "我們還小不想淹死啊！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN
+msgid "Oh, someone's calling us to come over."
+msgstr "噢，有人呼叫我們過去。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "We'll get you out."
+msgstr "我们會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "We'll get you out."
+msgstr "我们會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "Almost!"
+msgstr "快了快了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "We'll get you out."
+msgstr "我们會把你弄出來的。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "You're free!"
+msgstr "你自由了！"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Don't eat us!"
+msgstr "不要吃我們！"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#. STRINGS.SKIN_QUOTES.wormwood_cactus
+msgid "\"Hug?\""
+msgstr "\"抱？\""
+
+#. STRINGS.SKIN_QUOTES.wormwood_mushroom
+msgid "\"Cave lonely\""
+msgstr "\"洞穴孤獨\""
+
+#. STRINGS.SKIN_QUOTES.wormwood_rose
+msgid "\"Feel big fancy\""
+msgstr "\"感觉好高级\""
+
+#. STRINGS.SKIN_NAMES.wormwood_cactus
+msgid "The Oasis Bound"
+msgstr "绿洲邊境"
+
+#. STRINGS.SKIN_NAMES.wormwood_mushroom
+msgid "The Hollow"
+msgstr "空洞"
+
+#. STRINGS.SKIN_NAMES.wormwood_none
+msgid "Essential Wormwood"
+msgstr "基础沃姆伍德"
+
+#. STRINGS.SKIN_NAMES.wormwood_rose
+msgctxt "STRINGS.SKIN_NAMES.wormwood_rose"
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#. STRINGS.SKIN_NAMES.pack_wormwood_cactus
+msgid "Wormwood Oasis Bound Chest"
+msgstr "沃姆伍德绿洲邊境箱子"
+
+#. STRINGS.SKIN_NAMES.legs_wormwood_cactus
+msgid "Oasis Bound Legs"
+msgstr "绿洲邊境雙腿"
+
+#. STRINGS.SKIN_NAMES.hand_wormwood_cactus
+msgid "Oasis Bound Hands"
+msgstr "绿洲邊境雙手"
+
+#. STRINGS.SKIN_NAMES.body_wormwood_cactus
+msgid "Oasis Bound Trunk"
+msgstr "绿洲邊境樹幹"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_cactus
+msgid "This Chest contains Wormwood's complete set of Oasis Bound skin items."
+msgstr "这个箱子里有沃姆伍德的全套绿洲邊境皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxe
+msgid "This Deluxe Chest contains the Wormwood character and his complete set of Hollow, Oasis Bound, and Roseate skin items."
+msgstr "这个豪华箱子包含沃姆伍德角色和他全套的空洞，绿洲邊境，和玫瑰皮肤物品。"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxealt
+msgid "This Deluxe Wardrobe contains the Wormwood's complete set of Hollow, Oasis Bound, and Roseate skin items."
+msgstr "这个豪华衣柜包含沃姆伍德全套的空洞，绿洲邊境，和玫瑰皮肤物品。"
+
+#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
+msgid "Oasis Bound Collection"
+msgstr "绿洲邊境系列"
+
+#. STRINGS.SKIN_DESCRIPTIONS.pack_character_wormwood
+msgid "This Wormwood Chest contains the playable character, Wormwood: The Lonesome, as well as Wormwood's complete set of Roseate skin items."
+msgstr "这个沃姆伍德箱子包含游戏角色，沃姆伍德——寂寞者，以及玫瑰皮肤道具。"
+
+#. STRINGS.NAMES.WORMWOOD
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#. STRINGS.CHARACTER_NAMES.wormwood
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#. STRINGS.CHARACTER_ABOUTME.wormwood
+msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
+msgstr "月之魔力讓幾種藤蔓植物的混合體有了知覺， 變成了沃姆伍德。他尋找朋友，尋找歸屬感。"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wormwood
+msgid "*Plants relate to him\n*Has a Green Thumb\n*Food fills his stomach, but not his heart"
+msgstr "*植物與他息息相關\n*有特殊的園藝才能\n*食物能填飽他的肚子，但無法治愈他的心"
+
+#. STRINGS.CHARACTER_QUOTES.wormwood
+msgid "\"Hello friend?\""
+msgstr "你好，朋友？"
+
+#. STRINGS.NAMES.COMPOSTWRAP
+msgid "Compost Wrap"
+msgstr "肥料包"
+
+#. STRINGS.NAMES.TRAP_BRAMBLE
+msgid "Bramble Trap"
+msgstr "荊棘陷阱"
+
+#. STRINGS.NAMES.ARMOR_BRAMBLE
+msgid "Bramble Husk"
+msgstr "荊棘外殼"msgstr "學習塑造月球表面。"
 
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
 msgid "That would be a waste of a bath bomb."
