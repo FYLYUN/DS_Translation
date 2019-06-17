@@ -7378,10 +7378,6 @@ msgstr "等等，別告訴我。你點了把火。"
 msgid "Greetings, %s!"
 msgstr "你好，%s！"
 
-#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WES.GHOST
-msgid "How do you say \"I'll concoct a revival device\" in mime?"
-msgstr "你怎麼演 「我需要一個復活道具」 的啞劇呢？"
-
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WES.MURDERER
 msgid "Mime this!"
 msgstr "滑稽！"
@@ -7621,10 +7617,6 @@ msgstr "你好，%s！"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOODIE.GHOST
 msgid "Does \"universal\" coverage include the void, %s?"
 msgstr "%s，「宇宙」的概念，包含虛空嗎？"
-
-#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOODIE.MURDERER
-msgid "Murder! Bring me an axe and we'll get in the swing of things!"
-msgstr "謀殺！給我一按斧頭我會旋轉著砍它！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOODIE.REVIVER
 msgid "%s saved everyone's backbacon."
@@ -59886,10 +59878,6 @@ msgstr "對不起！我會更努力的！"
 msgid "No! Not the wood!"
 msgstr "不！為什麼是樹！"
 
-#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICK_DISEASE_WARNING
-msgid "Well that's not right."
-msgstr "這可不對啊。"
-
 #: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_QUAKE
 msgid "The ground is heaving!"
 msgstr "地上凹凸不平！"
@@ -60193,10 +60181,6 @@ msgstr "這曾經是一塊眼部的骨頭。"
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
 msgid "This used to be a slimy flower."
 msgstr "這以前是種粘滑的花。"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ASH.REMAINS_THINGIE
-msgid "Well that's a shame."
-msgstr "這可真是可惜了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ATRIUM_GATE.CHARGING
 msgid "It's soaking up energy, hey?"
@@ -61794,10 +61778,6 @@ msgstr "禮尚往來。"
 msgid "Should we do something nice today, Lucy?"
 msgstr "我們今天來做一些好事情吧，露西？"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLASSBLOCK
-msgid "Well it ain't wood."
-msgstr "好吧它不是木頭。"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLASSSPIKE
 msgid "I wonder if it chops."
 msgstr "不知道能不能用來砍伐。"
@@ -62214,10 +62194,6 @@ msgstr "呸，滾開！"
 msgid "Seems wrong to take someone else's sack."
 msgstr "拿走別人的包似乎不是很好的行為。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LANTERN
-msgid "Well that's enlightening, eh?"
-msgstr "可有啟發性了，是吧？"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LAVAARENA_ARMOREXTRAHEAVY
 msgid "No one'd push you around in that."
 msgstr "穿上它沒人能支配你。"
@@ -62501,10 +62477,6 @@ msgstr "好像政府大樓"
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEBEAN
 msgid "The magical fruit."
 msgstr "神奇的水果。"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEBEAN_SAPLING
-msgid "Well lookit that. It sprouted."
-msgstr "看，它發芽了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEPILLAR
 msgid "Somebody must have built that."
@@ -64450,10 +64422,6 @@ msgstr "終有一天它會成為參天大樹。"
 msgid "At least it won't start a forest fire."
 msgstr "至少不會引發森林大火。"
 
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.STAFFLIGHT
-msgid "Well ain't that something."
-msgstr "不知道到底是什麼。"
-
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.STAFF_TORNADO
 msgid "I prefer to chop the trees myself."
 msgstr "我更喜歡自己砍這些樹。"
@@ -65141,10 +65109,6 @@ msgstr "看上去可不安全"
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WAFFLES
 msgid "I prefer flapjacks."
 msgstr "我更喜歡烙餅"
-
-#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALL_HAY.BURNT
-msgid "Well that escalated quickly."
-msgstr "這火迅速擴散。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALL_HAY.GENERIC
 msgid "You could sneeze it down."
@@ -104930,10 +104894,6 @@ msgstr "岩漿"
 msgid "The Magmatic"
 msgstr "岩漿"
 
-#: STRINGS.SKIN_QUOTES.wathgrithr_magma
-msgid "\"I fear not Surtr's flames!\""
-msgstr "\"吾無懼蘇爾特之火！\""
-
 #: STRINGS.SKIN_QUOTES.waxwell_magma
 msgid "\"Volcanic power is intoxicating.\""
 msgstr "\"火山之力令人陶醉。\""
@@ -110100,7 +110060,7 @@ msgstr "「月亮」草圖"
 
 #: STRINGS.NAMES.ANTCHOVIES
 msgid "Ant-Chovy"
-msgstr "蟻鳀魚"
+msgstr "蟻鯷魚"
 
 #: STRINGS.NAMES.BATHBOMB
 msgid "Bath Bomb"
@@ -110388,7 +110348,7 @@ msgstr "月岩企鷗"
 
 #: STRINGS.NAMES.OAR
 msgid "Oar"
-msgstr "槳"
+msgstr "船槳"
 
 #: STRINGS.NAMES.PUFFIN
 msgid "Puffin"
@@ -110608,247 +110568,6 @@ msgstr "學習塑造月球表面。"
 
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
 msgid "That would be a waste of a bath bomb."
-msgstr "这会把爆炸浴鹽浪费掉。"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED
-msgid "I can't, the surface is glassed over."
-msgstr "我做不到，那上面結晶了。"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING0
-msgid "Too soon!"
-msgstr "太快了！"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING1
-msgid "My timing is off!"
-msgstr "沒找對時機！"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.ROW_FAIL.BAD_TIMING2
-msgid "Not again!"
-msgstr "別再來了！"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.SAIL.REPAIR
-msgid "It doesn't need repairing."
-msgstr "它不需要修复。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_LEAK
-msgid "We're taking on a lot of water."
-msgstr "我們的船進了很多水。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_BOAT_SINK
-msgid "I don't want to drown!"
-msgstr "我还不想淹死啊！"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_FLARE_SEEN
-msgid "I wonder who set that flare?"
-msgstr "我想知道是谁放了那个信号？"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
-msgid "I've almost got it out."
-msgstr "我就快把它弄出来了。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
-msgid "There's a form trapped inside."
-msgstr "有什么东西被困在里面。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
-msgid "I've almost got it out."
-msgstr "我就快把它弄出来了。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
-msgid "There's a form trapped inside."
-msgstr "有什么东西被困在里面。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
-msgid "I've almost got it out."
-msgstr "我就快把它弄出来了。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_MED
-msgid "There's a form trapped inside."
-msgstr "有什么东西被困在里面。"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
-msgid "Uh-oh. Sea monsters!"
-msgstr "呃噢，海怪！"
-
-#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
-msgid "Aw, we wanted to do it!"
-msgstr "唔，我们想这么做！"
-
-#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.BATHBOMB.GLASSED
-msgid "There's too much glass in the way."
-msgstr "哪裏已經有太多晶片了。"
-
-#: STRINGS.CHARACTERS.WEBBER.ACTIONFAIL.SAIL.REPAIR
-msgid "But the boat's not damaged."
-msgstr "但是船還沒坏啊。"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_LEAK
-msgid "The boat is crying!"
-msgstr "小船在哭泣！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_BOAT_SINK
-msgid "We're too young to drown!"
-msgstr "我們還小不想淹死啊！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_FLARE_SEEN
-msgid "Oh, someone's calling us to come over."
-msgstr "噢，有人呼叫我們過去。"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
-msgid "Almost!"
-msgstr "快了快了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
-msgid "We'll get you out."
-msgstr "我们會把你弄出來的。"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
-msgid "Almost!"
-msgstr "快了快了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
-msgid "We'll get you out."
-msgstr "我们會把你弄出來的。"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
-msgid "Almost!"
-msgstr "快了快了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_MED
-msgid "We'll get you out."
-msgstr "我们會把你弄出來的。"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
-msgid "You're free!"
-msgstr "你自由了！"
-
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
-msgid "Don't eat us!"
-msgstr "不要吃我們！"
-
-#. STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
-msgid "Wormwood"
-msgstr "沃姆伍德"
-
-#. STRINGS.SKIN_QUOTES.wormwood_cactus
-msgid "\"Hug?\""
-msgstr "\"抱？\""
-
-#. STRINGS.SKIN_QUOTES.wormwood_mushroom
-msgid "\"Cave lonely\""
-msgstr "\"洞穴孤獨\""
-
-#. STRINGS.SKIN_QUOTES.wormwood_rose
-msgid "\"Feel big fancy\""
-msgstr "\"感觉好高级\""
-
-#. STRINGS.SKIN_NAMES.wormwood_cactus
-msgid "The Oasis Bound"
-msgstr "绿洲邊境"
-
-#. STRINGS.SKIN_NAMES.wormwood_mushroom
-msgid "The Hollow"
-msgstr "空洞"
-
-#. STRINGS.SKIN_NAMES.wormwood_none
-msgid "Essential Wormwood"
-msgstr "基础沃姆伍德"
-
-#. STRINGS.SKIN_NAMES.wormwood_rose
-msgctxt "STRINGS.SKIN_NAMES.wormwood_rose"
-msgid "The Roseate"
-msgstr "玫瑰"
-
-#. STRINGS.SKIN_NAMES.pack_wormwood_cactus
-msgid "Wormwood Oasis Bound Chest"
-msgstr "沃姆伍德绿洲邊境箱子"
-
-#. STRINGS.SKIN_NAMES.legs_wormwood_cactus
-msgid "Oasis Bound Legs"
-msgstr "绿洲邊境雙腿"
-
-#. STRINGS.SKIN_NAMES.hand_wormwood_cactus
-msgid "Oasis Bound Hands"
-msgstr "绿洲邊境雙手"
-
-#. STRINGS.SKIN_NAMES.body_wormwood_cactus
-msgid "Oasis Bound Trunk"
-msgstr "绿洲邊境樹幹"
-
-#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_cactus
-msgid "This Chest contains Wormwood's complete set of Oasis Bound skin items."
-msgstr "这个箱子里有沃姆伍德的全套绿洲邊境皮肤物品。"
-
-#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxe
-msgid "This Deluxe Chest contains the Wormwood character and his complete set of Hollow, Oasis Bound, and Roseate skin items."
-msgstr "这个豪华箱子包含沃姆伍德角色和他全套的空洞，绿洲邊境，和玫瑰皮肤物品。"
-
-#. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxealt
-msgid "This Deluxe Wardrobe contains the Wormwood's complete set of Hollow, Oasis Bound, and Roseate skin items."
-msgstr "这个豪华衣柜包含沃姆伍德全套的空洞，绿洲邊境，和玫瑰皮肤物品。"
-
-#. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
-msgid "Oasis Bound Collection"
-msgstr "绿洲邊境系列"
-
-#. STRINGS.SKIN_DESCRIPTIONS.pack_character_wormwood
-msgid "This Wormwood Chest contains the playable character, Wormwood: The Lonesome, as well as Wormwood's complete set of Roseate skin items."
-msgstr "这个沃姆伍德箱子包含游戏角色，沃姆伍德——寂寞者，以及玫瑰皮肤道具。"
-
-#. STRINGS.NAMES.WORMWOOD
-msgid "Wormwood"
-msgstr "沃姆伍德"
-
-#. STRINGS.CHARACTER_NAMES.wormwood
-msgid "Wormwood"
-msgstr "沃姆伍德"
-
-#. STRINGS.CHARACTER_ABOUTME.wormwood
-msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
-msgstr "月之魔力讓幾種藤蔓植物的混合體有了知覺， 變成了沃姆伍德。他尋找朋友，尋找歸屬感。"
-
-#. STRINGS.CHARACTER_DESCRIPTIONS.wormwood
-msgid "*Plants relate to him\n*Has a Green Thumb\n*Food fills his stomach, but not his heart"
-msgstr "*植物與他息息相關\n*有特殊的園藝才能\n*食物能填飽他的肚子，但無法治愈他的心"
-
-#. STRINGS.CHARACTER_QUOTES.wormwood
-msgid "\"Hello friend?\""
-msgstr "你好，朋友？"
-
-#. STRINGS.NAMES.COMPOSTWRAP
-msgid "Compost Wrap"
-msgstr "肥料包"
-
-#. STRINGS.NAMES.TRAP_BRAMBLE
-msgid "Bramble Trap"
-msgstr "荊棘陷阱"
-
-#. STRINGS.NAMES.ARMOR_BRAMBLE
-msgid "Bramble Husk"
-msgstr "荊棘外殼"msgstr "學習塑造月球表面。"
-
-#: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
-msgid "That would be a waste of a bath bomb."
 msgstr "這會把爆炸浴鹽浪費掉。"
 
 #: STRINGS.CHARACTERS.GENERIC.ACTIONFAIL.BATHBOMB.GLASSED
@@ -110983,10 +110702,6 @@ msgstr "我們會把你弄出來的。"
 msgid "You're free!"
 msgstr "你自由了！"
 
-#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
-msgid "Don't eat us!"
-msgstr "不要吃我們！"
-
 #: STRINGS.RECIPE_DESC.BATHBOMB
 msgid "Flowers, for springs? Groundbreaking."
 msgstr "把花扔進溫泉里？\n真是個開創性的壯舉。"
@@ -111010,3 +110725,4012 @@ msgstr "揚帆起航！\n揚帆起航！"
 #: STRINGS.RECIPE_DESC.OAR
 msgid "Row, row, row your boat."
 msgstr "划動你的小圓舟。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.GENERIC
+msgid "Not now"
+msgstr "不是現在"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.DRAW.NOIMAGE
+msgid "Draw what?"
+msgstr "畫什麼？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.SLEEPING
+msgid "Shhh..."
+msgstr "噓..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.RUMMAGE.GENERIC
+msgid "Nope"
+msgstr "不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.SHAVE.AWAKEBEEFALO
+msgid "Too awake"
+msgstr "太清醒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.SHAVE.NOBITS
+msgid "Nothing there"
+msgstr "什麼也沒有"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.STORE.GENERIC
+msgid "Too full"
+msgstr "太滿"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.TEACH.CANTLEARN
+msgid "Don't get it"
+msgstr "無法獲取"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.WRITE.GENERIC
+msgid "Can't write"
+msgstr "無法書寫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL_GENERIC
+msgid "Nope"
+msgstr "不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_ACCOMPLISHMENT
+msgid "A game!"
+msgstr "一個遊戲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_ACCOMPLISHMENT_DONE
+msgid "Did it! Yay!"
+msgstr "做吧！耶！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_ADVENTUREFAIL
+msgid "Try again"
+msgstr "再試一次"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_BEES
+msgid "Buzz! Buzz!"
+msgstr "嗡嗡！嗡嗡！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_BLOOMING.1
+msgid "Feeling bloomy!"
+msgstr "感受盛放！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_BOOMERANG
+msgid "Whoops. Missed it"
+msgstr "哎呀。錯過"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_BURNT
+msgid "Agghh! Too much hot!"
+msgstr "啊啊！太熱！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CHARLIE
+msgid "Someone here?"
+msgstr "有誰在嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CHARLIE_ATTACK
+msgid "Ouch!"
+msgstr "哎喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COLD
+msgid "Brrr... Cold!"
+msgstr "哎哎...冷！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL
+msgid "Failed"
+msgstr "失敗"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEERCLOPS
+msgid "Eyeball Branch Head near!"
+msgstr "頭上分叉的大眼怪來了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.GENERIC
+msgid "Tasty"
+msgstr "好吃"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.INVALID
+msgid "Can't"
+msgstr "不行"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.PAINFUL
+msgid "Ouch"
+msgstr "哎呦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.YUCKY
+msgid "Nope"
+msgstr "不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_ENTER_LIGHT
+msgid "It's light again"
+msgstr "又亮了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FAN_OUT
+msgid "Wind gone"
+msgstr "風走了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_FREEDOM
+msgid "Free!"
+msgstr "自由！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GROWPLANT.1
+msgid "Grow!"
+msgstr "生長！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GROWPLANT.2
+msgid "New friend!"
+msgstr "新朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_GROWPLANT.3
+msgid "Happy Birthday!"
+msgstr "生日快樂！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HIGHRESEARCH
+msgid "Smarter now"
+msgstr "現在更聰明了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HOUNDS
+msgid "Woofers!"
+msgstr "汪汪獸們！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HUNGRY
+msgid "Need stuff for belly"
+msgstr "肚子需要東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HUNT_BEAST_NEARBY
+msgid "Prints!"
+msgstr "印記！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HUNT_LOST_TRAIL
+msgid "Prints gone"
+msgstr "印記沒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
+msgid "Prints gone"
+msgstr "印記沒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_INSUFFICIENTFERTILIZER
+msgid "Need more poop"
+msgstr "需要更多肥料"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_INV_FULL
+msgid "Too much stuff"
+msgstr "東西太多了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_KILLEDPLANT.1
+msgid "Sorry, friend"
+msgstr "對不起，朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_KILLEDPLANT.2
+msgid "Don't like hurting friend"
+msgstr "不喜歡傷害朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_KILLEDPLANT.3
+msgid "Friends don't like that"
+msgstr "朋友不喜歡那樣"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_KNOCKEDOUT
+msgid "Wha--?"
+msgstr "哇--？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
+msgid "Too close!"
+msgstr "太近了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_LOWRESEARCH
+msgid "Learned stuff"
+msgstr "學到了東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_MOSQUITOS
+msgid "Bzzt! Bzzt!"
+msgstr "滋滋滋！滋滋滋！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NODANGERSIESTA
+msgid "Too dangerous"
+msgstr "太危險了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NODANGERSLEEP
+msgid "Too much danger"
+msgstr "太多危險"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NODAYSLEEP
+msgid "Too bright!"
+msgstr "太亮了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NODAYSLEEP_CAVE
+msgid "Can't"
+msgstr "不能"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOHUNGERSIESTA
+msgid "Too hungry"
+msgstr "太餓了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOHUNGERSLEEP
+msgid "Too hungry"
+msgstr "太餓了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NONIGHTSIESTA
+msgid "Can't. It's nighttime"
+msgstr "不可以。這是晚上"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NONIGHTSIESTA_CAVE
+msgid "Not in caves"
+msgstr "不在洞穴里"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NOSLEEPONFIRE
+msgid "Burning!"
+msgstr "燃燒！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_QUAKE
+msgid "Rumbles!"
+msgstr "轟隆隆的聲音！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_RESEARCH
+msgid "Smart now"
+msgstr "現在聰明了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_THORNS
+msgid "Hey! Spiky friends!"
+msgstr "嘿！長著刺的朋友們！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TOOL_SLIP
+msgid "Whoops"
+msgstr "哎喲"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TRAP_WENT_OFF
+msgid "Trap snapped!"
+msgstr "陷阱咬合了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WORMHOLE
+msgid "Urgh"
+msgstr "呸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.BATTLECRY.GENERIC
+msgid "Attack!"
+msgstr "進攻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.BATTLECRY.PIG
+msgid "Attack!"
+msgstr "進攻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.BATTLECRY.PREY
+msgid "Attack!"
+msgstr "進攻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.BATTLECRY.SPIDER
+msgid "Attack!"
+msgstr "進攻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.BATTLECRY.SPIDER_WARRIOR
+msgid "Attack!"
+msgstr "進攻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.GENERIC
+msgid "Don't want to fight"
+msgstr "不想戰鬥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.PIG
+msgid "Don't want to fight"
+msgstr "不想戰鬥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.PREY
+msgid "Don't want to fight"
+msgstr "不想戰鬥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.SPIDER
+msgid "Don't want to fight"
+msgstr "不想戰鬥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.COMBAT_QUIT.SPIDER_WARRIOR
+msgid "Don't want to fight"
+msgstr "不想戰鬥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.GENERIC
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND
+msgid "Ghost friend"
+msgstr "鬼魂朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.LONG
+msgid "Sleeping"
+msgstr "睡眠中"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
+msgid "Hello there!"
+msgstr "你好！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ACCOMPLISHMENT_SHRINE
+msgid "Pretty!"
+msgstr "真漂亮！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ADVENTURE_PORTAL
+msgid "Adventure?"
+msgstr "冒險？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_STATUE
+msgid "Alive? Hmmm..."
+msgstr "活的？嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORMARBLE
+msgid "Heavy"
+msgstr "好重"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORSNURTLESHELL
+msgid "Anyone hiding?"
+msgstr "有人藏著嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORWOOD
+msgid "Friend Shirt"
+msgstr "朋友的襯衫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_BRAMBLE
+msgid "Pokey protection"
+msgstr "破舊的保護"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMOR_SANITY
+msgid "Brain Guard"
+msgstr "大腦保護者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ASH.GENERIC
+msgid "Something burned"
+msgstr "什麼東西燒掉了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ASH.REMAINS_EYE_BONE
+msgid "All gone"
+msgstr "全消失了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
+msgid "Oh"
+msgstr "哦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ASH.REMAINS_THINGIE
+msgid "Gone"
+msgstr "消失了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BABYBEEFALO.GENERIC
+msgid "Needs more fur"
+msgstr "需要更多的毛"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BABYBEEFALO.SLEEPING
+msgid "Shh..."
+msgstr "噓..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BACONEGGS
+msgid "Belly filler"
+msgstr "填飽肚子的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BALLOONS_EMPTY
+msgid "Needs air"
+msgstr "需要空氣"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BANDAGE
+msgid "Sweet Heal Paper"
+msgstr "甜甜的治療紙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BASALT
+msgid "Too heavy"
+msgstr "太重了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BATWING
+msgid "Can't fly anymore"
+msgstr "再也不能飛了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEARDHAIR
+msgid "Fuzzy"
+msgstr "毛茸茸的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEARGER_FUR
+msgid "Poor guy"
+msgstr "可憐的傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEDROLL_STRAW
+msgid "For sleepytime"
+msgstr "為了睡眠時間"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEE.GENERIC
+msgid "Buzz!"
+msgstr "嗡嗡！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEE.HELD
+msgid "Needs home"
+msgstr "需要一個家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.FULLHONEY
+msgid "Buzz Juice ready!"
+msgstr "嗡嗡果汁準備好了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.GENERIC
+msgid "Buzz home!"
+msgstr "嗡嗡的家！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.NOHONEY
+msgid "Empty"
+msgstr "空的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.READY
+msgid "Buzz Juice ready!"
+msgstr "嗡嗡果汁準備好了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.SOMEHONEY
+msgid "Wait"
+msgstr "等等"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.DOMESTICATED
+msgid "A pet now"
+msgstr "現在是一隻寵物了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.FOLLOWER
+msgid "Looking for belly stuff"
+msgstr "尋找填飽肚子的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.GENERIC
+msgid "Shaggy Buddy"
+msgstr "毛茸茸的夥伴"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.NAKED
+msgid "Bald"
+msgstr "禿子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.ORNERY
+msgid "Cranky"
+msgstr "真古怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.PUDGY
+msgid "Full belly"
+msgstr "填飽肚子了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.RIDER
+msgid "Can ride now"
+msgstr "現在可以騎了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALOHAT
+msgid "Warm"
+msgstr "真暖和"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALOWOOL
+msgid "Buddy hair"
+msgstr "夥伴的毛髮"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEHAT
+msgid "Looks good"
+msgstr "看起來很好"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEMINE_MAXWELL
+msgid "It's buzzing..."
+msgstr "它在嗡嗡響..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEESWAX
+msgid "Buzz Blocks"
+msgstr "嗡嗡磚塊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BELL
+msgid "Ding! Dong!"
+msgstr "叮! 咚！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BELL_BLUEPRINT
+msgid "Makes Ding Dong bell"
+msgstr "做一個叮咚響的鈴鐺"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRYBUSH.BARREN
+msgid "Needs poop"
+msgstr "需要便便"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRYBUSH.GENERIC
+msgid "Full of stuff for belly"
+msgstr "裝滿了食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRYBUSH.WITHERED
+msgid "Poor guy"
+msgstr "可憐的傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIGFOOT
+msgid "Smelly Stomper"
+msgstr "難聞的踐踏者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRCHNUTDRAKE
+msgid "So cute"
+msgstr "真可愛"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.GENERIC
+msgid "Needs a friend"
+msgstr "需要一個朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.HUNGRY
+msgid "Hungry?"
+msgstr "餓了嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.OCCUPIED
+msgid "Tweet! Tweet!"
+msgstr "嘰喳！嘰喳！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.SKELETON
+msgid "(sigh)"
+msgstr "(嘆氣)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.STARVING
+msgid "Needs food!"
+msgstr "需要食物！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDTRAP
+msgid "Tweeter Nabber"
+msgstr "用來抓嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_EGG
+msgid "Baby Tweeter"
+msgstr "小嘰喳怪寶寶"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRD_EGG_COOKED
+msgid "Goes in belly"
+msgstr "到肚子里去"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BISHOP
+msgid "A Pointy Hat Machine Man!"
+msgstr "一個尖帽子的機器人！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BISHOP_CHARGE_HIT
+msgid "Aggh!"
+msgstr "啊！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BISHOP_NIGHTMARE
+msgid "Hurt"
+msgstr "受傷了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLOWDART_FIRE
+msgid "Fire Ptooey"
+msgstr "吐火焰"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUE_MUSHROOM.GENERIC
+msgid "Little blue friend!"
+msgstr "小小的藍色朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUE_MUSHROOM.INGROUND
+msgid "He's shy"
+msgstr "他很害羞"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUE_MUSHROOM.PICKED
+msgid "All gone"
+msgstr "全消失了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOARDS
+msgid "Fallen friends"
+msgstr "逝去的朋友們"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_BIRDS
+msgid "Pretty pictures"
+msgstr "漂亮的圖畫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_BRIMSTONE
+msgid "Fire!"
+msgstr "火！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_GARDENING
+msgid "This one's nice"
+msgstr "這本非常好"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_SLEEP
+msgid "(yawn)"
+msgstr "(打哈欠)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOK_TENTACLES
+msgid "About Scary Arms"
+msgstr "關於可怕的手臂"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUNDLE
+msgid "Stuff inside"
+msgstr "裡面有東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUNDLEWRAP
+msgid "Put stuff inside"
+msgstr "把東西放進去"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUNNYMAN
+msgid "Wants belly things"
+msgstr "想要飽腹的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUSHHAT
+msgid "Friend costume"
+msgstr "扮成朋友的服裝"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUTTERFLY.GENERIC
+msgid "A friend for friends"
+msgstr "一個朋友的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUTTERFLYMUFFIN
+msgid "Yummm..."
+msgstr "美味..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUZZARD
+msgid "Meat Tweeter"
+msgstr "吃肉的嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CACTUS.GENERIC
+msgid "Ouch Friend"
+msgstr "扎人的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CACTUS.PICKED
+msgid "Grow, Ouch Friend! Grow!"
+msgstr "生長，扎人的朋友！生長！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CACTUS_FLOWER
+msgid "Yum"
+msgstr "美味"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CACTUS_MEAT
+msgid "Mmm... belly stuff"
+msgstr "嗯...填飽肚子的的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.EMBERS
+msgid "Dying"
+msgstr "要滅了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.GENERIC
+msgid "Not too close"
+msgstr "別太靠近"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.HIGH
+msgid "Too high!"
+msgstr "太高了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.LOW
+msgid "Stay back"
+msgstr "退後"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.NORMAL
+msgid "Not too close"
+msgstr "別太靠近"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAMPFIRE.OUT
+msgid "Whew!"
+msgstr "喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CANE
+msgid "Friend for walking"
+msgstr "幫助走路的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARROT
+msgid "Thanks, dirt!"
+msgstr "謝謝，土！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CATCOONDEN.EMPTY
+msgid "No more Kitties"
+msgstr "沒有小貓了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CATCOONDEN.GENERIC
+msgid "Anyone home?"
+msgstr "有人在家嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CATCOONHAT
+msgid "Kitty thing for head"
+msgstr "戴在頭上的小貓"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_BANANA_BURNT
+msgid "Smokey"
+msgstr "煙熏過後"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_BANANA_TREE
+msgid "Friend with Sweet Hair"
+msgstr "有著香甜頭髮的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_ENTRANCE
+msgid "Goes somewhere"
+msgstr "去向某個地方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
+msgid "Closed"
+msgstr "關著的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
+msgid "Open now"
+msgstr "現在打開了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_ENTRANCE_RUINS
+msgid "Goes somewhere"
+msgstr "去向某個地方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_EXIT.GENERIC
+msgid "Closed"
+msgstr "關著的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_FERN
+msgid "How you doing?"
+msgstr "你最近怎樣?"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHARCOAL
+msgid "Burnt rock"
+msgstr "燒焦的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSJUNK1
+msgid "Machine stuff"
+msgstr "機器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSJUNK3
+msgid "Full of machine stuff"
+msgstr "充滿了機械"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESTER_EYEBONE.GENERIC
+msgid "Blinky!"
+msgstr "它在眨眼！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESTER_EYEBONE.WAITING
+msgid "Sleeping. Shh..."
+msgstr "它睡著了。噓..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.EMBERS
+msgid "Almost gone"
+msgstr "幾乎燒完了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.GENERIC
+msgid "Chilly"
+msgstr "真冷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.HIGH
+msgid "Really big!"
+msgstr "真大啊！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.LOW
+msgid "Getting warmer"
+msgstr "變暖和了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.NORMAL
+msgid "Cooling"
+msgstr "涼快了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIRE.OUT
+msgid "Needs food"
+msgstr "需要養料"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.EMBERS
+msgid "Almost gone"
+msgstr "幾乎燒完了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.GENERIC
+msgid "Chilly"
+msgstr "冷啊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.HIGH
+msgid "Pretty"
+msgstr "好看"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.LOW
+msgid "Getting warmer"
+msgstr "變暖和了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.NORMAL
+msgid "Cooling"
+msgstr "涼快了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COLDFIREPIT.OUT
+msgid "Needs food"
+msgstr "需要養料"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.E
+msgid "East"
+msgstr "東方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.GENERIC
+msgid "Which way?"
+msgstr "那條路呢?"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.N
+msgid "North"
+msgstr "北方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.NE
+msgid "Northeast"
+msgstr "東北方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.NW
+msgid "Northwest"
+msgstr "西北方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.S
+msgid "South"
+msgstr "南方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.SE
+msgid "Southeast"
+msgstr "東南方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.SW
+msgid "Southwest"
+msgstr "西南方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPASS.W
+msgid "West"
+msgstr "西方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COMPOSTWRAP
+msgid "Poop good for heart"
+msgstr "便便對心臟有益"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKEDMANDRAKE
+msgid "Smells sleepy"
+msgstr "聞著想睡覺"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKEDMEAT
+msgid "Yummm"
+msgstr "好吃"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKEDMONSTERMEAT
+msgid "Smells bad"
+msgstr "聞起來糟透了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKEDSMALLMEAT
+msgid "Little belly stuff"
+msgstr "小小填腹物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKPOT.BURNT
+msgid "Oh"
+msgstr "噢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKPOT.COOKING_LONG
+msgid "Waiting..."
+msgstr "等待中..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKPOT.COOKING_SHORT
+msgid "Done soon"
+msgstr "快完成了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKPOT.DONE
+msgid "Done!"
+msgstr "完成！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COOKPOT.EMPTY
+msgid "Nothing there"
+msgstr "那兒什麼都沒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.COONTAIL
+msgid "Poor little Kitty"
+msgstr "可憐的小貓咪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CORN_COOKED
+msgid "Pop! Pop!"
+msgstr "砰! 砰!"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CROW.GENERIC
+msgid "Caw Tweeter!"
+msgstr "亂叫的嘰喳怪！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CROW.HELD
+msgid "Needs a home"
+msgstr "需要一個家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTGRASS
+msgid "Hair from friends!"
+msgstr "來自朋友的毛髮！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTLICHEN
+msgid "Smells good"
+msgstr "聞起來不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTREEDS
+msgid "Hair cut"
+msgstr "剪髮"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CUTSTONE
+msgid "Square stones"
+msgstr "方形石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEADLYFEAST
+msgid "Nope"
+msgstr "不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DECIDUOUSTREE.BURNING
+msgid "No!"
+msgstr "不！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DECIDUOUSTREE.BURNT
+msgid "Sorry"
+msgstr "對不起"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DECIDUOUSTREE.GENERIC
+msgid "Sleeping?"
+msgstr "在睡覺嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEERCLOPS_EYEBALL
+msgid "(poke)"
+msgstr "(撥動聲)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEPLETED_GRASS.GENERIC
+msgid "Needs poop"
+msgstr "需要便便"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEVTOOL
+msgid "Strange"
+msgstr "奇怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEVTOOL_NODEV
+msgid "Can't"
+msgstr "不行"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIRTPILE
+msgid "What's hiding?"
+msgstr "什麼藏在那兒？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGROD.COLD
+msgid "It's quiet"
+msgstr "真安靜"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGROD.GENERIC
+msgid "Leads to somewhere"
+msgstr "指向某個地方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGROD.HOT
+msgid "It's LOUD!"
+msgstr "真吵！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGROD.WARM
+msgid "Humming"
+msgstr "低吟著"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGROD.WARMER
+msgid "More humming!"
+msgstr "更多的低吟！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.GENERIC
+msgid "Hmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.READY
+msgid "Needs key"
+msgstr "需要鑰匙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODBASE.UNLOCKED
+msgid "Works!"
+msgstr "工作！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DIVININGRODSTART
+msgid "Stick"
+msgstr "棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONFLYCHEST
+msgid "Fire Safe"
+msgstr "防火的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONFRUIT
+msgid "Pretty fruit"
+msgstr "漂亮的水果"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONFRUIT_COOKED
+msgid "Mmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONPIE
+msgid "Pie. Yummy pie"
+msgstr "派。好吃的派"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUG_BERRYBUSH
+msgid "Needs dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUG_GRASS
+msgid "Needs dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUG_MARSH_BUSH
+msgid "Needs dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DUG_SAPLING
+msgid "Needs dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DURIAN
+msgid "Smelly belly stuff"
+msgstr "聞起來可以吃"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DURIAN_COOKED
+msgid "Still smells"
+msgstr "還有那味道"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DURIAN_SEEDS
+msgid "Want this, dirt?"
+msgstr "土，你想要這個嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EARMUFFSHAT
+msgid "Squee Hopper ears"
+msgstr "蹦蹦跳跳的耳罩"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EEL
+msgid "Sea Wiggly"
+msgstr "海扭扭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EEL_COOKED
+msgid "Not wiggly anymore"
+msgstr "不能再扭來扭去了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EGGPLANT
+msgid "Mmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EGGPLANT_COOKED
+msgid "Belly likes it"
+msgstr "我肚子愛上它了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN.BURNING
+msgid "Nonononono!"
+msgstr "不不不不不！！！！！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN.BURNT
+msgid "(sob)"
+msgstr "(抽泣)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN.CHOPPED
+msgid "Sorry"
+msgstr "抱歉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN_SPARSE.BURNING
+msgid "Fire!"
+msgstr "火！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN_SPARSE.BURNT
+msgid "Oh"
+msgstr "哦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN_SPARSE.GENERIC
+msgid "Shh... Sleeping"
+msgstr "噓···他正在睡覺呢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEBRELLAHAT
+msgid "Peeping Rain Taker"
+msgstr "偷窺和接住雨的工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEPLANT
+msgid "Blinky friend"
+msgstr "盲人朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYETURRET
+msgid "Pew!"
+msgstr "biu—！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FARMPLOT.BURNT
+msgid "Oh"
+msgstr "哦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FARMPLOT.GENERIC
+msgid "Good soil"
+msgstr "好土地"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FARMPLOT.GROWING
+msgid "Growing stuff for belly"
+msgstr "種吃的的土地"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+msgid "Needs poop"
+msgstr "需要便便"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHERFAN
+msgid "Fire Outer"
+msgstr "熄滅火的工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHER_CROW
+msgid "Caw Tweeter clothes"
+msgstr "黑色嘰喳怪的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHER_ROBIN
+msgid "Red Tweeter clothes"
+msgstr "紅色嘰喳怪的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHER_ROBIN_WINTER
+msgid "Snow Tweeter clothes"
+msgstr "白色嘰喳怪的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEM_PUPPET
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE
+msgid "Made of friends"
+msgstr "朋友做成的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_GATE
+msgid "Door made of friends"
+msgstr "朋友做成的門"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_GATE_ITEM
+msgid "Put in ground"
+msgstr "插在土裡"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FENCE_ITEM
+msgid "Put in ground"
+msgstr "插在土裡"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FERTILIZER
+msgid "Poop! Yay!"
+msgstr "便便！好耶！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIRECRACKERS
+msgid "POP! POP!"
+msgstr "砰砰砰！砰砰砰！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREFLIES.GENERIC
+msgid "Glow Bums"
+msgstr "會發光的蟲蟲"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREFLIES.HELD
+msgid "Needs home"
+msgstr "需要一個家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.EMBERS
+msgid "Dying"
+msgstr "要滅了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.GENERIC
+msgid "Not too close"
+msgstr "別靠太近"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.HIGH
+msgid "Too high!"
+msgstr "太高了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.LOW
+msgid "Stay back"
+msgstr "退後"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.NORMAL
+msgid "Not too close"
+msgstr "別靠太近"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIRESTAFF
+msgid "Hot Pew Stick"
+msgstr "biu-biu-的熱棒子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIRESUPPRESSOR.LOWFUEL
+msgid "Needs food"
+msgstr "需要食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIRESUPPRESSOR.OFF
+msgid "Keep fire away"
+msgstr "保護我們遠離火焰"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIRESUPPRESSOR.ON
+msgid "Good machine"
+msgstr "好機器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FISH
+msgid "Glub Glub"
+msgstr "噗嚕噗嚕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FISHINGROD
+msgid "Glub Glub Stick"
+msgstr "噗嚕噗嚕條"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FISHSTICKS
+msgid "Glub Glub on a friend"
+msgstr "朋友串起來的噗嚕噗嚕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLINT
+msgid "Sharp stone"
+msgstr "尖尖的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWERHAT
+msgid "Friends for head"
+msgstr "朋友的頭環"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_EVIL
+msgid "What happened, friend?"
+msgstr "發生什麼了？我的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FOOTBALLHAT
+msgid "Twirly Tail head thing"
+msgstr "卷尾巴做的頭上的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROG.DEAD
+msgid "Oh"
+msgstr "哦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROG.GENERIC
+msgid "Ribbit"
+msgstr "呱呱"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROG.SLEEPING
+msgid "Tired"
+msgstr "他累壞了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROGGLEBUNWICH
+msgid "Fills belly"
+msgstr "填飽肚肚"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROGLEGS
+msgid "Ribbit legs"
+msgstr "呱呱腿兒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FROGLEGS_COOKED
+msgid "Legs for belly"
+msgstr "給肚子的腿兒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FRUITMEDLEY
+msgid "Fruit party!"
+msgstr "水果派對！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GEARS
+msgid "Machine food"
+msgstr "機器的食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GEMSOCKET.VALID
+msgid "Ready"
+msgstr "準備好了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GHOST
+msgid "Floaty man!"
+msgstr "浮空人！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOMMERFLOWER.GENERIC
+msgid "Moon Flower"
+msgstr "月亮花"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOMMERWINGS
+msgid "So teeny"
+msgstr "真小"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOATMILK
+msgid "Mmmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOOSE_FEATHER
+msgid "Tickles. Hehe!"
+msgstr "撓你痒痒。嘻嘻！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS.BARREN
+msgid "Needs poop"
+msgstr "需要便便"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS.BURNING
+msgid "Agghh!"
+msgstr "啊啊啊啊啊！！！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS.GENERIC
+msgid "Smells nice"
+msgstr "聞起來不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS.PICKED
+msgid "Nice trim!"
+msgstr "修剪的很好！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS.WITHERED
+msgid "Too hot!"
+msgstr "這誰受得了呀！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREENGEM
+msgid "Looks familiar..."
+msgstr "看起來真眼熟..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREENSTAFF
+msgid "A Take Apart Stick"
+msgstr "拆東西用的棒子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREEN_CAP
+msgid "Hurts head"
+msgstr "傷害腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREEN_CAP_COOKED
+msgid "Helps head"
+msgstr "幫助腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREEN_MUSHROOM.GENERIC
+msgid "Green mushy"
+msgstr "綠油油的小蘑菇"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREEN_MUSHROOM.INGROUND
+msgid "Hiding"
+msgstr "躲起來啦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREEN_MUSHROOM.PICKED
+msgid "Gone"
+msgstr "沒有了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GUACAMOLE
+msgid "Cute!"
+msgstr "可愛！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GUNPOWDER
+msgid "BOOM!"
+msgstr "嘣！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMBAT
+msgid "Twirly Tail Whacker"
+msgstr "卷尾巴做的敲打器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAMMER
+msgid "Smasher"
+msgstr "好棒啊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HAWAIIANSHIRT
+msgid "Breezy"
+msgstr "涼颼颼的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEALINGSALVE
+msgid "Boo Boo Gloop"
+msgstr "Boo Boo Gloop"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEATROCK.COLD
+msgid "Cold"
+msgstr "涼涼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEATROCK.FROZEN
+msgid "Brrrr..."
+msgstr "啊..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEATROCK.HOT
+msgid "Yeeouch!"
+msgstr "Yeeouch!"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEATROCK.WARM
+msgid "Warm"
+msgstr "暖暖的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOMESIGN.BURNT
+msgid "(sigh)"
+msgstr "(嘆氣)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HONEY
+msgid "Buzz Juice"
+msgstr "嗡嗡們的果汁"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HONEYCOMB
+msgid "From Buzz home"
+msgstr "來自嗡嗡的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HONEYHAM
+msgid "Poor Twirly Tail..."
+msgstr "可憐的卷尾巴..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HONEYNUGGETS
+msgid "Buzz Juice and Twirly Tails"
+msgstr "嗡嗡果汁和卷尾巴"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HORN
+msgid "Branch?"
+msgstr "樹枝？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOTCHILI
+msgid "Hot! It's hot!"
+msgstr "燙！太燙了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOUND
+msgid "Woofer! Woof! Woof!"
+msgstr "汪汪獸！汪汪！汪汪！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOUNDBONE
+msgid "Sharp!"
+msgstr "真鋒利！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOUNDMOUND
+msgid "Woofers around?"
+msgstr "汪汪獸們來了？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICEBOX
+msgid "Keeps belly stuff cold"
+msgstr "給填肚子的東東保持低溫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICEHAT
+msgid "Cool hat!"
+msgstr "酷酷的帽子！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICEHOUND
+msgid "Brrr Woofer"
+msgstr "冷冰冰的汪汪獸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.INSANITYROCK.ACTIVE
+msgid "Ow. Hurts head..."
+msgstr "噢，真傷腦袋..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.INSANITYROCK.INACTIVE
+msgid "Hiding"
+msgstr "藏起來了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.JAMMYPRESERVES
+msgid "Sweet belly stuff"
+msgstr "甜甜的填飽肚子的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KILLERBEE.GENERIC
+msgid "Bad Buzz! Bad!"
+msgstr "壞壞的嗡嗡！壞壞的！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KILLERBEE.HELD
+msgid "Needs home"
+msgstr "他需要回家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KNIGHT
+msgid "Neigh machine"
+msgstr "發出馬嘶聲的機器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KNIGHT_NIGHTMARE
+msgid "Busted"
+msgstr "抓到你了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KOALEFANT_SUMMER
+msgid "Bruamp! Bruamp!"
+msgstr "布啊噗！布啊噗！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KOALEFANT_WINTER
+msgid "Bruamp! Bruamp!"
+msgstr "布啊噗！布啊噗！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KRAMPUS
+msgid "Mean Branch Head"
+msgstr "破舊的樹枝腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KRAMPUS_SACK
+msgid "Full of stuff?"
+msgstr "裝滿了東西？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LANTERN
+msgid "Carry light"
+msgstr "它裝滿了光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE
+msgid "Too hot!"
+msgstr "太燙了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_EGG.GENERIC
+msgid "Baby Patuey Fly"
+msgstr "小蒼蠅"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_EGG_CRACKED.COLD
+msgid "Too cold!"
+msgstr "太冷了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_EGG_CRACKED.COMFY
+msgid "Warm inside"
+msgstr "裡面暖暖的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_PET.CONTENT
+msgid "Happy"
+msgstr "開心"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_PET.GENERIC
+msgid "Hot!"
+msgstr "燙！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_PET.HUNGRY
+msgid "Hungry?"
+msgstr "餓了么？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_PET.STARVING
+msgid "Needs ashes"
+msgstr "需要灰燼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVAE_TOOTH
+msgid "Patuey Fly is teething?"
+msgstr "鬆軟的蒼蠅是長牙的嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVASPIT.COOL
+msgid "Cooled down"
+msgstr "涼了下來"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVASPIT.HOT
+msgid "Yeouch!"
+msgstr "呀啊！疼！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND
+msgid "Earth Blood. Hot!"
+msgstr "地球的血液！好燙！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK2
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK3
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK4
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK5
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK6
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LAVA_POND_ROCK7
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LEIF
+msgid "Hello!... Hello?"
+msgstr "你好呀！。。有人嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LEIF_SPARSE
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LICHEN
+msgid "Rock belly stuff"
+msgstr "石頭上的食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTBULB
+msgid "Glowy food"
+msgstr "閃亮的食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTER
+msgid "Fire box!"
+msgstr "著火的箱子！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTNINGGOAT.CHARGED
+msgid "Yaaah!"
+msgstr "呀——！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTNINGGOAT.GENERIC
+msgid "Lovely head branches"
+msgstr "可愛的頭頂分叉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTNINGGOATHORN
+msgid "From Twirly Branch Head"
+msgstr "來自螺旋頭頂分叉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTNING_ROD.CHARGED
+msgid "Zzzzt! Zzzzt!"
+msgstr "滋滋！滋滋！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIGHTNING_ROD.GENERIC
+msgid "Zzzzt Stick"
+msgstr "滋啦響的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIVINGLOG
+msgid "Friend. Nice friend"
+msgstr "朋友，好朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LIVINGTREE
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOG.BURNING
+msgid "AAAHHHHHH!"
+msgstr "啊啊啊——！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LOG.GENERIC
+msgid "Sorry. So sorry"
+msgstr "對不起，真對不起"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LUREPLANT
+msgid "Careful!"
+msgstr "當心！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LUREPLANTBULB
+msgid "For dirt"
+msgstr "種在土裡"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MALE_PUPPET
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MANDRAKESOUP
+msgid "Sleepytime soup"
+msgstr "睡前一湯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARBLE
+msgid "Solid"
+msgstr "很堅固"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_BUSH.BURNING
+msgid "AGGGH!!!"
+msgstr "啊！！！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_BUSH.GENERIC
+msgid "Twisty friend"
+msgstr "彎折的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_BUSH.PICKED
+msgid "Keep growing!"
+msgstr "持續生長！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_PLANT
+msgid "Hello, little guy"
+msgstr "你好，小傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_TREE.BURNING
+msgid "YAAAAAAHH!"
+msgstr "呀——！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_TREE.BURNT
+msgid "Oh"
+msgstr "噢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_TREE.CHOPPED
+msgid "(sob)"
+msgstr "(抽泣)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARSH_TREE.GENERIC
+msgid "Sleeping. Shh..."
+msgstr "在睡覺。噓..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELL
+msgid "Not friend"
+msgstr "不是朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLHEAD
+msgid "Not friend head"
+msgstr "不是朋友的頭顱"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLLIGHT
+msgid "Bright rock"
+msgstr "閃亮的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLLOCK
+msgid "Needs key"
+msgstr "需要鑰匙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLPHONOGRAPH
+msgid "Can't dance to it"
+msgstr "不能跟著它起舞"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MAXWELLTHRONE
+msgid "Smells bad"
+msgstr "聞起來很糟糕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEAT
+msgid "For belly"
+msgstr "食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATBALLS
+msgid "Balls of belly stuff"
+msgstr "填飽肚子的球"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.BURNT
+msgid "Oh"
+msgstr "噢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.DONE
+msgid "Done"
+msgstr "好了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.DRYING
+msgid "Getting unwet"
+msgstr "正在變干"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.DRYINGINRAIN
+msgid "Rain can't help"
+msgstr "雨水不能幫忙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEATRACK.GENERIC
+msgid "Takes out wet"
+msgstr "去除水分"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MEAT_DRIED
+msgid "Dried up belly stuff"
+msgstr "晾乾的食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MERM
+msgid "Glub Glub Man"
+msgstr "噗嚕噗嚕的人"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MERMHEAD.BURNT
+msgid "Just ashes"
+msgstr "只是灰燼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MERMHEAD.GENERIC
+msgid "Rotten"
+msgstr "腐爛了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MERMHOUSE.GENERIC
+msgid "Glub Glub Man home"
+msgstr "噗嚕噗嚕的人的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINERHAT
+msgid "Fits"
+msgstr "很合適"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINISIGN.GENERIC
+msgid "Pretty picture"
+msgstr "漂亮的畫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINISIGN.UNDRAWN
+msgid "Needs pretty picture"
+msgstr "需要漂亮的畫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINISIGN_ITEM
+msgid "Needs ground"
+msgstr "需要地面"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINOTAUR
+msgid "Don't want to fight!"
+msgstr "不想戰鬥！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINOTAURHORN
+msgid "Ouch!"
+msgstr "哎喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOLE.ABOVEGROUND
+msgid "Smelly Digger!"
+msgstr "難聞的挖掘者！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOLE.HELD
+msgid "It's wiggling"
+msgstr "它在扭動著"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOLE.UNDERGROUND
+msgid "Smelly Digger is hiding"
+msgstr "難聞的挖掘者藏起來了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOLEHAT
+msgid "A Smelly Digger hat"
+msgstr "一頂用難聞的挖掘者做的帽子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MONKEY
+msgid "Cheeky"
+msgstr "厚顏無恥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MONKEYBARREL
+msgid "Full of Cheekies"
+msgstr "滿是厚顏無恥的傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MONSTERLASAGNA
+msgid "For belly?"
+msgstr "食物？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MONSTERMEAT
+msgid "Belly stuff?"
+msgstr "食物原料？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MONSTERMEAT_DRIED
+msgid "Hmmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOONROCKNUGGET
+msgid "Piece of Night Ball"
+msgstr "夜空圓球的一部分"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOOSEEGG
+msgid "Tweeter inside"
+msgstr "嘰喳怪在裡面"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOOSE_NESTING_GROUND
+msgid "Sticks!"
+msgstr "球棍！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOSQUITO.GENERIC
+msgid "Bzzt"
+msgstr "滋滋滋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOSQUITO.HELD
+msgid "It's bzzt-ing"
+msgstr "它在滋滋滋叫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOSQUITOSACK
+msgid "Bzzt Bum"
+msgstr "滋滋滋的屁股"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOUND.DUG
+msgid "Dug up"
+msgstr "挖出"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOUND.GENERIC
+msgid "Dirt hill"
+msgstr "土丘"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTLIGHT
+msgid "Glowy"
+msgstr "發光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMAREFUEL
+msgid "Dark Floaty Man"
+msgstr "暗暗的漂浮人"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
+msgid "Quiet now"
+msgstr "現在很安靜"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
+msgid "Whew"
+msgstr "喲"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
+msgid "Safe here"
+msgstr "這裡很安全"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
+msgid "Bad! Really bad!"
+msgstr "糟糕！太糟糕了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
+msgid "Getting better"
+msgstr "變得好點了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
+msgid "Something happening..."
+msgstr "一些事情正在發生..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING
+msgid "Getting scary"
+msgstr "正在變得可怕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTSTICK
+msgid "A Light Ball Stick"
+msgstr "一根帶燈泡的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTSWORD
+msgid "Dark Floaty Swoosh Stick"
+msgstr "暗暗漂浮嘩嘩作響的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NITRE
+msgid "Pow Rock"
+msgstr "「砰」的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ONEMANBAND
+msgid "Boom! Boom! Crash!"
+msgstr "咚！咚！鏘！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ORANGEAMULET
+msgid "Picker Upper"
+msgstr "拾撿工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANDORASCHEST
+msgid "Stuff!"
+msgstr "財物！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PENGUIN
+msgid "Woddle Woddle"
+msgstr "搖搖擺擺"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PERD
+msgid "Hidey Tweeter"
+msgstr "隱蔽的嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PEROGIES
+msgid "Good belly stuff"
+msgstr "好吃的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PETALS
+msgid "Smells good"
+msgstr "聞起來不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PHLEGM
+msgid "Hork"
+msgstr "噴吐"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PICKAXE
+msgid "Pokey"
+msgstr "細長的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGGYBACK
+msgid "Carries stuff"
+msgstr "搬東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHEAD.BURNT
+msgid "Ashes"
+msgstr "灰燼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHEAD.GENERIC
+msgid "Rot inside"
+msgstr "裡面是腐爛物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHOUSE.FULL
+msgid "Hello?"
+msgstr "你好？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHOUSE.GENERIC
+msgid "Twirly Tail home"
+msgstr "卷尾巴的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHOUSE.LIGHTSOUT
+msgid "Twirly Tail not home"
+msgstr "卷尾巴不在家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGKING
+msgid "Twirly Tail Boss"
+msgstr "卷尾巴的老大"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGMAN.DEAD
+msgid "Aww..."
+msgstr "噢..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGMAN.FOLLOWER
+msgid "Twirly Tail friend"
+msgstr "卷尾巴朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGMAN.GENERIC
+msgid "Hello Twirly Tail!"
+msgstr "你好，卷尾巴！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGMAN.WEREPIG
+msgid "Twirly Tail Woofer"
+msgstr "卷尾巴里的汪汪獸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGSKIN
+msgid "Twirly Tail Bum"
+msgstr "卷尾巴的屁股"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGTORCH
+msgid "Hello! Hello! Hello! Hello!"
+msgstr "你好！你好！你好！你好！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANTMEAT
+msgid "Meat from dirt"
+msgstr "土裡長出的肉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANTMEAT_COOKED
+msgid "Good for belly"
+msgstr "飽腹的好東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANT_NORMAL.GENERIC
+msgid "Dirt stuff for belly"
+msgstr "吃進肚裡的髒東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANT_NORMAL.GROWING
+msgid "Almost there!"
+msgstr "就快要好了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANT_NORMAL.READY
+msgid "Thank you, dirt!"
+msgstr "謝謝你，土地！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PLANT_NORMAL.WITHERED
+msgid "Sick?"
+msgstr "生病了？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POMEGRANATE_COOKED
+msgid "Good belly stuff"
+msgstr "飽腹的好東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POMEGRANATE_SEEDS
+msgid "Needs dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POND
+msgid "Big puddle"
+msgstr "大水坑"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POTTEDFERN
+msgid "Stay. Good boy"
+msgstr "別動，乖孩子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POWCAKE
+msgid "Ka-pow!"
+msgstr "喀-嘣！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PUMPKIN
+msgid "Good for belly"
+msgstr "飽腹的好東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PUMPKINCOOKIE
+msgid "Belly wants it"
+msgstr "肚子想要這個"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PUMPKIN_COOKED
+msgid "Slurpy"
+msgstr "好吃"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PUMPKIN_LANTERN
+msgid "Spooky..."
+msgstr "毛骨悚然..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PUMPKIN_SEEDS
+msgid "For dirt"
+msgstr "種在土裡"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PURPLEGEM
+msgid "Shiny"
+msgstr "閃閃發光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBIT.GENERIC
+msgid "Bouncy Squee Hopper"
+msgstr "彈彈跳跳又尖叫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBIT.HELD
+msgid "So soft"
+msgstr "好柔軟"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBITHOLE.GENERIC
+msgid "Bouncy Squee Hopper home?"
+msgstr "彈跳又尖叫的家？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBITHOLE.SPRING
+msgid "Where'd they go?"
+msgstr "他們都去哪了？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBITHOUSE.GENERIC
+msgid "Big Squee Hopper home"
+msgstr "大彈跳的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RAINOMETER.GENERIC
+msgid "Rain?"
+msgstr "雨？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RATATOUILLE
+msgid "Belly party!"
+msgstr "肚子的派對！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RAZOR
+msgid "Sharp"
+msgstr "鋒利的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REDGEM
+msgid "Red Shiny"
+msgstr "閃爍紅光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REDLANTERN
+msgid "Pretty light"
+msgstr "漂亮的燈光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RED_CAP_COOKED
+msgid "Hurts head"
+msgstr "傷害腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RED_MUSHROOM.GENERIC
+msgid "Squishy friend"
+msgstr "又軟又濕的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RED_MUSHROOM.INGROUND
+msgid "Hiding"
+msgstr "藏起來了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RED_MUSHROOM.PICKED
+msgid "Gone"
+msgstr "沒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REEDS.BURNING
+msgid "Save them!"
+msgstr "救救他們！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REEDS.GENERIC
+msgid "Water friends"
+msgstr "水裡的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REEDS.PICKED
+msgid "Keep growing"
+msgstr "繼續生長"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RELIC.BROKEN
+msgid "Broken"
+msgstr "壞了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RELIC.GENERIC
+msgid "Old"
+msgstr "古老"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB.GENERIC
+msgid "Makes more things!"
+msgstr "製作更多東西！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB2.BURNT
+msgid "Too bad"
+msgstr "太壞了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB2.GENERIC
+msgid "More things to make!"
+msgstr "要製作更多的東西！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB3.BURNT
+msgid "Gone"
+msgstr "沒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB3.GENERIC
+msgid "More magics"
+msgstr "更多魔法"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESURRECTIONSTONE
+msgid "Life Rock"
+msgstr "生命石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROBIN.GENERIC
+msgid "Red Tweeter"
+msgstr "紅嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROBIN.HELD
+msgid "Needs home"
+msgstr "需要一個家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROBIN_WINTER.GENERIC
+msgid "Snow Tweeter"
+msgstr "雪嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROBIN_WINTER.HELD
+msgid "Needs home"
+msgstr "需要一個家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROBOT_PUPPET
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCKS
+msgid "Rocks"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_ICE.GENERIC
+msgid "Big, cold rock"
+msgstr "又大又冷的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_LIGHT.GENERIC
+msgid "Dirt is bleeding"
+msgstr "土地在流血"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_LIGHT.LOW
+msgid "Healing"
+msgstr "正在療傷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_LIGHT.NORMAL
+msgid "Earth blood"
+msgstr "地球的血液"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_LIGHT.OUT
+msgid "All better"
+msgstr "完全恢復"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROOK
+msgid "Rock machine"
+msgstr "石頭機器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROOK_NIGHTMARE
+msgid "Run down"
+msgstr "停下來"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROTTENEGG
+msgid "Smells good!"
+msgstr "聞起來不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RUBBLE
+msgid "Rocks"
+msgstr "岩石"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RUINS_BAT
+msgid "Old Rock Whacker"
+msgstr "古老石制敲擊工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SADDLE_BASIC
+msgid "Shaggy Buddy Sitting Thing"
+msgstr "坐上一個毛絨絨的夥伴的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SADDLE_WAR
+msgid "Shaggy Buddy Fight Thing"
+msgstr "與毛絨絨的夥伴一同戰鬥的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SANITYROCK.ACTIVE
+msgid "Helps head"
+msgstr "幫助腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SANITYROCK.INACTIVE
+msgid "Hiding"
+msgstr "藏起來了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SAPLING.BURNING
+msgid "NOOO!"
+msgstr "不——！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SAPLING.PICKED
+msgid "Keep growing, friend!"
+msgstr "繼續生長吧，朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SAPLING.WITHERED
+msgid "Poor friend"
+msgstr "可憐的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEEDS
+msgid "Wants dirt"
+msgstr "需要泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEEDS_COOKED
+msgid "Mmmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SEWING_KIT
+msgid "Fixey kit"
+msgstr "修理包"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SHOVEL
+msgid "Digger"
+msgstr "挖掘工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SIESTAHUT.BURNT
+msgid "No more naptime"
+msgstr "沒有更多的午睡時間了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SIESTAHUT.GENERIC
+msgid "Nap time?"
+msgstr "午睡時間？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SILK
+msgid "Soft"
+msgstr "很柔軟"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SKELETON
+msgid "Still alive?"
+msgstr "還活著嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SKULLCHEST
+msgid "Stuff inside"
+msgstr "裡面有東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURPER
+msgid "Furry Head Eater"
+msgstr "毛茸茸的腦袋吸食者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURTLE
+msgid "Shy Spiky Shell"
+msgstr "害羞的尖貝殼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURTLEHOLE
+msgid "Spiky Shell home"
+msgstr "尖貝殼的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURTLESLIME
+msgid "For hungry machines"
+msgstr "可以潤滑機器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURTLE_SHELLPIECES
+msgid "Spiky Shell bits"
+msgstr "鋒利的尖貝殼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLBIRD.HUNGRY
+msgid "Hungry?"
+msgstr "餓了嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLMEAT_DRIED
+msgid "Chewy"
+msgstr "不易嚼碎"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SNURTLE
+msgid "Not Spiky Shell"
+msgstr "不是尖貝殼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPAT
+msgid "Horkbeast"
+msgstr "吐痰野獸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPEAR
+msgid "Sharp stick"
+msgstr "鋒利的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPEAR_WATHGRITHR
+msgid "Sharp"
+msgstr "鋒利的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER.DEAD
+msgid "Oh"
+msgstr "噢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER.GENERIC
+msgid "Leggy Bug"
+msgstr "腿細長的蟲子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER.SLEEPING
+msgid "Shh..."
+msgstr "噓..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERDEN
+msgid "Home for Leggy Bugs"
+msgstr "細長腿兒蟲子的窩"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDEREGGSACK
+msgid "Leggy Bug Babies inside"
+msgstr "細長腿兒蟲子的寶寶在裡面"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERGLAND
+msgid "Good for heart"
+msgstr "對心臟有好處"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERHAT
+msgid "Leggy Bug head thing"
+msgstr "細長腿兒蟲子頭上的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERHOLE
+msgid "Something hiding?"
+msgstr "有東西藏在裡面？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_DROPPER
+msgid "Aggh! Scary!"
+msgstr "啊！太嚇人了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_HIDER
+msgid "Shy?"
+msgstr "害羞？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_SPITTER
+msgid "Patuey!"
+msgstr "噁心！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.DEAD
+msgid "Oh"
+msgstr "哦"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.GENERIC
+msgid "Angry Leggy Bug"
+msgstr "憤怒的細腿兒蟲子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.SLEEPING
+msgid "Sleepytime"
+msgstr "睡覺時間"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FOOD
+msgid "Yum"
+msgstr "好吃"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_MEDIUM
+msgid "So cute!"
+msgstr "太可愛了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_MEDIUM_INV
+msgid "Coochy-coo!"
+msgstr "酷！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_SMALL
+msgid "Hey little guys!"
+msgstr "你們好，小傢伙兒們！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_SMALL_INV
+msgid "Safe now"
+msgstr "現在安全了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_TALL
+msgid "Where you going?"
+msgstr "你要去哪？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_TALL_INV
+msgid "Glowing babies"
+msgstr "發光的嬰兒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STAFF_TORNADO
+msgid "Makes big winds!"
+msgstr "製造大風吧！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE
+msgid "Rocks"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_FULL
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_LOW
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_MED
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_TALL
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_TALL_FULL
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_TALL_LOW
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STALAGMITE_TALL_MED
+msgid "Rock"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STATUEGLOMMER.EMPTY
+msgid "Gone"
+msgstr "沒了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STATUEHARP
+msgid "Where'd head go?"
+msgstr "它的頭去哪裡了？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STATUEMAXWELL
+msgid "Alive?"
+msgstr "還活著嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STEELWOOL
+msgid "Horkbeast clothes"
+msgstr "吐痰野獸的外衣"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STINGER
+msgid "Youchy!"
+msgstr "好痛！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STRAWHAT
+msgid "Friend hat"
+msgstr "朋友的帽子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SWEATERVEST
+msgid "Warm"
+msgstr "很溫暖"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TAFFY
+msgid "Chewy goo"
+msgstr "黏黏的很耐嚼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRD
+msgid "Big Eye Tweeter"
+msgstr "大眼睛的嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG
+msgid "Eye Tweeter inside?"
+msgstr "大眼睛的嘰喳怪在裡面嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_COOKED
+msgid "For belly"
+msgstr "為了填飽肚子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
+msgid "Needs warm"
+msgstr "需要溫暖"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
+msgid "Too hot!"
+msgstr "太熱了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
+msgid "(yawn)"
+msgstr "(打哈欠）"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
+msgid "Tweeter coming soon!"
+msgstr "嘰喳怪就快來了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDNEST.GENERIC
+msgid "Tweet! Tweet!"
+msgstr "嘰嘰嘰！喳喳喳！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDNEST.PICKED
+msgid "Eye Tweeter sticks"
+msgstr "大眼睛嘰喳怪的巢穴"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TEENBIRD.GENERIC
+msgid "Eye Tweeter is growing!"
+msgstr "小眼睛的嘰喳怪正在長大！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TEENBIRD.HUNGRY
+msgid "Hungry?"
+msgstr "餓了嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TEENBIRD.STARVING
+msgid "Needs belly stuff"
+msgstr "需要點食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEBASE.VALID
+msgid "Ready"
+msgstr "準備好了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_BASE.ACTIVE
+msgid "Open"
+msgstr "開啟"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_BASE.GENERIC
+msgid "Hmm..."
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_BASE.LOCKED
+msgid "Key?"
+msgstr "鑰匙？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_BOX
+msgid "Box"
+msgstr "盒子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_CRANK
+msgid "Crank"
+msgstr "曲柄"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_POTATO
+msgid "Thing"
+msgstr "一個東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_RING
+msgid "Ring"
+msgstr "戒指"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.GENERIC
+msgid "Little home"
+msgstr "一個小家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLE
+msgid "Arms from the dirt"
+msgstr "泥土中出來的手臂"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLESPIKE
+msgid "Spiky Whacker"
+msgstr "尖銳巨重的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLE_GARDEN
+msgid "Sleeping"
+msgstr "休眠中"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLE_PILLAR
+msgid "Sleeping"
+msgstr "休眠中"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLE_PILLAR_ARM
+msgid "Little Dirt Arms"
+msgstr "小小的泥土中的胳膊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLE_PILLAR_HOLE
+msgid "Hello?"
+msgstr "你好？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITE_PIECES
+msgid "Old rocks"
+msgstr "古老的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TOPHAT
+msgid "Soft head thing"
+msgstr "柔軟的頭上的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TORCH
+msgid "Fire Stick"
+msgstr "著火的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRAILMIX
+msgid "Belly stuff for belly"
+msgstr "填飽我肚子的填充物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRANSISTOR
+msgid "It's humming! Hummm..."
+msgstr "這個玩意發出滋滋的聲音..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRAP
+msgid "Snap!"
+msgstr "咔嚓！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRAP_BRAMBLE
+msgid "Friends made a trap!"
+msgstr "給我們的朋友設個圈套！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRAP_TEETH
+msgid "Hurty Spikes"
+msgstr "牙齒的尖刺很鋒利"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRAP_TEETH_MAXWELL
+msgid "Hurty Spikes"
+msgstr "尖刺很鋒利"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREASURECHEST.BURNT
+msgid "(sigh)"
+msgstr "(嗚呼)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREASURECHEST.GENERIC
+msgid "Stuff!"
+msgstr "塞滿它！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREASURECHEST_TRAP
+msgid "Hmm..."
+msgstr "蛤..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TREECLUMP
+msgid "Party!"
+msgstr "派對！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_1
+msgid "Swirly rocks"
+msgstr "有漩渦狀的岩石"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_10
+msgid "Chatters"
+msgstr "喋喋不休"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_11
+msgid "Hello!"
+msgstr "你好！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_12
+msgid "Sticky"
+msgstr "粘稠的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_2
+msgid "Hummm..."
+msgstr "呃呣呣..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_3
+msgid "Twisty string"
+msgstr "捻成線"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_5
+msgid "Pakow!"
+msgstr "砰！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_6
+msgid "Zzzt"
+msgstr "滋滋滋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_7
+msgid "Wood?"
+msgstr "木製的？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_8
+msgid "Pretty"
+msgstr "漂亮"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_9
+msgid "Rocks?"
+msgstr "石制的？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRUNKVEST_SUMMER
+msgid "Cool"
+msgstr "酷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRUNKVEST_WINTER
+msgid "Warm"
+msgstr "溫暖"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRUNK_COOKED
+msgid "For belly?"
+msgstr "為了吃飽？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRUNK_SUMMER
+msgid "Bruamp nose"
+msgstr "考拉象的鼻子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRUNK_WINTER
+msgid "Bruamp nose"
+msgstr "考拉象的鼻子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TUMBLEWEED
+msgid "Come back!"
+msgstr "快給我回來！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_BADLANDS
+msgid "Dirt"
+msgstr "泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_CARPETFLOOR
+msgid "Not dirt"
+msgstr "不是泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_CAVE
+msgid "Rocky"
+msgstr "石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_CHECKERFLOOR
+msgid "Not dirt"
+msgstr "不是泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_DECIDUOUS
+msgid "Nice dirt"
+msgstr "好棒的泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_DESERTDIRT
+msgid "Sand"
+msgstr "沙子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_DIRT
+msgid "Dirt!"
+msgstr "泥土！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_FOREST
+msgid "Dirt!"
+msgstr "泥土！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_FUNGUS
+msgid "Mushy"
+msgstr "糊糊的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_FUNGUS_GREEN
+msgid "Squishy"
+msgstr "黏糊糊的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_FUNGUS_RED
+msgid "Squashy"
+msgstr "黏糊糊的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_GRASS
+msgid "Soft!"
+msgstr "柔軟！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_MARSH
+msgid "Squishy"
+msgstr "黏糊糊的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_MUD
+msgid "Sticky"
+msgstr "黏黏的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_ROAD
+msgid "Not dirt"
+msgstr "不是泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_ROCKY
+msgid "Not dirt"
+msgstr "不是泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SANDY
+msgid "Sandy"
+msgstr "沙子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SAVANNA
+msgid "Full of friends"
+msgstr "到處都是朋友呢"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_SINKHOLE
+msgid "Slimy"
+msgstr "黏糊糊的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_UNDERROCK
+msgid "Too rocky"
+msgstr "堅如磐石"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_WOODFLOOR
+msgid "Not dirt"
+msgstr "不是泥土"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UMBRELLA
+msgid "Rain Taker"
+msgstr "雨水遮蔽者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UNIMPLEMENTED
+msgid "Hmm..."
+msgstr "呣..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAFFLES
+msgid "Yum"
+msgstr "美味"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_HAY.GENERIC
+msgid "Wall of friends"
+msgstr "這牆是我的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_HAY_ITEM
+msgid "Hi, friends!"
+msgstr "嗨，朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_MOONROCK
+msgid "Hard"
+msgstr "堅硬"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_MOONROCK_ITEM
+msgid "For the ground"
+msgstr "為了保衛土地"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_RUINS
+msgid "Strong"
+msgstr "很強"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_RUINS_ITEM
+msgid "For the ground"
+msgstr "為了保衛土地"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_STONE
+msgid "Solid"
+msgstr "堅固的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_STONE_ITEM
+msgid "For the ground"
+msgstr "為了保衛土地"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_WOOD.GENERIC
+msgid "So many friends"
+msgstr "好多朋友啊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_WOOD_ITEM
+msgid "Friends!"
+msgstr "朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALRUS
+msgid "Grows mouth branches?"
+msgstr "你的嘴裡長的是樹枝嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALRUS_CAMP.EMPTY
+msgid "No one here"
+msgstr "這裡沒有人"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALRUS_TUSK
+msgid "Tooth branch"
+msgstr "嘴裡的樹枝"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WARDROBE.BURNING
+msgid "AGHHH!"
+msgstr "啊哈哈哈！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WARDROBE.BURNT
+msgid "Fire bad"
+msgstr "野蠻的火"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WASPHIVE
+msgid "Bad Buzz home"
+msgstr "一個很糟糕的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATERMELONHAT
+msgid "Watery head thing"
+msgstr "瓜到淋頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATERMELON_COOKED
+msgid "Slurpy"
+msgstr "煮爛了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELLJOURNAL
+msgid "Nope"
+msgstr "不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WETGOOP
+msgid "Yum"
+msgstr "美味"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTERHAT
+msgid "Looks good"
+msgstr "看起來很不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTEROMETER.GENERIC
+msgid "Warm? Cold?"
+msgstr "是暖和呢？還是冷呢？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM.DIRT
+msgid "Something hiding"
+msgstr "什麼東西藏在裡面"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM.PLANT
+msgid "Hmm... not safe"
+msgstr "呣...很不安全"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMHOLE.GENERIC
+msgid "Sharp hole"
+msgstr "有尖牙的洞"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMHOLE.OPEN
+msgid "Deep. Dark"
+msgstr "又深又黑"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMLIGHT
+msgid "Shiny..."
+msgstr "閃閃發光..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMLIGHT_LESSER
+msgid "Still good"
+msgstr "很好，沒有動起來"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMLIGHT_PLANT
+msgid "Hmm... not safe"
+msgstr "呣...很不安全"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWSTAFF
+msgid "Zoom Stick"
+msgstr "發光棒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE_GENERIC
+msgid "Friend?"
+msgstr "朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE_SMOLDERING
+msgid "Uh oh..."
+msgstr "呃哦..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE_TOODARK
+msgid "Where is light?"
+msgstr "光在哪裡？"
+
+#: STRINGS.CHARACTER_NAMES.wormwood
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#: STRINGS.CHARACTER_QUOTES.wormwood
+msgid "\"Hello friend?\""
+msgstr "\"你好，朋友？\""
+
+#: STRINGS.NAMES.ARMOR_BRAMBLE
+msgid "Bramble Husk"
+msgstr "荊棘外殼"
+
+#: STRINGS.NAMES.COMPOSTWRAP
+msgid "Compost Wrap"
+msgstr "肥料包"
+
+#: STRINGS.NAMES.TRAP_BRAMBLE
+msgid "Bramble Trap"
+msgstr "荊棘陷阱"
+
+#: STRINGS.RECIPE_DESC.ARMOR_BRAMBLE
+msgid "Nature's way of saying \"keep away\"."
+msgstr "讓大自然告訴你什麼叫\"滾開\"。"
+
+#: STRINGS.RECIPE_DESC.COMPOSTWRAP
+msgid "\"Herbal\" therapy."
+msgstr "\"草藥\" 治療。"
+
+#: STRINGS.RECIPE_DESC.LIVINGLOG
+msgid "Put yourself into your work."
+msgstr "用你的身體來代替你該乾的活吧。"
+
+#: STRINGS.WET_PREFIX.NONE
+msgid ""
+msgstr " "
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.BUILD.MOUNTED
+msgid "Not up here"
+msgstr "夠不到"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.CHANGEIN.BURNING
+msgid "Fire! Don't like fire!"
+msgstr "火！不喜歡火！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.COOK.GENERIC
+msgid "Can't cook now"
+msgstr "不能現在做飯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.COOK.TOOFAR
+msgid "Get closer. Not too close"
+msgstr "靠近點，不是太近"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.BUSY
+msgid "Busy"
+msgstr "忙著"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.GIVE.DEAD
+msgid "They are dead"
+msgstr "它們死了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATERMELONICLE
+msgid "Keeping cool, stick?"
+msgstr "保持冰冷，小棍子？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBERSKULL
+msgid "Oh. Oh dear"
+msgstr "哦。哦天啊"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORMHOLE_LIMITED
+msgid "Get well soon"
+msgstr "早日康復！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWAMULET
+msgid "Can go zoomy now!"
+msgstr "現在能夠發光了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWGEM
+msgid "Ohhh. Shiny..."
+msgstr "哦，閃閃發光..."
+
+#: STRINGS.CHARACTER_TITLES.wormwood
+msgid "The Lonesome"
+msgstr "寂寞者"
+
+#: STRINGS.RECIPE_DESC.TRAP_BRAMBLE
+msgid "An equal opportunity annoyer."
+msgstr "一個機會平等的煩惱玩意。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RAINOMETER.BURNT
+msgid "Ashes. Only ashes"
+msgstr "灰燼，只有灰燼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RED_CAP
+msgid "Yummy friend hat"
+msgstr "好吃的朋友的帽子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.REFLECTIVEVEST
+msgid "For the hot times"
+msgstr "為炎熱的日子而準備"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB.BURNT
+msgid "Fire hurts everything"
+msgstr "火傷害了所有東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK
+msgid "Rock. Hello"
+msgstr "石頭。你好"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCKY
+msgid "Rock Pinchy"
+msgstr "石頭夾剪兒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_ICE.MELTED
+msgid "Water now"
+msgstr "現在是水"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_ICE_MELTED
+msgid "Water now"
+msgstr "現在是水"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROCK_MOON
+msgid "Night Ball inside?"
+msgstr "夜空圓球的內在？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RUINSHAT
+msgid "Weighs down head"
+msgstr "重壓著腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RUINS_RUBBLE
+msgid "Can fix it?"
+msgstr "它能修嗎？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SADDLEHORN
+msgid "Sitting Thing Getter Offer"
+msgstr "提供坐著的地方"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SALTLICK
+msgid "Lick rock. For Shaggy Buddy"
+msgstr "可以舔的石頭，給毛茸茸的夥伴的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STAFFLIGHT
+msgid "Bright!! Very bright!"
+msgstr "明亮！！非常明亮！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STATUEGLOMMER.GENERIC
+msgid "That you, nice friend?"
+msgstr "是你嗎，好朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.STUFFEDEGGPLANT
+msgid "Stuffed belly stuff"
+msgstr "填肚子的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEBASE.GEMS
+msgid "Needs Purple Shiny"
+msgstr "需要紫色閃光"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENT.BURNT
+msgid "Turned to ash"
+msgstr "化作灰燼了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.THULECITE
+msgid "Rocks from old times"
+msgstr "從舊時代來的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURF_DRAGONFLY
+msgid "Fire can't come here!"
+msgstr "火到不了這裡！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TURKEYDINNER
+msgid "Lots of belly stuff"
+msgstr "這麼多填飽肚子的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TWIGS
+msgid "Little friends! Hi!"
+msgstr "小個子朋友！嗨！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_HAY.BURNT
+msgid "Bye bye, friends"
+msgstr "拜拜，朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CORN
+msgid "Tiny seeds good for belly"
+msgstr "好吃的小種子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONFRUIT_SEEDS
+msgid "Grows the pretty fruit"
+msgstr "長出漂亮的水果"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRUMSTICK
+msgid "Not friend stick"
+msgstr "不是棍子朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRUMSTICK_COOKED
+msgid "A stick for belly"
+msgstr "填飽肚子的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EGGPLANT_SEEDS
+msgid "Grows the purple belly stuff"
+msgstr "種出來可以吃的紫色東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYETURRET_ITEM
+msgid "Pew Pew rock"
+msgstr "biu biu石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHERHAT
+msgid "Tweeter disguise"
+msgstr "嘰喳怪的偽裝品"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FISH_COOKED
+msgid "Watch for bones"
+msgstr "小心魚刺"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWERSALAD
+msgid "Want to eat it"
+msgstr "迫不及待想去吃掉它了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FURTUFT
+msgid "Molt (sniff sniff) Smells good"
+msgstr "毛(嗅嗅)聞起來不錯"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GEMSOCKET.GEMS
+msgid "Where shiny things?"
+msgstr "發光的東西在哪？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOMMERFLOWER.DEAD
+msgid "Poor friend..."
+msgstr "可憐的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GRASS_UMBRELLA
+msgid "Friend hair keeps rain away"
+msgstr "朋友的毛髮讓我保持乾燥"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GREENAMULET
+msgid "Helps for building"
+msgstr "幫我們建造東西的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOUNDSTOOTH
+msgid "Sharp. Ouch!"
+msgstr "好尖呀，嗷!"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICE
+msgid "Cold. Really cold"
+msgstr "冷冷的，真的好冷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICECREAM
+msgid "Keeps belly cold"
+msgstr "讓肚子保持冰冷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICEPACK
+msgid "Not good for rot"
+msgstr "不利於腐爛"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MANRABBIT_TAIL
+msgid "Fluffy. And soft"
+msgstr "毛茸茸又柔軟"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MERMHOUSE.BURNT
+msgid "Fire is bad"
+msgstr "火永遠是糟糕的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MINOTAURCHEST
+msgid "Lots of stuff!"
+msgstr "好多東西!"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOLEHILL
+msgid "You okay, dirt?"
+msgstr "你還好嗎，小土堆？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.INUSE
+msgid "Someone else's"
+msgstr "是別人的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.SHAVE.GENERIC
+msgid "Hmmm... Can't do"
+msgstr "嗯...不能這麼做"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.STORE.NOTALLOWED
+msgid "Why can't it go?"
+msgstr "為什麼不能進去？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.TEACH.KNOWN
+msgid "Know that already"
+msgstr "已經了解那個了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_ENTER_DARK
+msgid "Too dark"
+msgstr "太黑了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_UNIMPLEMENTED
+msgid "Can't do it"
+msgstr "不能那麼做"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET
+msgid "Jumpy pocket"
+msgstr "幾乎跳出口袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ABIGAIL_FLOWER.SOON
+msgid "Ready!"
+msgstr "準備好了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ACORN_COOKED
+msgid "For belly now"
+msgstr "現在，為了肚子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.AMULET
+msgid "Yay! More life!"
+msgstr "耶！更多生命！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANCIENT_ALTAR_BROKEN
+msgid "Broken. Needs old stones"
+msgstr "碎掉了，需要一些古老的石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORDRAGONFLY
+msgid "Fire Keeper Outer"
+msgstr "讓火遠離"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORRUINS
+msgid "Heavy clothes"
+msgstr "衣服好重"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.AXE
+msgid "Hurts friends (sob)"
+msgstr "傷害朋友們(抽泣)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BACKPACK
+msgid "For more things carrying"
+msgstr "為了裝更多東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BAT
+msgid "Flying Claws!"
+msgstr "飛行的爪子！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BATBAT
+msgid "Flying Claw Whacker"
+msgstr "飛行爪子敲打工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BATWING_COOKED
+msgid "Little chewy. And claw-y"
+msgstr "有點難嚼，還有爪-子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEARGER
+msgid "Mad Molter"
+msgstr "憤怒的掉毛怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEARGERVEST
+msgid "Warm. Cozy"
+msgstr "溫暖，舒適"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEDROLL_FURRY
+msgid "Furry for sleepytime"
+msgstr "毛茸茸的睡眠時間"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEBOX.BURNT
+msgid "Fire breaks everything"
+msgstr "火焰摧毀一切"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEFALO.SLEEPING
+msgid "Shh... Don't wake it"
+msgstr "噓...別吵醒它"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRIES
+msgid "Tiny little belly fillers"
+msgstr "填肚子的微小東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRIES_COOKED
+msgid "Slurp!"
+msgstr "吸溜！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BERRYBUSH.PICKED
+msgid "Belly fillers will grow back"
+msgstr "填飽肚子的東西還會再長回來的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.DEAD
+msgid "Oh. Whoops"
+msgstr "哦，糟糕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLOWDART_PIPE
+msgid "Ptooey stick"
+msgstr "吹吹樂棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLOWDART_SLEEP
+msgid "Sleepytime Ptooey"
+msgstr "睡時吹吹樂"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUEAMULET
+msgid "Cold Neck Thing"
+msgstr "冰涼的項鏈"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUEGEM
+msgid "Makes the cold"
+msgstr "製造寒冷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUEPRINT
+msgid "Paper for stuff making"
+msgstr "畫著物品製作方法的紙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUE_CAP
+msgid "Hurts head. Ow!"
+msgstr "傷害腦袋，哎喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BLUE_CAP_COOKED
+msgid "Helps head. Ahhh..."
+msgstr "幫助大腦，啊啊..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESHARD
+msgid "Sharp. Ouch!"
+msgstr "真鋒利，哎呦！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BONESTEW
+msgid "Pot of lots of meat"
+msgstr "一大盆肉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUTTER
+msgid "Where are wings?"
+msgstr "翅膀在哪裡？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUTTERFLY.HELD
+msgid "Flappy"
+msgstr "飛舞吧"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUTTERFLYWINGS
+msgid "Can fly with it? No"
+msgstr "靠著它能飛起來？不可能的"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CACTUS_MEAT_COOKED
+msgid "Will eat it"
+msgstr "我會吃了它"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARROT_COOKED
+msgid "Tiny circles for belly"
+msgstr "填肚子的小圓圈"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARROT_PLANTED
+msgid "Nice growing! Keep going!"
+msgstr "長勢喜人啊！堅持下去吧！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARROT_SEEDS
+msgid "Makes the orange belly stuff"
+msgstr "製造出填飽肚子的橙色東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESTER
+msgid "Carries stuff. Thank you!"
+msgstr "儲物者，謝謝你！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOSSLING
+msgid "Why so hungry?"
+msgstr "為什麼這麼飢餓？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.NIGHTMARELIGHT
+msgid "Night light for scary times"
+msgstr "點亮驚懼時光的夜燈"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ORANGEGEM
+msgid "Helper Shiny"
+msgstr "幫手的光輝"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGHOUSE.BURNT
+msgid "Oh. Don't like fire"
+msgstr "噢，不喜歡火"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POND_ALGAE
+msgid "Nice day for a swim?"
+msgstr "適合游泳的好天氣？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PURPLEAMULET
+msgid "Brain Neck Thing"
+msgstr "有腦子的項鏈"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RABBITHOUSE.BURNT
+msgid "Bad fire! Bad!"
+msgstr "邪惡的火！太壞了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RAINCOAT
+msgid "Rain Taker Coat"
+msgstr "接雨的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RAINHAT
+msgid "Looks good?"
+msgstr "看起來不錯？"
+
+#: STRINGS.UI.CREDITS.NAMES.58
+msgid "Grace Kim"
+msgstr "Grace Kim"
+
+#: STRINGS.UI.CREDITS.NAMES.59
+msgid "Steven Miclette"
+msgstr "Steven Miclette"
+
+#: STRINGS.UI.CREDITS.NAMES.60
+msgid "Felix Hard"
+msgstr "Felix Hard"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORMWOOD
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CACTUS
+msgid "Oasis Bound Collection"
+msgstr "綠洲邊境藏品"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MUSHROOM
+msgid "Hollow Collection"
+msgstr "空洞藏品"
+
+#: STRINGS.SKIN_NAMES.pack_character_wormwood
+msgid "Wormwood Chest"
+msgstr "沃姆伍德寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_hamlet_wormwood
+msgid "Don't Starve: Wormwood"
+msgstr "饑荒：沃姆伍德"
+
+#: STRINGS.SKIN_NAMES.pack_wormwood_cactus
+msgid "Wormwood Oasis Bound Chest"
+msgstr "沃姆伍德綠洲邊境寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_wormwood_deluxe
+msgid "Wormwood Deluxe Chest"
+msgstr "沃姆伍德豪華寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_wormwood_deluxealt
+msgid "Wormwood Deluxe Wardrobe"
+msgstr "沃姆伍德豪華衣櫃"
+
+#: STRINGS.SKIN_NAMES.pack_wormwood_mushroom
+msgid "Wormwood Hollow Chest"
+msgstr "沃姆伍德空洞寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_wormwood_rose
+msgid "Wormwood Roseate Chest"
+msgstr "沃姆伍德玫瑰寶箱"
+
+#: STRINGS.SKIN_NAMES.wormwood_cactus
+msgid "The Oasis Bound"
+msgstr "綠洲邊境"
+
+#: STRINGS.SKIN_NAMES.wormwood_mushroom
+msgid "The Hollow"
+msgstr "空洞"
+
+#: STRINGS.SKIN_NAMES.wormwood_none
+msgid "Essential Wormwood"
+msgstr "基礎沃姆伍德"
+
+#: STRINGS.SKIN_NAMES.wormwood_rose
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#: STRINGS.SKIN_NAMES.wortox_minotaur
+msgid "The Minotaur"
+msgstr "牛頭人"
+
+#: STRINGS.SKIN_NAMES.hand_wormwood_cactus
+msgid "Oasis Bound Hands"
+msgstr "綠洲邊境雙手"
+
+#: STRINGS.SKIN_NAMES.legs_wormwood_cactus
+msgid "Oasis Bound Legs"
+msgstr "綠洲邊境雙腿"
+
+#: STRINGS.SKIN_NAMES.body_wormwood_cactus
+msgid "Oasis Bound Trunk"
+msgstr "綠州邊境樹榦"
+
+#: STRINGS.NAMES.BRAMBLEFX
+msgid "Thorns"
+msgstr "荊棘"
+
+#: STRINGS.NAMES.BURNABLE_LOCATOR_MEDIUM
+msgid "Boat"
+msgstr "船"
+
+#: STRINGS.NAMES.DUG_TRAP_STARFISH
+msgid "Anenemy Trap"
+msgstr "敵手陷阱"
+
+#: STRINGS.NAMES.OAR_DRIFTWOOD
+msgid "Driftwood Oar"
+msgstr "浮木船槳"
+
+#: STRINGS.NAMES.PLANT_NORMAL_GROUND
+msgid "Wild Crop"
+msgstr "野生作物"
+
+#: STRINGS.NAMES.TRAP_STARFISH
+msgid "Anenemy"
+msgstr "敵手"
+
+#: STRINGS.NAMES.WORMWOOD
+msgid "Wormwood"
+msgstr "沃姆伍德"
+
+#: STRINGS.UI.MAINSCREEN.MOTD_NEW_ANNOUNCEMENT
+msgid "New!"
+msgstr "新！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_formalp
+msgid "Willow prefers events that include bonfires or fireworks."
+msgstr "薇洛喜歡有篝火或者花火的活動。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_rosep
+msgid "Willow was always a bit prickly. Now she's just more so."
+msgstr "薇洛一向有些刺人，現在的她更是如此。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_shadowp
+msgid "Willow enjoys flickering flames of inky blackness."
+msgstr "薇洛相當享受閃爍的墨汁般黑暗的火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.willow_survivorp
+msgid "Willow is taming the wilderness with fire."
+msgstr "薇洛用火來征服荒野。"
+
+#: STRINGS.SKIN_QUOTES.wormwood_cactus
+msgid "\"Hug?\""
+msgstr "\"抱？\""
+
+#: STRINGS.SKIN_QUOTES.wormwood_mushroom
+msgid "\"Cave lonely\""
+msgstr "\"洞穴的孤獨\""
+
+#: STRINGS.SKIN_QUOTES.wormwood_rose
+msgid "\"Feel big fancy\""
+msgstr "\"感覺大大的好\""
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WES.GHOST
+msgid "How do you say \"I'll get a revival device\" in mime?"
+msgstr "你怎麼演 「我需要一個復活道具」 的啞劇呢？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WOODIE.MURDERER
+msgid "Murderer! Bring me an axe and let's get in the swing of things!"
+msgstr "殺人犯！給我一按斧頭我會旋轉著砍它"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Don't eat us!"
+msgstr "別吃我們！"
+
+#: STRINGS.CHARACTERS.WOODIE.ANNOUNCE_PICK_DISEASE_WARNING
+msgid "Well, that's not right."
+msgstr "噢，這可不對啊。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.ASH.REMAINS_THINGIE
+msgid "Well, that's a shame."
+msgstr "好吧，這可真是可惜了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.GLASSBLOCK
+msgid "Well, it ain't wood."
+msgstr "好吧，它不是木頭。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.LANTERN
+msgid "Well, that's enlightening, eh?"
+msgstr "可有啟發性了，是吧？"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.MARBLEBEAN_SAPLING
+msgid "Well, lookit that. It sprouted."
+msgstr "看，它發芽了。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.STAFFLIGHT
+msgid "Well, ain't that something."
+msgstr "不知道到底是什麼。"
+
+#: STRINGS.CHARACTERS.WOODIE.DESCRIBE.WALL_HAY.BURNT
+msgid "Well, that escalated quickly."
+msgstr "好吧，火焰迅速擴散。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.MOUNT.TARGETINCOMBAT
+msgid "Too much fighting!"
+msgstr "太多打鬥！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.SADDLE.TARGETINCOMBAT
+msgid "Too much fighting"（舊文本，修改或確認舊譯文無誤後請刪除此行）
+msgid "Too much fighting!"
+msgstr "太多打鬥！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.WRAPBUNDLE.EMPTY
+msgid "What to wrap... What to wrap..."
+msgstr "包裝什麼...包裝什麼..。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CANFIX
+msgid "\nFixed it!"（舊文本，修改或確認舊譯文無誤後請刪除此行）
+msgid "\nCan fix it!"
+msgstr "\n可以修好它！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_COMPASS_OUT
+msgid "Direction Thing broke"
+msgstr "指方向的東西壞了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DAMP
+msgid "Rain!"
+msgstr "雨！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DUSK
+msgid "Light ball is sleepy"
+msgstr "光球困了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.SPOILED
+msgid "Oooh... hurts"
+msgstr "噢...疼"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.STALE
+msgid "Food!"
+msgstr "食物！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_HOT
+msgid "Woo-wee, it's hot!"
+msgstr "我-我，好熱"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_NO_TRAP
+msgid "Lucky!"
+msgstr "好運！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_PECKED
+msgid "Ouch!"
+msgstr "哎喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SHELTER
+msgid "Nice under here"
+msgstr "這下面很棒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SOAKED
+msgid "Really wet"（舊文本，修改或確認舊譯文無誤後請刪除此行）
+msgid "Too wet!"
+msgstr "太濕了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_TORCH_OUT
+msgid "Oh. Fire stick is out"
+msgstr "哦。著火的棍子滅了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WET
+msgid "Little wet"
+msgstr "有點濕！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WETTER
+msgid "Really wet"
+msgstr "變得更濕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_WORMS
+msgid "Wigglies are coming"
+msgstr "扭來扭曲的傢伙們來了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ANIMAL_TRACK
+msgid "Mystery Prints!"
+msgstr "神秘印記！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORGRASS
+msgid "Friend Hair made clothes"
+msgstr "朋友的頭髮做的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ARMORSLURPER
+msgid "Furry Belt. Looks good"
+msgstr "毛茸茸的腰帶，看起來真棒"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEHIVE
+msgid "Buzz Home"
+msgstr "嗡嗡的家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BEEMINE
+msgid "Buzz Ka-bloey"
+msgstr "嗡嗡——爆炸!"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BIRDCAGE.SLEEPING
+msgid "Sleep well, Tweeter"
+msgstr "睡得真香，嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BOOMERANG
+msgid "Returny Stick"
+msgstr "迴轉的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BRUSH
+msgid "Buddies like the brushing"
+msgstr "朋友們喜歡被刷"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.BUGNET
+msgid "Bzzt Catcher"
+msgstr "抓滋滋滋的工具"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CATCOON
+msgid "Hello, Kitty!"
+msgstr "你好，小貓！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_BANANA
+msgid "Mmmmm..."
+msgstr "唔..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_BANANA_COOKED
+msgid "Smokey"
+msgstr "嗯..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_EXIT.OPEN
+msgid "Open now"（舊文本，修改或確認舊譯文無誤後請刪除此行）
+msgid "Open"
+msgstr "打開了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CHESSJUNK2
+msgid "Lots of machine stuff"
+msgstr "很多的機器玩意"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CORN_SEEDS
+msgid "Dirt likes these"
+msgstr "泥土喜歡這些"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DECIDUOUSTREE.CHOPPED
+msgid "Oh!"
+msgstr "噢！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DECIDUOUSTREE.POISON
+msgid "Hello! Friend?"
+msgstr "你好！朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DEERCLOPS
+msgid "Branch Head"
+msgstr "分叉腦袋"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGONFLY
+msgid "Patuey Fly"
+msgstr "噴火蒼蠅"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.DRAGON_SCALES
+msgid "Fiery clothes"
+msgstr "灼熱的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN.GENERIC
+msgid "How doing, friend?"
+msgstr "最近怎麼樣，朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
+msgid "Sad. So sad"
+msgstr "傷心，真傷心"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FEATHERPENCIL
+msgid "Draws pretty pictures"
+msgstr "畫美麗的圖畫"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREHOUND
+msgid "Fire Woofers"
+msgstr "火汪汪獸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FIREPIT.OUT
+msgid "Whew. No fire"
+msgstr "噓。不要火焰"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FISHTACOS
+msgid "What's wrong with eyes, Glub Glub?"
+msgstr "噗嚕噗嚕們，眼睛怎麼了？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_CAVE
+msgid "Glowy Friend"
+msgstr "發光的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_CAVE_DOUBLE
+msgid "Glowy Friends"
+msgstr "發光的朋友們"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FLOWER_CAVE_TRIPLE
+msgid "Glowy party!"
+msgstr "發光聚會！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.FOLIAGE
+msgid "Friend. Good friend"
+msgstr "朋友。好朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GLOMMERFUEL
+msgid "Yum! (urp)"
+msgstr "真香!(咕隆)"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENAXE
+msgid "Pretty. Pretty scary"
+msgstr "好好看，好嚇人"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENPICKAXE
+msgid "Pretty Pokey"
+msgstr "真好看"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENPITCHFORK
+msgid "Pretty Ground Getter"
+msgstr "漂亮的土地獲取器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDENSHOVEL
+msgid "Pretty Digger"
+msgstr "漂亮的挖掘器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GOLDNUGGET
+msgid "Little Yellow Stone"
+msgstr "小小的黃石頭"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.GUANO
+msgid "Good poop!"
+msgstr "好便便！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HEATROCK.GENERIC
+msgid "Hot cold rock"
+msgstr "熱冷岩石"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOME
+msgid "Home"
+msgstr "家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOMESIGN.GENERIC
+msgid "Scribbles on friends"
+msgstr "在朋友們身上塗鴉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOMESIGN.UNWRITTEN
+msgid "Needs scribbles"
+msgstr "需要塗鴉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ICESTAFF
+msgid "Chilly stick"
+msgstr "冰冰的棒子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.KABOBS
+msgid "Meat is belly stuff. Stick is not"
+msgstr "肉是填飽肚子的，木棍不是"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LITTLE_WALRUS
+msgid "Teeth Branches"
+msgstr "牙齒分叉"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.LUCY
+msgid "Aggah! Stay back, please!"
+msgstr "啊！離遠點，求你了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MANDRAKE_COOKED
+msgid "Smells sleepy"
+msgstr "聞起來好睏"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARBLEPILLAR
+msgid "Good trunk. Solid"
+msgstr "好傢夥，真堅固"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MARBLETREE
+msgid "Friend? Solid friend"
+msgstr "朋友？堅固的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MOOSE
+msgid "Branch Head Tweeter"
+msgstr "頭上分叉的嘰喳怪"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MULTITOOL_AXE_PICKAXE
+msgid "Handy stick"
+msgstr "好用的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUSHTREE_TALL_WEBBED
+msgid "It's trapped!"
+msgstr "它被困住了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ORANGESTAFF
+msgid "Poof stick"
+msgstr "「嗖」的棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PANFLUTE
+msgid "Toot!"
+msgstr "嘟嘟！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PAPYRUS
+msgid "Flat friends"
+msgstr "扁平的朋友們"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PETALS_EVIL
+msgid "Hmmm... smells bad"
+msgstr "嗯...聞起來很糟糕"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGGUARD
+msgid "Twirly Tail Tough Guy"
+msgstr "卷尾巴里強壯的傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PIGMAN.GUARD
+msgid "Twirly Tail Tough Guy"
+msgstr "卷尾巴里強壯的傢伙"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.PITCHFORK
+msgid "Dirt Getter"
+msgstr "泥土獲取器"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POMEGRANATE
+msgid "Seedy fruit"
+msgstr "滿是種子的水果"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.POOP
+msgid "Mmm... Smells good!"
+msgstr "嗯...聞起來不錯！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB4.BURNT
+msgid "Why, fire? Why?!"
+msgstr "為什麼，火？為甚麼？！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESEARCHLAB4.GENERIC
+msgid "Makes magics things"
+msgstr "製造神奇的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESURRECTIONSTATUE.BURNT
+msgid "Fire hurts everything"
+msgstr "火毀掉了一切"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.RESURRECTIONSTATUE.GENERIC
+msgid "Regrowing friends"
+msgstr "讓朋友們再生"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.ROPE
+msgid "Friends made string!"
+msgstr "朋友們做的線！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SADDLE_RACE
+msgid "Shaggy Buddy Zoomer!"
+msgstr "毛絨絨的夥伴跑得飛快！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SAPLING.GENERIC
+msgid "Hello? Little friend?"
+msgstr "你好？小朋友？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SCORCHED_SKELETON
+msgid "Oh. Oh no"
+msgstr "噢，哦不"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURPERPELT
+msgid "(sigh) Sad"
+msgstr "（嘆氣）傷心"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURPER_PELT
+msgid "(sigh) Sad"
+msgstr "（嘆氣）傷心"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SLURTLEHAT
+msgid "Hard Head Thing"
+msgstr "堅硬的頭上的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLBIRD.GENERIC
+msgid "Baby Eye Tweeter"
+msgstr "小眼睛的嘰喳怪。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLBIRD.STARVING
+msgid "Needs stuff for belly!!"
+msgstr "得填飽肚子了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SMALLMEAT
+msgid "Little belly thing"
+msgstr "份量小的食物"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERQUEEN
+msgid "Leggy Bug Boss"（舊文本，修改或確認舊譯文無誤後請刪除此行）
+msgid "Leggy Bug Mommy"
+msgstr "細長腿蟲子的媽媽"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
+msgid "Tweet! "
+msgstr "喳喳喳！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELEPORTATO_BASE.PARTIAL
+msgid "Needs more things"
+msgstr "需要更多東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TELESTAFF
+msgid "Poof stick"
+msgstr "噗，棍子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TENTACLESPOTS
+msgid "Spots. Pretty spots"
+msgstr "帶斑點"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_13
+msgid "Hello!... Hello?"
+msgstr "你好！...你好？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_14
+msgid "Can't drink from it"
+msgstr "不能喝裡面的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_15
+msgid "Can't play"
+msgstr "不能玩"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_16
+msgid "Can't play"
+msgstr "不能玩"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_17
+msgid "Pokey shiny thing"
+msgstr "尖尖的閃爍的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_18
+msgid "Wheee!"
+msgstr "喲！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_19
+msgid "Twirly!"
+msgstr "高速旋轉！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_20
+msgid "(scritch, scritch)"
+msgstr "（癢，癢）"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_21
+msgid "Hmm... Can't use it"
+msgstr "嗯...用不了"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_22
+msgid "Ball!"
+msgstr "球！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_23
+msgid "What's this?"
+msgstr "這是什麼？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.TRINKET_4
+msgid "Pointy hat little man"
+msgstr "尖帽子小人"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UNAGI
+msgid "Sea Wiggly wiggles in belly"
+msgstr "海扭扭在肚子里扭動"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALL_WOOD.BURNT
+msgid "Noo!!"
+msgstr "不不不！！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALRUSHAT
+msgid "Floppy head thing"
+msgstr "軟軟的頭上的東西"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WALRUS_CAMP.GENERIC
+msgid "Ball home"
+msgstr "球家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WARDROBE.GENERIC
+msgid "Friends holding clothes"
+msgstr "朋友們的衣服"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WARG
+msgid "Big Bad Woofer"
+msgstr "大壞汪汪獸"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATERMELON
+msgid "Watery Sweet belly stuff"
+msgstr "綠綠的外表下肚子里都是甜水"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXPAPER
+msgid "Shiny paper. So shiny..."
+msgstr "滿面油光的紙，多麼閃亮..."
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WINTEROMETER.BURNT
+msgid "Noo!"
+msgstr "不——！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WORM.WORM
+msgid "Hello, Wiggly!"
+msgstr "你好啊，扭扭！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.EAT_FOOD.TALLBIRDEGG_CRACKED
+msgid "Don't feel good"
+msgstr "感覺不太好"
+
+#: STRINGS.SKIN_QUOTES.wathgrithr_magma
+msgid "\"I fear nöt Surtr's flames!\""
+msgstr "\"吾無懼蘇爾特之火！\"""
