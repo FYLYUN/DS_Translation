@@ -3164,7 +3164,7 @@ msgstr "有什么东西在里面吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRITTER_DRAGONLING
 msgid "It's wyrmed its way into my heart."
-msgstr "小龙蝇让我心情十分激动。"
+msgstr "这只小龙让我心情十分激动。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRITTER_GLOMLING
 msgid "What an aerodynamical creature!"
@@ -11068,7 +11068,7 @@ msgstr "怂什么，来决斗吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MINOTAURCHEST
 msgid "The conquest chest!"
-msgstr "这多么强壮的胸部。"
+msgstr "战利品宝箱！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MINOTAURHORN
 msgid "Can I add it to my helmet?"
@@ -18196,15 +18196,15 @@ msgstr "我应该把它和别的东西混在一起。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.GENERIC
 msgid "Let's see how the wyrm likes this."
-msgstr "看看妖虫喜欢这个不。"
+msgstr "看看恶龙喜欢这个不。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "This is exactly what the wyrm wants."
-msgstr "这正是妖虫想要的。"
+msgstr "这正是恶龙想要的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "Well, I suppose it will tide the wyrm over."
-msgstr "好吧，我想这会让妖虫平息的。"
+msgstr "好吧，我想这会让恶龙平息的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Nope. It won't eat that."
@@ -32096,15 +32096,15 @@ msgstr "哎，勇敢的战士"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgid "A warrior of the night!"
-msgstr "夜之勇士"
+msgstr "夜之勇士！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "I must beware."
-msgstr "我必须得小心"
+msgstr "我必须得小心。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FOOD
 msgid "Everything turns to waste, eventually."
-msgstr "最终一切都是徒然"
+msgstr "最终一切都是徒然。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPORE_MEDIUM.GENERIC
 msgid "Its life is short, but beautiful."
@@ -36016,7 +36016,7 @@ msgstr "在这么热的气候下它活不了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASSGEKKO.DISEASED
 msgid "It appears to be infected by some unknown pathogen."
-msgstr "看起来被某种未知的抗原体感染了。"
+msgstr "看起来被某种未知的病原体感染了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASSGEKKO.GENERIC
 msgid "I've never encountered this species before. Seems harmless."
@@ -37464,7 +37464,7 @@ msgstr "我想它准备好转变了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The exact thing to placate the great wyrm."
-msgstr "准确的安抚伟大的妖虫的东西。"
+msgstr "准确的安抚伟大的恶龙的东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "It's the correct food, although an insufficient amount."
@@ -37472,7 +37472,7 @@ msgstr "这是正确的食物，尽管数量不够。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Not the proper dish for the great wyrm."
-msgstr "不是合适的给伟大妖虫的菜肴。"
+msgstr "不是合适的给伟大恶龙的菜肴。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Completely carbonized."
@@ -52816,7 +52816,7 @@ msgstr "嘎吱声让人心烦意乱。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_LOSE
 msgid "N-nice sky wyrm... Uh-oh."
-msgstr "很，很棒的的天空巨虫...呃哦。"
+msgstr "很，很棒的的天空恶龙...呃哦。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_MEALBURNT
 msgid "What a waste of food!"
@@ -74600,23 +74600,23 @@ msgstr "%s的遗骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
-msgstr "古老的钥匙"
+msgstr "远古钥匙"
 
 #: STRINGS.NAMES.ATRIUM_LIGHT
 msgid "Ancient Beacon"
-msgstr "古老的灯柱"
+msgstr "远古灯柱"
 
 #: STRINGS.NAMES.ATRIUM_OVERGROWTH
 msgid "Ancient Obelisk"
-msgstr "古老的方尖碑"
+msgstr "远古方尖碑"
 
 #: STRINGS.NAMES.ATRIUM_RUBBLE
 msgid "Ancient Mural"
-msgstr "古代壁画"
+msgstr "远古壁画"
 
 #: STRINGS.NAMES.ATRIUM_STATUE
 msgid "Ancient Statue"
@@ -76268,7 +76268,7 @@ msgstr "绽放花冠"
 
 #: STRINGS.NAMES.LAVAARENA_KEYHOLE
 msgid "Ancient Anchor"
-msgstr "古老的锚"
+msgstr "远古锚"
 
 #: STRINGS.NAMES.LAVAARENA_LIGHTDAMAGERHAT
 msgid "Barbed Helm"
@@ -76284,7 +76284,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -76620,7 +76620,7 @@ msgstr "月相盘"
 
 #: STRINGS.NAMES.MOONROCKCRATER
 msgid "Cratered Moonrock"
-msgstr "带孔月岩石"
+msgstr "带孔月岩"
 
 #: STRINGS.NAMES.MOONROCKNUGGET
 msgid "Moon Rock"
@@ -77248,11 +77248,11 @@ msgstr "盐池"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL_KEY
 msgid "Ancient Key"
-msgstr "古老的钥匙"
+msgstr "远古钥匙"
 
 #: STRINGS.NAMES.QUAGMIRE_POT
 msgid "Large Cookpot"
@@ -77948,7 +77948,7 @@ msgstr "缀食者之皮"
 
 #: STRINGS.NAMES.SLURTLE
 msgid "Slurtle"
-msgstr "蜗龟"
+msgstr "蛞蝓龟"
 
 #: STRINGS.NAMES.SLURTLEHAT
 msgid "Shelmet"
@@ -77956,11 +77956,11 @@ msgstr "背壳头盔"
 
 #: STRINGS.NAMES.SLURTLEHOLE
 msgid "Slurtle Mound"
-msgstr "蜗龟土堆"
+msgstr "蛞蝓龟土堆"
 
 #: STRINGS.NAMES.SLURTLESLIME
 msgid "Slurtle Slime"
-msgstr "蜗龟粘液"
+msgstr "蛞蝓龟粘液"
 
 #: STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgid "Broken Shell"
@@ -77984,7 +77984,7 @@ msgstr "鳄鱼指挥"
 
 #: STRINGS.NAMES.SNURTLE
 msgid "Snurtle"
-msgstr "黏糊虫"
+msgstr "蜗龟"
 
 #: STRINGS.NAMES.SPAT
 msgid "Ewecus"
@@ -81008,7 +81008,7 @@ msgstr "通过有用的线圈紧\n密编织而成。"
 
 #: STRINGS.RECIPE_DESC.RUINSHAT
 msgid "Complete with ancient force field!"
-msgstr "通过古代力场制作\n而成！"
+msgstr "通过远古力场制作\n而成！"
 
 #: STRINGS.RECIPE_DESC.RUINSRELIC_BOWL
 msgid "A distressed bowl."
@@ -82084,7 +82084,7 @@ msgstr "把鸟儿关进用花环装饰的笼子里非常棒哦。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.birdcage_pirate
 msgid "The birds' swashbuckling days are over, thanks to this pirate-themed birdcage."
-msgstr "多亏了这个海盗主题的鸟笼，那些鸟自由自在的日子终于要到头了。（SW兑换）"
+msgstr "多亏了这个海盗主题的鸟笼，那些鸟自由自在的日子终于要到头了。\n（购买海难DLC赠品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.birdcage_romantic
 msgid "Perhaps the bird will enjoy its stay."
@@ -82788,7 +82788,7 @@ msgstr "里面是精致的艺术字。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.cane_ancient
 msgid "To tread ancient paths, long forgotten."
-msgstr "踏上那早已被人遗忘的古老之路吧。（解谜限定_17）"
+msgstr "踏上那早已被人遗忘的古老之路吧。\n（梅图斯解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.cane_victorian
 msgid "A cane to accompany you on your afternoon stroll."
@@ -83296,11 +83296,11 @@ msgstr "这个火坑上装饰着几个可爱的石翅膀。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_hole
 msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
-msgstr "无底洞真是太棒了！充满了火焰的无底洞更棒！！（EA限定）"
+msgstr "无底洞真是太棒了！充满了火焰的无底洞更棒！！\n（抢先体验玩家限定）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_stonehenge
 msgid "A firepit modeled after an ancient, giant monument. Luckily, this version is sized more appropriately for humans (and human-sized entities)."
-msgstr "一个仿照巨石阵的篝火。幸运的是，这个版本的大小更适合人类。（RoG兑换）"
+msgstr "一个模仿古代巨石阵的篝火。幸运的是，这个版本的大小更适合人类。（和其它同样大的生物）\n（购买巨人囯DLC赠品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_victorian
 msgid "The heart of every household."
@@ -84128,7 +84128,7 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n熔炉是熔岩之地最严酷的地方，只有最强者才能在这里生存。当幸存者激活古老大门时，他们错误地将自己与这一空间连接在了一起。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n熔炉是熔岩之地最严酷的地方，只有最强者才能在这里生存。当幸存者激活远古大门时，他们错误地将自己与这一空间连接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -84684,11 +84684,11 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
-msgstr "命运之箭折磨着这颗可怜的心脏。"
+msgstr "命运之箭折磨着这颗可怜的心脏。\n（2017情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2
 msgid "Alas, some daggers through the heart are more literal than others."
-msgstr "哎，匕首穿心之痛远非言语所能形容。"
+msgstr "哎，匕首穿心之痛远非言语所能形容。\n（2018情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.shovel_victorian
 msgid "A lovely shovel with decorative silver engravings."
@@ -84720,11 +84720,11 @@ msgstr "用这些潦草包好的破损布料来使你的火把更加耀眼。浓
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_shadow
 msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。（解谜限定_16）"
+msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。\n（2016年轮回解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_shadow_alt
 msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。（解谜限定_17）"
+msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。\n（轮回解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_spooky
 msgid "Repel the dark these Hallowed Nights with a dreadful beacon of most Hallowed Light."
@@ -84748,7 +84748,7 @@ msgstr "制作这个箱子应该不会有切斯特受到伤害吧…但愿如此
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_sacred
 msgid "The history of an ancient people is locked away inside."
-msgstr "里面封存着一个古人的历史。"
+msgstr "里面封存着一个古人的历史。\n（梅图斯解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_steamertrunk
 msgid "NOTE: Doesn't steam."
@@ -85160,7 +85160,7 @@ msgstr "一个适合在月黑风高夜戴的帽子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppy
 msgid "Happiness is a warm puppy hat."
-msgstr "幸福就是拥有一顶温暖的狗狗帽子。"
+msgstr "幸福就是拥有一顶温暖的狗狗帽子。\n（2018狗年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus
 msgid "Doesn't keep your head any warmer than a regular winter hat, but gosh if it isn't just the cutest."
@@ -85172,7 +85172,7 @@ msgstr "这个干果布丁帽不含李子。它只含葡萄干。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster
 msgid "This winter hat is strangely reminiscent of a small feathered friend."
-msgstr "这奇怪的名字让人熟练地想起了一位朋友。（鸡年活动）"
+msgstr "这奇怪的名字让人熟练地想起了一位朋友。\n（2017鸡年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_stocking_cap_green_forest
 msgid "One might wear this 'forest guardian green' winter hat on a cozy night around a campfire. Or, hey, they might not."
@@ -86040,7 +86040,7 @@ msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadow
 msgid "Shadow Coverall"
-msgstr "暗影套装"
+msgstr "暗影工装"
 
 #: STRINGS.SKIN_NAMES.body_winona_survivor
 msgid "Worn Workwear"
@@ -86116,15 +86116,15 @@ msgstr "商人的皮衣"
 
 #: STRINGS.SKIN_NAMES.body_wx78_formal
 msgid "Formal Body Shell"
-msgstr "正式机甲"
+msgstr "正式机壳"
 
 #: STRINGS.SKIN_NAMES.body_wx78_gladiator
 msgid "Cast Iron Chassis"
-msgstr "锻造的机甲"
+msgstr "铸铁机甲"
 
 #: STRINGS.SKIN_NAMES.body_wx78_nature
 msgid "Timber Golem Trunk"
-msgstr "橡木之躯"
+msgstr "木傀儡树干"
 
 #: STRINGS.SKIN_NAMES.body_wx78_rhinorook
 msgid "Rook Costume Top"
@@ -86664,7 +86664,7 @@ msgstr "铸铁靴子"
 
 #: STRINGS.SKIN_NAMES.feet_wx78_nature
 msgid "Timber Golem Roots"
-msgstr "橡木之靴"
+msgstr "木傀儡树根"
 
 #: STRINGS.SKIN_NAMES.firepit_fanged
 msgid "Fanged Firepit"
@@ -86936,7 +86936,7 @@ msgstr "铸铁之拳"
 
 #: STRINGS.SKIN_NAMES.hand_wx78_nature
 msgid "Timber Golem Hands"
-msgstr "橡木手套"
+msgstr "木傀儡双手"
 
 #: STRINGS.SKIN_NAMES.hand_wx78_victorian
 msgid "Diving Gauntlets"
@@ -89480,7 +89480,7 @@ msgstr "长矛"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.STAFF
 msgid "Staff"
-msgstr "呼月者"
+msgstr "魔杖"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.STRAWHAT
 msgid "Straw Hat"
@@ -89604,7 +89604,7 @@ msgstr "这是你的报应。"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.7
 msgid "You've made your choice."
-msgstr "这是你自找的。"
+msgstr "这是你的选择。"
 
 #: STRINGS.STALKER_ATRIUM_DECAYCRY.1
 msgid "Please..."
@@ -89616,7 +89616,7 @@ msgstr "你也会和我们一样落败的。"
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.2
 msgid "This is for the best."
-msgstr "这样就够了。"
+msgstr "这是最好的。"
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.3
 msgid "You will be unraveled."
@@ -90756,7 +90756,7 @@ msgstr "午间便饭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活古老大门并逃离暴食沼地"
+msgstr "激活远古大门并逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -90864,7 +90864,7 @@ msgstr "在一场比赛中至少满足噬咬的欲望9次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
 msgid "Spoiled Wyrm"
-msgstr "受宠的妖虫"
+msgstr "受宠的恶龙"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
 msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
@@ -93792,7 +93792,7 @@ msgstr "啜食者"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES
 msgid "Slurtles and Snurtles"
-msgstr "蜗牛"
+msgstr "蛞蝓龟和蜗龟"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT
 msgid "Events"
@@ -104692,7 +104692,7 @@ msgstr "熔炉传送门背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_spawngate
 msgid "Ancient Gateway Portrait"
-msgstr "古老大门背景"
+msgstr "远古大门背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard
 msgid "Crocommander Standard"
@@ -105804,7 +105804,7 @@ msgstr "这肉块不是由肉组成的"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lantern_winter
 msgid "A lovely stained glass lantern to illuminate your winter nights."
-msgstr "让这个可爱的玻璃彩灯来照亮你的冬夜。"
+msgstr "让这个可爱的玻璃彩灯来照亮你的冬夜。\n（2018圣诞节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
@@ -106156,7 +106156,7 @@ msgstr "一串年年有鱼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking
 msgid "The lingering Pig King smell is actually quite pleasant."
-msgstr "徘徊的猪王气味令人身心愉悦。"
+msgstr "徘徊的猪王气味令人身心愉悦。\n（2019猪年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_wrestler
 msgid "This bodysuit and sash make for a dynamic look in the ring."
@@ -106272,7 +106272,7 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3
 msgid "A stake in your heart that actually heals the undead."
-msgstr "你心中的木桩能够真正治愈那些亡灵。"
+msgstr "你心中的木桩能够真正治愈那些亡灵。\n（2019情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle
 msgid "Let them try to wrestle this away from you."
@@ -109072,7 +109072,7 @@ msgstr "近亲藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL
 msgid "Uncorrupted Collection"
-msgstr "无邪藏品"
+msgstr "未堕落藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORTOX
 msgid "Wortox"
@@ -109124,7 +109124,7 @@ msgstr "沃拓克斯米诺陶宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_wortox_original
 msgid "Wortox Uncorrupted Chest"
-msgstr "沃拓克斯无邪宝箱"
+msgstr "沃拓克斯未堕落宝箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_heatrockfire
 msgid "Metamorphosed Flame Portrait"
@@ -109884,7 +109884,7 @@ msgstr "拥有数量"
 
 #: STRINGS.SKIN_NAMES.wortox_original
 msgid "The Uncorrupted"
-msgstr "无邪"
+msgstr "未堕落"
 
 #: STRINGS.SKIN_NAMES.wx78_none
 msgid "WX-78"
@@ -110200,7 +110200,7 @@ msgstr "渔网"
 
 #: STRINGS.NAMES.FRUITDRAGON
 msgid "Saladmander"
-msgstr "沙拉蝾螈"
+msgstr "沙拉曼蛇"
 
 #: STRINGS.NAMES.GESTALT
 msgid "Gestalt"
@@ -111764,7 +111764,7 @@ msgstr "嘘···他正在睡觉呢"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEBRELLAHAT
 msgid "Peeping Rain Taker"
-msgstr "偷窥和接住雨的工具"
+msgstr "偷窥和接雨的工具"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEPLANT
 msgid "Blinky friend"
@@ -113440,7 +113440,7 @@ msgstr "不是泥土"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UMBRELLA
 msgid "Rain Taker"
-msgstr "雨水遮蔽者"
+msgstr "接雨工具"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UNIMPLEMENTED
 msgid "Hmm..."
@@ -114132,7 +114132,7 @@ msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wortox_minotaur
 msgid "The Minotaur"
-msgstr "牛头人"
+msgstr "米诺陶"
 
 #: STRINGS.SKIN_NAMES.hand_wormwood_cactus
 msgid "Oasis Bound Hands"
@@ -114733,4 +114733,4 @@ msgstr "感觉不太好"
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_magma
 msgid "\"I fear nöt Surtr's flames!\""
-msgstr "\"吾无惧苏尔特之火！\"""
+msgstr "\"吾无惧苏尔特之火！\""
