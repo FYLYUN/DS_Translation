@@ -1,4 +1,4 @@
-﻿#: STRINGS.ACTIONS.ABANDON
+#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -2692,7 +2692,7 @@ msgstr "很有空气动力学特性啊！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BRUSH
 msgid "I bet the beefalo really like this."
-msgstr "我敢打赌，牛真的很喜欢这个。"
+msgstr "我敢打赌，皮弗娄牛真的很喜欢这个。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUGNET
 msgid "For catching bugs."
@@ -3164,7 +3164,7 @@ msgstr "有什么东西在里面吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRITTER_DRAGONLING
 msgid "It's wyrmed its way into my heart."
-msgstr "小龙蝇让我心情十分激动。"
+msgstr "这只小龙让我心情十分激动。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRITTER_GLOMLING
 msgid "What an aerodynamical creature!"
@@ -6716,7 +6716,7 @@ msgstr "有什么东西正想伸出来。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TOPHAT
 msgid "What a nice hat."
-msgstr "这玩意可以帮我搞到不少妹子"
+msgstr "多棒的帽子啊。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TORCH
 msgid "Something to hold back the night."
@@ -11068,7 +11068,7 @@ msgstr "怂什么，来决斗吧！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MINOTAURCHEST
 msgid "The conquest chest!"
-msgstr "这多么强壮的胸部。"
+msgstr "战利品宝箱！"
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.MINOTAURHORN
 msgid "Can I add it to my helmet?"
@@ -18196,15 +18196,15 @@ msgstr "我应该把它和别的东西混在一起。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.GENERIC
 msgid "Let's see how the wyrm likes this."
-msgstr "看看妖虫喜欢这个不。"
+msgstr "看看恶龙喜欢这个不。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "This is exactly what the wyrm wants."
-msgstr "这正是妖虫想要的。"
+msgstr "这正是恶龙想要的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "Well, I suppose it will tide the wyrm over."
-msgstr "好吧，我想这会让妖虫平息的。"
+msgstr "好吧，我想这会让恶龙平息的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Nope. It won't eat that."
@@ -20328,11 +20328,11 @@ msgstr "你要走了，伙计。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WILSON.FIRESTARTER
 msgid "The fire is supposed to go in the pit, Higgsbury."
-msgstr "火就应该呆在坑里，绅士科学家。"
+msgstr "火就应该呆在坑里，海格斯贝瑞。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WILSON.GENERIC
 msgid "Err, greetings, Mr. %s."
-msgstr "呃，你好，Mr。%s。"
+msgstr "呃，你好，%s先生。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.WILSON.MURDERER
 msgid "Our truce ends here, murderer!"
@@ -21676,7 +21676,7 @@ msgstr "这只看起来很快。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.SLEEPING
 msgid "Slumber deep, beefalo."
-msgstr "沉睡吧，皮弗洛牛。"
+msgstr "沉睡吧，皮弗娄牛。"
 
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOHAT
 msgid "The wearer will blend in perfectly."
@@ -32096,15 +32096,15 @@ msgstr "哎，勇敢的战士"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgid "A warrior of the night!"
-msgstr "夜之勇士"
+msgstr "夜之勇士！"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "I must beware."
-msgstr "我必须得小心"
+msgstr "我必须得小心。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPOILED_FOOD
 msgid "Everything turns to waste, eventually."
-msgstr "最终一切都是徒然"
+msgstr "最终一切都是徒然。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.SPORE_MEDIUM.GENERIC
 msgid "Its life is short, but beautiful."
@@ -32680,31 +32680,31 @@ msgstr "孤独，并且挣扎一辈子。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_BADLANDS
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_CARPETFLOOR
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_CAVE
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_CHECKERFLOOR
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_DECIDUOUS
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_DESERTDIRT
 msgid "Some ground."
-msgstr "某种地皮。"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_DIRT
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_DRAGONFLY
 msgid "Some ground."
@@ -32712,15 +32712,15 @@ msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FOREST
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FUNGUS
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FUNGUS_GREEN
 msgid "Some ground."
-msgstr "某种地皮。"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_FUNGUS_RED
 msgid "Some ground."
@@ -32728,43 +32728,43 @@ msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_GRASS
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_MARSH
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_MUD
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_ROAD
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_ROCKY
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SANDY
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SAVANNA
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_SINKHOLE
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_UNDERROCK
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_WOODFLOOR
 msgid "Some ground."
-msgstr "一些土地"
+msgstr "一些土地。"
 
 #: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURKEYDINNER
 msgid "Who's gobbling now?"
@@ -34552,7 +34552,7 @@ msgstr "那帽子丑死了"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEFALOWOOL
 msgid "Long follicles harvested from the beefalo."
-msgstr "从皮弗洛牛身上收获的长卵泡"
+msgstr "从皮弗娄牛身上收获的长卵泡"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEEGUARD
 msgid "Very angry Apis mellifera workers!"
@@ -36016,7 +36016,7 @@ msgstr "在这么热的气候下它活不了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASSGEKKO.DISEASED
 msgid "It appears to be infected by some unknown pathogen."
-msgstr "看起来被某种未知的抗原体感染了。"
+msgstr "看起来被某种未知的病原体感染了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.GRASSGEKKO.GENERIC
 msgid "I've never encountered this species before. Seems harmless."
@@ -36212,7 +36212,7 @@ msgstr "很小块的、加糖的肉！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HORN
 msgid "What an excellent specimen! I can almost hear the beefalo."
-msgstr "超棒的物种！我几乎可以听到皮弗洛牛的声音了。"
+msgstr "超棒的物种！我几乎可以听到皮弗娄牛的声音了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.HOTCHILI
 msgid "Chili gives me indigestion."
@@ -37464,7 +37464,7 @@ msgstr "我想它准备好转变了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH
 msgid "The exact thing to placate the great wyrm."
-msgstr "准确的安抚伟大的妖虫的东西。"
+msgstr "准确的安抚伟大的恶龙的东西。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MATCH_BUT_SNACK
 msgid "It's the correct food, although an insufficient amount."
@@ -37472,7 +37472,7 @@ msgstr "这是正确的食物，尽管数量不够。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD.MISMATCH
 msgid "Not the proper dish for the great wyrm."
-msgstr "不是合适的给伟大妖虫的菜肴。"
+msgstr "不是合适的给伟大恶龙的菜肴。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_FOOD_BURNT
 msgid "Completely carbonized."
@@ -52816,7 +52816,7 @@ msgstr "嘎吱声让人心烦意乱。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_LOSE
 msgid "N-nice sky wyrm... Uh-oh."
-msgstr "很，很棒的的天空巨虫...呃哦。"
+msgstr "很，很棒的的天空恶龙...呃哦。"
 
 #: STRINGS.CHARACTERS.WINONA.QUAGMIRE_ANNOUNCE_MEALBURNT
 msgid "What a waste of food!"
@@ -72170,6 +72170,18 @@ msgstr "薇诺娜曾是一个流水线工人，她对一切事物\n都十分热�
 msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
 msgstr "伍迪是一个粗犷且长满胡子的伐木工，他喜\n欢自然，格子衬衫和他所信赖的斧头露西。"
 
+#: STRINGS.CHARACTER_ABOUTME.wolfgang
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "沃尔夫冈是一个和蔼可亲，肌肉发达却又饱\n受恐惧折磨的巨人。"
+
+#: STRINGS.CHARACTER_ABOUTME.wortox
+msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
+msgstr "沃拓克斯是一个顽皮的恶魔。\n它的轻浮只是为了掩饰内心的罪恶感，\n因为它被迫吞噬了许多灵魂。"
+
+#: STRINGS.CHARACTER_ABOUTME.wormwood
+msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
+msgstr "被月之魔力赋予知觉的蔓藤植物混合体，\n沃姆伍德寻找朋友，寻找归属感。"
+
 #: STRINGS.CHARACTER_ABOUTME.wx78
 msgid "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly."
 msgstr "有人会认为WX无情的外表下隐藏着敏感的\n心灵，这是完全错误的。"
@@ -72206,25 +72218,41 @@ msgstr "*知道很多事情\n*自己发行了书籍\n*不能睡觉，讨厌变�
 msgid "\n*Grows a magnificent beard"
 msgstr "\n*可以长出一把宏伟的胡子。"
 
+#: STRINGS.CHARACTER_DESCRIPTIONS.willow
+msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
+msgstr "*免疫火焰，但厌恶寒冷 \n*被她可爱的小熊伯尼所保护 \n*可以制造一个可靠的打火机"
+
 #: STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 msgid "*Grows stronger on a full belly \n*Is afraid of monsters and the dark"
 msgstr "*吃饱时会变强 \n*害怕怪物和黑暗"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodie
 msgid "*Has a lovely axe... \n*And a terrible secret \n*Is thankful for bountiful harvests"
-msgstr "*有一把可爱的斧子…… \n*和一个可怕的秘密 \n*对丰收表示感谢"
+msgstr "*有一把可爱的斧子… \n*和一个可怕的秘密 \n*对丰收表示感谢"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada
 msgid "*Has a lovely axe... \n*And a terrible secret \n*Celebrates Thanksgiving at the correct time"
-msgstr "*有一把可爱的斧子…… \n*和一个可怕的秘密 \n*在正确的时间庆祝感恩节"
+msgstr "*有一把可爱的斧子… \n*和一个可怕的秘密 \n*在正确的时间庆祝感恩节"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.woodie_us
 msgid "*Has a lovely axe... \n*And a terrible secret \n*Celebrates Thanksgiving too early"
-msgstr "*有一把可爱的斧子…… \n*和一个可怕的秘密 \n*过早的庆祝感恩节"
+msgstr "*有一把可爱的斧子… \n*和一个可怕的秘密 \n*过早的庆祝感恩节"
 
 #: STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgid "*Not a picky eater \n*Is charged by lightning, but damaged by water \n*Can upgrade with gears"
-msgstr "*不挑食\n*会遭雷劈，水也会损坏它的身体\n*可以通过齿轮让自己升级"
+msgstr "*不挑食\n*会被闪电充能，但会被水损坏\n*可以通过齿轮让自己升级"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.winona
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
+msgstr "*一个熟练的建造者\n*免疫一次来自黑暗的攻击\n*制造她自己的小工具"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.wormwood
+msgid "*Plants relate to him\n*Has a Green Thumb\n*Food fills his stomach, but not his heart"
+msgstr "*与植物息息相关\n*有特殊的园艺才能\n*食物能填饱他的肚子，但无法治愈他的心"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.wortox
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*是个恶魔\n*能穿越时间与空间\n*从一般的食物中获取不了足够的营养"
 
 #: STRINGS.CHARACTER_NAMES.random
 msgid "Random"
@@ -72264,7 +72292,7 @@ msgstr "薇洛"
 
 #: STRINGS.CHARACTER_NAMES.wilson
 msgid "Wilson P. Higgsbury"
-msgstr "威尔逊·P·西格波利"
+msgstr "威尔逊·P·海格斯贝瑞"
 
 #: STRINGS.CHARACTER_NAMES.winona
 msgid "Winona"
@@ -72377,6 +72405,14 @@ msgstr "女巧匠"
 #: STRINGS.CHARACTER_TITLES.wolfgang
 msgid "The Strongman"
 msgstr "大力士"
+
+#: STRINGS.CHARACTER_TITLES.wormwood
+msgid "The Lonesome"
+msgstr "孤独者"
+
+#: STRINGS.CHARACTER_TITLES.wortox
+msgid "The Soul Starved"
+msgstr "灵魂吞噬者"
 
 #: STRINGS.CHARACTER_TITLES.woodie
 msgid "The Lumberjack"
@@ -74600,23 +74636,23 @@ msgstr "%s的遗骸"
 
 #: STRINGS.NAMES.ATRIUM_GATE
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.ATRIUM_KEY
 msgid "Ancient Key"
-msgstr "古老的钥匙"
+msgstr "远古钥匙"
 
 #: STRINGS.NAMES.ATRIUM_LIGHT
 msgid "Ancient Beacon"
-msgstr "古老的灯柱"
+msgstr "远古灯柱"
 
 #: STRINGS.NAMES.ATRIUM_OVERGROWTH
 msgid "Ancient Obelisk"
-msgstr "古老的方尖碑"
+msgstr "远古方尖碑"
 
 #: STRINGS.NAMES.ATRIUM_RUBBLE
 msgid "Ancient Mural"
-msgstr "古代壁画"
+msgstr "远古壁画"
 
 #: STRINGS.NAMES.ATRIUM_STATUE
 msgid "Ancient Statue"
@@ -76268,7 +76304,7 @@ msgstr "绽放花冠"
 
 #: STRINGS.NAMES.LAVAARENA_KEYHOLE
 msgid "Ancient Anchor"
-msgstr "古老的锚"
+msgstr "远古锚"
 
 #: STRINGS.NAMES.LAVAARENA_LIGHTDAMAGERHAT
 msgid "Barbed Helm"
@@ -76284,7 +76320,7 @@ msgstr "流星"
 
 #: STRINGS.NAMES.LAVAARENA_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.LAVAARENA_RECHARGERHAT
 msgid "Crystal Tiara"
@@ -76620,7 +76656,7 @@ msgstr "月相盘"
 
 #: STRINGS.NAMES.MOONROCKCRATER
 msgid "Cratered Moonrock"
-msgstr "带孔月岩石"
+msgstr "带孔月岩"
 
 #: STRINGS.NAMES.MOONROCKNUGGET
 msgid "Moon Rock"
@@ -77248,11 +77284,11 @@ msgstr "盐池"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL
 msgid "Ancient Gateway"
-msgstr "古老大门"
+msgstr "远古大门"
 
 #: STRINGS.NAMES.QUAGMIRE_PORTAL_KEY
 msgid "Ancient Key"
-msgstr "古老的钥匙"
+msgstr "远古钥匙"
 
 #: STRINGS.NAMES.QUAGMIRE_POT
 msgid "Large Cookpot"
@@ -77948,7 +77984,7 @@ msgstr "缀食者之皮"
 
 #: STRINGS.NAMES.SLURTLE
 msgid "Slurtle"
-msgstr "蜗龟"
+msgstr "蛞蝓龟"
 
 #: STRINGS.NAMES.SLURTLEHAT
 msgid "Shelmet"
@@ -77956,11 +77992,11 @@ msgstr "背壳头盔"
 
 #: STRINGS.NAMES.SLURTLEHOLE
 msgid "Slurtle Mound"
-msgstr "蜗龟土堆"
+msgstr "蛞蝓龟土堆"
 
 #: STRINGS.NAMES.SLURTLESLIME
 msgid "Slurtle Slime"
-msgstr "蜗龟粘液"
+msgstr "蛞蝓龟粘液"
 
 #: STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgid "Broken Shell"
@@ -77984,7 +78020,7 @@ msgstr "鳄鱼指挥"
 
 #: STRINGS.NAMES.SNURTLE
 msgid "Snurtle"
-msgstr "黏糊虫"
+msgstr "蜗龟"
 
 #: STRINGS.NAMES.SPAT
 msgid "Ewecus"
@@ -81008,7 +81044,7 @@ msgstr "通过有用的线圈紧\n密编织而成。"
 
 #: STRINGS.RECIPE_DESC.RUINSHAT
 msgid "Complete with ancient force field!"
-msgstr "通过古代力场制作\n而成！"
+msgstr "通过远古力场制作\n而成！"
 
 #: STRINGS.RECIPE_DESC.RUINSRELIC_BOWL
 msgid "A distressed bowl."
@@ -81996,7 +82032,7 @@ msgstr "卧槽，一个古怪的黑蝙蝠形状的背包，什么鬼"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_beefalo
 msgid "A backpack made in the shape of a little beefalo. It's so cute and fluffy!"
-msgstr "一个小小的牛形状的背包。它是如此的可爱和蓬松！"
+msgstr "一个小小皮弗娄牛形状的背包。它是如此的可爱和蓬松！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.backpack_buckle_grey_pewter
 msgid "A 'dismal gray' colored backpack with a big, curved buckle."
@@ -82084,7 +82120,7 @@ msgstr "把鸟儿关进用花环装饰的笼子里非常棒哦。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.birdcage_pirate
 msgid "The birds' swashbuckling days are over, thanks to this pirate-themed birdcage."
-msgstr "多亏了这个海盗主题的鸟笼，那些鸟自由自在的日子终于要到头了。（SW兑换）"
+msgstr "多亏了这个海盗主题的鸟笼，那些鸟自由自在的日子终于要到头了。\n（购买海难DLC赠品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.birdcage_romantic
 msgid "Perhaps the bird will enjoy its stay."
@@ -82109,6 +82145,26 @@ msgstr "一件“猪人粉”色的扣着纽扣的衬衫。幸运的是，织物
 #: STRINGS.SKIN_DESCRIPTIONS.body_buttons_white_ghost
 msgid "A shirt that buttons up the front, in a 'ghost white' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
 msgstr "一件“幽灵白”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_buttons_blue_sapphire
+msgid "A shirt that buttons up the front, in a 'blue gem blue' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
+msgstr "一件“蓝宝石蓝”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_buttons_grey_gainsboro
+msgid "A shirt that buttons up the front, in a 'silver gray' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
+msgstr "一件“乌云灰”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_buttons_purple_violet
+msgid "A shirt that buttons up the front, in a 'plethora of purple' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
+msgstr "一件“过量紫”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_buttons_red_burgundy
+msgid "A shirt that buttons up the front, in a 'wormgut red' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
+msgstr "一件“虫胆红”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_buttons_teal_jade
+msgid "A shirt that buttons up the front, in a 'doydoy teal' color. Luckily for you, the fabric is a non-iron material. Unfortunately, the placket will still wrinkle as you wear it."
+msgstr "一件“渡渡鸟蓝绿”色的扣着纽扣的衬衫。幸运的是，织物是一种非铁材料。不幸的是，你穿上它的时候会有褶皱。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_cardigan_black_jet
 msgid "A 'disilluminated black' colored cardigan. As soft as it is comfortable."
@@ -82136,7 +82192,7 @@ msgstr "不用担心，这是人造的切斯特皮。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_coatdress_red_higgsbury
 msgid "A cute and snuggly coat dress in 'Higgsbury red'."
-msgstr "这是一件舒服的洋装，是威尔逊身上马甲的红色哦。"
+msgstr "这是一件舒服的洋装，是“海格斯贝瑞红”色的哦。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_dancer_dragon
 msgid "All ready for a spectacular performance!"
@@ -82178,9 +82234,17 @@ msgstr "嗯，虽然不是鹿皮的，但是它依旧很棒。尤其是那恰到
 msgid "Well, it's not buckskin but it's still skookum. It's 'tentacle purple' colored with no foofaraw."
 msgstr "嗯，虽然不是鹿皮的，但是它依旧很棒。尤其是那恰到好处的“触手紫”。"
 
+#: STRINGS.SKIN_DESCRIPTIONS.body_flannel_grey_silver
+msgid "Well, it's not buckskin but it's still skookum. It's 'cumulus gray' colored with no foofaraw."
+msgstr "嗯，虽然不是鹿皮的，但是它依旧很棒。尤其是那恰到好处的“乌云灰”。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_flannel_red_higgsbury
+msgid "Well, it's not buckskin but it's still skookum. It's 'Higgsbury red' colored with no foofaraw."
+msgstr "嗯，虽然不是鹿皮的，但是它依旧很棒。尤其是那恰到好处的“海格斯贝瑞红”。"
+
 #: STRINGS.SKIN_DESCRIPTIONS.body_glommer_costume
 msgid "Cover up your full moon with this adorable Glommy Guise!"
-msgstr "在月圆之夜穿上它假装格洛姆吧！"
+msgstr "在月圆之夜穿上它假装格罗姆吧！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_hutch_costume
 msgid "The perfect look for going underground and undercover."
@@ -82200,15 +82264,23 @@ msgstr "一件很不错的大衣，缝制细度非常好。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_black_scribble
 msgid "These sturdy 'scribble black' colored overalls are great for plumbing the depths."
-msgstr "这件耐用的“涂鸦黑”工作服，是制造工业的精髓。"
+msgstr "这件耐用的“涂鸦黑”色工作服，是制造工业的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_blue_denim
 msgid "These sturdy 'hyper-intelligent blue' colored overalls are great for plumbing the depths."
-msgstr "这件耐用的“超智能蓝色”工作服，是制造工业的精髓。"
+msgstr "这件耐用的“超智能蓝”色工作服，是制造工业的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_overalls_navy_ocean
 msgid "These sturdy 'unsuitably blue' colored overalls are great for plumbing the depths."
-msgstr "这件耐用的“超智能蓝色”工作服，是制造工业的精髓。"
+msgstr "这件耐用的“不恰蓝”色工作服，是制造工业的精髓。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_overalls_brown_fawn
+msgid "These sturdy 'werebeaver brown' colored overalls are great for plumbing the depths."
+msgstr "这件耐用的“海狸棕”色工作服，是制造工业的精髓。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_overalls_tan_grass
+msgid "These sturdy 'dry grass tan' colored overalls are great for plumbing the depths."
+msgstr "这件耐用的“干草褐”色工作服，是制造工业的精髓。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_pj_blue_agean
 msgid "Don't worry if this 'high pH blue' colored pajama top is too big on you. That just makes it cuter."
@@ -82232,7 +82304,7 @@ msgstr "一件“鱼腥酊剂橙”色的衬衫，不要让你的衣领在风中
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_red_higgsbury
 msgid "A 'Higgsbury red' colored polo shirt. Don't let your collar flap in the wind."
-msgstr "一件“西格波利红”色的衬衫，不要让你的衣领在风中飘。"
+msgstr "一件“海格斯贝瑞红”色的衬衫，不要让你的衣领在风中飘。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_white_marble
 msgid "A 'marble white' colored polo shirt. Don't let your collar flap in the wind."
@@ -82241,6 +82313,18 @@ msgstr "一件“大理石白”色的衬衫，不要让你的衣领在风中飘
 #: STRINGS.SKIN_DESCRIPTIONS.body_polo_yellow_goldenrod
 msgid "A 'downright neighborly yellow' colored polo shirt. Don't let your collar flap in the wind."
 msgstr "一件“友好邻居黄”色的衬衫，不要让你的衣领在风中飘。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_polo_blue_cornflower
+msgid "A 'rubber glove blue' colored polo shirt. Don't let your collar flap in the wind."
+msgstr "一件“橡胶套手蓝”色的衬衫，不要让你的衣领在风中飘。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_polo_green_pistachio
+msgid "A 'science experiment green' colored polo shirt. Don't let your collar flap in the wind."
+msgstr "一件“科学实验绿”色的衬衫，不要让你的衣领在风中飘。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_polo_pink_hibiscus
+msgid "A 'pigman pink' colored polo shirt. Don't let your collar flap in the wind."
+msgstr "一件“猪人粉”色的衬衫，不要让你的衣领在风中飘。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_silk_eveningrobe_blue_frost
 msgid "So smooth, you'll never want to let go of this 'high elevation blue' colored robe."
@@ -82292,11 +82376,19 @@ msgstr "穿着这件“猪人粉”色的衬衫让你感觉像是猫咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_white_pure
 msgid "Wearing this 'pure white' colored shirt makes you feel like the cat's pajamas."
-msgstr "穿着这件“纯白”色的衬衫让你感觉像是猫咪。"
+msgstr "穿着这件“纯粹白”色的衬衫让你感觉像是猫咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_yellow_flax
 msgid "Wearing this 'follicle yellow' colored shirt makes you feel like the cat's pajamas."
 msgstr "穿着这件“蓇葖果黄”色的衬衫感觉像是猫咪"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_black_davys
+msgid "Wearing this 'disilluminated black' colored shirt makes you feel like the cat's pajamas."
+msgstr "穿着这件“无光黑”色的衬衫让你感觉像是猫咪。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_suspenders_blue_cornflower
+msgid "Wearing this 'rubber glove blue' colored shirt makes you feel like the cat's pajamas."
+msgstr "穿着这件“橡胶手套蓝”色的衬衫让你感觉像是猫咪。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_blue_snowbird
 msgid "An 'electrolytic blue' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
@@ -82318,6 +82410,10 @@ msgstr "一件“乌云灰”色的用上等皮弗娄牛毛织成的背心。不
 msgid "A 'firehound red' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
 msgstr "一件“火猎犬红”色的用上等皮弗娄牛毛织成的背心。不幸的是，它并不保暖。要你何用！！"
 
+#: STRINGS.SKIN_DESCRIPTIONS.body_sweatervest_navy_ocean
+msgid "An 'unsuitably blue' colored vest made of the finest beefalo wool. Unfortunately, it's not actually warm."
+msgstr "一件“不恰蓝”色的用上等皮弗娄牛毛织成的背心。不幸的是，它并不保暖。要你何用！！"
+
 #: STRINGS.SKIN_DESCRIPTIONS.body_tanktop_tiecollar_yellow_goldenrod
 msgid "This 'downright neighborly yellow' top just screams \"springtime\"! Seriously. Please make it stop screaming."
 msgstr "这一件“友好邻居黄”色的衬衫仿佛一直在叫“春天来了”！穿上它不要让它再叫了。"
@@ -82336,15 +82432,15 @@ msgstr "一件时尚而非防护用的“硫酸黄”色的风衣。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_red_higgsbury
 msgid "Get your glad rags on with this 'Higgsbury red' colored shirt."
-msgstr "给你的晚礼服配上“西格波利红”色的衬衫。"
+msgstr "给你的晚礼服配上“海格斯贝瑞红”色的衬衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_white_pure
 msgid "Get your glad rags on with this 'pure white' colored shirt."
-msgstr "给你的晚礼服配上“纯白”色衬衫。"
+msgstr "给你的晚礼服配上“纯粹白”色衬衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_yellow_flax
 msgid "Get your glad rags on with this 'follicle yellow' colored shirt."
-msgstr "给你的晚礼服配上这“蓇葖果 黄”色的衬衫。"
+msgstr "给你的晚礼服配上这“蓇葖果黄”色的衬衫。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_grey_battleship
 msgid "A 'cumulus gray' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
@@ -82356,7 +82452,7 @@ msgstr "一件“蜗牛粘液紫”色的衬衫。威尔逊正在研发一种W�
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_red_higgsbury
 msgid "A 'Higgsbury red' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
-msgstr "一件“西格波利红”色的衬衫。威尔逊正在研发一种W恤，但这个原型体更像是“T”而非“W”。"
+msgstr "一件“海格斯贝瑞红”色的衬衫。威尔逊正在研发一种W恤，但这个原型体更像是“T”而非“W”。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_white_smoke
 msgid "A 'smoke white' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
@@ -82375,12 +82471,128 @@ msgid "Don't get lost in the tweeds wearing this 'forest guardian green' colored
 msgstr "千万不要迷恋这件“森林守护绿”色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_grey_steel
-msgid "Don't get lost in the tweeds wearing this 'colloidal silver gray' colored souvenir from the Village of Tweed."
+msgid "Don't get lost in the tweeds wearing this 'colloidal silver gray' colored souvenir from the Village of Tweed.
 msgstr "千万不要迷恋这件“胶质银灰”色的背心。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_tan_grass
-msgid "Don't get lost in the tweeds wearing this 'dry grass tan' colored souvenir from the Village of Tweed."
-msgstr "千万不要迷恋这件“干草黄”色的背心。"
+msgid "Don't get lost in the tweeds wearing this 'dry grass tan' colored souvenir from the Village of Tweed.
+msgstr "千万不要迷恋这件“干草褐”色的背心。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_grey_slate
+msgid "These 'rainy gray' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "这件“雨天灰”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_orange_lumberjack
+msgid "These 'lumberjack orange' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "这件“伐木工橙”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_tan_grass
+msgid "These 'dry grass tan' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "这件“干草褐”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_jeans_black_scribble
+msgid "Hard-wearing cotton dungarees, in a 'scribble black' color."
+msgstr "非常耐穿的纯粗棉布牛仔裤，“涂鸦黑”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_jeans_blue_peacock
+msgid "Hard-wearing cotton dungarees, in a 'bird tail blue' color."
+msgstr "非常耐穿的纯粗棉布牛仔裤，“鸟尾蓝”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_jeans_grey_silver
+msgid "Hard-wearing cotton dungarees, in a 'cumulus gray' color."
+msgstr "非常耐穿的纯粗棉布牛仔裤，“乌云灰”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_jeans_navy_ocean
+msgid "Hard-wearing cotton dungarees, in an 'unsuitably blue' color."
+msgstr "非常耐穿的纯粗棉布牛仔裤，“不恰蓝”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_blue_sky
+msgid "Wearing these 'schematic blue' colored pants won't help you survive... But you'll look great!"
+msgstr "穿上这件“涂鸦黑”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_yellow_mustard
+msgid "Wearing these 'anagnorisis yellow' colored pants won't help you survive... But you'll look great!"
+msgstr "穿上这件“蓝图蓝”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_black_jet
+msgid "'Disilluminated black' colored stripy trousers."
+msgstr "“无光黑”色的条纹裤子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_brown_chocolate
+msgid "'Insufficient chocolate brown' colored stripy trousers."
+msgstr "“淡巧克力棕”色的条纹裤子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_navy_crow
+msgid "'Crow blue' colored stripy trousers."
+msgstr "“乌鸦蓝”色的条纹裤子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_purple_violet
+msgid "'Plethora of purple' colored stripy trousers."
+msgstr "“过量紫”色的条纹裤子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_red_garnet
+msgid "'Wormgut red' colored stripy trousers."
+msgstr "“虫胆红”色的条纹裤子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_shorts_black_scribble
+msgid "Don't sell yourself short in these 'scribble black' colored shorts."
+msgstr "穿上这件“涂鸦黑”色的短裤，不要只盯着自己的短板不放。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_shorts_blue_cerulean
+msgid "Don't sell yourself short in these 'cobaltous oxide blue' colored shorts."
+msgstr "穿上这件“氧化钴蓝”色的短裤，不要只盯着自己的短板不放。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_shorts_green_hunters
+msgid "Don't sell yourself short in these 'forest guardian green' colored shorts."
+msgstr "穿上这件“森林守护者绿”色的短裤，不要只盯着自己的短板不放。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_shorts_red_firehound
+msgid "Don't sell yourself short in these 'firehound red' colored shorts."
+msgstr "穿上这件“火猎犬红”色的短裤，不要只盯着自己的短板不放。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_shorts_tan_khaki
+msgid "Don't sell yourself short in these 'flat fish tan' colored shorts."
+msgstr "穿上这件“比目鱼棕褐”色的短裤，不要只盯着自己的短板不放。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_blue_peacock
+msgid "Wearing this 'bird tail blue' colored skirt won't help you survive... But you'll look great!"
+msgstr "穿上这件“鸟尾蓝”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_green_leaf
+msgid "Wearing this 'lief green' colored skirt won't help you survive... But you'll look great!"
+msgstr "穿上这件“树叶绿”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_button_blue_catcoon
+msgid "This 'catcoon blue' colored skirt is fastened with four shank buttons."
+msgstr "这件“浣猫蓝”色的裙子系着四个工字钮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_button_green_viridian
+msgid "This 'subaqueous megafauna green' colored skirt is fastened with four shank buttons."
+msgstr "这件“水生巨兽绿”色的裙子系着四个工字钮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_button_purple_mauve
+msgid "This 'snail mucus purple' colored skirt is fastened with four shank buttons."
+msgstr "这件“蜗牛粘液紫”色的裙子系着四个工字钮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_button_red_rook
+msgid "This 'rook red' colored skirt is fastened with four shank buttons."
+msgstr "这件“战车红”色的裙子系着四个工字钮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_button_white_ivory
+msgid "This 'houndbone white' colored skirt is fastened with four shank buttons."
+msgstr "这件“猎狗骨头白”色的裙子系着四个工字钮。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_purple_lavender
+msgid "This 'peripeteia purple' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
+msgstr "这件“剧情转折紫”色的裙子并不是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_red_ruby
+msgid "This 'red gem red' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
+msgstr "这件“红宝石红”色的裙子并不是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_yellow_butter
+msgid "This 'butter yellow' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
+msgstr "这件“黄油黄”色的裙子并不是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_deerclops
 msgid "Look like an intimidating Deerclops with this Hallowed Nights costume."
@@ -82592,7 +82804,7 @@ msgstr "这和冰火一样，这套衣服并不能温暖他人。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_rose
 msgid "Momentarily slake your thirst for fire and brimstone by wrapping yourself in a lovely frock."
-msgstr "用一件可爱的工装包裹自己，一下子消除你对火和硫磺的渴望。"
+msgstr "用一件可爱的外衣包裹自己，一下子消除你对火和硫磺的渴望。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_willow_shadow
 msgid "This dress flickers as if it were on fire... If that fire were made of shadows."
@@ -82788,7 +83000,7 @@ msgstr "里面是精致的艺术字。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.cane_ancient
 msgid "To tread ancient paths, long forgotten."
-msgstr "踏上那早已被人遗忘的古老之路吧。（解谜限定_17）"
+msgstr "踏上那早已被人遗忘的古老之路吧。\n（梅图斯解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.cane_victorian
 msgid "A cane to accompany you on your afternoon stroll."
@@ -83112,7 +83324,7 @@ msgstr "加入了枫糖浆和麋鹿得精华，这双是雅致“海狸棕”色
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_formal_highheel_white_pure
 msgid "Dress to the nines in these 'pure white' colored shoes."
-msgstr "华丽的“纯白色”鞋子。"
+msgstr "华丽的“纯粹白”色鞋子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_formal_lowheel_black_scribble
 msgid "Low-heeled 'scribble black' colored dress shoes."
@@ -83128,11 +83340,11 @@ msgstr "温暖的，柔软的，“仿真猫蓝”色的拖鞋。在这个充满
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_maryjanes_white_pure
 msgid "Hit the jackpot with these classic 'pure white' colored Mary Janes."
-msgstr "这双经典的“纯白”色玛丽珍鞋非常棒。"
+msgstr "这双经典的“纯粹白”色玛丽珍鞋非常棒。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_ridingboot_white_pure
 msgid "A pair of 'pure white' colored riding boots. Yee-haw!"
-msgstr "一双“纯白”色的长筒靴，呀哈！"
+msgstr "一双“纯粹白”色的长筒靴，呀哈！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_sandals_blue_catcoon
 msgid "A pair of 'catcoon blue' colored sandals, with socks (for extra fashion)."
@@ -83296,11 +83508,11 @@ msgstr "这个火坑上装饰着几个可爱的石翅膀。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_hole
 msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
-msgstr "无底洞真是太棒了！充满了火焰的无底洞更棒！！（EA限定）"
+msgstr "无底洞真是太棒了！充满了火焰的无底洞更棒！！\n（抢先体验玩家限定）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_stonehenge
 msgid "A firepit modeled after an ancient, giant monument. Luckily, this version is sized more appropriately for humans (and human-sized entities)."
-msgstr "一个仿照巨石阵的篝火。幸运的是，这个版本的大小更适合人类。（RoG兑换）"
+msgstr "一个模仿古代巨石阵的篝火。幸运的是，这个版本的大小更适合人类。（和其它同样大的生物）\n（购买巨人囯DLC赠品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.firepit_victorian
 msgid "The heart of every household."
@@ -83392,7 +83604,7 @@ msgstr "“乌云灰”色的手套适合所有人、机器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_white_pure
 msgid "'Pure white' colored gloves suitable for all types of persons, robots, and monsters."
-msgstr "“纯白”色色的手套适合所有人、机器人和怪物。"
+msgstr "“纯粹白”色的手套适合所有人、机器人和怪物。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_yellow_straw
 msgid "'Sulfuric yellow' colored gloves suitable for all types of persons, robots, and monsters."
@@ -83408,7 +83620,7 @@ msgstr "这是手套，它能覆盖你双手。这双是“橡胶套手蓝”色
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_red_higgsbury
 msgid "These are gloves. They cover your hands. This pair is 'Higgsbury red' colored."
-msgstr "这是手套，它能覆盖你双手。这双是“西格波利红”色的。"
+msgstr "这是手套，它能覆盖你双手。这双是“海格斯贝瑞红”色的。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_white_smoke
 msgid "These are gloves. They cover your hands. This pair is 'smoke white' colored."
@@ -83616,75 +83828,75 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
 msgid "These 'rubber glove blue' colored pants are perfect for playing checkers, or checking items off your to-do list."
-msgstr "这些“橡胶手套蓝”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
+msgstr "这件“橡胶手套蓝”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_green_laurel
 msgid "These 'willful green' colored pants are perfect for playing checkers, or checking items off your to-do list."
-msgstr "这些“任性绿”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
+msgstr "这件“任性绿”色的裤子用来玩跳棋一定非常棒，或者也可以用来核对你的待办事项列表。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_black_scribble
 msgid "Wearing these 'scribble black' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个“涂鸦黑”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“涂鸦黑”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_brown_sepia
 msgid "Wearing these 'werebeaver brown' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个“海狸褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“海狸褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_green_forest
 msgid "Wearing these 'forest guardian green' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个“森林守护者绿”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“森林守护者绿”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_grey_dark
 msgid "Wearing these 'stormcloud gray' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个“暴风云灰”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“暴风云灰”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_tan_cream
 msgid "Wearing these 'no-tan-lines tan' colored pants won't help you survive... But you'll look great!"
-msgstr "穿上这个“晒痕棕褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“晒痕棕褐”色的裤子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pj_blue_agean
 msgid "No striped pajama squid were harmed in the making of these 'high pH blue' colored naptime pants."
-msgstr "制作这条“高pH值蓝”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
+msgstr "制作这件“高pH值蓝”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_pj_purple_mauve
 msgid "No striped pajama squid were harmed in the making of these 'snail mucus purple' colored naptime pants."
-msgstr "制作这条“蜗牛粘液紫”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
+msgstr "制作这件“蜗牛粘液紫”色的长条裤的时候，绝对没有把条纹睡衣章鱼当做衣服材料。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_black_scribble
 msgid "Wearing this 'scribble black' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个“涂鸦黑”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“涂鸦黑”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_brown_sepia
 msgid "Wearing this 'werebeaver brown' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个“海狸褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“海狸褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_grey_dark
 msgid "Wearing this 'stormcloud gray' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个“暴风云灰”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“暴风云灰”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_pink_pigman
 msgid "Wearing this 'pigman pink' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个“猪人粉”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“猪人粉”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_basic_tan_cream
 msgid "Wearing this 'no-tan-lines tan' colored skirt won't help you survive... But you'll look great!"
-msgstr "穿上这个“晒痕棕褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
+msgstr "穿上这件“晒痕棕褐”色的裙子不会帮助你生存下去…但是你看起来会很酷！"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_blue_cornflower
 msgid "This 'rubber glove blue' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
-msgstr "这种“橡胶套手蓝”色的裙子不像是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
+msgstr "这件“橡胶套手蓝”色的裙子并不是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_skirt_plaid_green_pistachio
 msgid "This 'science experiment green' colored skirt isn't a proper kilt, but you feel vaguely Scottish anyway."
-msgstr "这种“科学实验绿”色的裙子不像是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
+msgstr "这件“科学实验绿”色的裙子并不是苏格兰褶裥短裙，但是又能略微感觉到苏格兰的影子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_tweed_knickerbocker_green_hunters
 msgid "Enjoy a knickerbocker glory in these 'forest guardian green' colored knickerbockers."
-msgstr "享受这些“森林守护者绿”色的有色灯笼裤吧。"
+msgstr "享受这件“森林守护者绿”色的有色灯笼裤吧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_tweed_knickerbocker_tan_grass
 msgid "Enjoy a knickerbocker glory in these 'dry grass tan' colored knickerbockers."
-msgstr "享受这些“干草棕褐”色的有色灯笼裤吧。"
+msgstr "享受这件“干草褐”色的有色灯笼裤吧。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.legs_wathgrithr_gladiator
 msgid "They'll never see your powerful kicks coming."
@@ -83840,7 +84052,7 @@ msgstr "有时，在寒冷和痛苦的夜晚，人们可能会在一根点燃的
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_willowfire
 msgid "Willow always regarded being brought to The Constant as a new beginning. It allowed her to leave everything behind, after all."
-msgstr "薇洛总是把被带到这个永恒领域当作一个新的起点。毕竟，在这她能够把一切都抛在身后。"
+msgstr "薇洛总是把被带到永恒领域当作一个新的起点。毕竟，在这她能够把一切都抛在身后。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_winona_victorian
 msgid "The clank of hammers is music to the blacksmith's ears.\nThe smell of coal, a sweet perfume."
@@ -84128,7 +84340,7 @@ msgstr "使用这个藏品来改变你的角色背景图案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用这个藏品来改变你的角色背景图案。\n\n熔炉是熔岩之地最严酷的地方，只有最强者才能在这里生存。当幸存者激活古老大门时，他们错误地将自己与这一空间连接在了一起。"
+msgstr "使用这个藏品来改变你的角色背景图案。\n\n熔炉是熔岩之地最严酷的地方，只有最强者才能在这里生存。当幸存者激活远古大门时，他们错误地将自己与这一空间连接在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -84684,11 +84896,11 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid
 msgid "The slings and arrows of fate have taken their toll on this poor, afflicted heart."
-msgstr "命运之箭折磨着这颗可怜的心脏。"
+msgstr "命运之箭折磨着这颗可怜的心脏。\n（2017情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_2
 msgid "Alas, some daggers through the heart are more literal than others."
-msgstr "哎，匕首穿心之痛远非言语所能形容。"
+msgstr "哎，匕首穿心之痛远非言语所能形容。\n（2018情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.shovel_victorian
 msgid "A lovely shovel with decorative silver engravings."
@@ -84720,11 +84932,11 @@ msgstr "用这些潦草包好的破损布料来使你的火把更加耀眼。浓
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_shadow
 msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。（解谜限定_16）"
+msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。\n（2016年轮回解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_shadow_alt
 msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。（解谜限定_17）"
+msgstr "这火炬看上去似乎很可怕，但一旦拿起它，你就会被它蕴含的悲伤致郁。\n（轮回解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.torch_spooky
 msgid "Repel the dark these Hallowed Nights with a dreadful beacon of most Hallowed Light."
@@ -84748,7 +84960,7 @@ msgstr "制作这个箱子应该不会有切斯特受到伤害吧…但愿如此
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_sacred
 msgid "The history of an ancient people is locked away inside."
-msgstr "里面封存着一个古人的历史。"
+msgstr "里面封存着一个古人的历史。\n（梅图斯解谜奖励）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.treasurechest_steamertrunk
 msgid "NOTE: Doesn't steam."
@@ -85160,7 +85372,7 @@ msgstr "一个适合在月黑风高夜戴的帽子。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_fancy_puppy
 msgid "Happiness is a warm puppy hat."
-msgstr "幸福就是拥有一顶温暖的狗狗帽子。"
+msgstr "幸福就是拥有一顶温暖的狗狗帽子。\n（2018狗年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_pink_hibiscus
 msgid "Doesn't keep your head any warmer than a regular winter hat, but gosh if it isn't just the cutest."
@@ -85172,7 +85384,7 @@ msgstr "这个干果布丁帽不含李子。它只含葡萄干。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_rooster
 msgid "This winter hat is strangely reminiscent of a small feathered friend."
-msgstr "这奇怪的名字让人熟练地想起了一位朋友。（鸡年活动）"
+msgstr "这奇怪的名字让人熟练地想起了一位朋友。\n（2017鸡年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.winterhat_stocking_cap_green_forest
 msgid "One might wear this 'forest guardian green' winter hat on a cozy night around a campfire. Or, hey, they might not."
@@ -86040,7 +86252,7 @@ msgstr "珊瑚玫瑰长裤"
 
 #: STRINGS.SKIN_NAMES.body_winona_shadow
 msgid "Shadow Coverall"
-msgstr "暗影套装"
+msgstr "暗影工装"
 
 #: STRINGS.SKIN_NAMES.body_winona_survivor
 msgid "Worn Workwear"
@@ -86116,15 +86328,15 @@ msgstr "商人的皮衣"
 
 #: STRINGS.SKIN_NAMES.body_wx78_formal
 msgid "Formal Body Shell"
-msgstr "正式机甲"
+msgstr "正式机壳"
 
 #: STRINGS.SKIN_NAMES.body_wx78_gladiator
 msgid "Cast Iron Chassis"
-msgstr "锻造的机甲"
+msgstr "铸铁机甲"
 
 #: STRINGS.SKIN_NAMES.body_wx78_nature
 msgid "Timber Golem Trunk"
-msgstr "橡木之躯"
+msgstr "木傀儡树干"
 
 #: STRINGS.SKIN_NAMES.body_wx78_rhinorook
 msgid "Rook Costume Top"
@@ -86664,7 +86876,7 @@ msgstr "铸铁靴子"
 
 #: STRINGS.SKIN_NAMES.feet_wx78_nature
 msgid "Timber Golem Roots"
-msgstr "橡木之靴"
+msgstr "木傀儡树根"
 
 #: STRINGS.SKIN_NAMES.firepit_fanged
 msgid "Fanged Firepit"
@@ -86936,7 +87148,7 @@ msgstr "铸铁之拳"
 
 #: STRINGS.SKIN_NAMES.hand_wx78_nature
 msgid "Timber Golem Hands"
-msgstr "橡木手套"
+msgstr "木傀儡双手"
 
 #: STRINGS.SKIN_NAMES.hand_wx78_victorian
 msgid "Diving Gauntlets"
@@ -89480,7 +89692,7 @@ msgstr "长矛"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.STAFF
 msgid "Staff"
-msgstr "呼月者"
+msgstr "魔杖"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.STRAWHAT
 msgid "Straw Hat"
@@ -89604,7 +89816,7 @@ msgstr "这是你的报应。"
 
 #: STRINGS.STALKER_ATRIUM_DEATHCRY.7
 msgid "You've made your choice."
-msgstr "这是你自找的。"
+msgstr "这是你的选择。"
 
 #: STRINGS.STALKER_ATRIUM_DECAYCRY.1
 msgid "Please..."
@@ -89616,7 +89828,7 @@ msgstr "你也会和我们一样落败的。"
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.2
 msgid "This is for the best."
-msgstr "这样就够了。"
+msgstr "这是最好的。"
 
 #: STRINGS.STALKER_ATRIUM_PLAYER_BATTLECRY.3
 msgid "You will be unraveled."
@@ -90756,7 +90968,7 @@ msgstr "午间便饭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
 msgid "Activate the Ancient Gateway and escape the Gorge"
-msgstr "激活古老大门并逃离暴食沼地"
+msgstr "激活远古大门并逃离暴食沼地"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
 msgid "Escape!"
@@ -90864,7 +91076,7 @@ msgstr "在一场比赛中至少满足噬咬的欲望9次"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
 msgid "Spoiled Wyrm"
-msgstr "受宠的妖虫"
+msgstr "受宠的恶龙"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
 msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
@@ -93792,7 +94004,7 @@ msgstr "啜食者"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES
 msgid "Slurtles and Snurtles"
-msgstr "蜗牛"
+msgstr "蛞蝓龟和蜗龟"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT
 msgid "Events"
@@ -104692,7 +104904,7 @@ msgstr "熔炉传送门背景"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_spawngate
 msgid "Ancient Gateway Portrait"
-msgstr "古老大门背景"
+msgstr "远古大门背景"
 
 #: STRINGS.SKIN_NAMES.profileflair_theforge_battlestandard
 msgid "Crocommander Standard"
@@ -105804,7 +106016,7 @@ msgstr "这肉块不是由肉组成的"
 
 #: STRINGS.SKIN_DESCRIPTIONS.lantern_winter
 msgid "A lovely stained glass lantern to illuminate your winter nights."
-msgstr "让这个可爱的玻璃彩灯来照亮你的冬夜。"
+msgstr "让这个可爱的玻璃彩灯来照亮你的冬夜。\n（2018圣诞节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.loading_webber_feast
 msgid "\"We're super excited to watch everyone open the presents we got them.\""
@@ -106156,7 +106368,7 @@ msgstr "一串年年有鱼。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.beefalohat_pigking
 msgid "The lingering Pig King smell is actually quite pleasant."
-msgstr "徘徊的猪王气味令人身心愉悦。"
+msgstr "徘徊的猪王气味令人身心愉悦。\n（2019猪年春节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.body_wathgrithr_wrestler
 msgid "This bodysuit and sash make for a dynamic look in the ring."
@@ -106272,7 +106484,7 @@ msgstr "缺少描述"
 
 #: STRINGS.SKIN_DESCRIPTIONS.reviver_cupid_3
 msgid "A stake in your heart that actually heals the undead."
-msgstr "你心中的木桩能够真正治愈那些亡灵。"
+msgstr "你心中的木桩能够真正治愈那些亡灵。\n（2019情人节礼品）"
 
 #: STRINGS.SKIN_DESCRIPTIONS.spear_wathgrithr_wrestle
 msgid "Let them try to wrestle this away from you."
@@ -107602,10 +107814,6 @@ msgstr "精美的传家宝"
 msgid "Heirloom Spiffy"
 msgstr "出色的传家宝"
 
-#: STRINGS.CHARACTER_DESCRIPTIONS.winona
-msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
-msgstr "*一个熟练的建造者\n*可以在黑暗中免疫一次攻击\n*制造她自己的小工具"
-
 #: STRINGS.SKIN_DESCRIPTIONS.body_waxwell_magma
 msgid "Armor that barely contains your fiery anger."
 msgstr "像这样的铠甲才刚好能容纳你的怒火。"
@@ -108582,14 +108790,6 @@ msgstr "它只是在睡觉"
 msgid "\"Pardon me if I don't shake your hand.\""
 msgstr "\"如果我没有和你握手，请谅解一下。\""
 
-#: STRINGS.CHARACTER_TITLES.wortox
-msgid "The Soul Starved"
-msgstr "灵魂吞噬者"
-
-#: STRINGS.CHARACTER_DESCRIPTIONS.wortox
-msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
-msgstr "*是个恶魔\n*能穿越时间与空间\n*从凡人的食物中获取不了足够的营养"
-
 #: STRINGS.CHARACTERS.WORTOX.DESCRIBE.MULTIPLAYER_PORTAL
 msgid "I can come and go as I please."
 msgstr "我可以来去自如。"
@@ -108870,14 +109070,6 @@ msgstr "它的生活很艰苦。"
 msgid "Poor lil thing."
 msgstr "可怜的小东西。"
 
-#: STRINGS.CHARACTER_ABOUTME.wolfgang
-msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
-msgstr "沃尔夫冈是一个和蔼可亲，肌肉发达却又饱\n受恐惧折磨的巨人。"
-
-#: STRINGS.CHARACTER_DESCRIPTIONS.willow
-msgid "*Is immune to fire, but hates the cold \n*Protected by her cuddly bear, Bernie \n*Can craft a reliable lighter"
-msgstr "*免疫火焰，但厌恶寒冷 \n*被她可爱的小熊伯尼所保护 \n*可以制造一个可靠的打火机"
-
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_webber
 msgid "This Rebel Chest contains Webber's complete set of Hallowed Nights skin items."
 msgstr "这个叛逆者宝箱包含\n韦伯的全套万圣夜系列皮肤。"
@@ -108950,17 +109142,9 @@ msgstr "感谢收看游戏直播"
 msgid "Thanks for watching game streams"
 msgstr "感谢收看游戏直播"
 
-#: STRINGS.CHARACTER_ABOUTME.wortox
-msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
-msgstr "沃拓克斯是一个顽皮的恶魔。它的轻浮 只是为了掩饰内心的罪恶感，因为 它被迫吞噬了许多灵魂。"
-
 #: STRINGS.CHARACTER_NAMES.wortox
 msgid "Wortox"
 msgstr "沃拓克斯"
-
-#: STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.wortox
-msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
-msgstr "*占位符"
 
 #: STRINGS.NAMES.BERNIE_BIG
 msgid "BERNIE!"
@@ -108973,10 +109157,6 @@ msgstr "沃拓克斯"
 #: STRINGS.NAMES.WORTOX_SOUL
 msgid "Soul"
 msgstr "灵魂"
-
-#: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox
-msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
-msgstr "*占位符"
 
 #: STRINGS.SKIN_DESCRIPTIONS.bernie_cat
 msgid "Willow will be so happy to see Ashley again!"
@@ -109060,7 +109240,7 @@ msgstr "水晶藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.HAUNTEDDOLL
 msgid "Forlorn Doll Collection"
-msgstr "凄惨玩偶藏品"
+msgstr "悲凉玩偶藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.MINOTAUR
 msgid "Minotaur Collection"
@@ -109072,7 +109252,7 @@ msgstr "近亲藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.ORIGINAL
 msgid "Uncorrupted Collection"
-msgstr "无邪藏品"
+msgstr "未堕落藏品"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WORTOX
 msgid "Wortox"
@@ -109100,7 +109280,7 @@ msgstr "薇洛尊贵的客人宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_willow_haunteddoll
 msgid "Willow Forlorn Doll Chest"
-msgstr "薇洛凄凉玩偶宝箱"
+msgstr "薇洛悲凉玩偶宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_willow_rose
 msgid "Willow Roseate Chest"
@@ -109124,7 +109304,7 @@ msgstr "沃拓克斯米诺陶宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_wortox_original
 msgid "Wortox Uncorrupted Chest"
-msgstr "沃拓克斯无邪宝箱"
+msgstr "沃拓克斯未堕落宝箱"
 
 #: STRINGS.SKIN_NAMES.playerportrait_bg_heatrockfire
 msgid "Metamorphosed Flame Portrait"
@@ -109168,7 +109348,7 @@ msgstr "尊贵的客人"
 
 #: STRINGS.SKIN_NAMES.willow_haunteddoll
 msgid "The Forlorn Doll"
-msgstr "凄惨玩偶"
+msgstr "悲凉玩偶"
 
 #: STRINGS.SKIN_NAMES.willow_none
 msgid "Willow"
@@ -109300,7 +109480,7 @@ msgstr "鸡尾酒礼服"
 
 #: STRINGS.SKIN_NAMES.body_willow_haunteddoll
 msgid "Forlorn Doll Frock"
-msgstr "凄凉玩偶连衣裙"
+msgstr "悲凉玩偶连衣裙"
 
 #: STRINGS.SKIN_NAMES.body_willow_rosep
 msgid "Velvet Rose Frock"
@@ -109444,7 +109624,7 @@ msgstr "观者鞋"
 
 #: STRINGS.SKIN_NAMES.feet_willow_haunteddoll
 msgid "Forlorn Doll Mary Janes"
-msgstr "凄凉玩偶玛丽珍鞋"
+msgstr "悲凉玩偶玛丽珍鞋"
 
 #: STRINGS.SKIN_NAMES.feet_workboot_black_jet
 msgid "Steel-Toed Boots"
@@ -109500,7 +109680,7 @@ msgstr "手套"
 
 #: STRINGS.SKIN_NAMES.hand_willow_haunteddoll
 msgid "Forlorn Doll Sleeves"
-msgstr "凄凉玩偶袖子"
+msgstr "悲凉玩偶袖子"
 
 #: STRINGS.SKIN_NAMES.hand_workgloves_brown_chocolate
 msgid "Unprotective Gloves"
@@ -109884,7 +110064,7 @@ msgstr "拥有数量"
 
 #: STRINGS.SKIN_NAMES.wortox_original
 msgid "The Uncorrupted"
-msgstr "无邪"
+msgstr "未堕落"
 
 #: STRINGS.SKIN_NAMES.wx78_none
 msgid "WX-78"
@@ -110200,7 +110380,7 @@ msgstr "渔网"
 
 #: STRINGS.NAMES.FRUITDRAGON
 msgid "Saladmander"
-msgstr "沙拉蝾螈"
+msgstr "沙拉曼蛇"
 
 #: STRINGS.NAMES.GESTALT
 msgid "Gestalt"
@@ -110809,10 +110989,6 @@ msgstr "哎哎...冷！"
 #: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CRAFTING_FAIL
 msgid "Failed"
 msgstr "失败"
-
-#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEERCLOPS
-msgid "Eyeball Branch Head near!"
-msgstr "头上分叉的大眼怪来了！"
 
 #: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_EAT.GENERIC
 msgid "Tasty"
@@ -111764,7 +111940,7 @@ msgstr "嘘···他正在睡觉呢"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEBRELLAHAT
 msgid "Peeping Rain Taker"
-msgstr "偷窥和接住雨的工具"
+msgstr "偷窥和接雨的工具"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.EYEPLANT
 msgid "Blinky friend"
@@ -112980,7 +113156,7 @@ msgstr "噢"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER.GENERIC
 msgid "Leggy Bug"
-msgstr "腿细长的虫子"
+msgstr "细长腿的虫子"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER.SLEEPING
 msgid "Shh..."
@@ -112988,11 +113164,11 @@ msgstr "嘘..."
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERDEN
 msgid "Home for Leggy Bugs"
-msgstr "细长腿儿虫子的窝"
+msgstr "细长腿虫子的家"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDEREGGSACK
 msgid "Leggy Bug Babies inside"
-msgstr "细长腿儿虫子的宝宝在里面"
+msgstr "细长腿虫子的宝宝在里面"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERGLAND
 msgid "Good for heart"
@@ -113000,7 +113176,7 @@ msgstr "对心脏有好处"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERHAT
 msgid "Leggy Bug head thing"
-msgstr "细长腿儿虫子头上的东西"
+msgstr "细长腿虫子头上的东西"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERHOLE
 msgid "Something hiding?"
@@ -113024,15 +113200,11 @@ msgstr "哦"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.GENERIC
 msgid "Angry Leggy Bug"
-msgstr "愤怒的细腿儿虫子"
+msgstr "愤怒的细腿虫子"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDER_WARRIOR.SLEEPING
 msgid "Sleepytime"
 msgstr "睡觉时间"
-
-#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FOOD
-msgid "Yum"
-msgstr "好吃"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPORE_MEDIUM
 msgid "So cute!"
@@ -113440,7 +113612,7 @@ msgstr "不是泥土"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UMBRELLA
 msgid "Rain Taker"
-msgstr "雨水遮蔽者"
+msgstr "接雨工具"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.UNIMPLEMENTED
 msgid "Hmm..."
@@ -113661,10 +113833,6 @@ msgstr "现在能够发光了！"
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.YELLOWGEM
 msgid "Ohhh. Shiny..."
 msgstr "哦，闪闪发光..."
-
-#: STRINGS.CHARACTER_TITLES.wormwood
-msgid "The Lonesome"
-msgstr "寂寞者"
 
 #: STRINGS.RECIPE_DESC.TRAP_BRAMBLE
 msgid "An equal opportunity annoyer."
@@ -114132,7 +114300,7 @@ msgstr "玫瑰"
 
 #: STRINGS.SKIN_NAMES.wortox_minotaur
 msgid "The Minotaur"
-msgstr "牛头人"
+msgstr "米诺陶"
 
 #: STRINGS.SKIN_NAMES.hand_wormwood_cactus
 msgid "Oasis Bound Hands"
@@ -114156,7 +114324,7 @@ msgstr "船"
 
 #: STRINGS.NAMES.DUG_TRAP_STARFISH
 msgid "Anenemy Trap"
-msgstr "敌手陷阱"
+msgstr "海葵陷阱"
 
 #: STRINGS.NAMES.OAR_DRIFTWOOD
 msgid "Driftwood Oar"
@@ -114168,7 +114336,7 @@ msgstr "野生作物"
 
 #: STRINGS.NAMES.TRAP_STARFISH
 msgid "Anenemy"
-msgstr "敌手"
+msgstr "海葵"
 
 #: STRINGS.NAMES.WORMWOOD
 msgid "Wormwood"
@@ -114251,7 +114419,6 @@ msgid "Too much fighting!"
 msgstr "太多打斗！"
 
 #: STRINGS.CHARACTERS.WORMWOOD.ACTIONFAIL.SADDLE.TARGETINCOMBAT
-msgid "Too much fighting"（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Too much fighting!"
 msgstr "太多打斗！"
 
@@ -114260,7 +114427,6 @@ msgid "What to wrap... What to wrap..."
 msgstr "包装什么...包装什么..。"
 
 #: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_CANFIX
-msgid "\nFixed it!"（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "\nCan fix it!"
 msgstr "\n可以修好它！"
 
@@ -114301,7 +114467,6 @@ msgid "Nice under here"
 msgstr "这下面很棒"
 
 #: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_SOAKED
-msgid "Really wet"（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Too wet!"
 msgstr "太湿了！"
 
@@ -114370,7 +114535,6 @@ msgid "Smokey"
 msgstr "嗯..."
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CAVE_EXIT.OPEN
-msgid "Open now"（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Open"
 msgstr "打开了"
 
@@ -114619,7 +114783,6 @@ msgid "Little belly thing"
 msgstr "份量小的食物"
 
 #: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPIDERQUEEN
-msgid "Leggy Bug Boss"（旧文本，修改或确认旧译文无误后请删除此行）
 msgid "Leggy Bug Mommy"
 msgstr "细长腿虫子的妈妈"
 
@@ -114733,4 +114896,1063 @@ msgstr "感觉不太好"
 
 #: STRINGS.SKIN_QUOTES.wathgrithr_magma
 msgid "\"I fear nöt Surtr's flames!\""
-msgstr "\"吾无惧苏尔特之火！\"""
+msgstr "\"吾无惧苏尔特之火！\""
+
+#: STRINGS.CHARACTERS.WORMWOOD.ANNOUNCE_DEERCLOPS
+msgid "Something scary coming!!"
+msgstr "某种疯狂的东西来了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.SPOILED_FOOD
+msgid "Not good for belly"
+msgstr "对肚子不好"
+
+#: STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WATER
+msgid "Launch"
+msgstr "入水"
+
+#: STRINGS.CHARACTERS.GENERIC.ANNOUNCE_WASHED_ASHORE
+msgid "I'm wet, but alive."
+msgstr "我湿透了，但还活着。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCHOR
+msgid "I wouldn't want my boat to float away."
+msgstr "我不会想让我的船飘走的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANCHOR_ITEM
+msgid "Now I can build an anchor."
+msgstr "现在我能造一个锚了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ANTCHOVIES
+msgid "Yeesh. Can I toss it back?"
+msgstr "噫，我能把它扔回去吗？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARMOR_BRAMBLE
+msgid "The best offense is a good defense."
+msgstr "最好的进攻就是最好的防守。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATHBOMB
+msgid "It's just textbook chemistry."
+msgstr "不过是教科书上的化学。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_BIG
+msgid "Remind me not to get on Willow's bad side."
+msgstr "提醒我不要和薇洛唱反调。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT01
+msgid "Not much left of it."
+msgstr "没剩下多少。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT02
+msgid "Not much left of it."
+msgstr "没剩下多少。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT03
+msgid "Not much left of it."
+msgstr "没剩下多少。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT04
+msgid "Not much left of it."
+msgstr "没剩下多少。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT05
+msgid "Not much left of it."
+msgstr "没剩下多少。"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CLAYHOUND.STATUE
+msgid "Good Woofer. Stay"
+msgstr "好汪汪兽。坐着"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CLAYWARG.GENERIC
+msgid "Aggh! Alive now!"
+msgstr "啊啊！现在活过来了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CLAYWARG.STATUE
+msgid "Real Woofer?"
+msgstr "真的汪汪兽？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CRITTER_PUPPY
+msgid "Little Woofer! Woof!"
+msgstr "小汪汪兽！嗷呜！"
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.HOUNDWHISTLE
+msgid "Tweet Tweet for Woofer"
+msgstr "给汪汪兽的笛子"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.MUTATEDHOUND.GENERIC
+msgid "Where clothes, Woofer?"
+msgstr "你的衣服呢，汪汪兽？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WARGSHRINE.GENERIC
+msgid "Yellow Woofer has house"
+msgstr "黄色的汪汪兽有一个家"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHR.FIRESTARTER
+msgid "Too much fire! Too much!"
+msgstr "太多火了！太多了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHR.GENERIC
+msgid "%s is strong friend"
+msgstr "%s是个强壮的朋友"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHR.GHOST
+msgid "Oh. Hello, Floaty Friend!"
+msgstr "噢。你好。漂浮的朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHR.MURDERER
+msgid "%s is bad!"
+msgstr "%s很坏！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WATHGRITHR.REVIVER
+msgid "%s is good Floaty Friend fixer"
+msgstr "%s是个很好的漂浮朋友修复者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.ATTACKER
+msgid "Not nice, %s!"
+msgstr "很差劲，%s！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.FIRESTARTER
+msgid "%s made too much fire!"
+msgstr "%s点了太多火了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.GHOST
+msgid "You okay, %s?"
+msgstr "你还好吗。%s？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.MURDERER
+msgid "Bad %s. Make not alive!"
+msgstr "坏%s，让人不再活着了！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WAXWELL.REVIVER
+msgid "Thank you, %s!"
+msgstr "谢谢你，%s！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.ATTACKER
+msgid "No! Hurting bad!"
+msgstr "不！伤人是坏的！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.FIRESTARTER
+msgid "Fire bad, %s! Fire bad!"
+msgstr "火很坏，%s！火很坏！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.GENERIC
+msgid "Hello Leggy Bug friend!"
+msgstr "你好细长腿的虫子朋友！"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.GHOST
+msgid "Like being floaty, %s?"
+msgstr "喜欢飘着吗，%s？"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.MURDERER
+msgid "Bad! Made friends not alive"
+msgstr "坏人！让朋友们不再活着"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER.REVIVER
+msgid "%s is friend fixer"
+msgstr "%s是朋友修复者"
+
+#: STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.WEBBER_SPIDER_MINION
+msgid "Baby Leggy Bugs like helping"
+msgstr "细长腿的虫子宝宝喜欢帮忙"
+
+#: STRINGS.SKIN_NAMES.backpack_chester
+msgid "Chester Backpack"
+msgstr "切斯特背包"
+
+#: STRINGS.SKIN_NAMES.body_wormwood_mushroom
+msgid "Hollow Trunk"
+msgstr "空洞树干"
+
+#: STRINGS.SKIN_NAMES.body_wormwood_rose
+msgid "Hedgerose Trunk"
+msgstr "玫瑰灌木树干"
+
+#: STRINGS.SKIN_NAMES.bugnet_spider_white
+msgid "Cavernous Spidernet"
+msgstr "空洞的蜘蛛网"
+
+#: STRINGS.SKIN_NAMES.eyebrellahat_crystal
+msgid "Glass Eyebrella"
+msgstr "玻璃眼球伞"
+
+#: STRINGS.SKIN_NAMES.hand_wormwood_mushroom
+msgid "Hollow Hands"
+msgstr "空洞双手"
+
+#: STRINGS.SKIN_NAMES.hand_wormwood_rose
+msgid "Hedgerose Fingers"
+msgstr "玫瑰灌木手指"
+
+#: STRINGS.SKIN_NAMES.icebox_crystal
+msgid "Crystalline Ice Box"
+msgstr "水晶冰箱"
+
+#: STRINGS.SKIN_NAMES.legs_wormwood_mushroom
+msgid "Hollow Legs"
+msgstr "空洞双腿"
+
+#: STRINGS.SKIN_NAMES.legs_wormwood_rose
+msgid "Hedgerose Legs"
+msgstr "玫瑰灌木双腿"
+
+#: STRINGS.SKIN_NAMES.moonstaff_crystal
+msgid "Prismatic Moon Caller's Staff"
+msgstr "棱镜唤月魔杖"
+
+#: STRINGS.SKIN_NAMES.starstaff_crystal
+msgid "Radiant Star Caller's Staff"
+msgstr "辐辉唤星魔杖"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.EYEBRELLAHAT
+msgid "Eyebrella"
+msgstr "眼球伞"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.OPALSTAFF
+msgid "Moon Caller's Staff"
+msgstr "唤月魔杖"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.ITEM.YELLOWSTAFF
+msgid "Star Caller's Staff"
+msgstr "唤星魔杖"
+
+#: STRINGS.TABS.NATURE
+msgid "Green Thumb"
+msgstr "园艺"
+
+#: STRINGS.UI.SKINTYPES.CYCLE_VIEW
+msgid "Cycle View"
+msgstr "循环显示"
+
+#: STRINGS.UI.SKINTYPES.GHOST
+msgid "Ghost"
+msgstr "鬼魂"
+
+#: STRINGS.UI.SKINTYPES.GHOST_WEREBEAVER
+msgid "Ghost Werebeaver"
+msgstr "海狸鬼魂"
+
+#: STRINGS.UI.SKINTYPES.MIGHTY
+msgid "Mighty"
+msgstr "强壮"
+
+#: STRINGS.UI.SKINTYPES.NORMAL
+msgid "Normal"
+msgstr "普通"
+
+#: STRINGS.UI.SKINTYPES.WEREBEAVER
+msgid "Werebeaver"
+msgstr "海狸"
+
+#: STRINGS.UI.SKINTYPES.WIMPY
+msgid "Wimpy"
+msgstr "虚弱"
+
+#: STRINGS.UI.SKINTYPES.WORMWOOD_STAGE2
+msgid "Bloom 1"
+msgstr "开花1"
+
+#: STRINGS.UI.SKINTYPES.WORMWOOD_STAGE3
+msgid "Bloom 2"
+msgstr "开花2"
+
+#: STRINGS.UI.SKINTYPES.WORMWOOD_STAGE4
+msgid "Bloom 3"
+msgstr "开花3"
+
+#: STRINGS.SKIN_DESCRIPTIONS.moonstaff_crystal
+msgid "A jeweled, opalescent staff, imbued with the moon's shimmering power."
+msgstr "一根镶嵌乳白色珠宝的魔杖，浸透着月亮闪耀的力量。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_character_wormwood
+msgid "This Wormwood Chest contains the playable character, Wormwood: The Lonesome, as well as Wormwood's complete set of Roseate skin items."
+msgstr "这个沃姆伍德宝箱包含玩家可用角色，孤独者——沃姆伍德，以及沃姆伍德的全套玫瑰皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_character_wortox
+msgid "This Wortox Chest contains the playable character, Wortox: The Soul Starved, as well as Wortox's complete set of Survivor skin items."
+msgstr "这个沃姆伍德宝箱包含玩家可用角色，灵魂吞噬者——沃拓克斯，以及沃拓克斯的全套幸存者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_hamlet_wormwood
+msgid "Don't Starve: Wormwood"
+msgstr "饥荒：沃姆伍德"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_haunteddoll_items
+msgid "This Ghastly Attic Chest contains the following skin items: Cursed Sterling Lighter, Baleful Lace Parasol, and Ashley."
+msgstr "这个闹鬼阁楼宝箱仓库宝箱包含以下皮肤物：诅咒纯银打火机，不详的花边阳伞和艾希莉。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_deluxe
+msgid "This Deluxe Wardrobe contains Willow's complete set of Guest of Honor, Roseate, Survivor, Triumphant, and Forlorn Doll skin items."
+msgstr "这个豪华衣柜包含薇洛的全套尊贵的客人、玫瑰、幸存者、胜者和悲凉玩偶皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_formal
+msgid "This Chest contains Willow's complete set of Guest of Honor skin items."
+msgstr "这个宝箱包含薇洛的全套尊贵的客人皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_haunteddoll
+msgid "This Chest contains Willow's complete set of Forlorn Doll skin items."
+msgstr "这个宝箱包含薇洛的全套悲凉玩偶皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_rose
+msgid "This Chest contains Willow's complete set of Roseate skin items."
+msgstr "这个宝箱包含薇洛的全套玫瑰皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_shadow
+msgid "This Chest contains Willow's complete set of Triumphant skin items."
+msgstr "这个宝箱包含薇洛的全套胜者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_willow_survivor
+msgid "This Chest contains Willow's complete set of Survivor skin items."
+msgstr "这个宝箱包含薇洛的全幸存者皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_cactus
+msgid "This Chest contains Wormwood's complete set of Oasis Bound skin items."
+msgstr "这个宝箱包含沃姆伍德的全套绿洲边境皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxe
+msgid "This Deluxe Chest contains the Wormwood character and his complete set of Hollow, Oasis Bound, and Roseate skin items."
+msgstr "这个豪华宝箱包含沃姆伍德角色和他的全套空洞、绿洲边境和玫瑰皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_deluxealt
+msgid "This Deluxe Wardrobe contains the Wormwood's complete set of Hollow, Oasis Bound, and Roseate skin items."
+msgstr "这个豪华衣柜包含沃姆伍德的全套空洞、绿洲边境和玫瑰皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_mushroom
+msgid "This Chest contains Wormwood's complete set of Hollow skin items."
+msgstr "这个宝箱包含沃姆伍德的全空洞皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_rose
+msgid "This Chest contains Wormwood's complete set of Roseate skin items."
+msgstr "这个宝箱包含沃姆伍德的全套玫瑰皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wortox_deluxe
+msgid "This Deluxe Chest contains the Wortox character and his complete set of Minotaur, Survivor, and Uncorrupted skin items."
+msgstr "这个豪华宝箱包含沃拓克斯角色和他的全套米诺陶、幸存者和未堕落物品"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wortox_minotaur
+msgid "This Chest contains Wortox's complete set of Minotaur skin items."
+msgstr "这个宝箱包含沃拓克斯的全套米诺陶皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_wortox_original
+msgid "This Chest contains Wortox's complete set of Uncorrupted skin items."
+msgstr "这个宝箱包含沃拓克斯的全套未堕落皮肤物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_heatrockfire
+msgid "Equip this item to change your character's background portrait."
+msgstr "使用这个藏品来改变你的角色背景图案。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.profileflair_heatrock_fire
+msgid "Set your profile icon to a mysterious solidified flame."
+msgstr "将你的头像设置为神秘的凝固火焰。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal
+msgid "A blindingly beautiful staff, filled with the magic of stars."
+msgstr "一根美丽闪耀的魔杖，充满着群星的魔力。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.umbrella_parasol
+msgid "The previous owner must not have liked the sun."
+msgstr "上一个拥有者一定不喜欢太阳。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.heatrock_fire
+msgid "A vibrant flame extracted in crystallized form from a passionate soul."
+msgstr "一个生机勃勃的火焰，被以结晶的形式从一个充满激情的灵魂中提取出来。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.icebox_crystal
+msgid "As icy inside as it is outside."
+msgstr "内在和外表一样冰冷。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.eyebrellahat_crystal
+msgid "Somewhere in the Constant there's a Deerclops missing her contact lens."
+msgstr "在永恒领域的某个角落，有一只独眼巨鹿弄丢了她的隐形眼镜。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.bugnet_spider_white
+msgid "It's nice not to be the one getting eaten for a change."
+msgstr "没有因为换换口味而被吃掉是件好事。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DEAD_SEA_BONES
+msgid "Adapt or perish."
+msgstr "适应或灭亡。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.DRIFTWOOD_LOG
+msgid "Oh good. More wood."
+msgstr "噢，好。更多的木头。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "I must have your knowledge."
+msgstr "我一定要得到你的知识。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "I hear you in there."
+msgstr "我听到你在里面了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "A-ha!"
+msgstr "啊-哈！"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "I must have your knowledge."
+msgstr "我一定要得到你的知识。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "I hear you in there."
+msgstr "我听到你在里面了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "A-ha!"
+msgstr "啊-哈！"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "I must have your knowledge."
+msgstr "我一定要得到你的知识。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "I hear you in there."
+msgstr "我听到你在里面了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "A-ha!"
+msgstr "啊-哈！"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BOAT_SINK
+msgid "Oh dear."
+msgstr "噢天啊。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "Someone has enchanted it already."
+msgstr "某人已经给它施了魔法了。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "'Tis shielded!"
+msgstr "这有屏障！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ACTIONFAIL.SAIL.REPAIR
+msgid "No need, the ship's spirit is strong."
+msgstr "不需要，船之魂灵依旧强健。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_LEAK
+msgid "Our vessel hath sprung a leak!"
+msgstr "我们的船漏水了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_BOAT_SINK
+msgid "A Viking shalln't abandon her ship!"
+msgstr "一个维京人不应该抛弃她的船！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_FLARE_SEEN
+msgid "My allies beckon me!"
+msgstr "我的盟友在召唤我！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "Thy form takes shape!"
+msgstr "你就要成型了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "It calls from within!"
+msgstr "它在从里面召唤我！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "Taste thy freedom!"
+msgstr "感受自由吧！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "Thy form takes shape!"
+msgstr "你就要成型了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "It calls from within!"
+msgstr "它在从里面召唤我！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "Taste thy freedom!"
+msgstr "感受自由吧！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "Thy form takes shape!"
+msgstr "你就要成型了！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "It calls from within!"
+msgstr "它在从里面召唤我！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "Taste thy freedom!"
+msgstr "感受自由吧！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANCHOR_ITEM
+msgid "I will craft the finest ship in the land!"
+msgstr "我会造出这片土地上最好的船！"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.ANTCHOVIES
+msgid "I wrested them from the sea."
+msgstr "我从大海手中夺走了它们。"
+
+#: STRINGS.CHARACTERS.WATHGRITHR.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "A gargantuan foe approaches!"
+msgstr "一个庞大的敌人来了！"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_BOAT_LEAK
+msgid "We've sprung a leak!"
+msgstr "我们漏水了！"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_FLARE_SEEN
+msgid "Am I supposed to come running every time I spot a flare?"
+msgstr "我是不是每次看到闪光得都跑过来？"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "We're in for some trouble."
+msgstr "我们有麻烦了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.ANNOUNCE_WASHED_ASHORE
+msgid "My suit is drenched in salt water."
+msgstr "我的西装被盐水浸透了。"
+
+#: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.ANCHOR
+msgid "I can drop it to keep the boat in place."
+msgstr "我能放下它来保持船停在这里。"
+
+#: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_WASHED_ASHORE
+msgid "Our fur is soaking wet!"
+msgstr "我们的皮毛被浸湿了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCHOR
+msgid "It's really, really heavy."
+msgstr "它真的，真的很重。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCHOR_ITEM
+msgid "That's for making an anchor."
+msgstr "这是用来做一个船锚的。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATHBOMB
+msgid "I miss bubble baths."
+msgstr "我想念泡泡浴了。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOATFRAGMENT01
+msgid "Oh no, someone had an accident!"
+msgstr "哦不，有人遇到事故了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOATFRAGMENT02
+msgid "Oh no, someone had an accident!"
+msgstr "哦不，有人遇到事故了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOATFRAGMENT03
+msgid "Oh no, someone had an accident!"
+msgstr "哦不，有人遇到事故了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOATFRAGMENT04
+msgid "Oh no, someone had an accident!"
+msgstr "哦不，有人遇到事故了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOATFRAGMENT05
+msgid "Oh no, someone had an accident!"
+msgstr "哦不，有人遇到事故了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARRAT.DEAD
+msgid "Oh no!"
+msgstr "哦不！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARRAT.GENERIC
+msgid "Hey, little friend!"
+msgstr "嘿，小朋友！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARRAT.HELD
+msgid "We'll keep you safe."
+msgstr "我们会保证你安安全全的。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARRAT.SLEEPING
+msgid "Night night."
+msgstr "晚安。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS_ROCK
+msgid "Is the moon green, too?"
+msgstr "月球也是绿色的吗？"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_ROCK_GLASS
+msgid "Oh no, someone's trapped inside that rock!"
+msgstr "哦不，有人被困在那块岩石里了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_ROCK_IDOL
+msgid "Oh no, someone's trapped inside that rock!"
+msgstr "哦不，有人被困在那块岩石里了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_ROCK_SEED
+msgid "Oh no, someone's trapped inside that rock!"
+msgstr "哦不，有人被困在那块岩石里了！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASS
+msgid "It came from the moon. Wow!"
+msgstr "它来自月球！哇哦！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONGLASSAXE
+msgid "We think it cuts better than a regular axe."
+msgstr "我们觉得它比普通斧头更锋利。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONSPIDERDEN
+msgid "I don't want to be friends with those ones."
+msgstr "我不想和那些家伙交朋友。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR.GENERIC
+msgid "Hm? Do you need something from me?"
+msgstr "嗯？你需要我的什么东西吗？"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR.MOON_ALTAR_WIP
+msgid "Don't worry, you'll be together again soon."
+msgstr "别担心，你们很快会再在一起的。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_GLASS
+msgid "It can't talk like we do, but it's a friend."
+msgstr "它不能像我们一样说话，但它是个朋友。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_IDOL
+msgid "It doesn't want to be here. We don't either."
+msgstr "它不想待在这里。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_ALTAR_SEED
+msgid "It wants to go to one of those cracks in the ground."
+msgstr "它想要去其中一个地面上的裂缝里。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_FISSURE.GENERIC
+msgid "It's trying to talk, we think!"
+msgstr "我们觉得它在试图说话！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_FISSURE.NOLIGHT
+msgid "Don't step on a crack!"
+msgstr "不要踩着裂缝！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOON_TREE.BURNING
+msgid "I hope trees don't feel pain."
+msgstr "我希望树们不会感到疼痛。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_MOON.DEAD
+msgid "Sorry!"
+msgstr "对不起！"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_MOON.GENERIC
+msgid "These friends look... weird."
+msgstr "那些朋友看起来...很怪。"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_MOON.SLEEPING
+msgid "Night-night, scary friend."
+msgstr "晚安，可怕的朋友。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.ALREADY_BOMBED
+msgid "It's already been done."
+msgstr "已经有人这么做过了。"
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.BATHBOMB.GLASSED
+msgid "It's covered in glass..."
+msgstr "它被玻璃覆盖着..."
+
+#: STRINGS.CHARACTERS.WENDY.ACTIONFAIL.SAIL.REPAIR
+msgid "It looks okay to me."
+msgstr "对我来说看着还不错。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_BOAT_LEAK
+msgid "Our boat weeps salty tears."
+msgstr "我们的船流淌着盐渍的泪水。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_BOAT_SINK
+msgid "Here I come, Ophelia."
+msgstr "我来了，奥菲丽娅。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BULLKELP_PLANT.GENERIC
+msgid "It's just seaweed."
+msgstr "这只是海带。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.BULLKELP_PLANT.PICKED
+msgid "There's no more seaweed here."
+msgstr "这里没有更多的海带了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.DEAD_SEA_BONES
+msgid "The sea rejects its dead."
+msgstr "大海拒绝了它的尸体。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATEDHOUND.DEAD
+msgid "It's better this way."
+msgstr "这是最好的方法。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATEDHOUND.GENERIC
+msgid "For this creature, to live is to suffer."
+msgstr "对于这种生物，活着就是受苦。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATEDHOUND.SLEEPING
+msgid "Don't wake up."
+msgstr "别醒来。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATED_PENGUIN.DEAD
+msgid "It's better this way."
+msgstr "这是最好的方法。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATED_PENGUIN.GENERIC
+msgid "To let it live would be a cruelty."
+msgstr "让它活着太残忍了。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.MUTATED_PENGUIN.SLEEPING
+msgid "Don't wake up."
+msgstr "别醒来。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.OAR
+msgid "I'd prefer to be stranded at sea."
+msgstr "我宁愿被困在海上。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_FLARE_SEEN
+msgid "Someone just shot a flare..."
+msgstr "有人刚刚发射了一颗信号弹..."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.GLASS_LOW
+msgid "Almost."
+msgstr "就快了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.GLASS_MED
+msgid "I'll get you out..."
+msgstr "我会把你弄出来..."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.GLASS_REVEAL
+msgid "There."
+msgstr "好了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.IDOL_LOW
+msgid "Almost."
+msgstr "就快了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.IDOL_MED
+msgid "I'll get you out..."
+msgstr "我会把你弄出来..."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.IDOL_REVEAL
+msgid "There."
+msgstr "好了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.SEED_LOW
+msgid "Almost."
+msgstr "就快了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.SEED_MED
+msgid "I'll get you out..."
+msgstr "我会把你弄出来..."
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_MOONALTAR_MINE.SEED_REVEAL
+msgid "There."
+msgstr "好了。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_OCEAN_SILHOUETTE_INCOMING
+msgid "Death casts its black shadow upon us."
+msgstr "死亡在我们身上投下阴影。"
+
+#: STRINGS.CHARACTERS.WENDY.ANNOUNCE_WASHED_ASHORE
+msgid "Oh good... I lived."
+msgstr "噢好...我活着。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_METEOR
+msgid "Some ground."
+msgstr "一些土地。"
+
+#: STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_PEBBLEBEACH
+msgid "Some ground."
+msgstr "一些土地。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.backpack_chester
+msgid "He's a chest! He's a backpack! Chester is a lad of many talents."
+msgstr "那个人他是箱子！是背包！切斯特真是个多才多艺的家伙。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_rosep
+msgid "Momentarily slake your thirst for fire and brimstone by wrapping yourself in a lovely frock."
+msgstr "用一件可爱的外衣包裹自己，一下子消除你对火和硫磺的渴望。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_shadowp
+msgid "This dress flickers as if it were on fire... If that fire were made of shadows."
+msgstr "在裙子好像在火中飞舞一样…如果那火是由阴影构成的话。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_survivorp
+msgid "These clothes aren't good for anything except fueling a fire."
+msgstr "这些衣服对任何东西都不好，除非在上面加点油。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATPATCH
+msgid "Just in case of disaster."
+msgstr "只是以防万一。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ITEM
+msgid "It would be nice to do some experiments on the water."
+msgstr "在水上做一点实验会很棒的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_LEAK
+msgid "I should patch that up before we sink."
+msgstr "我应该在我们沉没之前把它补好。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.GENERIC
+msgid "Welp. It's kelp."
+msgstr "好吧，是海带。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.PICKED
+msgid "I just couldn't kelp myself."
+msgstr "我就是控制不住我自己。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_ROOT
+msgid "I can plant it in deep water."
+msgstr "我能在深水里种植它。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.DEAD
+msgid "That's the end of that."
+msgstr "到此为止了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.GENERIC
+msgid "Are carrots supposed to have legs?"
+msgstr "胡萝卜通常会有腿吗？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.HELD
+msgid "You're kind of ugly up close."
+msgstr "你近看还是挺丑的。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.SLEEPING
+msgid "It's almost cute."
+msgstr "简直太可爱了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_ANCHOR
+msgid "It's as heavy as it looks."
+msgstr "它比看上去的还要重。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_BUTTERFLY
+msgid "It looks nice, doesn't it?"
+msgstr "看起来不错，不是吗？"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CHESSPIECE_MOON
+msgid "I've been feeling pretty inspired lately."
+msgstr "最近我一直感觉很受启发。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.COMPOSTWRAP
+msgid "Wormwood offered me a bite, but I respectfully declined."
+msgstr "沃姆伍德曾邀请我吃一口，但我礼貌地谢绝了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CRITTER_LUNARMOTHLING
+msgid "I keep her around because she's good at mothematics."
+msgstr "我留她在身边是因为她擅长做蛾子做的事。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DEAD_SEA_BONES
+msgid "That's what they get for coming up on land."
+msgstr "这是他们上岸后的收获。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_LOG
+msgid "It floats on water."
+msgstr "它浮在水面上。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_TREE.BURNING
+msgid "That driftwood's burning!"
+msgstr "那浮木在燃烧！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_TREE.BURNT
+msgid "Doesn't look very useful anymore."
+msgstr "看起来不再有用了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_TREE.CHOPPED
+msgid "There might still be something worth digging up."
+msgstr "也许还有一些值得挖掘的东西。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DRIFTWOOD_TREE.GENERIC
+msgid "A dead tree that washed up on shore."
+msgstr "一棵被冲上岸的枯树。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.DUG_TRAP_STARFISH
+msgid "It's not fooling anyone now."
+msgstr "它现在再也骗不了谁了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FISHINGNET
+msgid "Nothing but net."
+msgstr "网里除了网什么也没有。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRUITDRAGON.GENERIC
+msgid "It's cute, but it's not ripe yet."
+msgstr "它很可爱，但还没熟。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRUITDRAGON.RIPE
+msgid "I think it's ripe now."
+msgstr "我觉得它已经熟了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FRUITDRAGON.SLEEPING
+msgid "It's snoozing."
+msgstr "它在打盹。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GESTALT
+msgid "They're promising me... knowledge."
+msgstr "他们向我承诺…知识。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GLASSCUTTER
+msgid "I'm not really cut out for fighting."
+msgstr "我真的不切合战斗。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOTSPRING.BOMBED
+msgid "Just a simple chemical reaction."
+msgstr "只是一个简单的化学反应。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOTSPRING.GENERIC
+msgid "If only I could soak my weary bones."
+msgstr "要是我能把我劳累的筋骨泡一下就好了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOTSPRING.GLASS
+msgid "Water turns to glass under the moon. That's just science."
+msgstr "在月球上水会转变成玻璃，这就是科学。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOUNDCORPSE.BURNING
+msgid "I think we're safe now."
+msgstr "我觉得我们现在安全了。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOUNDCORPSE.GENERIC
+msgid "The smell is not the most pleasant."
+msgstr "这味道真不好闻。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.HOUNDCORPSE.REVIVING
+msgid "Science save us!"
+msgstr "科学救救我们！"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.ICEBERG.GENERIC
+msgid "Let's steer clear of that."
+msgstr "让我们避开它。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_cableknit_sweater_tan_khaki
+msgid "A 'flat fish tan' colored sweater. It'll keep you warm, but it's oh so itchy."
+msgstr "一件“比目鱼棕褐”色的毛衣。虽然能保暖，但是穿着又扎又痒。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_swimsuit2_blue_lightning
+msgid "A 'lightning goat blue' colored suit for swimming in, if you could swim. Which you can't."
+msgstr "一件“伏特羊蓝”色泳装"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_swimsuit_red_ruby
+msgid "A daring 'red gem red' colored outfit for swimming."
+msgstr "一件大胆的“红宝石红”色泳装。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_trenchcoat_grey_dark
+msgid "A fashionable but unprotective trench coat in a 'stormcloud gray' color."
+msgstr "一件时尚而非防护用“暴风云灰”色的风衣。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_trenchcoat_tan_clay
+msgid "A fashionable but unprotective trench coat in a 'muddy shoes tan' color."
+msgstr "一件时尚而非防护用“泥泞鞋子棕黄”色的风衣。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_blue_sky
+msgid "Get your glad rags on with this 'schematic blue' colored shirt."
+msgstr "给你的晚礼服配上“蓝图蓝”色的衬衫。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_green_celadon
+msgid "Get your glad rags on with this 'shipwrecked green' colored shirt."
+msgstr "给你的晚礼服配上“海难绿”色的衬衫。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_trimmed_blouse_pink_pearl
+msgid "Get your glad rags on with this 'pigman pink' colored shirt."
+msgstr "给你的晚礼服配上“猪人粉”色的衬衫。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_blue_cerulean
+msgid "A 'cobaltous oxide blue' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
+msgstr "一件“氧化钴蓝”色的衬衫。威尔逊正在研发一种W恤，但这个原型体更像是“T”而非“W”。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_green_leaf
+msgid "A 'lief green' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
+msgstr "一件“树叶绿”色的衬衫。威尔逊正在研发一种W恤，但这个原型体更像是“T”而非“W”。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_tshirt_orange_pumpkin
+msgid "A 'pumpkin orange' colored shirt. Wilson is working on a W-shirt, but this prototype came out more T-shaped."
+msgstr "一件“南瓜橙”色的衬衫。威尔逊正在研发一种W恤，但这个原型体更像是“T”而非“W”。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_tweedvest_pink_raspberry
+msgid "Don't get lost in the tweeds wearing this 'wibbly wobbly pinky winky pink' colored souvenir from the Village of Tweed."
+msgstr "千万不要迷恋这件“摇摇晃晃嫩骚粉”色的背心。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.body_willow_formalp
+msgid "Everybody needs a little black dress. (Conveniently, it hides ash stains.)"
+msgstr "每个人都需要一件黑色小礼服。（它能隐藏灰尘污渍，非常方便。）"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_ankleboot_black_jet
+msgid "These are boots. They come up to your ankles. This pair is 'disilluminated black' colored."
+msgstr "一双高度只到脚踝的靴子，是“无光黑”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_ankleboot_brown_beaver
+msgid "These are boots. They come up to your ankles. This pair is 'werebeaver brown' colored."
+msgstr "一双高度只到脚踝的靴子，是“海狸褐”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_ankleboot_grey_dark
+msgid "These are boots. They come up to your ankles. This pair is 'stormcloud gray' colored."
+msgstr "一双高度只到脚踝的靴子，是“暴风云灰”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_ankleboot_red_firehound
+msgid "These are boots. They come up to your ankles. This pair is 'firehound red' colored."
+msgstr "一双高度只到脚踝的靴子，是“火猎犬红”色的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_buckle_shoe_black_jet
+msgid "One, two, buckle your 'disilluminated black' colored shoe."
+msgstr "一个，两个，扣好你“无光黑”色的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_buckle_shoe_navy_phthalo
+msgid "One, two, buckle your 'monastral blue' colored shoe."
+msgstr "一个，两个，扣好你“酞青”色的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_buckle_shoe_pink_mulberry
+msgid "One, two, buckle your 'nightmare pink' colored shoe."
+msgstr "一个，两个，扣好你“梦魇粉”色的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_buckle_shoe_red_garnet
+msgid "One, two, buckle your 'wormgut red' colored shoe."
+msgstr "一个，两个，扣好你“虫胆红”色的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wormwood_cactus
+msgid "The closer you get to someone, the more you hurt them. At least when you're covered in spines."
+msgstr "当你离一个人越近，你就越容易伤害他。至少在你全身布满刺的时候是这样的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wormwood_mushroom
+msgid "Wormwood's head is completely hollow, unlike his heart."
+msgstr "不像他的心灵，沃姆伍德的脑袋完全是空洞的。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wormwood_none
+msgid "Wormwood just woke up and is ready to venture out in search of some friends."
+msgstr "沃姆伍德刚刚醒来，准备去探险寻找朋友了。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wormwood_rose
+msgid "Sometimes the last to bloom is the most beautiful flower."
+msgstr "有时候，最后盛开的花才是最美丽的花。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.wortox_survivor
+msgid "Wortox is playing the part of the grizzled goblin."
+msgstr "沃拓克斯打扮成了一个愤怒的哥布林。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_buckle_shoe_tan_clay
+msgid "One, two, buckle your 'muddy shoes tan' colored shoe."
+msgstr "一个，两个，扣好你“泥泞鞋子棕黄”色的鞋子。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_captoe_shoe_black_jet
+msgid "Feel scholarly in these 'disilluminated black' colored shoes, named after Oxford University."
+msgstr "穿上这双以牛津大学命名的“无光黑”色鞋子，你会感到自己很有学者气息。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_captoe_shoe_brown_beaver
+msgid "Feel scholarly in these 'werebeaver brown' colored shoes, named after Oxford University."
+msgstr "穿上这双以牛津大学命名的“海狸褐”色鞋子，你会感到自己很有学者气息。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_captoe_shoe_navy_midnight
+msgid "Feel scholarly in these 'begs the question blue' colored shoes, named after Oxford University."
+msgstr "穿上这双以牛津大学命名的“问号蓝”色鞋子，你会感到自己很有学者气息。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_captoe_shoe_tan_beefalo
+msgid "Feel scholarly in these 'beefalo tan' colored shoes, named after Oxford University."
+msgstr "穿上这双以牛津大学命名的“皮弗娄牛棕黄”色鞋子，你会感到自己很有学者气息。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_captoe_shoe_white_ivory
+msgid "Feel scholarly in these 'houndbone white' colored shoes, named after Oxford University."
+msgstr "穿上这双以牛津大学命名的“猎犬尸骨白”色鞋子，你会感到自己很有学者气息。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_formal_stilettop_black_scribble
+msgid "High-heeled 'scribble black' colored dress shoes."
+msgstr "一双高跟的“涂鸦黑”色礼服鞋。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_formal_winklepicker_white_ivory
+msgid "'Houndbone white' colored shoes for picking winkles in."
+msgstr "一双“猎犬尸骨白”色的鞋子，尖头足以撬开生蚝。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_loafers_black_jet
+msgid "You probably shouldn't loaf around all day, even in these 'disilluminated black' colored loafers."
+msgstr "即便是穿了双“无光黑”色的乐福鞋，你也不该整日无所事事。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_loafers_brown_beaver
+msgid "You probably shouldn't loaf around all day, even in these 'werebeaver brown' colored loafers."
+msgstr "即便是穿了双“海狸褐”色的乐福鞋，你也不该整日无所事事。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_loafers_orange_sienna
+msgid "You probably shouldn't loaf around all day, even in these 'leaves in autumn orange' colored loafers."
+msgstr "即便是穿了双“秋叶橙”色的乐福鞋，你也不该整日无所事事。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.feet_loafers_tan_khaki
+msgid "You probably shouldn't loaf around all day, even in these 'flat fish tan' colored loafers."
+msgstr "即便是穿了双“比目鱼棕褐”色的乐福鞋，你也不该整日无所事事。"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KELP
+msgid "It gets my pockets all wet and gross."
+msgstr "它把我的口袋弄得又湿又脏。"
