@@ -115956,3 +115956,5131 @@ msgstr "即便是穿了雙「比目魚棕褐」色的樂福鞋，你也不該整
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.KELP
 msgid "It gets my pockets all wet and gross."
 msgstr "它把我的口袋弄得又濕又臟。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.BURNING
+msgid "It, oh, it appears to be on fire."
+msgstr "它，哦，它似乎著火了。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.CHANGEIN.GENERIC
+msgid "I guess it never occurred to me I'd need to change."
+msgstr "我從來不覺得我需要換衣服。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.GENERIC
+msgid "I'm not quite ready yet."
+msgstr "我還沒準備好。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.COOK.TOOFAR
+msgid "I'll need to get a little closer to cook with that."
+msgstr "我需要靠近一點才能用那個烹飪。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.DEAD
+msgid "Oh dear..."
+msgstr "噢，不好..."
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.REPAIRBOAT.GENERIC
+msgid "It will not work."
+msgstr "這樣做沒用。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.RUMMAGE.GENERIC
+msgid "I cannot right now."
+msgstr "現在不行。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.AWAKEBEEFALO
+msgid "It would be unwise to attempt this while the animal is awake."
+msgstr "在動物醒著的時候做這事可不明智。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.GENERIC
+msgid "Not a shaveable beast."
+msgstr "不是可以剃毛的動物。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.SHAVE.NOBITS
+msgid "Nothing to shave."
+msgstr "沒毛可剃了。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.GENERIC
+msgid "It is too full."
+msgstr "它太滿了。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.STORE.NOTALLOWED
+msgid "This is not the place for it."
+msgstr "它不該放在這裡。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.CANTLEARN
+msgid "That might be a bit beyond me."
+msgstr "那有點超出了我的能力。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.TEACH.KNOWN
+msgid "Ah. I already knew that."
+msgstr "啊，我已經知道那個了。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.WRITE.GENERIC
+msgid "Maybe later. My hands are covered in cooking oil."
+msgstr "晚點吧，我手上全是食用油。"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL_GENERIC
+msgid "I cannot do that."
+msgstr "我不能這麼做。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_ACCOMPLISHMENT
+msgid "I am triumphant!"
+msgstr "我很自豪！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_ACCOMPLISHMENT_DONE
+msgid "I hope this feeling lasts forever..."
+msgstr "我希望這種感覺持續到永遠..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_ADVENTUREFAIL
+msgid "I shall have to attempt that again."
+msgstr "我得再試一次。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BEES
+msgid "The honeymakers are upon me!"
+msgstr "釀蜜者們就在我眼前！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_DAMAGED
+msgid "The vessel is damaged..."
+msgstr "這艘船損壞了..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING
+msgid "Oh no... I can't die on an empty stomach!"
+msgstr "哦，不...我不能空著肚子死去！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOAT_SINKING_IMMINENT
+msgid "Into the soup!"
+msgstr "進入湯里！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BOOMERANG
+msgid "Ouch! Damnable thing!"
+msgstr "哎喲！該死的東西！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_BURNT
+msgid "Charred..."
+msgstr "燒焦了..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_CANFIX
+msgid "\nI believe I could repair that."
+msgstr "\n我相信我能修好它。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_CHARLIE
+msgid "What the devil!"
+msgstr "這是什麼鬼！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_CHARLIE_ATTACK
+msgid "Gah! I do believe something bit me!"
+msgstr "啊！我敢肯定有東西咬了我！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_COMPASS_OUT
+msgid "Oh. I believe it broke."
+msgstr "哦，我認為它壞掉了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAB_ESCAPE
+msgid "I was going to make you into a beautiful dinner!"
+msgstr "我本來打算用你做成美味大餐的！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_CRAFTING_FAIL
+msgid "I am lacking the required ingredients."
+msgstr "我缺少必需的材料。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_DAMP
+msgid "I've been lightly spritzed."
+msgstr "我被水花濺濕了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_DEERCLOPS
+msgid "I do not like that sound one bit!"
+msgstr "我一點也不喜歡那聲音！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_DUSK
+msgid "The dinner hour approaches."
+msgstr "晚餐時間快到了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.COOKED
+msgid "Not very palatable."
+msgstr "不是很美味。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.DRIED
+msgid "A bit dry."
+msgstr "有點干。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.GENERIC
+msgid "Magnifique!"
+msgstr "好棒！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.INVALID
+msgid "Clearly inedible."
+msgstr "明顯不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PAINFUL
+msgid "Aarg! My stomach..."
+msgstr "啊！我的胃..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.PREPARED
+msgid "Delectable!"
+msgstr "很可口！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.RAW
+msgid "Blech. Completely lacking in every way."
+msgstr "呸，哪方面都差點火候。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_1
+msgid "I'd prefer some variety."
+msgstr "我希望食物的口味豐富點。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_2
+msgid "So bland."
+msgstr "平淡無味。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_3
+msgid "I want to eat something different."
+msgstr "我想吃點別的東西。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_4
+msgid "I can't stand this food."
+msgstr "我受不了這種食物了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SAME_OLD_5
+msgid "Enough already!"
+msgstr "吃膩了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.SPOILED
+msgid "Blech! Why did I allow that to cross my lips?"
+msgstr "呸！我怎麼會吃下這種東西的？"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.STALE
+msgid "That was past its best-by date..."
+msgstr "這東西過了最佳食用日期..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.TASTY
+msgid "Tres magnifique!"
+msgstr "太美味了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_EAT.YUCKY
+msgid "I'm frankly offended by the mere suggestion."
+msgstr "光提議都是對我的侮辱。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_ENTER_DARK
+msgid "Darkness, darkness."
+msgstr "黑暗，黑暗。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_ENTER_LIGHT
+msgid "A new day comes with the dawning light."
+msgstr "新的一天隨曙光到來。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_FAN_OUT
+msgid "It fell apart in my hands!"
+msgstr "它在我手中破碎！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_FREEDOM
+msgid "Freeeeeeee!"
+msgstr "自——由！！！！！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HIGHRESEARCH
+msgid "My brain is tingling!"
+msgstr "我的大腦在嗡嗡作響！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOUNDS
+msgid "I recognize that sound. Hunger."
+msgstr "我認得那個聲音。飢餓的。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNGRY
+msgid "I need food..."
+msgstr "我需要食物..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNT_BEAST_NEARBY
+msgid "Game is close at hand..."
+msgstr "獵物近在咫尺..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNT_LOST_TRAIL
+msgid "I have lost the trail."
+msgstr "我失去了它的蹤跡。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HUNT_LOST_TRAIL_SPRING
+msgid "The trail has been washed out."
+msgstr "蹤跡被水衝掉了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_INSUFFICIENTFERTILIZER
+msgid "It requires more manure."
+msgstr "它需要更多肥料。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_INV_FULL
+msgid "I cannot carry another stitch."
+msgstr "我帶不了更多東西了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_KNOCKEDOUT
+msgid "My head... spinning..."
+msgstr "我的腦袋...天旋地轉..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED
+msgid "That was much too close!"
+msgstr "那也太懸了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_LOWRESEARCH
+msgid "I did not learn any new tricks from that."
+msgstr "我從這裡沒學到任何新技巧。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAGIC_FAIL
+msgid "Sadly, I can not make it work."
+msgstr "可惜了，我不能使它起作用。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_LOSECONTROL
+msgid "Oh dear me, I have reached the point of no return."
+msgstr "噢天哪，我踏上了不歸路。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_RETURN
+msgid "I have emerged from the edge of the world."
+msgstr "我終於從世界邊緣走出來了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MAPWRAP_WARN
+msgid "The implications of this are murky."
+msgstr "我看不清這喻示著什麼。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MESSAGEBOTTLE.1
+msgid "The ink is smudged..."
+msgstr "墨水字跡被弄髒了..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MORETREASURE
+msgid "And yet more treasure!"
+msgstr "還有更多寶藏等著我！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_MOSQUITOS
+msgid "Disease with wings!"
+msgstr "長翅膀的疾病傳播者！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSIESTA
+msgid "This is no time to close my eyes!"
+msgstr "沒時間闔眼了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODANGERSLEEP
+msgid "In this particular instance I'd prefer not to die in my sleep!"
+msgstr "在這樣的特殊情況下，我才不想在睡夢中死去！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NODAYSLEEP
+msgid "It is too bright to sleep."
+msgstr "太亮了，睡不著。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOHUNGERSIESTA
+msgid "I could use a nice meal first."
+msgstr "我需要先吃點像樣的東西。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOHUNGERSLEEP
+msgid "My hunger trumps my exhaustion."
+msgstr "雖然我很困，但是我更餓。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NONIGHTSIESTA
+msgid "Siesta in the dark? I think not."
+msgstr "在黑夜午休？還是不要了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NONIGHTSIESTA_CAVE
+msgid "This does not strike me as a relaxing place for siesta."
+msgstr "我並不認為這是一個能讓我安心午休的地方。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NOSLEEPONFIRE
+msgid "I think not! That's a hotbed for danger!"
+msgstr "不！那就是找死！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_NO_TRAP
+msgid "Went off without a hitch."
+msgstr "進展順利。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_OTHER_WORLD_PLANT
+msgid "What are you doing so far from home?"
+msgstr "你離家這麼遠做什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_OTHER_WORLD_TREASURE
+msgid "This seems to point to points unknown."
+msgstr "這個似乎指向未知的地點。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_PECKED
+msgid "Gah! Enough!"
+msgstr "啊！受夠了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_QUAKE
+msgid "That is not a comforting sound..."
+msgstr "這聲音聽起來不妙..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_RESEARCH
+msgid "Education is a lifelong process."
+msgstr "活到老，學到老。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHARX
+msgid "I do believe they wish me harm."
+msgstr "我相信它們希望我受傷害。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_SHELTER
+msgid "I am thankful for this tree's protective buffer."
+msgstr "我很感謝這棵樹的庇護。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_SOAKED
+msgid "I'm wetter than a dish rag!"
+msgstr "我比抹布還濕！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_THORNS
+msgid "Gah!"
+msgstr "啊呀！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_TOOL_SLIP
+msgid "Everything is slick..."
+msgstr "什麼東西都滑溜溜的..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_TORCH_OUT
+msgid "Come back, light!"
+msgstr "光明，回來吧！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_TRAP_WENT_OFF
+msgid "Darn!"
+msgstr "該死！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_TRAWL_FULL
+msgid "The net is full!"
+msgstr "漁網滿了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_TREASURE
+msgid "It points to possible riches!"
+msgstr "它可能指向寶藏！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_UNIMPLEMENTED
+msgid "It is not operational yet."
+msgstr "還沒開始運轉。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_VOLCANO_ERUPT
+msgid "Incoming!"
+msgstr "來了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WAVE_BOOST
+msgid "Whoaaaa!"
+msgstr "哇哦！！！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WET
+msgid "I am getting positively drenched."
+msgstr "我要濕透了。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WETTER
+msgid "I fear I may be water soluble!"
+msgstr "我害怕自己會被水溶解掉！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_BEAST_NEARBY
+msgid "The beast is close."
+msgstr "野獸就在附近。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL
+msgid "The beast has slipped by me!"
+msgstr "野獸溜走了！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WHALE_HUNT_LOST_TRAIL_SPRING
+msgid "How can I track anything in this deluge!"
+msgstr "在這片汪洋里沒法追蹤任何痕迹！"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_WORMHOLE
+msgid "I must be unhinged to travel so..."
+msgstr "我一定是精神錯亂了才會穿越去別處，所以..."
+
+#: STRINGS.CHARACTERS.WARLY.BATTLECRY.GENERIC
+msgid "I'm also an accomplished butcher!"
+msgstr "我還是一個熟練的屠夫！"
+
+#: STRINGS.CHARACTERS.WARLY.BATTLECRY.PIG
+msgid "No part of you will go to waste, cochon!"
+msgstr "你這隻豬，你身上的任何部位都不會浪費！"
+
+#: STRINGS.CHARACTERS.WARLY.BATTLECRY.PREY
+msgid "You look delicious!"
+msgstr "你看起來很美味！"
+
+#: STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER
+msgid "I hope it does not rain after I kill you!"
+msgstr "希望我除掉你後，天不會下雨！"
+
+#: STRINGS.CHARACTERS.WARLY.BATTLECRY.SPIDER_WARRIOR
+msgid "You will die, pest!"
+msgstr "準備好被收拾吧，討厭的蟲子！"
+
+#: STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.GENERIC
+msgid "There's no shame in running!"
+msgstr "逃跑沒什麼可恥的！"
+
+#: STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PIG
+msgid "Noooo, those hocks, those chops..."
+msgstr "別走，親愛的肘子和豬扒..."
+
+#: STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.PREY
+msgid "Whew. I'm out of breath."
+msgstr "呼，我喘不過氣來了。"
+
+#: STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.SPIDER
+msgid "I hope it didn't take any bites out of me."
+msgstr "我希望它沒有咬到我。"
+
+#: STRINGS.CHARACTERS.WARLY.COMBAT_QUIT.SPIDER_WARRIOR
+msgid "That could have been worse."
+msgstr "情況原本可能更糟糕的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ACCOMPLISHMENT_SHRINE
+msgid "I always wished to make a name for myself."
+msgstr "我一直希望揚名立萬。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ACORN.GENERIC
+msgid "It rattles."
+msgstr "裡面有響動。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ACORN.PLANTED
+msgid "A new beginning..."
+msgstr "一個新的開始..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ACORN_COOKED
+msgid "This could use something... Anything."
+msgstr "這個可以加點什麼...什麼都可以。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ADVENTURE_PORTAL
+msgid "What fresh devilment is this?"
+msgstr "這又是什麼新鮮的惡作劇？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.AERODYNAMICHAT
+msgid "Speeds me on my way."
+msgstr "讓我快如疾風。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.AMULET
+msgid "I wear safety."
+msgstr "我戴著平安符。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENT_ALTAR
+msgid "A structure from antiquity."
+msgstr "一座古迹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENT_ALTAR_BROKEN
+msgid "It is broken."
+msgstr "它壞掉了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ANCIENT_STATUE
+msgid "It gives off strange vibrations."
+msgstr "它在奇怪地振動。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ANIMAL_TRACK
+msgid "These tracks point to fresh game."
+msgstr "這些蹤跡指向野味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ANTIVENOM
+msgid "Could come in very handy."
+msgstr "很方便。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORCACTUS
+msgid "If the enemies are pricked half as much as I was making it, it's worth it."
+msgstr "如果扎到敵人的次數有我製作它時挨扎次數的一半，那也值了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORDRAGONFLY
+msgid "Heavy and hot."
+msgstr "又熱又沉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORGRASS
+msgid "How much protection can grass really provide?"
+msgstr "草究竟能提供多少保護？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORLIMESTONE
+msgid "With this I will be a stone man."
+msgstr "穿上這個，我就變成了一個石頭人。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORMARBLE
+msgid "Weighs a ton."
+msgstr "太重了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOROBSIDIAN
+msgid "Heavy and hot."
+msgstr "又熱又沉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORRUINS
+msgid "Ancient armor."
+msgstr "古代的鎧甲。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORSEASHELL
+msgid "Seashell mail."
+msgstr "貝殼鎧甲。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORSLURPER
+msgid "Ah. My appetite wanes under its protection."
+msgstr "啊，在它的保護之下我的食慾下降了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORSNURTLESHELL
+msgid "It allows me to turtle."
+msgstr "穿上這個，我可以假裝成蝸牛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMORWOOD
+msgid "Sturdy, but quite flammable."
+msgstr "堅固，但相當易燃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_LIFEJACKET
+msgid "Better safe than sorry."
+msgstr "穩妥點總比後悔要好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_SANITY
+msgid "Am I crazy to wear this?"
+msgstr "我穿這個是瘋了嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_SNAKESKIN
+msgid "Function, fashion, and four less living snakes."
+msgstr "既時尚又實用，而且世界上又少了四條蛇。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOR_WINDBREAKER
+msgid "While it is rude to break wind in public, I will make an exception."
+msgstr "在公共場合放屁是無禮的行為，但穿防風衣可不是。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ARMOUREDBOAT
+msgid "I am comforted by its seaworthiness."
+msgstr "它強大的航海能力令我感到安慰。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.GENERIC
+msgid "I miss ash covered cheeses. I miss cheeses, period."
+msgstr "我想念抹灰乳酪，我想念乳酪。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_EYE_BONE
+msgid "The eyebone was sacrificed in my travels."
+msgstr "眼骨在我旅行的途中化成了灰燼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
+msgid "The unusual flower is but ash now."
+msgstr "奇異的花現在不過是飛灰。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.AXE
+msgid "A trusty companion in these environs."
+msgstr "在郊外，它是值得信賴的同伴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BABYBEEFALO
+msgid "You will fatten up nicely."
+msgstr "你會被養得肥肥的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BABYOX
+msgid "Worry not, mon chou, I've no interest in veal today."
+msgstr "別擔心，我的小甘藍，我今天對小牛肉沒興趣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BACKPACK
+msgid "It has my back."
+msgstr "它在背後支持我。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BACONEGGS
+msgid "Runny eggs... crisp bacon... I could die happy now..."
+msgstr "溏心蛋...香脆的培根...我現在幸福死了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BALLPHIN
+msgid "Chipper fellows."
+msgstr "活潑的傢伙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BALLPHINHOUSE
+msgid "They're quite social creatures, no?"
+msgstr "它們是很擅長社交的動物，對嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BAMBOO
+msgid "Bamboo shoots are excellent on a nice bed of rice."
+msgstr "竹筍鋪在米飯上棒極了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BAMBOOTREE.BURNT
+msgid "A terrible waste."
+msgstr "糟糕的浪費。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BAMBOOTREE.CHOPPED
+msgid "More will sprout in time."
+msgstr "以後會長出更多的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BAMBOOTREE.GENERIC
+msgid "Some chefs steam rice in bamboo stocks."
+msgstr "有些廚師把米飯放在竹筒里蒸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BANANAPOP
+msgid "Perhaps not my most complicated dish, but no less tasty."
+msgstr "也許不是我最複雜的菜品，但味道可一點不差。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BANDAGE
+msgid "First aid."
+msgstr "急救用品。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BASALT
+msgid "Made of strong stuff!"
+msgstr "由堅硬的材料組成！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BAT
+msgid "If I only had a bat..."
+msgstr "如果我有一根棒球棒該多好..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BATBAT
+msgid "A gruesome implement."
+msgstr "一件陰森的武器。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BATWING
+msgid "Hmmm, maybe a soup stock of batwings?"
+msgstr "唔，也許能做成蝙蝠翅高湯？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BATWING_COOKED
+msgid "Needs garlic..."
+msgstr "需要大蒜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGER
+msgid "Oh, I don't like you one bit!"
+msgstr "噢，我一點也不喜歡你！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGERVEST
+msgid "Furry refuge from the elements."
+msgstr "幫助抵禦惡劣天氣的毛皮。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEARGER_FUR
+msgid "Feels warm."
+msgstr "感覺很暖和。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEDROLL_STRAW
+msgid "A little better than bare ground. Scratchy."
+msgstr "比幕天席地要好一點。草扎在身上有點癢。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEE.GENERIC
+msgid "Where there are bees, there is honey!"
+msgstr "有蜜蜂的地方就有蜂蜜！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEE.HELD
+msgid "Hi, honey."
+msgstr "嗨，甜心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEBOX.BURNT
+msgid "Disastrously caramelized."
+msgstr "悲慘地焦糖化了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEBOX.FULLHONEY
+msgid "Honey jackpot!"
+msgstr "蜂蜜大豐收！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEBOX.GENERIC
+msgid "Home of the honeymakers!"
+msgstr "釀蜜者的家！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEBOX.NOHONEY
+msgid "No more honey..."
+msgstr "沒有蜂蜜了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEBOX.SOMEHONEY
+msgid "There is a little honey."
+msgstr "有一點蜂蜜。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALO.FOLLOWER
+msgid "That's it, my friend. I lead, you follow."
+msgstr "就是這樣，朋友。我領頭，你跟隨。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALO.GENERIC
+msgid "Here's the beef."
+msgstr "這裡有牛肉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALO.NAKED
+msgid "Chin up, it'll grow back."
+msgstr "振作起來，這些毛會重新長出來的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALO.SLEEPING
+msgid "The sirloin slumbers..."
+msgstr "西冷牛排在沉睡..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALOHAT
+msgid "Fits perfectly."
+msgstr "大小剛好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEFALOWOOL
+msgid "The beast's loss is my gain."
+msgstr "那頭動物失去的就是我得到的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEHAT
+msgid "Essential honey harvesting attire."
+msgstr "收穫蜂蜜時需要穿的裝備。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEHIVE
+msgid "I can hear the activity within."
+msgstr "我能聽到裡面有響動。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEMINE
+msgid "Weaponized bees."
+msgstr "變成武器的蜜蜂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BEEMINE_MAXWELL
+msgid "I pity whoever trips this."
+msgstr "我同情踩到這玩意的夥計。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BELL
+msgid "Should I ring it?"
+msgstr "我應該搖響它嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BELL_BLUEPRINT
+msgid "Fascinating."
+msgstr "很有意思。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERMUDATRIANGLE
+msgid "Shouldn't I boat away from these?"
+msgstr "我是不是該把船開得離它們遠點？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRIES
+msgid "Fresh fruit!"
+msgstr "新鮮水果！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRIES_COOKED
+msgid "Could use a pinch of sugar..."
+msgstr "可以加一撮糖..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRYBUSH.BARREN
+msgid "They require care and fertilizer."
+msgstr "它們需要照料和施肥。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRYBUSH.GENERIC
+msgid "Berries!"
+msgstr "漿果！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRYBUSH.PICKED
+msgid "More will return."
+msgstr "會長出更多來的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BERRYBUSH.WITHERED
+msgid "The heat has stifled these berries."
+msgstr "高溫扼殺了這些漿果。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIGFISHINGROD
+msgid "A prime ingredient-catcher."
+msgstr "一流的食材捕獲器。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIGFOOT
+msgid "Please do not squish me!"
+msgstr "請不要踩扁我！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIOLUMINESCENCE
+msgid "Magnifique..."
+msgstr "太美了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRCHNUTDRAKE
+msgid "What madness is this?"
+msgstr "這是發什麼瘋？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.DEAD
+msgid "Maybe it will wake up."
+msgstr "也許它會醒來。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.GENERIC
+msgid "Suitable lodgings for a feathered beast."
+msgstr "這個住處最適合長羽毛的動物了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.HUNGRY
+msgid "Let me cook something nice up for you."
+msgstr "我來給你做點好吃的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.OCCUPIED
+msgid "I now have an egg farm!"
+msgstr "我現在有了一個鳥蛋農場！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.SKELETON
+msgid "It is not waking up. Oh dear."
+msgstr "它不會醒了，唉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.SLEEPING
+msgid "Sleep now, lay later."
+msgstr "現在睡覺，以後再下蛋。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDCAGE.STARVING
+msgid "Oh, what do birds eat? A nice brisket?"
+msgstr "唔，鳥吃什麼？上好牛胸肉？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRDTRAP
+msgid "Oh, roast bird! Hm, don't get ahead of yourself, Warly..."
+msgstr "烤鳥肉不錯！嗯，沃利，別想的太超前了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_EGG
+msgid "Nature's perfect food."
+msgstr "大自然賜予的完美食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BIRD_EGG_COOKED
+msgid "Could use a few different herbs..."
+msgstr "可以加一些不同的香草..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BISHOP
+msgid "You don't strike me as particularly spiritual."
+msgstr "我並不認為你是精神領袖。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BISHOP_NIGHTMARE
+msgid "You are grinding my gears, dear fellow."
+msgstr "你惹惱了我，親愛的夥計。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BISQUE
+msgid "Utterly divine!"
+msgstr "無比完美！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLOWDART_FIRE
+msgid "Breathing fire!"
+msgstr "噴火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLOWDART_FLUP
+msgid "How considerate of that dead thing!"
+msgstr "那個逝去的傢伙實在是太體貼了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLOWDART_PIPE
+msgid "They won't know what hit them."
+msgstr "它們不會知道是被什麼射中了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLOWDART_POISON
+msgid "A coward's weapon. Suits me fine!"
+msgstr "膽小鬼的武器。挺適合我！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLOWDART_SLEEP
+msgid "A sleep aid!"
+msgstr "助眠道具！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUBBER
+msgid "This lard would feed a hungry fire!"
+msgstr "這坨脂肪可以讓火熊熊燃燒！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUBBERSUIT
+msgid "Desperate times call for desperate attire."
+msgstr "令人絕望的日子就要穿令人絕望的服裝。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUEAMULET
+msgid "Brrrrrr!"
+msgstr "好冷！！！！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUEGEM
+msgid "Such a cool blue."
+msgstr "好清涼的藍色。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUEPRINT
+msgid "A recipe for technology!"
+msgstr "科技配方！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUE_CAP
+msgid "What deliciousness shall you yield?"
+msgstr "你會創造怎樣的美味？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUE_CAP_COOKED
+msgid "Could use a dash of smoked salt and balsamic vinegar..."
+msgstr "可以加點熏鹽和香醋..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUE_MUSHROOM.GENERIC
+msgid "Ah, a blue truffle!"
+msgstr "啊，一朵藍色的松露！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUE_MUSHROOM.INGROUND
+msgid "It retreats from the light."
+msgstr "它躲避著光線。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BLUE_MUSHROOM.PICKED
+msgid "I hope the truffles are restocked soon."
+msgstr "我希望松露很快就會補貨。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOARDS
+msgid "Sigh. It would be so perfect for grilling salmon."
+msgstr "哎。它用來烤鮭魚再好不過了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT
+msgid "To cross the open water."
+msgstr "可穿越開放的水域。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOATCANNON
+msgid "I cannon wait to use this!"
+msgstr "我迫不及待地想用它！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOATREPAIRKIT
+msgid "A most sensible traveling companion."
+msgstr "最明智的旅行伴侶。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_LANTERN
+msgid "To \"sea\" what's coming!"
+msgstr "看看海上有什麼！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOAT_TORCH
+msgid "It's a light so I might \"sea\"."
+msgstr "讓我能看到海上情況的燈。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESHARD
+msgid "I could make a hearty stock with these."
+msgstr "我可以用這些東西熬出一鍋豐盛的高湯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BONESTEW
+msgid "Warms my soul!"
+msgstr "溫暖了我的靈魂！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOMERANG
+msgid "Oh good. I have separation anxiety."
+msgstr "噢好吧。我患上了分離焦慮症。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOTTLELANTERN
+msgid "Shine on!"
+msgstr "發光吧！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BRAINJELLYHAT
+msgid "I can feel inspiration seeping into me! Wait, that's brain juice."
+msgstr "我可以感覺到靈感向我湧來！等等，那是腦汁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUGNET
+msgid "For catching alternative protein."
+msgstr "用於捕捉另類的高蛋白動物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUNNYMAN
+msgid "I have so many good rabbit recipes..."
+msgstr "我有很多不錯的兔肉烹飪食譜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUOY
+msgid "A beacon to light my way."
+msgstr "為我照亮前路的燈塔。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BURIEDTREASURE
+msgid "What shall I find?"
+msgstr "我會找到什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUSHHAT
+msgid "Snacks to go?"
+msgstr "帶著走的小吃？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUSH_VINE.BURNT
+msgid "That smoky aroma always makes me hungry..."
+msgstr "那種煙熏的香味總是讓我覺得肚子餓..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUSH_VINE.CHOPPED
+msgid "How divine! It has been de-vined."
+msgstr "快刀斬亂麻。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUSH_VINE.GENERIC
+msgid "I do wish those were grapevines..."
+msgstr "我希望那些是葡萄藤..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUTTER
+msgid "I thought I would never see you again, old friend!"
+msgstr "我還以為再也見不到你了，我的老朋友！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUTTERFLY.GENERIC
+msgid "Your aerial dance is so soothing to behold..."
+msgstr "你的空中舞蹈看起來如此舒心..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUTTERFLY.HELD
+msgid "Don't slip from my butterfingers."
+msgstr "別從我的黃油手中溜走。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUTTERFLYMUFFIN
+msgid "Delectable!"
+msgstr "味道不錯！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUTTERFLYWINGS
+msgid "I wonder what dishes I could create with these?"
+msgstr "我想知道用這些東西可以做成什麼菜？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BUZZARD
+msgid "If only you were more turkey than vulture..."
+msgstr "如果你更像火雞而不是禿鷹該有多好..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CACTUS.GENERIC
+msgid "I bet it has a sharp flavor."
+msgstr "我打賭它的味道很刺激。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CACTUS.PICKED
+msgid "It will live to prick again."
+msgstr "它會重新長出刺來的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CACTUS_FLOWER
+msgid "Such a pretty flower from such a prickly customer!"
+msgstr "這個多刺的傢伙開出的花這麼漂亮！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CACTUS_MEAT
+msgid "I hope it does not prickle going down."
+msgstr "我希望它不要扎到我的手。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CACTUS_MEAT_COOKED
+msgid "Could use some tortillas and melted queso..."
+msgstr "可以配上一些玉米餅和融化的乳酪..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CALIFORNIAROLL
+msgid "Classic Japanese fusion!"
+msgstr "經典的日式融合料理！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.EMBERS
+msgid "I should stoke the fire."
+msgstr "我應該把火燒得旺點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.GENERIC
+msgid "To keep the dark at bay."
+msgstr "驅散黑暗。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.HIGH
+msgid "Rivals a grease fire!"
+msgstr "比得上油著火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.LOW
+msgid "It is getting low."
+msgstr "火勢小了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.NORMAL
+msgid "I should like to sit by you for a moment."
+msgstr "我想要在你旁邊坐一會。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAMPFIRE.OUT
+msgid "I will have to light you again."
+msgstr "我得再點燃你一次。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CANE
+msgid "Now we are cooking with gas!"
+msgstr "現在我們如虎添翼了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAPTAINHAT
+msgid "I have been promoted!"
+msgstr "我升職了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CARGOBOAT
+msgid "For long distance hauls."
+msgstr "用於長途運輸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CARROT
+msgid "Fresh picked produce!"
+msgstr "新鮮採摘的作物！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CARROT_COOKED
+msgid "Could use a dash of olive oil and cilantro..."
+msgstr "可以加點橄欖油和香菜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CARROT_PLANTED
+msgid "Ah, a fresh carrot!"
+msgstr "啊，新鮮的胡蘿蔔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CARROT_SEEDS
+msgid "Future carrots!"
+msgstr "未來的胡蘿蔔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CATCOON
+msgid "What perky little ears."
+msgstr "多麼神氣的小耳朵。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CATCOONDEN.EMPTY
+msgid "Vacant of critters."
+msgstr "空的動物巢穴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CATCOONDEN.GENERIC
+msgid "How many critters can fit in there?"
+msgstr "裡面可以住多少只動物？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CATCOONHAT
+msgid "Not quite my style."
+msgstr "不太像我的風格。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_BANANA_COOKED
+msgid "Could use some oats and a few chocolate chips..."
+msgstr "可以加一些燕麥和巧克力粒..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_BANANA_TREE
+msgid "There must be monkeys close by."
+msgstr "附近肯定有猴子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_ENTRANCE
+msgid "I wonder what is underneath that?"
+msgstr "我想知道下面有什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
+msgid "I wonder what is underneath that?"
+msgstr "我想知道下面有什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
+msgid "Dare I?"
+msgstr "我敢進去嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_ENTRANCE_RUINS
+msgid "What is within?"
+msgstr "裡面有什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_EXIT.OPEN
+msgid "I should like to see the surface again."
+msgstr "我想再次看見地面上的世界。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_FERN
+msgid "How does anything grow down here?"
+msgstr "怎麼會有東西長在這下面？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVIAR
+msgid "Eat it with a clamshell or the flavor will be ruined."
+msgstr "這個要帶著蚌殼吃，否則就會白費了它的風味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CEVICHE
+msgid "Truly what I live for!"
+msgstr "我生存的真正意義！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHARCOAL
+msgid "This, a grill and some meat and I'd have dinner."
+msgstr "這個加上一個烤架和一些肉，我的晚餐就有著落了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSJUNK1
+msgid "Broken chess pieces?"
+msgstr "壞掉的棋子？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSJUNK2
+msgid "More broken chess pieces?"
+msgstr "更多壞掉的棋子？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESSJUNK3
+msgid "And yet more broken chess pieces?"
+msgstr "還有更多壞掉的棋子？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESTER
+msgid "You look cute and inedible."
+msgstr "你看起來很可愛，但是不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHESTER_EYEBONE.GENERIC
+msgid "The eye follows me wherever I go..."
+msgstr "不論我去哪裡，它的視線總是跟著我..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CHIMINEA
+msgid "I wonder if this could be converted into a pizza oven?"
+msgstr "我想知道，這個爐子能不能改造成披薩烤爐？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CLOTHSAIL
+msgid "Now we're cooking!"
+msgstr "現在可以開始燒烤了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONADE.BURNING
+msgid "This will only burn for so long before..."
+msgstr "它燒完了過後就會..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONADE.GENERIC
+msgid "Weaponized food."
+msgstr "做成武器的食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONUT.GENERIC
+msgid "Its packaging is tough to open."
+msgstr "它的外殼很難打開。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONUT.PLANTED
+msgid "Evidence of a coconut uneaten. Sigh."
+msgstr "沒吃掉的椰子的證據。唉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONUT_COOKED
+msgid "Could use rice and curry spices..."
+msgstr "可以配上米飯和咖喱香料..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COCONUT_HALVED
+msgid "Delectable."
+msgstr "味道不錯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEE
+msgid "Magnifique!"
+msgstr "好棒！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBEANS
+msgid "Glorious!"
+msgstr "棒極了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBEANS_COOKED
+msgid "Could use hot water...!"
+msgstr "需要熱水...！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBOT
+msgid "What a delight!"
+msgstr "真愉快！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBUSH.BARREN
+msgid "Come back, coffee!"
+msgstr "回來吧，咖啡！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBUSH.GENERIC
+msgid "Does that bush grow... coffee beans?!"
+msgstr "那叢植物長的是...咖啡豆嗎？！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBUSH.PICKED
+msgid "I hope they grow back by tomorrow morning."
+msgstr "我希望它們到明天上午又會長出來。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COFFEEBUSH.WITHERED
+msgid "Come back, coffee!"
+msgstr "回來吧，咖啡！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIRE.EMBERS
+msgid "I should stoke the fire."
+msgstr "我應該把火燒得旺點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIRE.GENERIC
+msgid "Fire that cools?"
+msgstr "清涼的火？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIRE.HIGH
+msgid "The flames climb higher!"
+msgstr "火勢越來越旺了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIRE.NORMAL
+msgid "I should like to sit by you for a moment."
+msgstr "我想要在你旁邊坐一會。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIRE.OUT
+msgid "I will have to light you again."
+msgstr "我得再點燃你一次。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIREPIT.EMBERS
+msgid "I should stoke the fire."
+msgstr "我應該把火燒得旺點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIREPIT.GENERIC
+msgid "Fire that cools?"
+msgstr "清涼的火？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIREPIT.HIGH
+msgid "The flames climb higher!"
+msgstr "火勢越來越旺了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIREPIT.NORMAL
+msgid "I should like to sit by you for a moment."
+msgstr "我想要在你旁邊坐一會。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COLDFIREPIT.OUT
+msgid "I will have to light you again."
+msgstr "我得再點燃你一次。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COMPASS.GENERIC
+msgid "Hmm, no reading."
+msgstr "嗯，沒有讀數。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKEDMANDRAKE
+msgid "Could use horseradish..."
+msgstr "可以加點辣根..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKEDMEAT
+msgid "Could use a chimichurri sauce..."
+msgstr "可以加點阿根廷香辣醬..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKEDMONSTERMEAT
+msgid "Could use... uh... I don't even..."
+msgstr "可以加點...呃...我甚至都不想..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKEDSMALLMEAT
+msgid "Could use sea salt..."
+msgstr "可以加點海鹽..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKPOT.BURNT
+msgid "Tragique."
+msgstr "真是個悲劇。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKPOT.COOKING_LONG
+msgid "A masterpiece takes time."
+msgstr "經典之作是需要時間的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKPOT.COOKING_SHORT
+msgid "Nearly there..."
+msgstr "就快好了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKPOT.DONE
+msgid "Ahh, fini!"
+msgstr "啊，終於出爐了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COOKPOT.EMPTY
+msgid "Empty pot, empty heart."
+msgstr "空空的鍋，空洞的心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.COONTAIL
+msgid "Chat noodle."
+msgstr "貓尾巴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORAL
+msgid "What shall I make with you?"
+msgstr "我應該把你做成什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORALLARVE
+msgid "Bonjour, mon petit amie."
+msgstr "你好啊，小朋友。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORALREEF
+msgid "A rainbow searock."
+msgstr "七彩的海岩。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORAL_BRAIN
+msgid "Are these truly brain bits?"
+msgstr "這些東西真的可以補腦嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORAL_BRAIN_ROCK
+msgid "Chewy rock, with a clever finish."
+msgstr "耐嚼的岩石，裝飾做的很精明。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORMORANT
+msgid "The caviar delivery service."
+msgstr "魚子醬遞送服務。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORN
+msgid "Corn! Sweet, sweet corn!"
+msgstr "玉米！香甜的玉米！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORN_COOKED
+msgid "Could use miso and lardons..."
+msgstr "可以加點味噌和肥臘肉..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CORN_SEEDS
+msgid "The promise of so many more corn dishes!"
+msgstr "有希望吃到更多玉米做的菜了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CRAB.GENERIC
+msgid "Soon you will be a crabcake."
+msgstr "你很快就會變成蟹肉餅。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CRAB.HIDDEN
+msgid "I can smell you, my sweet!"
+msgstr "小傢伙，出來吧，我聞到你了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CRABHOLE
+msgid "Come out, come out!"
+msgstr "出來，快出來！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CRATE
+msgid "I hope a rations shipment lies within."
+msgstr "我希望裡面有補給的口糧。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CROCODOG
+msgid "I am not on the menu!"
+msgstr "我不在菜單上！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CROW.GENERIC
+msgid "Raven stew perhaps?"
+msgstr "渡鴉燉湯或許不錯？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CROW.HELD
+msgid "Hush, my pet."
+msgstr "噓，我的寶貝。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTGRASS
+msgid "What shall I craft?"
+msgstr "我應該用它做點什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTLICHEN
+msgid "Hmm, odd."
+msgstr "唔，古怪的東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTREEDS
+msgid "Smells like greenery."
+msgstr "聞起來一股青草味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CUTSTONE
+msgid "Compressed stones, nice presentation."
+msgstr "濃縮的石頭，不錯的造型。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEADLYFEAST
+msgid "I would not recommend this."
+msgstr "我不推薦吃這個。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEAD_SWORDFISH
+msgid "The grand poisson!"
+msgstr "偉大的魚！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DECIDUOUSTREE.BURNING
+msgid "Au revoir, tree."
+msgstr "再見了，大樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DECIDUOUSTREE.BURNT
+msgid "Crisp, no?"
+msgstr "很脆，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DECIDUOUSTREE.CHOPPED
+msgid "Sliced!"
+msgstr "切片！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DECIDUOUSTREE.GENERIC
+msgid "A bouquet of leaves."
+msgstr "一大束葉子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DECIDUOUSTREE.POISON
+msgid "No thank you!"
+msgstr "不，謝謝！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS
+msgid "I once had a saucier who looked like that."
+msgstr "我曾經有個調味廚師長得跟它很像。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEERCLOPS_EYEBALL
+msgid "Giant eyeball... soup?"
+msgstr "巨大的眼球...湯？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BAMBOOTREE
+msgid "Perhaps one day it will return."
+msgstr "也許有一天它會恢復生機的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_BUSH_VINE
+msgid "It's all used up... for now."
+msgstr "現在它貧瘠了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS.GENERIC
+msgid "Well past its expiry date."
+msgstr "過期好久了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEPLETED_GRASS_WATER
+msgid "Will you recover soon, little tuft?"
+msgstr "你會很快恢復生機嗎，小草叢？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEVTOOL
+msgid "Efficient, oui?"
+msgstr "很有效率，對嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DEVTOOL_NODEV
+msgid "No, I am a traditionalist."
+msgstr "我是一個傳統主義者，我拒絕用它。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIRTPILE
+msgid "It's making a bit of a mess, isn't it?"
+msgstr "這裡有點小混亂，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.COLD
+msgid "Hmm, keep looking."
+msgstr "恩，繼續探測。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.GENERIC
+msgid "A finely tuned radar stick."
+msgstr "一根精心微調過的雷達棒。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.HOT
+msgid "I can almost smell it!"
+msgstr "我幾乎可以聞到它了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.WARM
+msgid "I've caught onto something!"
+msgstr "我探測到了什麼！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGROD.WARMER
+msgid "Warmer, warmer...!"
+msgstr "越來越熱...！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODBASE.GENERIC
+msgid "Is it a chopping block?"
+msgstr "這是一塊砧板嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODBASE.READY
+msgid "How do I turn it on?"
+msgstr "我怎麼打開它？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODBASE.UNLOCKED
+msgid "Preparation complete!"
+msgstr "準備就緒！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DIVININGRODSTART
+msgid "That looks important."
+msgstr "看起來很重要。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DORSALFIN
+msgid "I'd imagine that hurt."
+msgstr "我能想像那有多疼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOUBLE_UMBRELLAHAT
+msgid "Ridiculous! I want one."
+msgstr "好滑稽的造型！我想要一頂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOY
+msgid "I see potential in this poultry."
+msgstr "我看到了這隻鳥的潛力。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYBABY
+msgid "I should let it grow into more food."
+msgstr "我應該等它長大，然後收穫更多食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG
+msgid "Hello, breakfast."
+msgstr "早餐，你好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG_COOKED
+msgid "Bon appetit!"
+msgstr "好好享用！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYEGG_CRACKED
+msgid "Spoiled egg?"
+msgstr "壞掉的蛋？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYFEATHER
+msgid "A feather from my feathered friend."
+msgstr "這根羽毛來自我的鳥類朋友。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DOYDOYNEST
+msgid "It will become tastier with time."
+msgstr "隨著時間過去，它會更可口的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLY
+msgid "I'm not cut out for this."
+msgstr "我不擅長烹飪這個。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFLYCHEST
+msgid "Ooh la la, burnproof storage."
+msgstr "歐拉拉，防火的儲物箱。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT
+msgid "So exotic!"
+msgstr "充滿異域風情！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_COOKED
+msgid "Could use a spread of pudding and chia seeds..."
+msgstr "可以配上滿滿的布丁和鼠尾草籽..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONFRUIT_SEEDS
+msgid "They hatch dragonfruits."
+msgstr "它們可以結出火龍果。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGONPIE
+msgid "Flaky crust, tart filling... heavenly!"
+msgstr "薄脆派皮，塞滿果餡...簡直是天堂美味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGON_SCALES
+msgid "Hot to the touch!"
+msgstr "摸上去很燙！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOON
+msgid "I wish I could make my own fire!"
+msgstr "我希望能自己生火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONDEN
+msgid "I do not like these fellows one bit."
+msgstr "我一點也不喜歡這些傢伙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONEGG
+msgid "What use is an egg that you cannot eat?"
+msgstr "一個不能吃的蛋有什麼用？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONHEART
+msgid "It is lifeless, yet surprisingly hot to touch."
+msgstr "它已經沒有生命了，但摸上去還是非常燙手。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRAGOONSPIT
+msgid "Dangerous and disgusting!"
+msgstr "危險又噁心！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRUMSTICK
+msgid "Dark meat!"
+msgstr "鳥腿肉！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DRUMSTICK_COOKED
+msgid "Could use a light honey garlic glaze..."
+msgstr "可以加點淡味的蜜汁香蒜醬..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUBLOON
+msgid "Golden ham, golden honey, golden coin."
+msgstr "金黃火腿，金黃蜂蜜，金黃錢幣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BAMBOOTREE
+msgid "Shall I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BUSH_VINE
+msgid "Now I can put it wherever I want."
+msgstr "現在我想把它種在哪裡都可以。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_COFFEEBUSH
+msgid "Coffee to go!"
+msgstr "咖啡打包！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_ELEPHANTCACTUS
+msgid "Shall I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN
+msgid "That odor..."
+msgstr "那氣味..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_COOKED
+msgid "Could use onions and chili..."
+msgstr "可以加點洋蔥和紅辣椒..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DURIAN_SEEDS
+msgid "Even these smell..."
+msgstr "就連這些聞起來也..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EARMUFFSHAT
+msgid "Ahh, fuzzy!"
+msgstr "啊，毛茸茸的！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EEL
+msgid "Anguille."
+msgstr "鰻魚。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT
+msgid "Aubergine!"
+msgstr "茄子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_COOKED
+msgid "Could use tomato sauce and Parmesan..."
+msgstr "可以加點番茄醬和帕爾馬乾酪..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EGGPLANT_SEEDS
+msgid "Hatches more eggplants!"
+msgstr "孵育出更多的茄子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS
+msgid "A big prickly pickle."
+msgstr "一棵長滿刺的大黃瓜。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS_ACTIVE
+msgid "Sword plant!"
+msgstr "尖刺植物！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ELEPHANTCACTUS_STUMP
+msgid "The pickle will fruit again."
+msgstr "這棵長得像黃瓜的植物會再次結出果實的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ENCRUSTEDBOAT
+msgid "It's a bit wobbly."
+msgstr "有點搖擺不定。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.BURNING
+msgid "Au revoir, tree."
+msgstr "再見了，大樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.BURNT
+msgid "Crisp, no?"
+msgstr "很脆，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.CHOPPED
+msgid "Sliced!"
+msgstr "切片！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN.GENERIC
+msgid "A soldier of the exotic forest."
+msgstr "異國森林的戰士。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.BURNING
+msgid "Au revoir, tree."
+msgstr "再見了，大樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.BURNT
+msgid "Crisp, no?"
+msgstr "很脆，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
+msgid "Sliced!"
+msgstr "切片！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EVERGREEN_SPARSE.GENERIC
+msgid "A coneless arbre."
+msgstr "一棵沒有果實的樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEBRELLAHAT
+msgid "\"Eye\" like it!"
+msgstr "大眼睛，我喜歡！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET
+msgid "This is my friend, Lazer Oeil!"
+msgstr "這是我的朋友「激光眼」！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EYETURRET_ITEM
+msgid "Wake up!"
+msgstr "醒醒！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FABRIC
+msgid "Soft and crisp, all at once."
+msgstr "又軟又容易起皺。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.BURNT
+msgid "Stayed in the oven a tad too long."
+msgstr "在烤箱里放了太長時間。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GENERIC
+msgid "I can grow my own ingredients!"
+msgstr "我可以種植自己的食材了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.GROWING
+msgid "Ah, couldn't be more fresh!"
+msgstr "啊，超級新鮮！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+msgid "Needs to be fertilized."
+msgstr "需要施肥。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERFAN
+msgid "Why is it so big?"
+msgstr "它為什麼這麼大？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHERSAIL
+msgid "I mostly want to pet it."
+msgstr "我最想把它當寵物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_CROW
+msgid "A bird's feather, in truffle black."
+msgstr "一根鳥羽，有著松露的黑色。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN
+msgid "A bird's feather, in cherry red."
+msgstr "一根鳥羽，有著櫻桃的紅色。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FEATHER_ROBIN_WINTER
+msgid "A bird's feather, in tuna blue."
+msgstr "一根鳥羽，有著金槍魚的藍色。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FERTILIZER
+msgid "Sauce for my garden!"
+msgstr "我花園的養料！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.GENERIC
+msgid "A dash of glow."
+msgstr "一點微光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREFLIES.HELD
+msgid "My petit lightbulb pets."
+msgstr "我的發光小寵物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREHOUND
+msgid "Chien, on fire!"
+msgstr "火獵犬！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.EMBERS
+msgid "That fire's almost out!"
+msgstr "火快要熄了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.GENERIC
+msgid "To warm my fingers and roast sausages."
+msgstr "可以用來取暖和烤香腸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.HIGH
+msgid "Maximum heat!"
+msgstr "火燒到了最旺！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.NORMAL
+msgid "Parfait."
+msgstr "完美。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIREPIT.OUT
+msgid "I like when it's warm and toasty."
+msgstr "我喜歡它溫暖舒適的時候。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESTAFF
+msgid "Oven on a stick!"
+msgstr "火爐裝在棍子上！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.LOWFUEL
+msgid "Shall I fuel it up?"
+msgstr "我應該加點燃料嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.OFF
+msgid "He's sleeping."
+msgstr "它在睡覺。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FIRESUPPRESSOR.ON
+msgid "Make it snow!"
+msgstr "發射雪球吧！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH
+msgid "Poisson!"
+msgstr "魚！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH3
+msgid "It couldn't be any fresher!"
+msgstr "沒有比這更新鮮的了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH3_COOKED
+msgid "Pan-fried grouper with pigeon peas! Delectable!"
+msgstr "平底鍋煎石斑魚和豌豆！美味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH4
+msgid "How would you like to be a nice chowder?"
+msgstr "把你做成一鍋好喝的雜燴湯，好不好啊？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH4_COOKED
+msgid "Ah, I should have saved the head for soup!"
+msgstr "啊，我應該把魚頭留出來煲湯的！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH5
+msgid "Would you prefer to be scorched, or cracked?"
+msgstr "把你烤焦好呢，還是破開好呢？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH5_COOKED
+msgid "Sigh. It's not even seasoned."
+msgstr "唉。連調味料都沒放。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISHINGROD
+msgid "I believe I prefer the fish market."
+msgstr "我覺得自己更喜歡去海鮮市場買現成的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISHINHOLE
+msgid "Shining, sparkling snacks."
+msgstr "閃閃發光的點心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISHSTICKS
+msgid "Crunchy and golden outside, flaky and moist inside!"
+msgstr "外焦里嫩！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISHTACOS
+msgid "Takes me south of the border!"
+msgstr "把我帶到了南方邊境！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_COOKED
+msgid "Could use a squeeze of lemon..."
+msgstr "可以擠點檸檬汁..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.BLUEFISH
+msgid "Let the cook off begin!"
+msgstr "開始下廚吧！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.EMPTY
+msgid "I'll have to sacrifice caviar ingredients for this."
+msgstr "為了這個，我必須犧牲魚子醬原料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.ONEFISH
+msgid "Should I make a fish stew with thyme and onion?"
+msgstr "我要不要做個燉魚，加點百里香和洋蔥？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.REDFISH
+msgid "Maybe a chowder with hot pepper and shrimp stock!"
+msgstr "要不然做個雜燴，加點辣椒和蝦高湯！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.STOCKED
+msgid "Just think, market fresh fish every morning!"
+msgstr "每天都有新鮮抓來的魚，想想都過癮！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_FARM.TWOFISH
+msgid "Oh! Boiled fish with celery and goat pepper?"
+msgstr "喔！芹菜胡椒煮魚？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_MED
+msgid "Don't worry, mon amie. I will make you delicious."
+msgstr "別擔心，我的朋友。我會把你做得很好吃的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_MED_COOKED
+msgid "Could use fresh herbs and butter..."
+msgstr "可以加點新鮮的香草和黃油..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_RAW
+msgid "Doesn't even smell fishy it's so fresh!"
+msgstr "它太新鮮了，一點魚腥味都沒有！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_RAW_SMALL
+msgid "I will honor this ingredient."
+msgstr "我會尊重這種食材的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FISH_RAW_SMALL_COOKED
+msgid "Could use fresh herbs and butter..."
+msgstr "可以加點新鮮的香草和黃油..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLAMEGEYSER
+msgid "Watch that flame!"
+msgstr "看看那火焰！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLINT
+msgid "Sharp as can be!"
+msgstr "好鋒利！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOTSAM
+msgid "Could be a piece of the ship..."
+msgstr "可能是船的一小片殘骸..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER
+msgid "Charmant."
+msgstr "真迷人。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWERHAT
+msgid "Who doesn't look good in this?!"
+msgstr "誰戴著它會不美呢？！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWERSALAD
+msgid "Edible art!"
+msgstr "可以吃的藝術！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_CAVE
+msgid "Ah, a light in the dark."
+msgstr "啊，黑暗中的光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_CAVE_DOUBLE
+msgid "Ah, a light in the dark."
+msgstr "啊，黑暗中的光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_CAVE_TRIPLE
+msgid "Ah, a light in the dark."
+msgstr "啊，黑暗中的光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLOWER_EVIL
+msgid "A terrible omen if I ever saw one."
+msgstr "可怕的預兆。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FLUP
+msgid "Ack! Away!"
+msgstr "啊！走開！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FOLIAGE
+msgid "Feuillage."
+msgstr "蕨葉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FOOTBALLHAT
+msgid "Made from pork, to protect my melon."
+msgstr "豬皮做的帽子，用來保護我的腦袋。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FRESHFRUITCREPES
+msgid "Is this not a thing of beauty?"
+msgstr "它難道不美妙嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROG.DEAD
+msgid "I'll eat your legs for dinner!"
+msgstr "晚餐的時候我要吃掉你的腿！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROG.GENERIC
+msgid "Frog. A delicacy."
+msgstr "青蛙。一道佳肴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROG.SLEEPING
+msgid "Bonne nuit, little snack."
+msgstr "晚安，小點心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROGGLEBUNWICH
+msgid "Ah, French cuisine!"
+msgstr "啊，法國菜！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROGLEGS
+msgid "I am hopping with excitement!"
+msgstr "我興奮地跳來跳去！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROGLEGS_COOKED
+msgid "Could use garlic and clarified butter..."
+msgstr "可以加點大蒜和無水黃油..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FROG_POISON
+msgid "A poison hopper."
+msgstr "有毒的跳躍者。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.FRUITMEDLEY
+msgid "Invigorating!"
+msgstr "爽口提神！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GASHAT
+msgid "Anything to keep poison out of my dinner!"
+msgstr "有什麼東西能讓毒遠離我的晚餐嗎？！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GEARS
+msgid "The insides of those naughty machines."
+msgstr "那些淘氣機器的內部零件。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GEMSOCKET.GEMS
+msgid "Gem it!"
+msgstr "裝上寶石！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GHOST
+msgid "Could I offer you a ghost pepper?"
+msgstr "我可以給你一個鬼椒嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOMMER
+msgid "I think I like it."
+msgstr "我想我喜歡它。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOMMERFLOWER.GENERIC
+msgid "Tres beau!"
+msgstr "好美啊！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOMMERFUEL
+msgid "Looks like bubblegum, tastes like floor."
+msgstr "樣子像泡泡糖，味道像地板蠟。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GLOMMERWINGS
+msgid "A tiny delicacy."
+msgstr "小小的、纖弱的翅膀。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOATMILK
+msgid "Can I make this into cheese?"
+msgstr "我可以把這個做成乳酪嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENAXE
+msgid "A golden chopper!"
+msgstr "黃金斧頭！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENMACHETE
+msgid "Fancy slicer."
+msgstr "花哨的切片機。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENPICKAXE
+msgid "That looks nice."
+msgstr "看起來不錯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENPITCHFORK
+msgid "A golden fork for a giant, oui?"
+msgstr "巨人使用的黃金叉，是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDENSHOVEL
+msgid "Shiny."
+msgstr "好耀眼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOLDNUGGET
+msgid "Yolk yellow, glowing gold!"
+msgstr "閃閃發光的金子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GOOSE_FEATHER
+msgid "A plucked goose was here."
+msgstr "這裡曾經有一隻拔了毛的鵝。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS.BARREN
+msgid "Could I get some fertilizer over here?"
+msgstr "也許我可以往上面澆點肥料？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS.BURNING
+msgid "I never burn anything in the kitchen."
+msgstr "我從沒在廚房裡燒著過任何東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS.GENERIC
+msgid "A common ingredient for success around here."
+msgstr "在這裡生存下去需要的常見材料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS.PICKED
+msgid "Plucked clean!"
+msgstr "採光了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS.WITHERED
+msgid "Too hot for you."
+msgstr "對你來說天氣太熱了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_UMBRELLA
+msgid "A bit of shade is better than none."
+msgstr "能遮點太陽擋點雨總比沒有來得強。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GRASS_WATER
+msgid "Herbe at sea."
+msgstr "海中的草。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREENAMULET
+msgid "For more savvy construction!"
+msgstr "更巧妙地開展建造工作！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREENGEM
+msgid "Ahh, a rare attraction!"
+msgstr "哈，罕見的吸引力！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREENSTAFF
+msgid "I probably shouldn't stir soup with this."
+msgstr "我可能不該用這個來攪湯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREEN_CAP
+msgid "Don't crowd the mushrooms."
+msgstr "不要把蘑菇堆在一起。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREEN_CAP_COOKED
+msgid "Could use a slathering of butter and chives..."
+msgstr "可以加點黃油和香蔥..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREEN_MUSHROOM.GENERIC
+msgid "Little champignon!"
+msgstr "小蘑菇！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREEN_MUSHROOM.INGROUND
+msgid "Did it eat itself...?"
+msgstr "它吃掉了自己嗎...？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GREEN_MUSHROOM.PICKED
+msgid "I eagerly await its rebirth!"
+msgstr "我急切等著它再長出來！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GUACAMOLE
+msgid "More like Greatamole!"
+msgstr "更像是一碗黏糊糊的香皂！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GUANO
+msgid "Poop of the bat."
+msgstr "蝙蝠糞便。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GUNPOWDER
+msgid "Boom!"
+msgstr "砰！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HAIL_ICE
+msgid "Like icecubes."
+msgstr "像就小方冰塊。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMBAT
+msgid "Mmm, ham popsicle!"
+msgstr "唔，火腿棒冰！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HAMMER
+msgid "For tenderizing boeuf!"
+msgstr "用來錘松牛肉！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HAWAIIANSHIRT
+msgid "When in Rome..."
+msgstr "在羅馬的時候..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HEATROCK.COLD
+msgid "Still cold."
+msgstr "還是冰涼的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HEATROCK.FROZEN
+msgid "Vanilla ice."
+msgstr "像香草冰沙一樣冷。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HEATROCK.GENERIC
+msgid "A temperature stone."
+msgstr "保溫的石頭。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HEATROCK.HOT
+msgid "Hot!"
+msgstr "好燙！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HEATROCK.WARM
+msgid "It's warming up nicely."
+msgstr "暖和舒適。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOME
+msgid "Who lives here?"
+msgstr "誰住在這裡？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOMESIGN.BURNT
+msgid "Overcooked."
+msgstr "火候過頭了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOMESIGN.GENERIC
+msgid "What's the use in a sign around here?"
+msgstr "路標在這個地方有什麼用？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HONEY
+msgid "Nectar of the gods!"
+msgstr "瓊漿玉液！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HONEYCOMB
+msgid "Just add milk!"
+msgstr "加點牛奶！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HONEYHAM
+msgid "Comfort food!"
+msgstr "令人滿足的食物！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HONEYNUGGETS
+msgid "Junk food is my guilty pleasure. Shh!"
+msgstr "吃垃圾食品讓我有罪惡的愉悅感。噓！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HORN
+msgid "There's still some hairs inside."
+msgstr "裡面還是有些毛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOTCHILI
+msgid "Spice up my life!"
+msgstr "讓我的生活更火辣！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOUND
+msgid "Angry chien!"
+msgstr "憤怒的獵犬！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOUNDBONE
+msgid "Hmm, soup stock..."
+msgstr "嗯，骨頭高湯..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOUNDFIRE
+msgid "Fire in the kitchen!"
+msgstr "廚房失火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOUNDMOUND
+msgid "It smells wet."
+msgstr "它聞起來很潮濕。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.HOUNDSTOOTH
+msgid "Better to lose a tooth than your tongue!"
+msgstr "掉顆牙齒總好過掉舌頭！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICE
+msgid "That's ice."
+msgstr "這是冰。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEBOX
+msgid "The ice box, my second-most loyal culinary companion."
+msgstr "冰箱，我第二忠誠的烹飪伴侶。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICECREAM
+msgid "The heat is sweetly beat!"
+msgstr "高溫被甜蜜的冰淇淋打敗了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEHAT
+msgid "Must I wear it?"
+msgstr "我必須戴著它嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEHOUND
+msgid "Away, frozen diable!"
+msgstr "走開，冰冷的惡魔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEMAKER.HIGH
+msgid "Whistle while you work!"
+msgstr "邊工作邊吹口哨！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEMAKER.LOW
+msgid "It's still running."
+msgstr "它還在運轉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEMAKER.NORMAL
+msgid "A small luxury."
+msgstr "小小的奢侈。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEMAKER.OUT
+msgid "It's run dry."
+msgstr "它不產冰了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEMAKER.VERYLOW
+msgid "Nearly out!"
+msgstr "快要停產了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICEPACK
+msgid "Now this I can use!"
+msgstr "現在我可以用這個了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ICESTAFF
+msgid "It flash freezes poulet!"
+msgstr "它可以用來速凍雞肉！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.INSANITYROCK.ACTIVE
+msgid "And I'm in!"
+msgstr "我身處其中了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.INSANITYROCK.INACTIVE
+msgid "Do not lick it. Your tongue will get stuck."
+msgstr "別舔它。你的舌頭會被粘住的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.INVENTORYGRAVE
+msgid "Here's hoping the next life treats you better."
+msgstr "希望你下輩子過得好一點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.INVENTORYMOUND
+msgid "Here's hoping the next life treats you better."
+msgstr "希望你下輩子過得好一點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.IRONWIND
+msgid "Zoom zoom!"
+msgstr "嗡嗡嗡嗡嗡！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JAMMYPRESERVES
+msgid "Simple, sweet, parfait."
+msgstr "簡單，甜蜜，完美。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYFISH
+msgid "Electric meduse for dinner?"
+msgstr "晚餐吃帶電的水母？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYFISH_COOKED
+msgid "Could use sesame oil and chilis..."
+msgstr "可以加點芝麻油和紅辣椒..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYFISH_DEAD
+msgid "Ohh, its petit face."
+msgstr "喔，看它那小臉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYFISH_PLANTED
+msgid "Meduse."
+msgstr "海蜇。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYJERKY
+msgid "Could use garlic..."
+msgstr "可以加點大蒜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JELLYOPOP
+msgid "Hmmm... An interesting flavor."
+msgstr "嗯...有趣的味道。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREE.BURNING
+msgid "Au revoir, tree."
+msgstr "再見了，大樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREE.BURNT
+msgid "Crisp, no?"
+msgstr "很脆，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREE.CHOPPED
+msgid "Sliced!"
+msgstr "切片！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREE.GENERIC
+msgid "Gigantesque!"
+msgstr "好大的樹！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREESEED.GENERIC
+msgid "Cute, no?"
+msgstr "很可愛，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.JUNGLETREESEED.PLANTED
+msgid "Even cuter than the seed!"
+msgstr "甚至比種子更可愛 ！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KABOBS
+msgid "Opa!"
+msgstr "好吃！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KILLERBEE.GENERIC
+msgid "Almost not worth the honey!"
+msgstr "不值得為了蜂蜜去冒險！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KILLERBEE.HELD
+msgid "So sassy!"
+msgstr "太無禮了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KNIGHT
+msgid "A tricky cheval!"
+msgstr "一匹難對付的馬！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KNIGHTBOAT
+msgid "Cannon fire! Time to pirate."
+msgstr "加農炮發射！海盜時間到。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KNIGHT_NIGHTMARE
+msgid "Effroyable!"
+msgstr "可怕！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KOALEFANT_SUMMER
+msgid "Ah, you have fattened up nicely!"
+msgstr "啊，你長胖了，真不錯！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KOALEFANT_WINTER
+msgid "You can't get attached to cute cuts of meat."
+msgstr "雖然你肉肉的很可愛，但別想我放過你。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KRAKEN
+msgid "I can't take the heat! Get me out of this kitchen!"
+msgstr "我受不了它的猛烈攻勢！快讓我離開這個地方！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KRAKENCHEST
+msgid "What treasures do you hold?"
+msgstr "你裝著什麼寶藏？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KRAKEN_TENTACLE
+msgid "My poisons do nothing!"
+msgstr "我的毒藥不起作用！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KRAMPUS
+msgid "What the devil!"
+msgstr "這是什麼鬼！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.KRAMPUS_SACK
+msgid "Infinite pocket space!"
+msgstr "無限的口袋空間！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LANTERN
+msgid "It is my night light."
+msgstr "這是我夜晚用的燈。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVAPOOL
+msgid "Spicy!"
+msgstr "好熱！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVASPIT.HOT
+msgid "A chef-cuisinier never burns his fingers."
+msgstr "一位主廚是絕對不會燙到手指的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LEIF
+msgid "I'm out of my element!"
+msgstr "我有點無所適從！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LEIF_SPARSE
+msgid "I'm out of my element!"
+msgstr "我有點無所適從！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LICHEN
+msgid "Really scraping the barrel for produce here."
+msgstr "它們長在這裡也是不得已的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTBULB
+msgid "Looks like candy."
+msgstr "看上去像糖果。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTNINGGOAT.CHARGED
+msgid "Goat milkshake!"
+msgstr "山羊奶昔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTNINGGOAT.GENERIC
+msgid "I had a goat once."
+msgstr "我曾經有一隻山羊。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTNINGGOATHORN
+msgid "For kabobs, perhaps?"
+msgstr "可能是用來烤肉串的？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTNING_ROD.CHARGED
+msgid "Electricity!"
+msgstr "電流！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIGHTNING_ROD.GENERIC
+msgid "I do feel a bit safer now."
+msgstr "我現在感覺安全一點了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIMESTONE
+msgid "Made from petit fishy skeletons."
+msgstr "由不值錢的魚骨頭做成。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIMPETROCK.GENERIC
+msgid "A petit snail farm!"
+msgstr "一座小型的蝸牛農場！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIMPETROCK.PICKED
+msgid "I have a soft spot for bivalves!"
+msgstr "我尤其喜歡雙殼貝類！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIMPETS
+msgid "They have a salty aroma."
+msgstr "它們散發著咸香的氣味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIMPETS_COOKED
+msgid "Smooth, salty, scrumptious."
+msgstr "滑嫩、咸鮮、美味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LITTLE_WALRUS
+msgid "Oh, there's a little one!"
+msgstr "噢，那有一隻小的！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIVINGJUNGLETREE
+msgid "Pardon, but are you sleeping?"
+msgstr "對不起，你是在睡覺嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIVINGLOG
+msgid "Magic building blocks!"
+msgstr "創造魔法的木塊！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIVINGTREE
+msgid "Tres suspicious..."
+msgstr "非常可疑..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTER
+msgid "Come to me, precious!"
+msgstr "來到我身邊吧，寶貝！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTERBISQUE
+msgid "I've truly outdone myself!"
+msgstr "我真的超越了自己！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTERDINNER
+msgid "Being stranded is no reason not to eat well!"
+msgstr "處於困境並不是吃得不好的理由！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTERHOLE
+msgid "I am waiting for you!"
+msgstr "我一直在等你！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTER_DEAD
+msgid "One step closer to my mouth."
+msgstr "離成為我的口中餐又近了一步。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOBSTER_DEAD_COOKED
+msgid "Could use garlic-butter..."
+msgstr "可以加點蒜香醬..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOCKEDWES
+msgid "I'll get you out, mon ami!"
+msgstr "我會把你救出來的，朋友！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOG.BURNING
+msgid "Soon it won't be good for much."
+msgstr "很快它的處境就會堪憂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOG.GENERIC
+msgid "An important aspect of my art."
+msgstr "我的藝術的一個重要方面。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LOGRAFT
+msgid "These logs might be better suited to a fire..."
+msgstr "這些木頭可能更適合用來燒火..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LUGGAGECHEST
+msgid "Please have fresh underwear inside!"
+msgstr "希望裡面裝有新內衣褲！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LUREPLANT
+msgid "How alluring."
+msgstr "真誘人。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LUREPLANTBULB
+msgid "Growing meat from the ground? Now I've seen it all..."
+msgstr "從地上長出肉？現在我算是見識到了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MACHETE
+msgid "I could chop many an onion with this!"
+msgstr "有了這個，我可以切很多洋蔥！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGIC_SEAL
+msgid "It's practically dripping with magicks."
+msgstr "它實際上正散發著魔力。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGMAROCK
+msgid "This rocks."
+msgstr "這些石頭太酷了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGMAROCK_FULL
+msgid "This rocks."
+msgstr "這些石頭太酷了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGMAROCK_GOLD
+msgid "Wonder if I could harvest goldleaf from this?"
+msgstr "我想知道從這裡能不能挖到金箔？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAGMAROCK_GOLD_FULL
+msgid "Wonder if I could harvest goldleaf from this?"
+msgstr "我想知道從這裡能不能挖到金箔？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MALE_PUPPET
+msgid "Free him!"
+msgstr "放了他！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANDRAKE.DEAD
+msgid "I should like to get to the root of this mystery..."
+msgstr "我想從根本上了解這個神秘的東西..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANDRAKE.GENERIC
+msgid "Have I discovered a new root vegetable?!"
+msgstr "我是不是發現了一種新的根用蔬菜？！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANDRAKE.PICKED
+msgid "Do not pick! Do not pick!"
+msgstr "別摘！別摘！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANDRAKESOUP
+msgid "What an otherworldly flavor!"
+msgstr "多麼超凡脫俗的風味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANDRAKE_COOKED
+msgid "Could use... an explanation..."
+msgstr "可以加點...解釋說明..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANGROVETREE
+msgid "I wonder what its water content is?"
+msgstr "我想知道它含了多少水？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANGROVETREE_BURNT
+msgid "I'd say its current water content is zero."
+msgstr "我想說，它目前的含水量為零。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MANRABBIT_TAIL
+msgid "The texture is exceptionally comforting."
+msgstr "手感非常舒服。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARBLE
+msgid "Would make a nice counter top."
+msgstr "可以做成不錯的廚房檯面。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARBLEPILLAR
+msgid "I wonder how many counter tops I could get out of this..."
+msgstr "我想知道用這個可以做出多少個廚房檯面..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARBLETREE
+msgid "How supremely unnatural!"
+msgstr "太詭異了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.BURNING
+msgid "It burns like any other bush."
+msgstr "它像其他灌木一樣燒著了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.GENERIC
+msgid "A prickly customer."
+msgstr "多刺的傢伙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_BUSH.PICKED
+msgid "Not sure I want to do that again."
+msgstr "不確定我是不是還想再采一次。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_PLANT
+msgid "I wonder if it is edible."
+msgstr "我想知道它能不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_PLANT_TROPICAL
+msgid "I wonder if it is edible."
+msgstr "我想知道它能不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_TREE.BURNING
+msgid "You will not be missed."
+msgstr "不會有人想你的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_TREE.BURNT
+msgid "The wood gives off a unique aroma when burned."
+msgstr "這木頭燒著後散發出獨特的香氣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_TREE.CHOPPED
+msgid "There. Now you cannot prick anyone."
+msgstr "現在你不能扎到任何人了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MARSH_TREE.GENERIC
+msgid "I am ever so glad I'm not a tree hugger."
+msgstr "很高興我不是個愛抱樹的人。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELL
+msgid "You! You... villain!"
+msgstr "你！你...壞蛋！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLHEAD
+msgid "He must eat massive sandwiches."
+msgstr "他肯定吃了大量的三文治。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLLIGHT
+msgid "A light is always welcome."
+msgstr "有燈總是好的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLLOCK
+msgid "But where is the key?"
+msgstr "可是鑰匙在哪兒？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLPHONOGRAPH
+msgid "I wonder what is in his record collection?"
+msgstr "我想知道他收集的唱片都有些什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLTHRONE
+msgid "Heavy is the bum that sits on the throne..."
+msgstr "王座上坐著的是不可承受之重..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEAT
+msgid "I must remember to cut across the grain."
+msgstr "我必須記得逆著肉紋切。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATBALLS
+msgid "I'm having a ball!"
+msgstr "我太開心了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.BURNT
+msgid "Too dry! Too dry!"
+msgstr "太幹了！太幹了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.DONE
+msgid "Ready to test on my teeth!"
+msgstr "考驗牙齒的時候到了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.DRYING
+msgid "Not quite dry enough."
+msgstr "還不夠干。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.DRYINGINRAIN
+msgid "Now it is more like a rehydrating rack..."
+msgstr "現在它更像是讓食物保濕的架子..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEATRACK.GENERIC
+msgid "Just like the chefs of the stone age!"
+msgstr "就像石器時代的廚師一樣！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MEAT_DRIED
+msgid "Could use chipotle..."
+msgstr "可以加點干紅辣椒..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERM
+msgid "Fishmongers!"
+msgstr "魚販子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMFISHER
+msgid "You bring the sea with you."
+msgstr "你身上充滿了大海的氣息。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMHEAD.BURNT
+msgid "I think it needs to burned again! Pee-eew!"
+msgstr "我認為它需要再被燒掉一次！太難聞了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMHEAD.GENERIC
+msgid "Its odor is not improving with time..."
+msgstr "隨著時間過去，它的氣味沒有絲毫改善..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMHOUSE.BURNT
+msgid "That fire got the smell out."
+msgstr "火燒之後，氣味沒有了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMHOUSE.GENERIC
+msgid "Fisherfolk live here. I can smell it."
+msgstr "這裡住著漁民，我聞得出來。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MERMHOUSE_FISHER
+msgid "Fisherfolk live here. I can smell it."
+msgstr "這裡住著漁民，我聞得出來。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MESSAGEBOTTLE
+msgid "I wonder if it is a secret menu?"
+msgstr "我想知道這是一份私房菜單嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MESSAGEBOTTLEEMPTY
+msgid "I wonder what vintage used to be in this bottle..."
+msgstr "我想知道這個瓶子里過去裝的是什麼佳釀..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MINERHAT
+msgid "Aha! Now that is using my head!"
+msgstr "啊哈！現在用我的腦袋就可以照明了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MINIFAN
+msgid "Like a cool ocean breeze."
+msgstr "就像涼爽的海風吹過。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MINOTAUR
+msgid "Stay away!"
+msgstr "離遠點！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MINOTAURCHEST
+msgid "I appreciate the attention to its aesthetic detail."
+msgstr "我欣賞製造者對美學細節的關注。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MINOTAURHORN
+msgid "I wonder, if ground up into a powder..."
+msgstr "我想知道，如果把它磨成粉..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLE.ABOVEGROUND
+msgid "Are you spying on me?"
+msgstr "你在窺視我嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLE.HELD
+msgid "Do you \"dig\" your new surroundings?"
+msgstr "你在挖通周圍的新通道嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLE.UNDERGROUND
+msgid "Something dwells beneath."
+msgstr "有什麼東西住在下面。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLEHAT
+msgid "Neat vision!"
+msgstr "清晰的視力！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOLEHILL
+msgid "It is a nice hill, but I won't make a mountain of it."
+msgstr "這是座不錯的小丘，但我是不會把它看作高山的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONKEY
+msgid "A new species of irritation."
+msgstr "一種新的易激動物種。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONKEYBALL
+msgid "Seems like a waste of a good banana. Cute though."
+msgstr "給它香蕉好像是浪費，不過它很可愛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONKEYBARREL
+msgid "An absolute madhouse."
+msgstr "絕對是瘋人院。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONSTERLASAGNA
+msgid "What a wasted effort..."
+msgstr "真是浪費工夫..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONSTERMEAT
+msgid "Hmmm, nice marbling..."
+msgstr "嗯，漂亮的雪花紋..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONSTERMEAT_DRIED
+msgid "Could use... better judgment..."
+msgstr "要好好判斷一下...能不能吃..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MONSTERTARTARE
+msgid "This is a culinary abomination. I'm appalled."
+msgstr "這是令人厭惡的烹飪產物。我被嚇到了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSE
+msgid "I wish you were a bit less moose-y and a lot more goose-y!"
+msgstr "我希望你像鵝勝過像駝鹿！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOOSEEGG
+msgid "I think I'll leave this egg quite alone!"
+msgstr "我想我還是不要管這個蛋了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSQUITO.GENERIC
+msgid "We disagree on where my blood is best used."
+msgstr "關於我的血液最該用在哪裡，我們沒法達成一致。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSQUITO.HELD
+msgid "I do not care to be this close to it! Vile!"
+msgstr "我不在乎和它近距離接觸！卑鄙的傢伙！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSQUITOSACK
+msgid "Ugh! It can only be filled with one thing."
+msgstr "啊！它裡面只能裝一樣東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSQUITOSACK_YELLOW
+msgid "Ugh! It can only be filled with one thing."
+msgstr "啊！它裡面只能裝一樣東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSQUITO_POISON
+msgid "You not only take, but you also give? Well, no thanks!"
+msgstr "你不僅會索取，還會奉獻？少來這一套！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOSSLING
+msgid "Looking for your momma? Apologies, but I hope you do not find her."
+msgstr "在找媽媽嗎？很抱歉，希望你找不到她。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOUND.DUG
+msgid "What have I become?"
+msgstr "我到底怎麼了？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MOUND.GENERIC
+msgid "I cannot help wondering what might be down there."
+msgstr "我忍不住想知道下面有些什麼東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MULTITOOL_AXE_PICKAXE
+msgid "Oh, I get it! Kind of like a spork!"
+msgstr "哦，我得到了這個！有點像叉勺！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHTREE_MEDIUM
+msgid "I have seen the light. Mushrooms do indeed grow on trees."
+msgstr "我看到了光。蘑菇確實會長在樹上。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHTREE_SMALL
+msgid "Surely mushrooms do not grow on trees here?"
+msgstr "蘑菇肯定不會長在樹上吧？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSHTREE_TALL
+msgid "Oh, divine tree of mushrooms... what else can you teach me?"
+msgstr "噢，神聖的蘑菇樹...你還能教我些什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSEL
+msgid "Into my tummy you go! Good bi, valves."
+msgstr "到我的肚子里去吧！美味的雙殼貝。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSELBOUILLABAISE
+msgid "The artistry in this dish lifts my spirits."
+msgstr "這道菜的藝術性提升了我的靈魂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSEL_COOKED
+msgid "Could use shallots and lemongrass..."
+msgstr "可以加點蔥和檸檬草..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSEL_FARM.GENERIC
+msgid "A delightful seafood dinner dwells there."
+msgstr "那裡的東西能做出一頓可口的海鮮晚餐。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSEL_FARM.STICKPLANTED
+msgid "Stick with me, mussels. I'll take you places!"
+msgstr "爬到貝棒上來吧，貽貝們。我將帶你們去該去的地方！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MUSSEL_STICK
+msgid "Mussels aren't strong enough to resist this stick!"
+msgstr "貽貝們意志不夠堅定，抵抗不了這根棒子的誘惑！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MYSTERYMEAT
+msgid "That can't possibly be edible."
+msgstr "這一看就不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NEEDLESPEAR
+msgid "Who shall I stick it to?"
+msgstr "我應該拿它刺誰？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTLIGHT
+msgid "And I thought fluorescent tubes were a bad invention!"
+msgstr "我認為熒光燈管是個糟糕的發明！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMAREFUEL
+msgid "Who in their right mind would want to fuel MORE nightmares?"
+msgstr "哪個頭腦正常的人想要給更多噩夢提供燃料？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARELIGHT
+msgid "Am I crazy or is this light not helping my situation?"
+msgstr "我是瘋了嗎？還是說這盞燈對我的處境沒有幫助？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
+msgid "It appears that all is well."
+msgstr "看起來一切正常。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
+msgid "This nightmare is almost over!"
+msgstr "噩夢幾乎結束了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
+msgid "Magicless."
+msgstr "沒有魔力。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
+msgid "Steady on."
+msgstr "保持平穩。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
+msgid "Subsiding."
+msgstr "正在減弱。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
+msgid "I feel some magic coming on!"
+msgstr "我感覺有一些魔法能量逼近了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING
+msgid "Magic hour!"
+msgstr "魔法時刻！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTSTICK
+msgid "I feel electric!"
+msgstr "我感覺有電！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NIGHTSWORD
+msgid "This thing slices like a dream!"
+msgstr "揮舞這東西就像一場夢一樣！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.NUBBIN
+msgid "No coral in sight. Perhaps later."
+msgstr "沒看見珊瑚。可能要過會兒。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIAN
+msgid "Hot rock!"
+msgstr "灼熱的石頭！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANAXE
+msgid "You really build up a head of steam swinging this!"
+msgstr "這玩意真的越揮越熱！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANCOCONADE
+msgid "These are a blast!"
+msgstr "這是一個炸彈！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANFIREPIT.EMBERS
+msgid "That fire's almost out!"
+msgstr "火快要熄了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANFIREPIT.GENERIC
+msgid "To warm my fingers and roast sausages."
+msgstr "可以用來取暖和烤香腸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANFIREPIT.HIGH
+msgid "Maximum heat!"
+msgstr "火燒到了最旺！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANFIREPIT.NORMAL
+msgid "This fire's on fire!"
+msgstr "火上之火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANFIREPIT.OUT
+msgid "I like when it's warm and toasty."
+msgstr "我喜歡它溫暖舒適的時候。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANMACHETE
+msgid "You could overheat swinging this thing too much."
+msgstr "揮動這玩意太多次的話可能會過熱的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIANSPEARGUN
+msgid "Ready. Aim. Fire."
+msgstr "預備，瞄準，開火。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OBSIDIAN_WORKBENCH
+msgid "I believe it churns out volcanic doohickeys!"
+msgstr "我相信它可以製造出大量的火山小玩意！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OCTOPUSCHEST
+msgid "Any cold drinks in there?"
+msgstr "裡面有冷飲嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OCTOPUSKING
+msgid "Try not to think about his delicious tentacles..."
+msgstr "努力不去想他美味的觸手..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ONEMANBAND
+msgid "What a racket!"
+msgstr "好一套打擊樂器！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ORANGEAMULET
+msgid "Here one minute, gone the next!"
+msgstr "我這撿撿，那撿撿！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ORANGEGEM
+msgid "I miss oranges..."
+msgstr "我想念橙子..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ORANGESTAFF
+msgid "When I hold it it makes the world feel... fast."
+msgstr "當我握住它時，感覺世界...變快了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OX
+msgid "Here's the beef!"
+msgstr "這是頭牛！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OXHAT
+msgid "Much more waterproof than a chef's hat."
+msgstr "比廚師帽防水多了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OX_FLUTE
+msgid "It plays a lilting tune."
+msgstr "它可以演奏出輕快活潑的曲子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.OX_HORN
+msgid "A lovely souvenir from a once powerful beast."
+msgstr "曾經強大的動物留下的可愛紀念品。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PACKIM
+msgid "You have a big mouth, mister."
+msgstr "先生，你有一張大嘴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PACKIM_FISHBONE
+msgid "Picked clean..."
+msgstr "一點魚肉也不剩了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMLEAF
+msgid "These would work well in tamales."
+msgstr "用這個做玉米粉蒸肉還不錯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMLEAF_HUT
+msgid "The great indoors!"
+msgstr "超棒的室內空間！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMLEAF_UMBRELLA
+msgid "Singing, not in the rain!"
+msgstr "不要在雨里唱歌！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMTREE.BURNING
+msgid "Au revoir, tree."
+msgstr "再見了，大樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMTREE.BURNT
+msgid "Crisp, no?"
+msgstr "很脆，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMTREE.CHOPPED
+msgid "Sliced!"
+msgstr "切片！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PALMTREE.GENERIC
+msgid "A good leaning tree."
+msgstr "一棵沒有多餘東西的好樹。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PANDORASCHEST
+msgid "It's quite magnificent."
+msgstr "相當華麗的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PANFLUTE
+msgid "This will be music to something's ears."
+msgstr "在某些傢伙耳中這是音樂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PAPYRUS
+msgid "I could write down my recipes on this."
+msgstr "我可以在上面寫下我的菜譜。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PARROT
+msgid "I can't recall any parrot recipes..."
+msgstr "我想不起任何與鸚鵡有關的菜譜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PARROT_PIRATE
+msgid "Such an amiable creature. Friends?"
+msgstr "好親切的生物。是朋友？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PEACOCK
+msgid "Pea-ka-boo!"
+msgstr "躲-貓-貓！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PEG_LEG
+msgid "Why on earth do I have this?"
+msgstr "我到底為什麼會有這個？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PENGUIN
+msgid "A cool customer."
+msgstr "一個很酷的傢伙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PERD
+msgid "A fellow with excellent taste."
+msgstr "品味出眾的傢伙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PEROGIES
+msgid "Mmmmm, pockets of palate punching pleasure!"
+msgstr "唔，味覺受到衝擊的愉悅感一陣陣襲來！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PETALS
+msgid "Great in salads."
+msgstr "做沙拉的好材料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PETALS_EVIL
+msgid "Not so great in salads."
+msgstr "並不是做沙拉的好材料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PICKAXE
+msgid "For those tough to crack nuts."
+msgstr "用來對付那些難以打開的堅果。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGGUARD
+msgid "What are you guarding, besides your own deliciousness?"
+msgstr "除了你身上美味的肉，你還在守護什麼呢？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGGYBACK
+msgid "Cochon bag!"
+msgstr "豬皮包！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHEAD.BURNT
+msgid "Not even the cheeks are left..."
+msgstr "連豬頰都沒留下..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHEAD.GENERIC
+msgid "Ooh la la, the things I could do with you!"
+msgstr "哦啦啦，我可以對你做很多事！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHOUSE.BURNT
+msgid "Mmmm, barbecue!"
+msgstr "嘖，烤肉！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHOUSE.FULL
+msgid "Looks like more than three little piggies in there."
+msgstr "看起來裡面不止住了三隻小豬。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHOUSE.GENERIC
+msgid "Can I blow this down?"
+msgstr "我可以吹倒它嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGHOUSE.LIGHTSOUT
+msgid "Yoo hoo! Anybody home?"
+msgstr "呦呵！有人在家嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGKING
+msgid "Well, you've got the chops for it."
+msgstr "好吧，肉排歸你了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.DEAD
+msgid "He wouldn't want himself to go to waste, would he?"
+msgstr "他是不希望自己被浪費掉的，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.FOLLOWER
+msgid "I do have a magnetic presence, do I not?"
+msgstr "我就像一塊磁鐵，難道不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.GENERIC
+msgid "Who bred you to walk upright like that? Deuced unsettling..."
+msgstr "誰教你們這樣直立行走的？害得我心緒不寧..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.GUARD
+msgid "Alright, alright, moving along."
+msgstr "好吧好吧，繼續列隊前進。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.WEREPIG
+msgid "Aggression spoils the meat."
+msgstr "它發瘋了，真是糟蹋了一塊好肉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGSKIN
+msgid "Crackling!"
+msgstr "美味脆皮！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGTENT
+msgid "Sure to deliver sweet dreams."
+msgstr "肯定能讓人做個美夢。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGTORCH
+msgid "I wonder what it means?"
+msgstr "我想知道它有什麼含義？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIKE_SKULL
+msgid "Yeeouch!"
+msgstr "哎呀呀！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PINECONE.GENERIC
+msgid "Pine-scented!"
+msgstr "芳香的松果！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PINECONE.PLANTED
+msgid "One day you'll be a tree."
+msgstr "有一天你會長成一棵大樹的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIRATEGHOST
+msgid "He may be a nice fellow, but I don't intend to find out."
+msgstr "他可能是個好傢夥，但我不打算弄清楚這一點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIRATEHAT
+msgid "I do not throw in with these scoundrels. But I like the hat."
+msgstr "我不會和這些惡棍一夥，但我喜歡這頂帽子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIRATEPACK
+msgid "This will straighten my back out."
+msgstr "這東西有助於我挺直背。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIRATIHATITATOR.BURNT
+msgid "It played its last magic trick."
+msgstr "它使出了最後一個魔法。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIRATIHATITATOR.GENERIC
+msgid "This reminds me of something..."
+msgstr "它讓我想起了一些東西..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PITCHFORK
+msgid "Proper farm gear."
+msgstr "專門的農場裝備。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANTMEAT
+msgid "Meaty leaves? I'm so confused..."
+msgstr "肉質的葉子？我好睏惑..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANTMEAT_COOKED
+msgid "Could use less oxymorons..."
+msgstr "它的名字可以不那麼自相矛盾的..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANT_NORMAL.GENERIC
+msgid "The miracle of life!"
+msgstr "生命的奇蹟！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANT_NORMAL.GROWING
+msgid "That is it, just a little more..."
+msgstr "就這樣，再長一點點..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANT_NORMAL.READY
+msgid "Fresh-picked produce!"
+msgstr "新鮮採摘的作物！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PLANT_NORMAL.WITHERED
+msgid "Oh dear me, the crop has failed..."
+msgstr "天哪，作物枯萎了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONCROCODOG
+msgid "Don't eat me! I'm not even cooked!"
+msgstr "別吃我！我還沒煮熟呢！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POISONHOLE
+msgid "I smell trouble..."
+msgstr "我聞到了不對勁的氣味..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POMEGRANATE
+msgid "Wonderful!"
+msgstr "棒極了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POMEGRANATE_COOKED
+msgid "Could use tahini and mint..."
+msgstr "可以加點芝麻醬和薄荷..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POMEGRANATE_SEEDS
+msgid "Seedy seeds!"
+msgstr "多籽水果的種子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POND
+msgid "I can't see the bottom..."
+msgstr "我看不到底..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POND_ALGAE
+msgid "I can't see the bottom..."
+msgstr "我看不到底..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POOP
+msgid "The end result of a fine meal."
+msgstr "吃下美味食物後的最終產物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.BURNT
+msgid "Nononononono whyyyyyyyyyyyyyyy!?"
+msgstr "不！！！為什麼！！！！！？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.COOKING_LONG
+msgid "The flavors need time to meld."
+msgstr "美味需要時間來融合。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.COOKING_SHORT
+msgid "I threw that meal together!"
+msgstr "我隨便燉了一鍋菜！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.DONE
+msgid "Pickup! Oh, old habits..."
+msgstr "上菜！噢，老習慣了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT.EMPTY
+msgid "I would never leave home without it!"
+msgstr "離家在外的時候我必須帶著它！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTABLECOOKPOT_ITEM
+msgid "What new culinary adventures shall we undertake, old friend?"
+msgstr "老朋友，你說我們應該展開什麼新的美食冒險？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PORTAL_SHIPWRECKED
+msgid "Looks like a rickety ride to someplace..."
+msgstr "搖搖欲墜的船，似乎通向某個地方..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POTTEDFERN
+msgid "Nature. Tamed."
+msgstr "天然的，被馴服的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.POWCAKE
+msgid "I would not feed this to my worst enemies. Or would I..."
+msgstr "我不會把這個給最可怕的敵人吃的。或者到底要不要..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PRIMEAPE
+msgid "You reek of mischief and other kinds of... reek."
+msgstr "你身上充滿惡作劇帶來的臭味和其他...臭味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PRIMEAPEBARREL
+msgid "Someone has a hoarding issue."
+msgstr "有人有囤積癖。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PUMPKIN
+msgid "I'm the pumpking of the world!"
+msgstr "我是這世界上的南瓜王！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PUMPKINCOOKIE
+msgid "I've outdone myself this time."
+msgstr "這一次我超越了自己。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PUMPKIN_COOKED
+msgid "Could use some pie crust and nutmeg..."
+msgstr "可以配上一些派皮和肉豆蔻..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PUMPKIN_LANTERN
+msgid "Trick 'r' neat!"
+msgstr "靈異萬聖夜！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PUMPKIN_SEEDS
+msgid "Seed saver!"
+msgstr "種子捍衛者！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PURPLEAMULET
+msgid "I must be crazy to fool around with this."
+msgstr "我肯定是瘋了才會戴著它。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PURPLEGEM
+msgid "It holds deep secrets."
+msgstr "它藏有深深的秘密。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.QUACKENBEAK
+msgid "Imagine the meals it could've eaten with that thing!"
+msgstr "瞧它那張嘴，可以想像它很能吃！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.QUACKERINGRAM
+msgid "Excuse me everyone, out of my way, please."
+msgstr "不好意思，各位都給我讓開，拜託。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBIT.GENERIC
+msgid "I haven't had rabbit in awhile..."
+msgstr "我有段時間沒吃過兔子肉了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBIT.HELD
+msgid "Your little heart is beating so fast."
+msgstr "你的小心臟跳得好快。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBITHOLE.GENERIC
+msgid "Thump twice if you are fat and juicy."
+msgstr "要是你肥美多汁的話就跺兩下腳吧。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBITHOLE.SPRING
+msgid "What a pity rabbit season has ended."
+msgstr "兔子出沒的季節結束了，太可惜了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBITHOUSE.BURNT
+msgid "That was no carrot!"
+msgstr "那不是胡蘿蔔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RABBITHOUSE.GENERIC
+msgid "Do my eyes deceive me?"
+msgstr "我的眼睛欺騙了我嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAFT
+msgid "Better than swimming, I suppose."
+msgstr "我覺得，這應該比游泳好一點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH
+msgid "You might go well in a stew."
+msgstr "你大概很適合燉著吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH_COOKED
+msgid "You can really taste the \"rainbow\"."
+msgstr "你真的能嘗到「彩虹」的味道。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH_DEAD
+msgid "No sense letting it go to waste."
+msgstr "沒理由把它浪費掉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYFISH_PLANTED
+msgid "I see no reason to bother it."
+msgstr "我找不到討厭它的理由。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINBOWJELLYJERKY
+msgid "The natural sea salt is a great flavor enhancer."
+msgstr "天然海鹽，調味一流。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINCOAT
+msgid "For a foggy Paris evening."
+msgstr "可以在霧氣朦朧的巴黎之夜穿。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINHAT
+msgid "Better than a newspaper."
+msgstr "比報紙擋雨效果好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINOMETER.BURNT
+msgid "It measures nothing now..."
+msgstr "它現在什麼也測量不了了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAINOMETER.GENERIC
+msgid "It measures moisture in the clouds."
+msgstr "它用來測量雲里的水汽。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RATATOUILLE
+msgid "A veritable village of vegetables!"
+msgstr "名副其實的蔬菜部落！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAWLING
+msgid "Your hair needs a brushing."
+msgstr "你的頭髮需要刷刷了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RAZOR
+msgid "If only I had aftershave."
+msgstr "如果我有須後水就好了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REDBARREL
+msgid "Skull and cross bones is bad, yes?"
+msgstr "骷髏頭和交叉的骨頭不是好兆頭，對嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REDGEM
+msgid "A deep fire burns within."
+msgstr "裡面燃燒著深邃的火焰。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_CAP
+msgid "Could use cream and salt... And less poison."
+msgstr "可以加點奶油和鹽...少點毒性。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_CAP_COOKED
+msgid "Perhaps I could make a good soup."
+msgstr "也許我能用它做出不錯的湯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.GENERIC
+msgid "Can't get fresher than that!"
+msgstr "沒有比這更新鮮的了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.INGROUND
+msgid "It'll be hard to harvest like that."
+msgstr "這樣就很難採到了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RED_MUSHROOM.PICKED
+msgid "There's nothing left."
+msgstr "什麼也沒剩下。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REEDS.BURNING
+msgid "The fire took to those quite nicely."
+msgstr "火很快將它們燒著了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REEDS.GENERIC
+msgid "A small clump of reeds."
+msgstr "一小叢蘆葦。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REEDS.PICKED
+msgid "There's nothing left to pick."
+msgstr "沒什麼可以採摘的東西了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.REFLECTIVEVEST
+msgid "Well, it should be hard to lose."
+msgstr "嗯，沒有它日子會很難過。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RELIC.BROKEN
+msgid "A piece of culinary history has been lost."
+msgstr "一部分飲食歷史就這樣遺失了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RELIC.GENERIC
+msgid "Ancient kitchenware."
+msgstr "古代廚具。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB.BURNT
+msgid "That didn't cook very well."
+msgstr "火候掌握得不太好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB2.BURNT
+msgid "The fire seemed to find it quite tasty."
+msgstr "火似乎覺得它味道不錯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB2.GENERIC
+msgid "Oh, the things I'll learn!"
+msgstr "噢，這裡有我要學的知識！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB3.BURNT
+msgid "The darkness is all burnt up."
+msgstr "黑暗魔法都被燒光了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB3.GENERIC
+msgid "It boggles the mind."
+msgstr "它會擾亂我們的心神。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB4.BURNT
+msgid "Nothing but ashes."
+msgstr "只剩下灰燼了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB4.GENERIC
+msgid "I won't even try to pronounce it..."
+msgstr "我都不想把它的名字念出來..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB5
+msgid "Couldn't hurt to hit the books now and then."
+msgstr "偶爾看看書也挺不錯的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESURRECTIONSTATUE.BURNT
+msgid "It won't be much good now."
+msgstr "它現在沒什麼用了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESURRECTIONSTATUE.GENERIC
+msgid "Part of my soul is within."
+msgstr "我的一部分靈魂在裡面。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESURRECTIONSTONE
+msgid "Looks like some sort of ritual stone."
+msgstr "看起來像某種儀式石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROBIN.GENERIC
+msgid "Good afternoon, sir or madam!"
+msgstr "下午好，先生或女士！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROBIN.HELD
+msgid "It's soft, and surprisingly calm."
+msgstr "它很柔軟，而且出奇的冷靜。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROBIN_WINTER.GENERIC
+msgid "This little fellow seems quite frigid."
+msgstr "這小傢伙看起來很冷。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROBIN_WINTER.HELD
+msgid "Let me lend you my warmth, feathered friend."
+msgstr "長羽毛的朋友，讓我給你一點溫暖。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROBOT_PUPPET
+msgid "Surely no one deserves such treatment!"
+msgstr "顯然，任何人都不該受到這樣的對待！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK
+msgid "Don't you go rolling off on me."
+msgstr "別滾到我身上。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCKS
+msgid "Bite-sized boulders."
+msgstr "很小的卵石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCKY
+msgid "Hmm... I would have to be careful to not chip a tooth."
+msgstr "唔...我得小心點，不能把牙齒崩掉了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_CHARCOAL
+msgid "Barbecued."
+msgstr "被燒烤了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_ICE.GENERIC
+msgid "Brr!"
+msgstr "好冷！！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_ICE.MELTED
+msgid "It's just liquid now."
+msgstr "它現在化成了液體。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_ICE_MELTED
+msgid "It's just liquid now."
+msgstr "它現在化成了液體。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_LIGHT.GENERIC
+msgid "The lava has crusted over."
+msgstr "那塊熔岩裹上了石皮。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_LIGHT.LOW
+msgid "Like a pie on a proverbial windowsill, it will soon cool."
+msgstr "像擺放在窗台上的餡餅一樣，它很快就會變涼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_LIGHT.NORMAL
+msgid "Nature's fiery fondue pot."
+msgstr "大自然的芝士火鍋。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_LIGHT.OUT
+msgid "It has no heat left to give."
+msgstr "它散發不出光和熱了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROCK_OBSIDIAN
+msgid "Blast! I cannot mine it!"
+msgstr "炸了它！我沒法開採它！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROE
+msgid "I can make caviar with canapes!"
+msgstr "我可以做魚子醬配小餅乾！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROE_COOKED
+msgid "Could use a squeeze of fresh lemon."
+msgstr "可以擠點新鮮檸檬汁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROOK
+msgid "What a rude contraption."
+msgstr "多麼粗魯的裝置。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROOK_NIGHTMARE
+msgid "What a monstrosity!"
+msgstr "好可怕的東西！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROPE
+msgid "A bit too thick to tie up a roast."
+msgstr "用來綁烤肉粗了點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROTTENEGG
+msgid "Pee-eew!"
+msgstr "嘔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ROWBOAT
+msgid "Free me from the shackles of this island!"
+msgstr "讓我擺脫這座島的桎梏！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RUBBLE
+msgid "Delicious destruction."
+msgstr "破損的石頭。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RUINSHAT
+msgid "Seems unnecessarily fancy."
+msgstr "看起來過於花哨了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RUINS_BAT
+msgid "I could tenderize some meat with this."
+msgstr "我可以用這個來把肉錘松。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RUINS_RUBBLE
+msgid "Delicious destruction."
+msgstr "破損的石頭。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAIL
+msgid "This should speed things up."
+msgstr "這個可以讓船開得快點。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAIL_STICK
+msgid "Might make a good stirring stick."
+msgstr "可以做成一根不錯的攪拌棒。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAND
+msgid "Lots of tiny, tiny stones."
+msgstr "很多的細小砂石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBAG
+msgid "I was hoping it would be full of potatoes."
+msgstr "我曾希望它裝滿了土豆。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBAGSMALL
+msgid "Helps keep my dry environment dry."
+msgstr "讓環境保持乾燥。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBAGSMALL_ITEM
+msgid "I'll need to set these up before they do anything."
+msgstr "我得在水漫金山之前做好防水準備。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDBAG_ITEM
+msgid "No potatoes here. Oh well."
+msgstr "這裡沒有土豆。好吧。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANDHILL
+msgid "The sand has formed a small pile."
+msgstr "這些沙子堆成了一座小沙堆。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAND_CASTLE.GENERIC
+msgid "How calming."
+msgstr "好寧靜。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAND_CASTLE.SAND
+msgid "It looks at home here."
+msgstr "這裡看起來像在家裡一樣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANITYROCK.ACTIVE
+msgid "It's tugging on my mind."
+msgstr "它在拉扯我的思想。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SANITYROCK.INACTIVE
+msgid "The darkness lurks within."
+msgstr "裡面潛藏著黑暗。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAPLING.BURNING
+msgid "Those burn quite dramatically."
+msgstr "它們燒得很旺。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAPLING.GENERIC
+msgid "Those could be key to my continued survival."
+msgstr "這些可能是我繼續活下去的關鍵。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAPLING.PICKED
+msgid "There is nothing left for me to grasp!"
+msgstr "沒有什麼東西可供我採摘的了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SAPLING.WITHERED
+msgid "It could use some love."
+msgstr "可以用愛澆灌一下。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAFOODGUMBO
+msgid "Incredible! Just like Nana used to make!"
+msgstr "難以置信！就像娜娜以前做的一樣！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAGULL
+msgid "I know you're just after my cooking."
+msgstr "我知道你在覬覦我烹飪的食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAGULL_WATER
+msgid "I know you're just after my cooking."
+msgstr "我知道你在覬覦我烹飪的食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEASACK
+msgid "Wetter is better."
+msgstr "越濕越好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEASHELL
+msgid "There's nothing edible left inside."
+msgstr "裡面沒留下可以吃的東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEASHELL_BEACHED
+msgid "What a pretty shell."
+msgstr "好漂亮的貝殼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEATRAP
+msgid "I can trick some delicious crustaceans into this!"
+msgstr "我可以把一些美味的甲殼類動物騙到這個陷阱里！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAWEED
+msgid "I do not have much experience with this ingredient."
+msgstr "我對處理這種食材沒有太多經驗。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAWEED_COOKED
+msgid "Could use toasted sesame seeds..."
+msgstr "可以加點烤芝麻籽..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAWEED_DRIED
+msgid "Could use Tamari..."
+msgstr "可以加點魚生醬油..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEAWEED_PLANTED
+msgid "Sea produce!"
+msgstr "海產！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.EMBERS
+msgid "Worryingly low."
+msgstr "火小得讓人發愁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.GENERIC
+msgid "Is this a fire hazard, or a boating hazard?"
+msgstr "這算是火的隱患，還是船的隱患？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.HIGH
+msgid "Goodness! It's a grease fire!"
+msgstr "天啊！這麼油膩膩的火！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.LOW
+msgid "Looks a bit dim."
+msgstr "看起來有點暗。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.NORMAL
+msgid "It's burning steady."
+msgstr "燒得很穩定。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_CHIMINEA.OUT
+msgid "I can't cook without a fire!"
+msgstr "沒火就煮不了東西！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_YARD.LOWFUEL
+msgid "It seems to be running low."
+msgstr "好像快沒燃料了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_YARD.OFF
+msgid "Ah, I can't fix my boat right now."
+msgstr "啊，我現在沒辦法修船。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEA_YARD.ON
+msgid "Is my boat in need of a touch up?"
+msgstr "我的船是不是需要修補一下？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEEDS
+msgid "You may grow up to be delicious one day."
+msgstr "總有一天，你會長成美味的食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEEDS_COOKED
+msgid "Could use smoked paprika..."
+msgstr "可以加點煙熏紅辣椒粉..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SEWING_KIT
+msgid "Not exactly my specialty."
+msgstr "並不是我的專長。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARKFINSOUP
+msgid "I used Nana's secret recipe."
+msgstr "我用了娜娜的密方。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARKITTEN
+msgid "The veal of the sea."
+msgstr "海上的初生牛犢。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARKITTENSPAWNER.GENERIC
+msgid "That seems like something I should steer clear of."
+msgstr "看起來我應該避開那玩意。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARKITTENSPAWNER.INACTIVE
+msgid "A pile of sand like any other."
+msgstr "一堆沙子，看起來很普通。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARK_FIN
+msgid "This looks rather bland."
+msgstr "這個看起來很淡而無味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARK_GILLS
+msgid "It won't be needing these anymore."
+msgstr "它不再需要這些了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARK_TEETHHAT
+msgid "Look upon your king!"
+msgstr "看著你們的國王！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHARX
+msgid "Don't eat me, I'm not properly seasoned!"
+msgstr "別吃我，我還沒被好好調過味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHIPWRECKED_ENTRANCE
+msgid "Bonjour!"
+msgstr "你好！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHIPWRECKED_EXIT
+msgid "Au revoir."
+msgstr "再見了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SHOVEL
+msgid "I'm not the landscaping type."
+msgstr "我不是擅長庭園設計的人。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SIESTAHUT.BURNT
+msgid "Overcooked."
+msgstr "火候過頭了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SIESTAHUT.GENERIC
+msgid "Comes in handy after a big lunch."
+msgstr "在吃飽午餐後就會派上用場了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SILK
+msgid "Is that sanitary?"
+msgstr "這個衛生嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SKELETON
+msgid "I have a bone to pick with you."
+msgstr "我要從魚刺里挑挑你的骨頭了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SKELETON_PLAYER
+msgid "I have a bone to pick with... m-me?"
+msgstr "我要從魚刺里挑挑...我的骨頭？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SKULLCHEST
+msgid "What an ominous container."
+msgstr "多麼不吉利的箱子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLOTMACHINE
+msgid "Maybe I'll win something tasty?"
+msgstr "也許我可以贏點好吃的？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURPER
+msgid "It is not polite to slurp."
+msgstr "吃飯吧唧嘴是不禮貌的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURPERPELT
+msgid "Wear this? What in heavens for?"
+msgstr "穿這個？為什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURPER_PELT
+msgid "Wear this? What in heavens for?"
+msgstr "穿這個？為什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLE
+msgid "You would flavor a soup nicely. Your shell could be the bowl!"
+msgstr "你可以讓湯變得鮮美。你的殼可以當作碗來用！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLEHAT
+msgid "Be the snail."
+msgstr "變成蝸牛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLESLIME
+msgid "Nature giveth, and nature grosseth."
+msgstr "大自然的產物，夠噁心的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SLURTLE_SHELLPIECES
+msgid "If only I had crazy glue."
+msgstr "要是我有瘋狂快乾膠就好了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLBIRD.GENERIC
+msgid "Hello food... uh, friend."
+msgstr "你好，我的食物...呃，朋友。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLBIRD.HUNGRY
+msgid "I suppose I could whip something up for you."
+msgstr "我想我可以給你隨便搞點吃的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLBIRD.STARVING
+msgid "You look famished!"
+msgstr "你看上去餓壞了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLMEAT
+msgid "Fresh protein!"
+msgstr "新鮮的蛋白質！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SMALLMEAT_DRIED
+msgid "Could use a teriyaki glaze..."
+msgstr "可以加點紅燒醬汁..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKE
+msgid "Stay back or I'll turn you into something savory!"
+msgstr "退後，不然我會將你變成美食！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKEDEN.BURNT
+msgid "That smoky aroma always makes me hungry..."
+msgstr "那種煙熏的香味總是讓我覺得肚子餓..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKEDEN.CHOPPED
+msgid "How divine! It has been de-vined."
+msgstr "快刀斬亂麻。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKEDEN.GENERIC
+msgid "I do wish those were grapevines..."
+msgstr "我希望那些是葡萄藤..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKEOIL
+msgid "Why can't you be olive oil?"
+msgstr "為什麼你不是橄欖油？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKESKIN
+msgid "Would make a haute apron."
+msgstr "可以做成一條高檔圍裙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKESKINHAT
+msgid "Tres cool."
+msgstr "太酷了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKESKINSAIL
+msgid "Perhaps I'll sail to a land of spices."
+msgstr "也許我會駛向一片滿是香料的大陸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKE_FIRE
+msgid "Only thing worse than a snake is a snake on fire."
+msgstr "比蛇更糟糕的東西只有火蛇。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNAKE_POISON
+msgid "I'll need to butcher you ever so carefully."
+msgstr "我得小心翼翼地除掉你。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SNURTLE
+msgid "Escar-goodness gracious!"
+msgstr "哦，天哪！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SOLOFISH
+msgid "You'll make a fine filet."
+msgstr "你可以做成上等魚片。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR
+msgid "For kebab-ing."
+msgstr "烤肉串用的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEARGUN
+msgid "Long-range kebab-ing."
+msgstr "遠程烤肉串。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEARGUN_POISON
+msgid "It would make me sick to use this on good meat."
+msgstr "在好肉上用這個會讓我感到不適的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_LAUNCHER
+msgid "Now we're cooking!"
+msgstr "現在可以開始燒烤了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_OBSIDIAN
+msgid "Pull the trigger and voila! Dinner is done!"
+msgstr "拉動開關，瞧！晚餐到手了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPEAR_POISON
+msgid "It would make me sick to use this on good meat."
+msgstr "在好肉上用這個會讓我感到不適的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPICEPACK
+msgid "My bag of chef's tricks!"
+msgstr "我的神奇廚師袋！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER.DEAD
+msgid "Please no rain!"
+msgstr "拜託，別下雨！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER.GENERIC
+msgid "You are not for eating."
+msgstr "你不是用來吃的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER.SLEEPING
+msgid "It should make itself a silk pillow."
+msgstr "它應該給自己做一個絲綢枕頭。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERDEN
+msgid "A spider has to live somewhere, I suppose."
+msgstr "我覺得這裡肯定住著蜘蛛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDEREGGSACK
+msgid "This is probably a delicacy somewhere."
+msgstr "這在某個地方可能是一道美味佳肴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERGLAND
+msgid "Alternative medicine."
+msgstr "另類的葯。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERHAT
+msgid "Well, it is on my head now. Best make the most of it."
+msgstr "現在它戴在我的腦袋上了。最好是充分利用它。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERHOLE
+msgid "I have no reason to investigate any further."
+msgstr "我沒有理由繼續深入調查了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDERQUEEN
+msgid "I will not bend the knee to the likes of you!"
+msgstr "我不會向你這種生物下跪的！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_DROPPER
+msgid "Ah, the old \"drop from the ceiling and commit violent acts\" act."
+msgstr "啊，「從天而降並實施暴力行為」的老派做法。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_HIDER
+msgid "A spider that turtles!"
+msgstr "背著殼的蜘蛛！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_SPITTER
+msgid "So many spiders!"
+msgstr "好多蜘蛛！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WARRIOR.DEAD
+msgid "It knew the risks."
+msgstr "它知道了風險。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WARRIOR.GENERIC
+msgid "Does this mean you are even more warlike than the others?"
+msgstr "你是不是比其他蜘蛛更好戰？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPIDER_WARRIOR.SLEEPING
+msgid "It is having a flashback to the spider war..."
+msgstr "它正在夢中進行蜘蛛大戰..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPOILED_FISH
+msgid "Such a shame..."
+msgstr "真可惜..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SPOILED_FOOD
+msgid "It is a sin to waste food..."
+msgstr "浪費食物是犯罪..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STAFFLIGHT
+msgid "Too much power to hold in one hand."
+msgstr "一手掌握這麼大的能量並非易事。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STAFF_TORNADO
+msgid "Does nature like being tamed?"
+msgstr "大自然都喜歡被馴服嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE
+msgid "I always get you upside down with stalactites..."
+msgstr "倒過來就成了鐘乳石..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_FULL
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_LOW
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_MED
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_TALL
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_TALL_FULL
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_TALL_LOW
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STALAGMITE_TALL_MED
+msgid "Rocks to be had."
+msgstr "待開採的岩石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STATUEGLOMMER.GENERIC
+msgid "Must have been a pretty important, uh, thingy..."
+msgstr "肯定是個很重要的，呃，東西..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STATUEHARP
+msgid "Headless harpsmen."
+msgstr "無頭的豎琴師。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STATUEMAXWELL
+msgid "He is literally made of stone."
+msgstr "他確實是石頭做成的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STINGER
+msgid "It would really sting to not have a use for this."
+msgstr "這東西派不上用場真頭痛。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STRAWHAT
+msgid "Now I am on island time."
+msgstr "現在我在享受島上時光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STUFFEDEGGPLANT
+msgid "Slightly smoky flesh, savory filling. Ah!"
+msgstr "稍微煙熏過的茄肉，外加美味的餡料。啊！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.STUNGRAY
+msgid "Ew, smells like its insides have gone bad."
+msgstr "嘔，聞起來像是裡面已經腐壞了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKBOAT
+msgid "The sea claims all and does not bargain."
+msgstr "大海帶走了一切，沒有討價還價的餘地。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT.GENERIC
+msgid "Hey fella, need a wing?"
+msgstr "嗨夥計，需要翅膀嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_BURNT
+msgid "Yikes! That boat had baaaad luck."
+msgstr "呀！那艘船運氣不好。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_TRINKET_1
+msgid "Excuse me?"
+msgstr "什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_TRINKET_2
+msgid "It cannot help me."
+msgstr "它幫不了我。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_TRINKET_3
+msgid "Not much of a candle then, is it?"
+msgstr "不是什麼好的蠟燭，是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_TRINKET_4
+msgid "Sea-what?"
+msgstr "海洋什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUNKEN_BOAT_TRINKET_5
+msgid "Not my size."
+msgstr "不是我的尺碼。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SUPERTELESCOPE
+msgid "I knew sharks had an exceptional sense of smell, but their vision!"
+msgstr "我知道鯊魚的鼻子很靈，但它們的視力可不怎麼樣！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SURFNTURF
+msgid "Mwah! Perfection."
+msgstr "嘖！完美。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEATERVEST
+msgid "I feel so much better all of the sudden."
+msgstr "我突然感覺好多了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEETPOTATOSOUFFLE
+msgid "Food that feeds the soul and nourishes the body."
+msgstr "慰藉靈魂、滋養身體的食物。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEET_POTATO
+msgid "Starch never tasted so sweet."
+msgstr "從未吃過味道這麼甜的澱粉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEET_POTATO_COOKED
+msgid "Could use touch of curry and creme freche..."
+msgstr "可以加少許咖喱和鮮奶油..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEET_POTATO_PLANTED
+msgid "Starch never tasted so sweet."
+msgstr "從未吃過味道這麼甜的澱粉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWEET_POTATO_SEEDS
+msgid "People often confuse yams and sweet potatoes. They're very different!"
+msgstr "人們經常混淆山藥和紅薯。它們完全不同！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWIMMINGHORROR
+msgid "No need to come any closer, sir."
+msgstr "沒必要再靠近了，先生。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.SWORDFISH
+msgid "A deluxe, but dangerous ingredient!"
+msgstr "一種奢華又危險的材料！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAFFY
+msgid "I hope it never dislodges from my teeth!"
+msgstr "我不想它離開我的牙齒！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRD
+msgid "Leggy."
+msgstr "大長腿。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG
+msgid "I wonder what its incubation period is?"
+msgstr "我想知道孵化它要多久？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_COOKED
+msgid "Could use sliced fried tomatoes and beans..."
+msgstr "可以做成切片番茄炒蛋，再加點豆子..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
+msgid "Oh, you poor egg, you are so cold!"
+msgstr "噢，你這顆可憐的蛋，凍到了吧！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
+msgid "There is activity!"
+msgstr "那裡有響動！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
+msgid "I hope you don't hardboil."
+msgstr "我希望你沒有被烤熟。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
+msgid "This is going to take some dedication."
+msgstr "這種事需要投入點時間。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
+msgid "A hatching is in the offing!"
+msgstr "就快孵化出來了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDNEST.GENERIC
+msgid "No vacancy here."
+msgstr "這裡沒有空位。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TALLBIRDNEST.PICKED
+msgid "Empty nest syndrome is setting in."
+msgstr "空巢綜合征降臨了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR
+msgid "Adds a truly unique flavor to licorice."
+msgstr "給甘草加點真正獨特的風味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TARLAMP
+msgid "What a rustic delight!"
+msgstr "真有鄉村情調！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TARSUIT
+msgid "I hope there are no feathers around!"
+msgstr "我希望周圍沒有羽毛！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR_EXTRACTOR.LOWFUEL
+msgid "It looks a bit peckish."
+msgstr "它看起來有點餓。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR_EXTRACTOR.OFF
+msgid "I suppose I should turn it on."
+msgstr "我想我應該把它打開。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR_EXTRACTOR.ON
+msgid "It's extracting tar quite vigorously!"
+msgstr "它提取焦油的速度相當快！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR_POOL
+msgid "I think there's tar down there."
+msgstr "我覺得下面有焦油。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TAR_TRAP
+msgid "The slowed pace gives you time to enjoy the scenery."
+msgstr "放慢的節奏讓你有時間欣賞風景。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TEENBIRD.GENERIC
+msgid "You are sort of tall, I guess..."
+msgstr "我猜你也算比較高的吧..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TEENBIRD.HUNGRY
+msgid "Teenagers, always hungry!"
+msgstr "青少年總是容易餓！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TEENBIRD.STARVING
+msgid "Are you trying to eat me out of base and home?"
+msgstr "你是想把我吃得傾家蕩產嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEBASE.GEMS
+msgid "It requires more purple gems."
+msgstr "它需要更多的紫寶石。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEBASE.VALID
+msgid "It is operational."
+msgstr "它正在運轉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BASE.ACTIVE
+msgid "Where shall we go, thing?"
+msgstr "你說我們該去哪裡呢？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BASE.GENERIC
+msgid "It leads somewhere. And that is what I am afraid of."
+msgstr "它通往某個地方，這正是我害怕的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BASE.LOCKED
+msgid "It denies my access."
+msgstr "它拒絕了我的訪問。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BASE.PARTIAL
+msgid "It requires something additional."
+msgstr "它還需要別的東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_BOX
+msgid "\"This\" likely connects to a \"that.\""
+msgstr "這東西很可能要連到某個東西上。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_CRANK
+msgid "Definitely for a cranking action of some kind."
+msgstr "顯然是用來完成某種轉動動作的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_POTATO
+msgid "This, I do not even..."
+msgstr "這個，我甚至都沒有..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_RING
+msgid "One ring to teleport them all!"
+msgstr "一個戒指可以將它們全部傳送過去！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BASE
+msgid "It leads somewhere. And that is what I am afraid of."
+msgstr "它通往某個地方，這正是我害怕的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_BOX
+msgid "\"This\" likely connects to a \"that.\""
+msgstr "這東西很可能要連到某個東西上。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_CRANK
+msgid "Definitely for a cranking action of some kind."
+msgstr "顯然是用來完成某種轉動動作的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_POTATO
+msgid "This, I do not even..."
+msgstr "這個，我甚至都沒有..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELEPORTATO_SW_RING
+msgid "One ring to teleport them all!"
+msgstr "一個戒指可以將它們全部傳送過去！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELESCOPE
+msgid "To see how \"near\" I am to \"far\"."
+msgstr "看看我離遠景是多麼的近。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TELESTAFF
+msgid "Let us take a trip. I am not picky as to where."
+msgstr "讓我們來場旅行，我不在乎去哪裡。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENT.BURNT
+msgid "A good night's sleep, up in smoke."
+msgstr "美夢成雲煙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENT.GENERIC
+msgid "For roughing it."
+msgstr "湊合著用用。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLE
+msgid "Calamari?"
+msgstr "魷魚？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLESPIKE
+msgid "This would stick in my throat."
+msgstr "它會像魚刺一樣梗在我的喉嚨里。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLESPOTS
+msgid "Would make a decent kitchen rag."
+msgstr "可以做一塊不錯的廚房抹布。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLE_GARDEN
+msgid "If only it were squid and not... whatever it is..."
+msgstr "如果它是魷魚而不是現在這樣...那該多好..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLE_PILLAR
+msgid "If only it were squid and not... whatever it is..."
+msgstr "如果它是魷魚而不是現在這樣...那該多好..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TENTACLE_PILLAR_ARM
+msgid "If only it were squid and not... whatever it is..."
+msgstr "如果它是魷魚而不是現在這樣...那該多好..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.THATCHPACK
+msgid "Thatch you very much!"
+msgstr "小草包，有勞你了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.THULECITE
+msgid "Thule-... thulec-... it rolls off the tongue, does it not?"
+msgstr "銩...銩...順口就念出來了，不是嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.THULECITE_PIECES
+msgid "A pocketful of thule."
+msgstr "一口袋銩。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TIDALPOOL
+msgid "It traps snacks."
+msgstr "裡面裝著我的點心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TIDAL_PLANT
+msgid "Inedible."
+msgstr "不能吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TIGEREYE
+msgid "Well, it's edible."
+msgstr "嗯，它可以食用。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TIGERSHARK
+msgid "I wish you were a tiger shrimp instead!"
+msgstr "我寧願你是一隻虎蝦！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TOPHAT
+msgid "For a night out on the town...?"
+msgstr "晚上戴著它去城裡尋開心...？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TOUCAN
+msgid "You are all nose."
+msgstr "鳥啊，你全是嘴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAILMIX
+msgid "Energy food!"
+msgstr "高能量食物！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRANSISTOR
+msgid "Positively charged to get my hands on one!"
+msgstr "帶正電的小零件，我忍不住想擁有！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP
+msgid "I do not wish to be so tricky, but the dinner bell calls me."
+msgstr "我不想使詭計，但開飯的鈴聲在召喚我。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_TEETH
+msgid "This is not a cruelty-free trap."
+msgstr "這是個殘忍的陷阱。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAP_TEETH_MAXWELL
+msgid "I must remember where this is..."
+msgstr "我一定得記起這是哪裡..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAWLNET
+msgid "Ah! The life of a fisherman!"
+msgstr "啊！漁夫的生活！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAWLNETDROPPED.GENERIC
+msgid "I hope the sea obliges my net with worthy catches."
+msgstr "我希望大海能夠讓我拖著漁網滿載而歸。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAWLNETDROPPED.SOON
+msgid "It is definitely filling up."
+msgstr "它肯定在填滿。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRAWLNETDROPPED.SOONISH
+msgid "It is close to full."
+msgstr "它快滿了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TREASURECHEST.BURNT
+msgid "Its treasure-chesting days are over."
+msgstr "它作為藏寶箱的日子結束了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TREASURECHEST_TRAP
+msgid "Hmmm, something does not feel right about this..."
+msgstr "嗯，我感覺這個有點不對勁..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TREECLUMP
+msgid "Someone or something does not want me to tree-spass."
+msgstr "有什麼人或什麼東西不想我穿過這片樹叢。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TREEGUARD
+msgid "Let us not do anything we will regret, uh... sir..."
+msgstr "讓我們別做什麼以後會後悔的事情，呃...先生..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRIDENT
+msgid "That's one giant fork!"
+msgstr "這是一把巨大的叉子！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_1
+msgid "Someone must have really lost their marbles."
+msgstr "肯定有人真的掉了彈珠。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_10
+msgid "Manmade masticators."
+msgstr "人造咀嚼器。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_11
+msgid "He doesn't seem trustworthy to me."
+msgstr "他看起來不值得我信任。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_12
+msgid "I know of no recipe that calls for this."
+msgstr "我不知道有什麼菜譜需要這東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_13
+msgid "I'd prefer switcha... With a piece of duff."
+msgstr "我寧願要一份檸檬汽水...加一個布丁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_14
+msgid "Do they work with paring knives?"
+msgstr "它們和削皮刀配套使用嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_15
+msgid "I prefer the lute, myself."
+msgstr "我自己更喜歡魯特琴。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_16
+msgid "This has no business calling itself a plate."
+msgstr "它不該稱自己為銘牌。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_17
+msgid "I wouldn't wear this, even if it were my size."
+msgstr "即使它的尺碼合適，我也不會去穿它的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_18
+msgid "I should be careful with this."
+msgstr "我應該輕拿輕放。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_19
+msgid "An odd prescription."
+msgstr "古怪的處方。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_2
+msgid "I'll hum my own tune."
+msgstr "我會哼出自己的調子。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_20
+msgid "It looks expectant."
+msgstr "它看上去滿懷期待。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_21
+msgid "I'm afraid I won't fit."
+msgstr "我恐怕上不了這艘船。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_22
+msgid "Perfect for a candlelit dinner!"
+msgstr "非常適合用於燭光晚餐！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_23
+msgid "What an interesting contraption."
+msgstr "多麼有趣的裝置。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_3
+msgid "Some things can't be undone."
+msgstr "有些事情做了就沒法重來。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_4
+msgid "Somewhere there's a lawn that misses you."
+msgstr "在某個地方有塊想念你的草坪。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_5
+msgid "A rocketship for ants?"
+msgstr "螞蟻乘坐的火箭？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_6
+msgid "These almost look dangerous."
+msgstr "它們看上去有些危險。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_7
+msgid "A distraction of little substance."
+msgstr "消遣的小玩意。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_8
+msgid "Ah, memories of bathing."
+msgstr "啊，我回憶起了泡澡的時光。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRINKET_9
+msgid "Buttons that are not so cute."
+msgstr "不太可愛的紐扣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALBOUILLABAISSE
+msgid "Such a decadent dish!"
+msgstr "墮落的魚！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICALFAN
+msgid "Like a cool ocean breeze."
+msgstr "就像涼爽的海風吹過。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TROPICAL_FISH
+msgid "Catch of today!"
+msgstr "今天收穫有望了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_SUMMER
+msgid "Fashionably refreshing."
+msgstr "清爽時髦。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNKVEST_WINTER
+msgid "Toasty and trendy."
+msgstr "舒適暖和又時髦。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_COOKED
+msgid "Could use... Hm... I'm stumped..."
+msgstr "可以加點...唔...難住我了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_SUMMER
+msgid "This meat has a gamey odor."
+msgstr "這塊肉氣味很強烈。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TRUNK_WINTER
+msgid "Not the finest cut of meat."
+msgstr "並不是最好的那塊肉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TUMBLEWEED
+msgid "What secrets do you hold?"
+msgstr "你藏著什麼秘密？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TUNACAN
+msgid "Tuna, packed in oil!"
+msgstr "浸在油里的金槍魚！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURBINE_BLADES
+msgid "Could work in a food processor."
+msgstr "可以用在食物料理機里。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ASH
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BADLANDS
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_BEACH
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CARPETFLOOR
+msgid "Make fists with your toes..."
+msgstr "蜷起腳趾..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CAVE
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_CHECKERFLOOR
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DECIDUOUS
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DESERTDIRT
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_DIRT
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FOREST
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_GREEN
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_FUNGUS_RED
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_GRASS
+msgid "Will I need to cut this?"
+msgstr "我需要割掉這些草嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_JUNGLE
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MAGMAFIELD
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MARSH
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MEADOW
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_MUD
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROAD
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_ROCKY
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SANDY
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SAVANNA
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SINKHOLE
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SNAKESKINFLOOR
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_SWAMP
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_TIDALMARSH
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_UNDERROCK
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_VOLCANO
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURF_WOODFLOOR
+msgid "It's like an ingredient for the ground."
+msgstr "這就像是一種給地面的調料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TURKEYDINNER
+msgid "I'm getting sleepy just looking at it!"
+msgstr "只是看著它我就困了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TWIGS
+msgid "The start of a good cooking fire."
+msgstr "用來生火做飯的好材料。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TWISTER
+msgid "Nature's blender!"
+msgstr "大自然攪拌機！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TWISTER_SEAL
+msgid "I bet it's delicious, but I just don't have the heart to find out."
+msgstr "我打賭它很美味，但我現在沒心情去了解是不是這樣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.UMBRELLA
+msgid "I will try to remember not to open indoors."
+msgstr "我會試著記住不要在室內打傘。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.UNAGI
+msgid "More like \"umami\"! Ooooh, mommy!"
+msgstr "媽呀！好鮮！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.UNIMPLEMENTED
+msgid "It appears unfinished."
+msgstr "看起來還沒完成。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VENOMGLAND
+msgid "The worst kind of gland!"
+msgstr "最糟糕的那種腺體！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VINE
+msgid "Not a single grape on it..."
+msgstr "上面一顆葡萄也沒有..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO
+msgid "Oh, this gets better and better..."
+msgstr "噢，火候越來越好了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANOSTAFF
+msgid "One must be careful with this."
+msgstr "必須小心使用這東西。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR.GENERIC
+msgid "It appears to be some kind of altar."
+msgstr "這好像是某種形式的祭壇。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR.OPEN
+msgid "It accepts offerings, I think."
+msgstr "我覺得它應該會接受供品。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR_BROKEN
+msgid "Now there will be no pleasing this thing!"
+msgstr "現在沒辦法給它上供了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_ALTAR_TOWER
+msgid "Mon dieu!"
+msgstr "天哪！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_EXIT
+msgid "I will not let the door hit me on the way out!"
+msgstr "我要趕快離開這裡，一刻也不停留！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.VOLCANO_SHRUB
+msgid "I wonder what it used to be?"
+msgstr "我想知道它過去是什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WAFFLES
+msgid "Oh, brunch, I have missed you so!"
+msgstr "噢，早午餐，我好想念你！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALLYINTRO_DEBRIS
+msgid "This leaves a bad taste in my mouth..."
+msgstr "這在我嘴裡留下了不好的味道..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE
+msgid "Good and strong."
+msgstr "很好很堅硬。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_ENFORCEDLIMESTONE_ITEM
+msgid "I could probably place this at sea without issue."
+msgstr "我大概可以把這個放在海里，不成問題。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.BURNT
+msgid "That is what I expected."
+msgstr "和我預料中一樣。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY.GENERIC
+msgid "Calling it a \"wall\" is kind of a stretch."
+msgstr "稱它為「牆」有些勉強。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_HAY_ITEM
+msgid "Hay look, a wall!"
+msgstr "嘿快看，一堵草牆！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE
+msgid "Zesty wall."
+msgstr "有意思的牆。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_LIMESTONE_ITEM
+msgid "Citrus-infused walls!"
+msgstr "灌注了石灰的牆！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_RUINS
+msgid "Look at the carvings..."
+msgstr "看看這雕花的手藝..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_RUINS_ITEM
+msgid "The stories these tell... fascinating..."
+msgstr "這些東西所講述的故事...很有意思..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_STONE
+msgid "Good stone work."
+msgstr "不錯的石製品。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_STONE_ITEM
+msgid "I feel secure behind this."
+msgstr "在牆後我感到很安全。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_WOOD.BURNT
+msgid "Wood burns. Who knew? ...Me!?"
+msgstr "木頭是易燃物。誰知道呢？...我嗎！？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_WOOD.GENERIC
+msgid "Putting down stakes."
+msgstr "放置木樁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALL_WOOD_ITEM
+msgid "Delivers a rather wooden performance as a wall."
+msgstr "可以修成一堵相當呆板的木牆。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALRUS
+msgid "They move faster than you'd think."
+msgstr "它們的行動速度比你以為的快。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALRUSHAT
+msgid "Smells a little musty..."
+msgstr "聞起來有點霉味..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALRUS_CAMP.EMPTY
+msgid "Yes, vacancy."
+msgstr "是的，是空的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALRUS_CAMP.GENERIC
+msgid "Some outdoorsy types made this."
+msgstr "一些喜歡野外生活的人造了這個。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WALRUS_TUSK
+msgid "It won't be needing this anymore."
+msgstr "它不再需要這個了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WARG
+msgid "Leader of the pack."
+msgstr "族群的首領。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WASPHIVE
+msgid "Not your average bees."
+msgstr "裡面不是普通的蜜蜂。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERCHEST
+msgid "I probably shouldn't keep perishables in it."
+msgstr "我也許不該把容易腐壞的東西放在這裡面。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERCROCODOG
+msgid "You look much too hungry!"
+msgstr "你看起來餓極了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERMELON
+msgid "Despite its name, it is mostly filled with deliciousness!"
+msgstr "雖然名字很平淡，但瓜肉很美味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERMELONHAT
+msgid "Aaaahhhhhh sweet relief..."
+msgstr "啊啊啊啊啊，甜蜜的降溫方式..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERMELONICLE
+msgid "I feel like a kid again!"
+msgstr "我感覺又回到了童年！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERMELON_COOKED
+msgid "Could use mint and feta..."
+msgstr "可以加點薄荷和羊乳酪..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERMELON_SEEDS
+msgid "More watermelon, anyone?"
+msgstr "種更多西瓜，怎麼樣？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WATERYGRAVE
+msgid "Let's open her up."
+msgstr "讓我們打開它。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WEBBERSKULL
+msgid "Stop staring at me or I'll bury you!"
+msgstr "別盯著我，不然我會埋了你！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_BLUE
+msgid "Why the long fishface?"
+msgstr "為什麼它拉長著一張魚臉？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_BUBBLES
+msgid "What the deuce?"
+msgstr "那是什麼？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_CARCASS_BLUE
+msgid "That is quite a lot of dead whale."
+msgstr "這頭死去的鯨魚可真夠大的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_CARCASS_WHITE
+msgid "That is quite a lot of dead whale."
+msgstr "這頭死去的鯨魚可真夠大的。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_TRACK
+msgid "My quarry is near!"
+msgstr "我的獵物就在附近！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WHALE_WHITE
+msgid "I have seen the devil!"
+msgstr "我看到了惡魔！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WILBUR_CROWN
+msgid "Finally, the recognition I deserve. Does it get any bigger?"
+msgstr "我終於獲得了應得的認可。它有變大一點嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WILBUR_UNLOCK
+msgid "Salutations, my good simian fellow!"
+msgstr "你好，我親愛的類人猿夥計！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WILDBORE
+msgid "Does not look like a placid piggy."
+msgstr "看起來不像一隻性格溫順的豬。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WILDBOREHEAD
+msgid "Is someone making a gourmet jerky?"
+msgstr "有人正在做美味的臘豬頭嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WILDBOREHOUSE
+msgid "How wild can they be if they live in houses?"
+msgstr "如果他們住在屋子裡，能有多野蠻？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WIND_CONCH
+msgid "Oh, how I'm homesick for conch snacks."
+msgstr "啊，我多麼想念家鄉的海螺小吃。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WINTERHAT
+msgid "I know when to don this, and not a minute sooner."
+msgstr "我知道什麼時候戴上它，早一分鐘都不行。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WINTEROMETER.BURNT
+msgid "Foresight is 0/0."
+msgstr "預報能力為零。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WINTEROMETER.GENERIC
+msgid "Splendid. I should like to know when the worm is going to turn."
+msgstr "好極了。我想知道溫度什麼時候會升高。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGSBOAT
+msgid "Is that as fast as it goes?"
+msgstr "它就只能開這麼快？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGSHAT
+msgid "It makes me feel... dangerous."
+msgstr "它讓我感覺...很危險。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGSSAIL
+msgid "I'm ready to set sail!"
+msgstr "我準備好揚帆起航了！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGS_CAGE
+msgid "Bonjour garcon, can you tell me... oh... I see..."
+msgstr "你好，夥計，能不能告訴我...噢...我明白了..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGS_KEY1
+msgid "Some sort of menacing key."
+msgstr "某種有威脅的鑰匙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGS_KEY2
+msgid "Some sort of menacing key."
+msgstr "某種有威脅的鑰匙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WOODLEGS_KEY3
+msgid "Some sort of menacing key."
+msgstr "某種有威脅的鑰匙。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORM.PLANT
+msgid "I see nothing amiss here."
+msgstr "我看不出這裡有什麼不對勁。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORM.WORM
+msgid "Worm!"
+msgstr "蠕蟲！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORMHOLE.GENERIC
+msgid "That is no ordinary tooth-lined hole in the ground!"
+msgstr "地上這個布滿牙齒的洞絕不是普通的洞！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORMHOLE.OPEN
+msgid "Am I really doing this?"
+msgstr "我真的要跳下去嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORMHOLE_LIMITED
+msgid "These things can look worse?"
+msgstr "這東西還可以看起來更噁心嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WORMLIGHT
+msgid "Radiates deliciousness."
+msgstr "發光的美味。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WRECK
+msgid "It sails no more."
+msgstr "它不能再航行了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWAMULET
+msgid "Puts some pep in my step!"
+msgstr "讓我的步伐更有活力！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWGEM
+msgid "I miss lemons..."
+msgstr "我想念檸檬..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.YELLOWSTAFF
+msgid "I could stir a huge pot with this thing!"
+msgstr "我可以用這東西來攪動一個大鍋！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE_GENERIC
+msgid "It is what it is..."
+msgstr "它就是它..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE_SMOLDERING
+msgid "I fear that that is about to cook itself."
+msgstr "我怕那東西要把自己給烹飪了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE_TOODARK
+msgid "I cannot see a thing!"
+msgstr "我什麼都看不見了！"
+
+#: STRINGS.CHARACTERS.WARLY.EAT_FOOD.TALLBIRDEGG_CRACKED
+msgid "Fresh! Err... perhaps too fresh."
+msgstr "新鮮！呃...也許過於新鮮了。"
+
+#: STRINGS.CHARACTER_QUOTES.warly
+msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
+msgstr "「從來沒有任何值得做的事情是在空肚子的情況下完成的！」"
+
+#: STRINGS.CHARACTERS.WARLY.ACTIONFAIL.GIVE.BUSY
+msgid "Pardonnez-moi, they seem busy right now."
+msgstr "抱歉，它們現在好像很忙。"
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_COLD
+msgid "I'm... getting freezer burn..."
+msgstr "我...要被凍傷了..."
+
+#: STRINGS.CHARACTERS.WARLY.ANNOUNCE_HOT
+msgid "I'm baking like a soufflé here..."
+msgstr "我被這裡的高溫烤成了蛋奶酥..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BISHOP
+msgid "You don't strike me as particularly spiritual."
+msgstr "我並不認為你是精神領袖。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.BOOMERANG
+msgid "Oh good. I have separation anxiety."
+msgstr "噢好吧。我患上了分離焦慮症。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_BANANA
+msgid "Bananas! Just the flavor I needed!"
+msgstr "香蕉！正是我需要的美味！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.CAVE_EXIT.GENERIC
+msgid "Now isn't a good time to leave."
+msgstr "現在不是離開這的好時機。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_BERRYBUSH
+msgid "Should I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_GRASS
+msgid "Should I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_MARSH_BUSH
+msgid "Should I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.DUG_SAPLING
+msgid "Should I bring it back to life?"
+msgstr "我應該讓它再活一次嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EEL_COOKED
+msgid "Could use some Cajun spices..."
+msgstr "可以加點卡真調料..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.EYEPLANT
+msgid "Is that a mouth?"
+msgstr "那是一張嘴嗎？"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.GEMSOCKET.VALID
+msgid "Voilà!"
+msgstr "瞧！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LAVASPIT.COOL
+msgid "The top has cooled like a barfy crème brûlée!"
+msgstr "頂部已經涼了，就像涼下來的焦糖布丁！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.LIVINGLOG
+msgid "Magic building blocks!"
+msgstr "創造魔法的木塊！"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.MAXWELLTHRONE
+msgid "Heavy is the bum that sits on the throne..."
+msgstr "王座上坐著的是不可承受之重..."
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.ORANGESTAFF
+msgid "When I hold it it makes the world feel... fast."
+msgstr "當我握住它時，感覺世界...變快了。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.PIGMAN.WEREPIG
+msgid "Aggression spoils the meat."
+msgstr "它發瘋了，真是糟蹋了一塊好肉。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.RESEARCHLAB.GENERIC
+msgid "A center for learning."
+msgstr "學習中心。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.TORCH
+msgid "Not great for caramelizing crème brûlée, but it will do for seeing."
+msgstr "對製作焦糖布丁來說用處不大，但是可以照明。"
+
+#: STRINGS.CHARACTERS.WARLY.DESCRIBE.WETGOOP
+msgid "Thankfully my sous chefs aren't here to witness this abomination..."
+msgstr "謝天謝地，我的副廚師長沒在這看到這團噁心的東西..."
