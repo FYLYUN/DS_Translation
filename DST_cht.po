@@ -121084,3 +121084,399 @@ msgstr "對製作焦糖布丁來說用處不大，但是可以照明。"
 #: STRINGS.CHARACTERS.WARLY.DESCRIBE.WETGOOP
 msgid "Thankfully my sous chefs aren't here to witness this abomination..."
 msgstr "謝天謝地，我的副廚師長沒在這看到這團噁心的東西..."
+
+#: STRINGS.ACTIONS.DEPLOY.PORTABLE
+msgid "Place"
+msgstr "放置"
+
+#: STRINGS.ACTIONS.DISMANTLE
+msgid "Dismantle"
+msgstr "拆卸"
+
+#: STRINGS.ACTIONS.SPICE
+msgid "Season"
+msgstr "調味"
+
+#: STRINGS.ACTIONS.STORE.SPICE
+msgid "Season"
+msgstr "調味"
+
+#: STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE
+msgid "Place"
+msgstr "放置"
+
+#: STRINGS.UI.WARDROBESCREEN.CYCLE_VIEW
+msgid "Cycle View"
+msgstr "切換視圖"
+
+#: STRINGS.UI.WORLDGEN.NOUNS.40
+msgid "terrible darkness..."
+msgstr "可怕的黑暗..."
+
+#: STRINGS.UI.WORLDGEN.NOUNS.41
+msgid "a touch of magic..."
+msgstr "一絲魔法..."
+
+#: STRINGS.SKIN_NAMES.body_warly_fisherman
+msgid "Trawler's Rain Slicker"
+msgstr "漁夫的雨衣"
+
+#: STRINGS.SKIN_NAMES.body_warly_rose
+msgid "Sugar Rose Vest"
+msgstr "糖玫瑰馬甲"
+
+#: STRINGS.SKIN_NAMES.body_warly_victorian
+msgid "Naval Uniform Shirt"
+msgstr "海軍制服襯衫"
+
+#: STRINGS.SKIN_NAMES.feet_warly_fisherman
+msgid "Trawler's Boots"
+msgstr "漁夫的鞋子"
+
+#: STRINGS.SKIN_NAMES.feet_warly_victorian
+msgid "Naval Uniform Shoes"
+msgstr "海軍制服鞋子"
+
+#: STRINGS.SKIN_NAMES.hand_warly_rose
+msgid "Sugar Rose Gloves"
+msgstr "糖玫瑰手套"
+
+#: STRINGS.SKIN_NAMES.legs_warly_fisherman
+msgid "Trawler's Waders"
+msgstr "漁夫的防水褲"
+
+#: STRINGS.SKIN_NAMES.legs_warly_rose
+msgid "Sugar Rose Legs"
+msgstr "糖玫瑰腿裝"
+
+#: STRINGS.SKIN_NAMES.legs_warly_victorian
+msgid "Naval Uniform Pants"
+msgstr "海軍制服褲子"
+
+#: STRINGS.SKIN_NAMES.pack_warly_deluxe
+msgid "Warly Deluxe Chest"
+msgstr "沃利豪華寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_warly_fisherman
+msgid "Warly Trawler Chest"
+msgstr "沃利漁夫寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_warly_rose
+msgid "Warly Roseate Chest"
+msgstr "沃利玫瑰寶箱"
+
+#: STRINGS.SKIN_NAMES.pack_warly_victorian
+msgid "Warly Victorian Chest"
+msgstr "沃利維多利亞寶箱"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_eyebrellahatcrystal
+msgid "Glass Eyebrella Portrait"
+msgstr "玻璃眼球傘背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_iceboxcrystal
+msgid "Crystalline Ice Box Portrait"
+msgstr "水晶冰箱背景"
+
+#: STRINGS.SKIN_NAMES.playerportrait_bg_moonstarstaffcrystal
+msgid "Radiant Star Caller's Staff Portrait"
+msgstr "輻輝喚星魔杖背景"
+
+#: STRINGS.SKIN_NAMES.profileflair_eyebrellahat_crystal
+msgid "Glass Eyebrella"
+msgstr "玻璃眼球傘"
+
+#: STRINGS.SKIN_NAMES.profileflair_icebox_crystal
+msgid "Crystalline Ice Box"
+msgstr "水晶冰箱"
+
+#: STRINGS.SKIN_NAMES.profileflair_moonstaff_crystal
+msgid "Prismatic Moon Caller Staff"
+msgstr "稜鏡喚月魔杖"
+
+#: STRINGS.SKIN_NAMES.profileflair_starstaff_crystal
+msgid "Radiant Star Caller's Staff"
+msgstr "輻輝喚星魔杖"
+
+#: STRINGS.SKIN_NAMES.warly_fisherman
+msgid "The Trawler"
+msgstr "漁夫"
+
+#: STRINGS.SKIN_NAMES.warly_none
+msgid "Warly"
+msgstr "沃利"
+
+#: STRINGS.SKIN_NAMES.warly_rose
+msgid "The Roseate"
+msgstr "玫瑰"
+
+#: STRINGS.SKIN_NAMES.warly_victorian
+msgid "The Victorian"
+msgstr "維多利亞"
+
+#: STRINGS.SKIN_QUOTES.warly_fisherman
+msgid "\"I'm on a see-food diet.\""
+msgstr "\"我正在挑選海鮮。\""
+
+#: STRINGS.SKIN_QUOTES.warly_rose
+msgid "\"And just a dash of sweet rosewater.\""
+msgstr "\"再加入少許的甜玫香料。\""
+
+#: STRINGS.SKIN_QUOTES.warly_victorian
+msgid "\"I actually just work in the galley.\""
+msgstr "\"我其實在船上工作。\""
+
+#: STRINGS.SKIN_TAG_CATEGORIES.CHARACTER.WARLY
+msgid "Warly"
+msgstr "沃利"
+
+#: STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.FISHERMAN
+msgid "Trawler Collection"
+msgstr "漁夫藏品"
+
+#: STRINGS.TABS.FOODPROCESSING
+msgid "Seasonings"
+msgstr "調料"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_warly_deluxe
+msgid "This Deluxe Wardrobe contains Warly's complete set of Roseate, Trawler, and Victorian skin items."
+msgstr "這個豪華衣櫃包含沃利的全套玫瑰、漁夫和維多利亞皮膚物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_warly_fisherman
+msgid "This Chest contains Warly's complete set of Trawler skin items."
+msgstr "這個寶箱包含沃利的全套漁夫皮膚物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_warly_rose
+msgid "This Chest contains Warly's complete set of Roseate skin items."
+msgstr "這個寶箱包含沃利的全套玫瑰皮膚物品。"
+
+#: STRINGS.SKIN_DESCRIPTIONS.pack_warly_victorian
+msgid "This Chest contains Warly's complete set of Victorian skin items."
+msgstr "這個寶箱包含沃利的全套維多利亞皮膚物品。"
+
+#: STRINGS.MAPRECORDER.LOCATION.DEFAULT
+msgid ""
+msgstr ""
+
+#: STRINGS.NAMES.ASPARAGUS
+msgid "Asparagus"
+msgstr "蘆筍"
+
+#: STRINGS.NAMES.ASPARAGUSSOUP
+msgid "Asparagus Soup"
+msgstr "蘆筍湯"
+
+#: STRINGS.NAMES.ASPARAGUS_COOKED
+msgid "Roasted Asparagus"
+msgstr "烤蘆筍"
+
+#: STRINGS.NAMES.ASPARAGUS_SEEDS
+msgid "Asparagus Seeds"
+msgstr "蘆筍種子"
+
+#: STRINGS.NAMES.BANANAPOP
+msgid "Banana Pop"
+msgstr "香蕉凍"
+
+#: STRINGS.NAMES.BONESOUP
+msgid "Bone Bouillon"
+msgstr "骨頭湯"
+
+#: STRINGS.NAMES.CEVICHE
+msgid "Ceviche"
+msgstr "酸橘汁腌魚"
+
+#: STRINGS.NAMES.DRAGONCHILISALAD
+msgid "Hot Dragon Chili Salad"
+msgstr "熱龍椒沙拉"
+
+#: STRINGS.NAMES.FRESHFRUITCREPES
+msgid "Fresh Fruit Crepes"
+msgstr "鮮果可麗餅"
+
+#: STRINGS.NAMES.FROGFISHBOWL
+msgid "Fish Cordon Bleu"
+msgstr "藍帶魚排"
+
+#: STRINGS.NAMES.GARLIC
+msgid "Garlic"
+msgstr "大蒜"
+
+#: STRINGS.NAMES.GARLIC_COOKED
+msgid "Roasted Garlic"
+msgstr "烤大蒜"
+
+#: STRINGS.NAMES.GARLIC_SEEDS
+msgid "Garlic Seeds"
+msgstr "大蒜種子"
+
+#: STRINGS.NAMES.GAZPACHO
+msgid "Asparagazpacho"
+msgstr "蘆筍冷盤湯"
+
+#: STRINGS.NAMES.GLOWBERRYMOUSSE
+msgid "Glow Berry Mousse"
+msgstr "發光漿果慕斯"
+
+#: STRINGS.NAMES.MASHEDPOTATOES
+msgid "Creamy Potato Purée"
+msgstr "奶油土豆泥"
+
+#: STRINGS.NAMES.MONSTERTARTARE
+msgid "Monster Tartare"
+msgstr "怪物韃靼"
+
+#: STRINGS.NAMES.MOQUECA
+msgid "Moqueca"
+msgstr "海鮮雜燴"
+
+#: STRINGS.NAMES.NIGHTMAREPIE
+msgid "Grim Galette"
+msgstr "恐懼國王餅"
+
+#: STRINGS.NAMES.ONION
+msgid "Onion"
+msgstr "洋蔥"
+
+#: STRINGS.NAMES.ONION_COOKED
+msgid "Roasted Onion"
+msgstr "烤洋蔥"
+
+#: STRINGS.NAMES.ONION_SEEDS
+msgid "Onion Seeds"
+msgstr "洋蔥種子"
+
+#: STRINGS.NAMES.PEPPER
+msgid "Pepper"
+msgstr "辣椒"
+
+#: STRINGS.NAMES.PEPPERPOPPER
+msgid "Stuffed Pepper Poppers"
+msgstr "爆炒填餡辣椒"
+
+#: STRINGS.NAMES.PEPPER_COOKED
+msgid "Roasted Pepper"
+msgstr "烤辣椒"
+
+#: STRINGS.NAMES.PEPPER_SEEDS
+msgid "Pepper Seeds"
+msgstr "辣椒種子"
+
+#: STRINGS.NAMES.PORTABLEBLENDER_ITEM
+msgid "Portable Grinding Mill"
+msgstr "攜帶型研磨器"
+
+#: STRINGS.NAMES.PORTABLECOOKPOT_ITEM
+msgid "Portable Crock Pot"
+msgstr "攜帶型烹飪鍋"
+
+#: STRINGS.NAMES.PORTABLESPICER_ITEM
+msgid "Portable Seasoning Station"
+msgstr "攜帶型調料站"
+
+#: STRINGS.NAMES.POTATO
+msgid "Potato"
+msgstr "烤土豆"
+
+#: STRINGS.NAMES.POTATOSOUFFLE
+msgid "Puffed Potato Soufflé"
+msgstr "蓬鬆土豆蛋奶酥"
+
+#: STRINGS.NAMES.POTATOTORNADO
+msgid "Fancy Spiralled Tubers"
+msgstr "花哨的螺旋狀塊莖"
+
+#: STRINGS.NAMES.POTATO_COOKED
+msgid "Roasted Potato"
+msgstr "烤土豆"
+
+#: STRINGS.NAMES.POTATO_SEEDS
+msgid "Potato Seeds"
+msgstr "土豆種子"
+
+#: STRINGS.NAMES.SALSA
+msgid "Salsa Fresca"
+msgstr "生鮮薩爾薩醬"
+
+#: STRINGS.NAMES.SPICEPACK
+msgid "Chef Pouch"
+msgstr "廚師袋"
+
+#: STRINGS.NAMES.SPICE_CHILI
+msgid "Chili Flakes"
+msgstr "辣椒面"
+
+#: STRINGS.NAMES.SPICE_CHILI_FOOD
+msgid "Spicy {food}"
+msgstr "辣{food}"
+
+#: STRINGS.NAMES.SPICE_GARLIC
+msgid "Garlic Powder"
+msgstr "大蒜粉"
+
+#: STRINGS.NAMES.SPICE_GARLIC_FOOD
+msgid "Garlic {food}"
+msgstr "蒜蓉{food}"
+
+#: STRINGS.NAMES.SPICE_SUGAR
+msgid "Honey Crystals"
+msgstr "蜂蜜結晶"
+
+#: STRINGS.NAMES.SPICE_SUGAR_FOOD
+msgid "Sweet {food}"
+msgstr "甜{food}"
+
+#: STRINGS.NAMES.TOMATO
+msgid "Toma Root"
+msgstr "西紅柿"
+
+#: STRINGS.NAMES.TOMATO_COOKED
+msgid "Roasted Toma Root"
+msgstr "烤西紅柿"
+
+#: STRINGS.NAMES.TOMATO_SEEDS
+msgid "Toma Root Seeds"
+msgstr "西紅柿種子"
+
+#: STRINGS.NAMES.TURNIP
+msgid "Turnip"
+msgstr "蘿蔔"
+
+#: STRINGS.NAMES.TURNIP_COOKED
+msgid "Roasted Turnip"
+msgstr "烤蘿蔔"
+
+#: STRINGS.NAMES.TURNIP_SEEDS
+msgid "Turnip Seeds"
+msgstr "蘿蔔種子"
+
+#: STRINGS.NAMES.VEGSTINGER
+msgid "Vegetable Stinger"
+msgstr "蔬菜雞尾酒"
+
+#: STRINGS.NAMES.VOLTGOATJELLY
+msgid "Volt Goat Chaud-Froid"
+msgstr "伏特羊肉凍"
+
+#: STRINGS.NAMES.WARLY
+msgid "Warly"
+msgstr "沃利"
+
+#: STRINGS.CHARACTER_ABOUTME.warly
+msgid "To Warly, cooking is a language through which to express love and gratitude to those he holds dear."
+msgstr "對沃利來說，烹飪是一種用於表達對他所愛\n之人的愛和感激的語言。"
+
+#: STRINGS.CHARACTER_DESCRIPTIONS.warly
+msgid "*Has a refined palate\n*Cooks in custom kitchenware\n*Brings a stylish chef pouch"
+msgstr "*味覺出眾\n*使用專有廚具烹飪\n*隨身攜帶一個漂亮的廚師袋"
+
+#: STRINGS.CHARACTER_NAMES.warly
+msgid "Warly"
+msgstr "沃利"
+
+#: STRINGS.CHARACTER_TITLES.warly
+msgid "The Culinarian"
+msgstr "廚師"
+
+#: STRINGS.UI.PURCHASEPACKSCREEN.INFO_BTN
+msgid "?"
+msgstr "?"
