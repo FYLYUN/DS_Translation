@@ -7208,7 +7208,7 @@ msgstr "燒！燒！燒！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.GENERIC
 msgid "It holds dark, forbidden secrets..."
-msgstr "它掌控著黑暗，禁用的祕密…"
+msgstr "它掌控著黑暗的，禁用的祕密…"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARG
 msgid "You might be something to reckon with, big dog."
@@ -63516,7 +63516,7 @@ msgstr "它已經架起來了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.QUAGMIRE_POT_HANGER_ITEM
 msgid "Gotta hang the pot on the fire somehow."
-msgstr "無論如何都要把烹煮鍋掛在火堆上。"
+msgstr "無論如何都要把烹飪鍋掛在火堆上。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.QUAGMIRE_POT_SMALL
 msgid "I only know a handful of recipes, but I'm real good at them."
@@ -69932,7 +69932,7 @@ msgstr "開啟大門的鑰匙"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT
 msgid "THIS POT HAS AN ACCEPTABLE MEMORY SIZE"
-msgstr "這個烹煮鍋具有可接受的記憶體容量"
+msgstr "這個烹飪鍋具有可接受的記憶體容量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POTATO
 msgid "I FEEL KINSHIP WITH THIS STRANGE ROOT"
@@ -69956,7 +69956,7 @@ msgstr "做這個的。下等人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT_SMALL
 msgid "THIS POT HAS INADEQUATE MEMORY SIZE"
-msgstr "這個烹煮鍋的記憶體容量不足"
+msgstr "這個烹飪鍋的記憶體容量不足"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT_SYRUP
 msgid "REQUIRES SUCROSE AND FIRE TO CONSTRUCT MORE SUCROSE"
@@ -75336,7 +75336,7 @@ msgstr "熟肉塊"
 
 #: STRINGS.NAMES.COOKPOT
 msgid "Crock Pot"
-msgstr "烹煮鍋"
+msgstr "烹飪鍋"
 
 #: STRINGS.NAMES.COONTAIL
 msgid "Cat Tail"
@@ -77104,7 +77104,7 @@ msgstr "烤箱套件"
 
 #: STRINGS.NAMES.QUAGMIRE_CRATE_POT_HANGER
 msgid "Cookpot Kit"
-msgstr "烹煮鍋套件"
+msgstr "烹飪鍋套件"
 
 #: STRINGS.NAMES.QUAGMIRE_FERN
 msgid "Fern"
@@ -77292,7 +77292,7 @@ msgstr "遠古鑰匙"
 
 #: STRINGS.NAMES.QUAGMIRE_POT
 msgid "Large Cookpot"
-msgstr "大烹煮鍋"
+msgstr "大烹飪鍋"
 
 #: STRINGS.NAMES.QUAGMIRE_POTATO
 msgid "Potato"
@@ -77312,7 +77312,7 @@ msgstr "鍋架"
 
 #: STRINGS.NAMES.QUAGMIRE_POT_SMALL
 msgid "Cookpot"
-msgstr "烹煮鍋"
+msgstr "烹飪鍋"
 
 #: STRINGS.NAMES.QUAGMIRE_POT_SYRUP
 msgid "Syrup Pot"
@@ -79972,7 +79972,7 @@ msgstr "*木頭燃燒時間更長\n\n\n*特長：\n烹飪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
 msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
-msgstr "*提高附近烹煮鍋的效率\n*可以查看食物是否為噬咬所渴求\n\n*特長：\n烹飪"
+msgstr "*提高附近烹飪鍋的效率\n*可以查看食物是否為噬咬所渴求\n\n*特長：\n烹飪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
 msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
@@ -80884,7 +80884,7 @@ msgstr "你需要架設一個烤箱。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_POT_HANGER
 msgid "Everything you need to set up a cookpot."
-msgstr "你需要架設一個烹煮鍋。"
+msgstr "你需要架設一個烹飪鍋。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_FLOUR
 msgid "Ground wheat."
@@ -83024,7 +83024,7 @@ msgstr "這個烹飪鍋看起來有點壞了，但它做出來的食物還是很
 
 #: STRINGS.SKIN_DESCRIPTIONS.cookpot_tureen
 msgid "This crockpot is shaped like an elegant Victorian tureen."
-msgstr "這個烹煮鍋的形狀像一個優雅的維多利亞式湯碗。"
+msgstr "這個烹飪鍋的形狀像一個優雅的維多利亞式湯碗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_bat
 msgid "You'd have to be blind not to appreciate this bat's horrifying adorableness."
@@ -86476,7 +86476,7 @@ msgstr "切斯特"
 
 #: STRINGS.SKIN_NAMES.emoji_crockpot
 msgid "Crockpot"
-msgstr "烹煮鍋"
+msgstr "烹飪鍋"
 
 #: STRINGS.SKIN_NAMES.emoji_egg
 msgid "Egg"
@@ -89640,7 +89640,7 @@ msgstr "箱子"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.CROCKPOT
 msgid "Crock Pot"
-msgstr "烹煮鍋"
+msgstr "烹飪鍋"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ENDTABLE
 msgid "End Table"
@@ -90776,7 +90776,7 @@ msgstr "WX-78"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
 msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
-msgstr "分別使用烤箱，烹煮鍋和燒烤架烹飪並完成至少一道菜"
+msgstr "分別使用烤箱，烹飪鍋和燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
 msgid "Bake Boss"
@@ -90800,7 +90800,7 @@ msgstr "主廚"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
-msgstr "使用大砂鍋，大烹煮鍋或大燒烤架烹飪並完成至少一道菜"
+msgstr "使用大砂鍋，大烹飪鍋或大燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
 msgid "Big Meal"
@@ -90896,7 +90896,7 @@ msgstr "香料紛爭"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
-msgstr "分別使用大砂鍋，大烹煮鍋和大燒烤架烹飪並完成至少一道菜"
+msgstr "分別使用大砂鍋，大烹飪鍋和大燒烤架烹飪並完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
 msgid "Snack of All Trades"
@@ -95684,7 +95684,7 @@ msgstr "Mods"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADLOAD
 msgid "The game did not start correctly last time. This was likely caused by a mod, so all client mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
-msgstr "這個遊戲上次並未開始。\n似乎是一個Mod的問題，所有Mods因此都不能使用。\n你可以嘗試在Mods設定屏幕重啟Mod。"
+msgstr "這個遊戲上次並未開始。\n可能是一個Mod的問題，所有Mod已被禁用。\n你可以嘗試在Mods設置屏幕重啟Mod。"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADTITLE
 msgid "All Mods Disabled"
@@ -96224,7 +96224,7 @@ msgstr "正在下載:\n{name}"
 
 #: STRINGS.UI.MODSSCREEN.DST_COMPAT_WARNING
 msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
-msgstr "這個MOD沒有被標記為兼容聯機版饑荒。\n它可能會導致你的遊戲出問題。。"
+msgstr "這個MOD沒有被標記為兼容饑荒聯機版。\n它可能會導致你的遊戲出問題。。"
 
 #: STRINGS.UI.MODSSCREEN.ENABLE
 msgid "Enable"
@@ -96352,11 +96352,11 @@ msgstr "啟用"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_CLIENTMODS
 msgid "Cosmetic mods that run on your machine"
-msgstr "在用戶端所運行的改變外觀的Mod"
+msgstr "在用戶端所運行的Mod"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_SERVERMODS
 msgid "Gameplay-affecting mods that run on the game server"
-msgstr "在伺服器上運行的影響遊戲的Mod"
+msgstr "在伺服器上運行的Mod"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS
 msgid "See popular and featured mods"
@@ -98208,7 +98208,7 @@ msgstr "未找到會話"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD
 msgid "Sorry!\nThe Klei store is closed right now.\nPlease try again later."
-msgstr "抱歉！\n商城現在尚未開放\n請稍後再來。"
+msgstr "抱歉！\nKlei商店現在尚未開放\n請稍後再來。"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY
 msgid "Open it to receive your curios."
@@ -103064,7 +103064,7 @@ msgstr "靈異寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wes
 msgid "The Pierrot Chest"
-msgstr "戲劇小丑寶箱"
+msgstr "小丑寶箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_willow
 msgid "The Woeful Chest"
@@ -103144,7 +103144,7 @@ msgstr "靈異"
 
 #: STRINGS.SKIN_NAMES.wes_clown
 msgid "The Pierrot"
-msgstr "喜劇小丑"
+msgstr "小丑"
 
 #: STRINGS.SKIN_NAMES.willow_dowdy
 msgid "The Woeful"
@@ -109080,7 +109080,7 @@ msgstr "這個靈異寶箱包含\n溫蒂的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "This Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "這個喜劇小丑寶箱包含\n韋斯的全套萬聖夜系列皮膚。"
+msgstr "這個小丑寶箱包含\n韋斯的全套萬聖夜系列皮膚。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgid "This Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
@@ -121375,7 +121375,7 @@ msgstr "攜帶型調料站"
 
 #: STRINGS.NAMES.POTATO
 msgid "Potato"
-msgstr "烤土豆"
+msgstr "土豆"
 
 #: STRINGS.NAMES.POTATOSOUFFLE
 msgid "Puffed Potato Soufflé"

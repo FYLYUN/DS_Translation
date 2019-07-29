@@ -1,4 +1,4 @@
-#: STRINGS.ACTIONS.ABANDON
+﻿#: STRINGS.ACTIONS.ABANDON
 msgid "Abandon"
 msgstr "遗弃"
 
@@ -4480,7 +4480,7 @@ msgstr "我觉得抓住一个我会觉得更好。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MAPSCROLL
 msgid "A blank map. Doesn't seem very useful."
-msgstr "什么都没有的地图。然并卵。"
+msgstr "什么都没有的地图。没什么用。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.MARBLE
 msgid "Fancy!"
@@ -6460,7 +6460,7 @@ msgstr "旋转的地狱。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.STAGEHAND.AWAKE
 msgid "Just keep your hand to yourself, alright?"
-msgstr "把你的手放回去，OK？"
+msgstr "把你的手放回去，好吗？"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.STAGEHAND.HIDING
 msgid "Something's odd here, but I can't put my finger on it."
@@ -7208,7 +7208,7 @@ msgstr "烧！烧！烧！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARDROBE.GENERIC
 msgid "It holds dark, forbidden secrets..."
-msgstr "它掌控着黑暗，禁用的秘密…"
+msgstr "它掌控着黑暗的，禁忌的秘密…"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WARG
 msgid "You might be something to reckon with, big dog."
@@ -63516,7 +63516,7 @@ msgstr "它已经架起来了。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.QUAGMIRE_POT_HANGER_ITEM
 msgid "Gotta hang the pot on the fire somehow."
-msgstr "无论如何都要把烹煮锅挂在火堆上。"
+msgstr "无论如何都要把烹饪锅挂在火堆上。"
 
 #: STRINGS.CHARACTERS.WOODIE.DESCRIBE.QUAGMIRE_POT_SMALL
 msgid "I only know a handful of recipes, but I'm real good at them."
@@ -69932,7 +69932,7 @@ msgstr "开启大门的钥匙"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT
 msgid "THIS POT HAS AN ACCEPTABLE MEMORY SIZE"
-msgstr "这个烹煮锅具有可接受的内存容量"
+msgstr "这个烹饪锅具有可接受的内存容量"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POTATO
 msgid "I FEEL KINSHIP WITH THIS STRANGE ROOT"
@@ -69956,7 +69956,7 @@ msgstr "做这个的。下等人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT_SMALL
 msgid "THIS POT HAS INADEQUATE MEMORY SIZE"
-msgstr "这个烹煮锅的内存容量不足"
+msgstr "这个烹饪锅的内存容量不足"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.QUAGMIRE_POT_SYRUP
 msgid "REQUIRES SUCROSE AND FIRE TO CONSTRUCT MORE SUCROSE"
@@ -75336,7 +75336,7 @@ msgstr "熟肉块"
 
 #: STRINGS.NAMES.COOKPOT
 msgid "Crock Pot"
-msgstr "烹煮锅"
+msgstr "烹饪锅"
 
 #: STRINGS.NAMES.COONTAIL
 msgid "Cat Tail"
@@ -77104,7 +77104,7 @@ msgstr "烤箱套件"
 
 #: STRINGS.NAMES.QUAGMIRE_CRATE_POT_HANGER
 msgid "Cookpot Kit"
-msgstr "烹煮锅套件"
+msgstr "烹饪锅套件"
 
 #: STRINGS.NAMES.QUAGMIRE_FERN
 msgid "Fern"
@@ -77292,7 +77292,7 @@ msgstr "远古钥匙"
 
 #: STRINGS.NAMES.QUAGMIRE_POT
 msgid "Large Cookpot"
-msgstr "大烹煮锅"
+msgstr "大烹饪锅"
 
 #: STRINGS.NAMES.QUAGMIRE_POTATO
 msgid "Potato"
@@ -77312,7 +77312,7 @@ msgstr "锅架"
 
 #: STRINGS.NAMES.QUAGMIRE_POT_SMALL
 msgid "Cookpot"
-msgstr "烹煮锅"
+msgstr "烹饪锅"
 
 #: STRINGS.NAMES.QUAGMIRE_POT_SYRUP
 msgid "Syrup Pot"
@@ -79972,7 +79972,7 @@ msgstr "*木头燃烧时间更长\n\n\n*特长：\n烹饪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
 msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
-msgstr "*提高附近烹煮锅的效率\n*可以查看食物是否为噬咬所渴求\n\n*特长：\n烹饪"
+msgstr "*提高附近烹饪锅的效率\n*可以查看食物是否为噬咬所渴求\n\n*特长：\n烹饪"
 
 #: STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
 msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
@@ -80884,7 +80884,7 @@ msgstr "你需要架设一个烤箱。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_POT_HANGER
 msgid "Everything you need to set up a cookpot."
-msgstr "你需要架设一个烹煮锅。"
+msgstr "你需要架设一个烹饪锅。"
 
 #: STRINGS.RECIPE_DESC.QUAGMIRE_FLOUR
 msgid "Ground wheat."
@@ -83024,7 +83024,7 @@ msgstr "这个烹饪锅看起来有点坏了，但它做出来的食物还是很
 
 #: STRINGS.SKIN_DESCRIPTIONS.cookpot_tureen
 msgid "This crockpot is shaped like an elegant Victorian tureen."
-msgstr "这个烹煮锅的形状像一个优雅的维多利亚式汤碗。"
+msgstr "这个烹饪锅的形状像一个优雅的维多利亚式汤碗。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.dragonling_bat
 msgid "You'd have to be blind not to appreciate this bat's horrifying adorableness."
@@ -86476,7 +86476,7 @@ msgstr "切斯特"
 
 #: STRINGS.SKIN_NAMES.emoji_crockpot
 msgid "Crockpot"
-msgstr "烹煮锅"
+msgstr "烹饪锅"
 
 #: STRINGS.SKIN_NAMES.emoji_egg
 msgid "Egg"
@@ -89640,7 +89640,7 @@ msgstr "箱子"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.CROCKPOT
 msgid "Crock Pot"
-msgstr "烹煮锅"
+msgstr "烹饪锅"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.ENDTABLE
 msgid "End Table"
@@ -90776,7 +90776,7 @@ msgstr "WX-78"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
 msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
-msgstr "分别使用烤箱，烹煮锅和烧烤架烹饪并完成至少一道菜"
+msgstr "分别使用烤箱，烹饪锅和烧烤架烹饪并完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
 msgid "Bake Boss"
@@ -90800,7 +90800,7 @@ msgstr "主厨"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
-msgstr "使用大砂锅，大烹煮锅或大烧烤架烹饪并完成至少一道菜"
+msgstr "使用大砂锅，大烹饪锅或大烧烤架烹饪并完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
 msgid "Big Meal"
@@ -90896,7 +90896,7 @@ msgstr "香料纷争"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
 msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
-msgstr "分别使用大砂锅，大烹煮锅和大烧烤架烹饪并完成至少一道菜"
+msgstr "分别使用大砂锅，大烹饪锅和大烧烤架烹饪并完成至少一道菜"
 
 #: STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
 msgid "Snack of All Trades"
@@ -91140,7 +91140,7 @@ msgstr "只有来自活动的特殊活动物品才能用线编织。"
 
 #: STRINGS.UI.BARTERSCREEN.FAILED_BODY
 msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
-msgstr "抱歉，未能连接KLEI服务器。请稍后再试。"
+msgstr "抱歉，未能连接Klei服务器。请稍后再试。"
 
 #: STRINGS.UI.BARTERSCREEN.FAILED_TITLE
 msgid "Connection failure"
@@ -95172,11 +95172,11 @@ msgstr "立即使用"
 
 #: STRINGS.UI.ITEM_SERVER.CONNECT
 msgid "Contacting Klei Servers"
-msgstr "正在连接KLEI服务器"
+msgstr "正在连接Klei服务器"
 
 #: STRINGS.UI.ITEM_SERVER.FAILED_DEFAULT
 msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
-msgstr "抱歉，未能连接KLEI服务器。\n请稍后再试。"
+msgstr "抱歉，未能连接Klei服务器。\n请稍后再试。"
 
 #: STRINGS.UI.ITEM_SERVER.FAILED_EVENT_TITLE
 msgid "Achievements Failure"
@@ -95680,11 +95680,11 @@ msgstr "禁用mod"
 
 #: STRINGS.UI.MAINSCREEN.MODS
 msgid "Mods"
-msgstr "Mods"
+msgstr "Mod"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADLOAD
 msgid "The game did not start correctly last time. This was likely caused by a mod, so all client mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
-msgstr "这个游戏上次并未开始。\n似乎是一个Mod的问题，所有Mods因此都不能使用。\n你可以尝试在Mods设置屏幕重启Mod。"
+msgstr "这个游戏上次并未开始。\n可能是一个Mod的问题，所有Mod已被禁用。\n你可以尝试在Mods设置屏幕重启Mod。"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADTITLE
 msgid "All Mods Disabled"
@@ -95704,11 +95704,11 @@ msgstr "查看Klei商店中的最新物品！"
 
 #: STRINGS.UI.MAINSCREEN.MOTDBUTTON
 msgid "Klei Store"
-msgstr "KLEI商店"
+msgstr "Klei商店"
 
 #: STRINGS.UI.MAINSCREEN.MOTDTITLE
 msgid "Klei Store"
-msgstr "KLEI商店"
+msgstr "Klei商店"
 
 #: STRINGS.UI.MAINSCREEN.MOVIE
 msgid "Theatre"
@@ -96224,7 +96224,7 @@ msgstr "正在下载:\n{name}"
 
 #: STRINGS.UI.MODSSCREEN.DST_COMPAT_WARNING
 msgid "This mod hasn't been tagged as compatible with Don't Starve Together. It may cause issues with your game."
-msgstr "这个MOD没有被标记为兼容联机版饥荒。\n它可能会导致你的游戏出问题。。"
+msgstr "这个MOD没有被标记为兼容饥荒联机版。\n它可能会导致你的游戏出问题。。"
 
 #: STRINGS.UI.MODSSCREEN.ENABLE
 msgid "Enable"
@@ -96352,11 +96352,11 @@ msgstr "启用"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_CLIENTMODS
 msgid "Cosmetic mods that run on your machine"
-msgstr "在客户端所运行的改变外观的Mod"
+msgstr "在客户端所运行的Mod"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_SERVERMODS
 msgid "Gameplay-affecting mods that run on the game server"
-msgstr "在服务器上运行的影响游戏的Mod"
+msgstr "在服务器上运行的Mod"
 
 #: STRINGS.UI.MODSSCREEN.TOOLTIP_SHOWCASEMODS
 msgid "See popular and featured mods"
@@ -97092,7 +97092,7 @@ msgstr "令牌错误，请重试"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
 msgid "Unable to reach the Klei server. Please try again."
-msgstr "无法连接到KLEI的服务器，请重试。"
+msgstr "无法连接到Klei的服务器，请重试。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
 msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
@@ -97336,7 +97336,7 @@ msgstr "缺少mod-断开连接"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
 msgid "Disconnected Due To Missing Mods"
-msgstr "缺少Mod断开"
+msgstr "缺少mod-断开连接"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
 msgid "Disconnected Due To Missing Mods"
@@ -98208,7 +98208,7 @@ msgstr "未找到会话"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.FAILED_TO_LOAD
 msgid "Sorry!\nThe Klei store is closed right now.\nPlease try again later."
-msgstr "抱歉！\n商城现在尚未开放\n请稍后再来。"
+msgstr "抱歉！\nKlei商店现在尚未开放\n请稍后再来。"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.GIFT_RECEIVED_BODY
 msgid "Open it to receive your curios."
@@ -98220,7 +98220,7 @@ msgstr "你得到了一个箱子！"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.NO_PACKS_FOR_SALE
 msgid "Sorry!\nThe Klei store is closed.\nCheck back during the next event."
-msgstr "抱歉！ KLEI商店已关闭。\n请在下个活动期间再来看看吧。"
+msgstr "抱歉！ Klei商店已关闭。\n请在下个活动期间再来看看吧。"
 
 #: STRINGS.UI.PURCHASEPACKSCREEN.OK
 msgid "OK"
@@ -102524,7 +102524,7 @@ msgstr "坐好看视频"
 
 #: STRINGS.UI.OPTIONS.VIDEO_CHANNEL
 msgid "More Klei Videos"
-msgstr "更多KLEI视频"
+msgstr "更多Klei视频"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgid "Friendliest Friends"
@@ -102552,7 +102552,7 @@ msgstr "兑换码"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.DEDICATED_KLEI_ICON_HOVER
 msgid "Klei Official Server"
-msgstr "KLEI官方服务器"
+msgstr "Klei官方服务器"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.HIDDEN_DESCRIPTION
 msgid "*****"
@@ -103064,7 +103064,7 @@ msgstr "灵异宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_wes
 msgid "The Pierrot Chest"
-msgstr "戏剧小丑宝箱"
+msgstr "小丑宝箱"
 
 #: STRINGS.SKIN_NAMES.pack_hallowed_willow
 msgid "The Woeful Chest"
@@ -103144,7 +103144,7 @@ msgstr "灵异"
 
 #: STRINGS.SKIN_NAMES.wes_clown
 msgid "The Pierrot"
-msgstr "喜剧小丑"
+msgstr "小丑"
 
 #: STRINGS.SKIN_NAMES.willow_dowdy
 msgid "The Woeful"
@@ -109080,7 +109080,7 @@ msgstr "这个灵异宝箱包含\n温蒂的全套万圣夜系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wes
 msgid "This Pierrot Chest contains Wes' complete set of Hallowed Nights skin items."
-msgstr "这个喜剧小丑宝箱包含\n韦斯的全套万圣夜系列皮肤。"
+msgstr "这个小丑宝箱包含\n韦斯的全套万圣夜系列皮肤。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_willow
 msgid "This Woeful Chest contains Willow's complete set of Hallowed Nights skin items."
@@ -121375,7 +121375,7 @@ msgstr "便携式调料站"
 
 #: STRINGS.NAMES.POTATO
 msgid "Potato"
-msgstr "烤土豆"
+msgstr "土豆"
 
 #: STRINGS.NAMES.POTATOSOUFFLE
 msgid "Puffed Potato Soufflé"
