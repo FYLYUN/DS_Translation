@@ -236,11 +236,11 @@ msgstr "安置"
 
 #: STRINGS.ACTIONS.DROP.SETMINE
 msgid "Set Mine"
-msgstr "設定地雷"
+msgstr "設置地雷"
 
 #: STRINGS.ACTIONS.DROP.SETTRAP
 msgid "Set Trap"
-msgstr "設定陷阱"
+msgstr "設置陷阱"
 
 #: STRINGS.ACTIONS.DRY
 msgid "Dry"
