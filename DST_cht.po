@@ -2896,7 +2896,7 @@ msgstr "它可能藏著什麼。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_EXIT.FULL
 msgid "The surface is too crowded!"
-msgstr "地面太TM擠了吧！"
+msgstr "地面太他媽擠了吧！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_EXIT.GENERIC
 msgid "I'll just stay down here, I suppose."
@@ -5452,7 +5452,7 @@ msgstr "一把怪異的種子。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_OVEN
 msgid "It needs ingredients to make the science work."
-msgstr "要讓這設備工作，得加些原料。"
+msgstr "要讓這裝置工作，得加些原料。"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.QUAGMIRE_OVEN_ITEM
 msgid "For scientifically burning things."
@@ -6616,7 +6616,7 @@ msgstr "有了這個我肯定可以穿越空間和時間！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORTATO_BASE.GENERIC
 msgid "This appears to be a nexus to another world!"
-msgstr "這好像是跟另一個世界的連接點！"
+msgstr "這好像是跟另一個世界的連結點！"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TELEPORTATO_BASE.LOCKED
 msgid "There's still something missing."
@@ -16964,7 +16964,7 @@ msgstr "他們是飢餓的魔鬼，對嗎？"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOUNDMOUND
 msgid "It's a tunnel down to the hounds' nest."
-msgstr "下面有個獵狗隧道連接著狗窩。"
+msgstr "下面有個獵狗隧道連結著狗窩。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.HOUNDSTOOTH
 msgid "It could be used for fashion."
@@ -17500,7 +17500,7 @@ msgstr "這些螢火蟲終歸會餓死的。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINIFAN
 msgid "This pathetic device... gets the job done."
-msgstr "這個無價值的設備……完成了它的工作。"
+msgstr "這個無價值的裝置……完成了它的工作。"
 
 #: STRINGS.CHARACTERS.WAXWELL.DESCRIBE.MINISIGN.GENERIC
 msgid "It was drawn in a steady hand."
@@ -33884,7 +33884,7 @@ msgstr "這亮得夠看到東西了"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FAN_OUT
 msgid "This fragile device has decayed."
-msgstr "這個脆弱的設備已毀壞。"
+msgstr "這個脆弱的裝置已毀壞。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_FREEDOM
 msgid "Freedom! I'll find a good book and tuck in."
@@ -36432,7 +36432,7 @@ msgstr "確實是非凡的斧子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.GENERIC
 msgid "It is linked to our Gateway, but inactive on this side."
-msgstr "它連接著入口，但是現在無法使用。"
+msgstr "它連結著入口，但是現在無法使用。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.LAVAARENA_PORTAL.ON
 msgid "Well, this was an unexpected foray."
@@ -37580,7 +37580,7 @@ msgstr "變異的大蒜種子。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_OVEN
 msgid "It is best suited to baking sweets."
-msgstr "這是最適合烘焙糖果的設備了。"
+msgstr "這是最適合烘焙糖果的裝置了。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.QUAGMIRE_OVEN_ITEM
 msgid "All the parts are necessary to construct a fully functional oven."
@@ -38752,7 +38752,7 @@ msgstr "這塊符文石有其獨特的幾何性質！"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.LOCKED
 msgid "The device needs to be activated."
-msgstr "這個設備需要被開啟"
+msgstr "這個裝置需要被開啟"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TELEPORTATO_BASE.PARTIAL
 msgid "The device is in a partial state of completion."
@@ -38812,7 +38812,7 @@ msgstr "土裡潛伏著一個小怪物。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.TENTACLE_PILLAR_HOLE
 msgid "It appears to be all connected somehow."
-msgstr "它們似乎在某種程度上是連接在一起的。"
+msgstr "它們似乎在某種程度上是連結在一起的。"
 
 #: STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.THULECITE
 msgid "This seems to be an interesting, ectoplasmic residue-bearing variety of ziosite."
@@ -52592,7 +52592,7 @@ msgstr "好好休息，親愛的小發明。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTEROMETER.GENERIC
 msgid "Assembling gadgets is so fulfilling."
-msgstr "組裝設備令人滿足。"
+msgstr "組裝裝置令人滿足。"
 
 #: STRINGS.CHARACTERS.WINONA.DESCRIBE.WINTER_FOOD1
 msgid "I love these things!"
@@ -66396,7 +66396,7 @@ msgstr "錯誤警報：水…位…"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_WORMHOLE
 msgid "MY INPUTS ARE FULL OF SLIME"
-msgstr "我的輸入設備上都是黏糊糊的東西"
+msgstr "我的輸入裝置上都是黏糊糊的東西"
 
 #: STRINGS.CHARACTERS.WX78.ANNOUNCE_WORMS
 msgid "SLIMY ORGANICS APPROACHING"
@@ -67140,7 +67140,7 @@ msgstr "進入調試階段"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BUNDLE
 msgid "EXTERNAL STORAGE DEVICE"
-msgstr "外部存儲設備"
+msgstr "外部存儲裝置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.BUNDLEWRAP
 msgid "FOR WRAPPING THINGS IN BUNDLES"
@@ -70404,7 +70404,7 @@ msgstr "戰車機器人"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROOK_NIGHTMARE
 msgid "LOOSE WIRING DETECTED"
-msgstr "探測到未正確連接的電線"
+msgstr "探測到未正確連結的電線"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.ROPE
 msgid "IT IS LESS USEFUL THAN IT APPEARS"
@@ -70428,7 +70428,7 @@ msgstr "一個戴在頭上的動態傷害緩解裝置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUINS_BAT
 msgid "A HIGH VELOCITY MASS INFLUENCE DEVICE"
-msgstr "一個提高速度和增加質量的設備"
+msgstr "一個提高速度和增加質量的裝置"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.RUINS_RUBBLE
 msgid "REQUIRES RECONDITIONING"
@@ -71116,7 +71116,7 @@ msgstr "原始光源"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TOWNPORTAL.ACTIVE
 msgid "GATEWAY LINK ESTABLISHED"
-msgstr "通道連接完畢"
+msgstr "通道連結完畢"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TOWNPORTAL.GENERIC
 msgid "THE MINION SUMMONER"
@@ -72360,7 +72360,7 @@ msgstr "\"這是一棵非常棒的樹，對吧？\n我不會讓它活太久的�
 
 #: STRINGS.CHARACTER_QUOTES.wx78
 msgid "\"EMPATHY MODULE NOT RESPONDING\""
-msgstr "\"移情組件無響應\""
+msgstr "\"移情組件沒有回應\""
 
 #: STRINGS.CHARACTER_TITLES.random
 msgid "?"
@@ -81472,7 +81472,7 @@ msgstr "巨型"
 
 #: STRINGS.SIGNS.ADJECTIVES.19
 msgid "Small"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.SIGNS.ADJECTIVES.2
 msgid "Danker"
@@ -84340,7 +84340,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lavaarena
 msgid "Equip this item to change your character's background portrait.\n\nThe Forge is a harsh dimension of molten lava where only the toughest survive. When the survivors activated the Ancient Gateway, they mistakenly reconnected this dimension to their own."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活遠古大門時，他們錯誤地將自己與這一空間連接在了一起。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n熔爐是熔岩之地最嚴酷的地方，只有最強者才能在這裡生存。當倖存者激活遠古大門時，他們錯誤地將自己與這一空間連結在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_lonecarrot
 msgid "This background portrait depicts a single carrot.\n\nJust one."
@@ -84392,7 +84392,7 @@ msgstr "使用這個藏品來改變你的角色背景圖案。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_roseportal
 msgid "Equip this item to change your character's background portrait.\n\nWilson and Maxwell constructed the first prototype of the Florid Postern, connecting the survivors' dimensions and allowing them to band together."
-msgstr "使用這個藏品來改變你的角色背景圖案。\n\n威爾遜和麥斯威爾構建了第一扇絢麗之門，將他們與倖存者的維度連接在了一起。"
+msgstr "使用這個藏品來改變你的角色背景圖案。\n\n威爾遜和麥斯威爾構建了第一扇絢麗之門，將他們與倖存者的維度連結在了一起。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_shoreline
 msgid "Equip this item to change your character's background portrait."
@@ -87476,7 +87476,7 @@ msgstr "噬咬的寶箱"
 
 #: STRINGS.SKIN_NAMES.none
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.SKIN_NAMES.orangestaff_ancient
 msgid "The Ancient Explorer"
@@ -89736,7 +89736,7 @@ msgstr "情感"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.LOADING
 msgid "Loading Image"
-msgstr "載入界面"
+msgstr "載入介面"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.TYPE.MYSTERYBOX
 msgid "Mystery Box"
@@ -90288,7 +90288,7 @@ msgstr "區域網"
 
 #: STRINGS.UI.ACCOUNT.LINKSTEAMACCOUNT
 msgid "Link Steam Account"
-msgstr "連接Steam賬戶"
+msgstr "連結Steam賬戶"
 
 #: STRINGS.UI.ACCOUNT.LOGIN
 msgid "Login"
@@ -91140,11 +91140,11 @@ msgstr "只有來自活動的特殊活動物品才能用線編織。"
 
 #: STRINGS.UI.BARTERSCREEN.FAILED_BODY
 msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
-msgstr "抱歉，未能連接Klei伺服器。請稍後再試。"
+msgstr "抱歉，未能連結Klei伺服器。請稍後再試。"
 
 #: STRINGS.UI.BARTERSCREEN.FAILED_TITLE
 msgid "Connection failure"
-msgstr "連接沒有成功"
+msgstr "連結沒有成功"
 
 #: STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT
 msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
@@ -91232,7 +91232,7 @@ msgstr "關閉"
 
 #: STRINGS.UI.BROADCASTING.FORGET
 msgid "Forget Account"
-msgstr "忘記賬號"
+msgstr "忘記帳戶"
 
 #: STRINGS.UI.BROADCASTING.FRAMERATE
 msgid "Frame Rate"
@@ -91456,7 +91456,7 @@ msgstr "復位"
 
 #: STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC
 msgid "Random dice roll. 'dice' is 1D100 by default (a single roll of 1-100)."
-msgstr "隨機擲骰子。「骰子」默認為1到100(單\n次1-100)"
+msgstr "隨機擲骰子。「骰子」預設為1到100(單\n次1-100)"
 
 #: STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
 msgid "Dice Roll"
@@ -91960,7 +91960,7 @@ msgstr "物品欄對自己使用"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.54
 msgid "Inv Use Scene"
-msgstr "物品欄使用界面"
+msgstr "物品欄使用介面"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.55
 msgid "Inv Drop"
@@ -92060,7 +92060,7 @@ msgstr "——選擇新的輸入——"
 
 #: STRINGS.UI.CONTROLSSCREEN.DEFAULT_CONTROL_TEXT
 msgid "Default: %s"
-msgstr "默認：%s"
+msgstr "預設：%s"
 
 #: STRINGS.UI.CONTROLSSCREEN.DEVICE_TITLE
 msgid "Controls"
@@ -92372,7 +92372,7 @@ msgstr "大寫鎖定"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.302
 msgid "Scroll Lock"
-msgstr "屏幕鎖定"
+msgstr "螢幕鎖定"
 
 #: STRINGS.UI.CONTROLSSCREEN.INPUTS.1.303
 msgid "Right Shift"
@@ -93680,7 +93680,7 @@ msgstr "環狀地形"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
 msgid "Apply a new preset and lose custom changes?"
-msgstr "使用新的默認設定，放棄自定義更改？"
+msgstr "使用新的預設設定，放棄自定義更改？"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE
 msgid "Lose Changes?"
@@ -93864,7 +93864,7 @@ msgstr "沒有RoG的經典饑荒聯機體驗。"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.10
 msgid "Together Forever"
@@ -93948,7 +93948,7 @@ msgstr "聯機增強"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_CLASSIC
 msgid "No Giants Here"
@@ -94424,7 +94424,7 @@ msgstr "搜尋可用的匹配"
 
 #: STRINGS.UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER
 msgid "Connecting to Server: {server}"
-msgstr "正在連接伺服器：{server}"
+msgstr "正在連結伺服器：{server}"
 
 #: STRINGS.UI.EVENT_QUICKJOINSCREEN.JOIN_BTN
 msgid "Join"
@@ -94464,7 +94464,7 @@ msgstr "創建"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
 msgid "Connecting to server"
-msgstr "正在連接伺服器中"
+msgstr "正在連結伺服器中"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
 msgid "Determining region"
@@ -94476,7 +94476,7 @@ msgstr "網路錯誤"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
 msgid "Failed to connect to event server."
-msgstr "活動伺服器連接失敗"
+msgstr "活動伺服器連結失敗"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
 msgid "Getting regions"
@@ -94484,7 +94484,7 @@ msgstr "正在獲得地區資訊"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
 msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
-msgstr "無法連接Klei伺服器。請檢查您的網路連接後再試。"
+msgstr "無法連結Klei伺服器。請檢查您的網路連結後再試。"
 
 #: STRINGS.UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
 msgid "Requesting server"
@@ -95172,11 +95172,11 @@ msgstr "立即使用"
 
 #: STRINGS.UI.ITEM_SERVER.CONNECT
 msgid "Contacting Klei Servers"
-msgstr "正在連接Klei伺服器"
+msgstr "正在連結Klei伺服器"
 
 #: STRINGS.UI.ITEM_SERVER.FAILED_DEFAULT
 msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
-msgstr "抱歉，未能連接Klei伺服器。\n請稍後再試。"
+msgstr "抱歉，未能連結Klei伺服器。\n請稍後再試。"
 
 #: STRINGS.UI.ITEM_SERVER.FAILED_EVENT_TITLE
 msgid "Achievements Failure"
@@ -95240,7 +95240,7 @@ msgstr "剩餘的位置"
 
 #: STRINGS.UI.LOBBYSCREEN.HOSTQUITBODY
 msgid "Are you sure you want to shut down this server? If you do, all players will be disconnected."
-msgstr "你確定要關閉這個世界？\n如果你這樣做，所有玩家都會斷開連接。"
+msgstr "你確定要關閉這個世界？\n如果你這樣做，所有玩家都會斷開連結。"
 
 #: STRINGS.UI.LOBBYSCREEN.HOSTQUITTITLE
 msgid "Shut Down Server"
@@ -95400,11 +95400,11 @@ msgstr "調整顯示區域"
 
 #: STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_INSTRUCTIONS
 msgid "Adjust display area using <up> and <down> to the maximum screen size\nso all arrows are fully visible.\n\nPress <A> to accept the changes."
-msgstr "使用<向上>和<向下>調整顯示區域至最大屏幕大小\n所有箭頭都完全可見。\n\n按<A>接受更改。"
+msgstr "使用<向上>和<向下>調整顯示區域至最大螢幕大小\n所有箭頭都完全可見。\n\n按<A>接受更改。"
 
 #: STRINGS.UI.MAINSCREEN.ADJUST_DISPLAY_TEXT
 msgid "Parts of the game may be cut off by the edges of your screen. Do you want to check your display area now? If not, you can do this later in Settings."
-msgstr "遊戲的部分內容可能會出現在屏幕的邊緣外。\n你想檢查一下你的顯示區域嗎？\n如果不想，你可以在稍後的設定選單中做這件事。"
+msgstr "遊戲的部分內容可能會出現在螢幕的邊緣外。\n你想檢查一下你的顯示區域嗎？\n如果不想，你可以在稍後的設定選單中做這件事。"
 
 #: STRINGS.UI.MAINSCREEN.ADVENTURE
 msgid "Adventure"
@@ -95684,7 +95684,7 @@ msgstr "Mods"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADLOAD
 msgid "The game did not start correctly last time. This was likely caused by a mod, so all client mods have been disabled.\n\nYou can try re-enabling mods from the mod settings screen."
-msgstr "這個遊戲上次並未開始。\n可能是一個Mod的問題，所有Mod已被禁用。\n你可以嘗試在Mods設置屏幕重啟Mod。"
+msgstr "這個遊戲上次並未開始。\n可能是一個Mod的問題，所有Mod已被禁用。\n你可以嘗試在Mods設定螢幕重啟Mod。"
 
 #: STRINGS.UI.MAINSCREEN.MODSBADTITLE
 msgid "All Mods Disabled"
@@ -95812,19 +95812,19 @@ msgstr "新聞播報"
 
 #: STRINGS.UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN
 msgid "Not Signed In to PlayStation™Network"
-msgstr "未連接到PlayStation™網路"
+msgstr "未連結到PlayStation™網路"
 
 #: STRINGS.UI.MAINSCREEN.NOT_SIGNED_IN_TO_PSN_DESC
 msgid "You are not signed in to PlayStation™Network. Characters and worlds from online games will be unavailable. Play offline?"
-msgstr "您尚未連接到PlayStation™網路。在線遊戲中的角色和世界將不可用。確定離線遊戲嗎？"
+msgstr "您尚未連結到PlayStation™網路。在線遊戲中的角色和世界將不可用。確定離線遊戲嗎？"
 
 #: STRINGS.UI.MAINSCREEN.NO_INTERNET_CONNECTION
 msgid "No internet connection"
-msgstr "沒有網路連接"
+msgstr "沒有網路連結"
 
 #: STRINGS.UI.MAINSCREEN.NO_INTERNET_CONNECTION_DESC
 msgid "Could not connect to the internet. Characters and worlds from online games will be unavailable. Play offline?"
-msgstr "無法連接到網際網路。在線遊戲中的角色和世界將不可用。確定離線遊戲嗎？"
+msgstr "無法連結到網際網路。在線遊戲中的角色和世界將不可用。確定離線遊戲嗎？"
 
 #: STRINGS.UI.MAINSCREEN.NO_PS_PLUS_MEMBERSHIP
 msgid "PlayStation®Plus"
@@ -95840,11 +95840,11 @@ msgstr "離線"
 
 #: STRINGS.UI.MAINSCREEN.OFFLINEMODE
 msgid "Connection to Klei Failed"
-msgstr "連接到Klei失敗"
+msgstr "連結到Klei失敗"
 
 #: STRINGS.UI.MAINSCREEN.OFFLINEMODEDESC
 msgid "Could not connect to Klei's servers. Characters and worlds from online games will be unavailable. Continue and play offline?"
-msgstr "無法連接到Klei的伺服器。\n網路遊戲的特點和世界將不可用。\n繼續離線遊戲？"
+msgstr "無法連結到Klei的伺服器。\n網路遊戲的特點和世界將不可用。\n繼續離線遊戲？"
 
 #: STRINGS.UI.MAINSCREEN.OK
 msgid "OK"
@@ -95888,11 +95888,11 @@ msgstr "離線遊戲"
 
 #: STRINGS.UI.MAINSCREEN.PSN_OFFLINEMODE
 msgid "Connection to PlayStation™Network failed"
-msgstr "連接到PlayStation™網路失敗"
+msgstr "連結到PlayStation™網路失敗"
 
 #: STRINGS.UI.MAINSCREEN.PSN_OFFLINEMODEDESC
 msgid "Couldn't connect to PlayStation™Network (scheduled maintenance or connectivity issues). Characters and worlds from online games will be unavailable. Play offline?"
-msgstr "無法連接到PlayStation™網路（定期維護或連接問題）。 在線遊戲中的角色和世界將不可用。 確定離線遊戲嗎？"
+msgstr "無法連結到PlayStation™網路（定期維護或連結問題）。 在線遊戲中的角色和世界將不可用。 確定離線遊戲嗎？"
 
 #: STRINGS.UI.MAINSCREEN.QUICKJOIN
 msgid "Quick Join"
@@ -96928,11 +96928,11 @@ msgstr "無法加入區域網房間。你肯定它存在？"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.FORCE_DISCONNECTION
 msgid "The connection has been forcibly closed by the engine."
-msgstr "網路連接被中斷。"
+msgstr "網路連結被中斷。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED
 msgid "You are already connected to this server."
-msgstr "您已連接到伺服器。"
+msgstr "您已連結到伺服器。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED
 msgid "The server is not responding. Please try again."
@@ -96944,7 +96944,7 @@ msgstr "你被這個禁止進入這個世界。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_LOST
 msgid "You have lost connection to the server."
-msgstr "你已經失去了與主機的連接。"
+msgstr "你已經失去了與主機的連結。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DISCONNECTION_NOTIFICATION
 msgid "You have been disconnected from the server."
@@ -96956,7 +96956,7 @@ msgstr "伺服器啟動時遇到了一些麻煩，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
 msgid "The destination server is not responding. Please try again."
-msgstr "目標伺服器沒有響應，請重試。"
+msgstr "目標伺服器沒有回應，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
 msgid "The server you were playing on is unavailable. Please try again later."
@@ -96972,11 +96972,11 @@ msgstr "身分驗證失敗，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_IDLE_TIMEOUT
 msgid "You have lost connection to the server."
-msgstr "你已經失去了與主機的連接。"
+msgstr "你已經失去了與主機的連結。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMING_CONNECTIONS_DISABLED
 msgid "The server is not accepting new connections temporarily. Please wait a moment and try again."
-msgstr "伺服器暫時不接受新的連接。\n請稍等再試。"
+msgstr "伺服器暫時不接受新的連結。\n請稍等再試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
 msgid "The server has a different version than you do. Please check that your game version is up-to-date."
@@ -96988,11 +96988,11 @@ msgstr "網路初始化錯誤，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
 msgid "This account has been logged in from another location."
-msgstr "此帳號在另一地點登入。"
+msgstr "此帳戶在另一地點登入。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_NETWORK_CONNECTION_LOST
 msgid "Check your connection and try again."
-msgstr "檢查您的連接並重試。"
+msgstr "檢查您的連結並重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
 msgid "The server is not accepting new players."
@@ -97020,7 +97020,7 @@ msgstr "嘗試加入伺服器失敗！該世界已達最大玩家上\n限。請�
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
 msgid "You have lost connection to the server."
-msgstr "你已經失去了與主機的連接。"
+msgstr "你已經失去了與主機的連結。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_USER_BANNED
 msgid "You have been banned from this server."
@@ -97028,7 +97028,7 @@ msgstr "你被這個世界的主人拒之門外了。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_USER_CONNECTION_FAILED
 msgid "Something went awry while connecting. Please try again."
-msgstr "連接的時候遇到點問題，請重試。"
+msgstr "連結的時候遇到點問題，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_DST_USER_KICKED
 msgid "You have been kicked from this server."
@@ -97044,19 +97044,19 @@ msgstr "親！你輸入的密碼不正確。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_NAT_CONNECTION_TO_TARGET_LOST
 msgid "Unable to connect to the server."
-msgstr "無法連接到伺服器。"
+msgstr "無法連結到伺服器。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_NAT_PUNCHTHROUGH_FAILED
 msgid "Unable to connect to the server."
-msgstr "無法連接到伺服器。"
+msgstr "無法連結到伺服器。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_NOT_CONNECTED
 msgid "Unable to connect to the server."
-msgstr "無法連接到伺服器。"
+msgstr "無法連結到伺服器。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_NAT_TARGET_UNRESPONSIVE
 msgid "Unable to connect to the server."
-msgstr "無法連接到伺服器。"
+msgstr "無法連結到伺服器。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.ID_NO_FREE_INCOMING_CONNECTIONS
 msgid "The server is full."
@@ -97092,7 +97092,7 @@ msgstr "令牌錯誤，請重試"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
 msgid "Unable to reach the Klei server. Please try again."
-msgstr "無法連接到Klei的伺服器，請重試。"
+msgstr "無法連結到Klei的伺服器，請重試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.SERVER_MODS_NOT_ON_WORKSHOP
 msgid "This server requires mods that are not available on the Steam Workshop. You will need to manually download the missing mods."
@@ -97128,7 +97128,7 @@ msgstr "伺服器的版本比你新。\n請更新你的遊戲版本後再試。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_OLD_SERVER
 msgid "This server is on an older version than you and cannot connect."
-msgstr "伺服器的版本比你舊，無法連接。"
+msgstr "伺服器的版本比你舊，無法連結。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.VERSION_MISMATCH_PUBLIC_BETA
 msgid "The server is running a public beta world. You'll need to opt into the beta to play on this server."
@@ -97156,7 +97156,7 @@ msgstr "版本過期"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.FAILED_TO_AUTOJOIN_LAN
 msgid "LAN Join Failed"
-msgstr "區域網連接失敗"
+msgstr "區域網連結失敗"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.FORCE_DISCONNECTION
 msgid "Force Disconnection"
@@ -97164,11 +97164,11 @@ msgstr "強制中斷"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED
 msgid "Duplicate Connection"
-msgstr "重複的連接"
+msgstr "重複的連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED
 msgid "Server Not Responding"
-msgstr "伺服器沒有響應"
+msgstr "伺服器沒有回應"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_BANNED
 msgid "Banned"
@@ -97188,7 +97188,7 @@ msgstr "伺服器啟動失敗"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
 msgid "Destination Not Responding"
-msgstr "目標沒有響應"
+msgstr "目標沒有回應"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
 msgid "Server not available"
@@ -97208,7 +97208,7 @@ msgstr "斷開"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMING_CONNECTIONS_DISABLED
 msgid "Failed To Connect"
-msgstr "連接失敗"
+msgstr "連結失敗"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_INCOMPATIBLE_PROTOCOL_VERSION
 msgid "Version Mismatch"
@@ -97224,11 +97224,11 @@ msgstr "重複登入"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST
 msgid "Network Connection Lost"
-msgstr "網路連接丟失"
+msgstr "網路連結丟失"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_NOT_ACCEPTING_NEW_PLAYERS
 msgid "Disconnected"
-msgstr "斷開連接"
+msgstr "斷開連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_NO_FREE_PLAYER_SLOTS
 msgid "Server Full"
@@ -97244,7 +97244,7 @@ msgstr "非伺服器群組成員"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_IS_LAN_ONLY
 msgid "Local Connection Server Only"
-msgstr "僅允許本地連接"
+msgstr "僅允許本地連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_SERVER_STARTUP_FAILED
 msgid "Server Failed To Start"
@@ -97256,7 +97256,7 @@ msgstr "預留槽"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_STEAM_NET_CONNECTION_TIMEOUT
 msgid "Disconnected"
-msgstr "網路連接中斷"
+msgstr "網路連結中斷"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_BANNED
 msgid "Banned"
@@ -97264,7 +97264,7 @@ msgstr "禁止"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_CONNECTION_FAILED
 msgid "Connection Failed"
-msgstr "連接失敗"
+msgstr "連結失敗"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_USER_KICKED
 msgid "Kicked"
@@ -97280,19 +97280,19 @@ msgstr "密碼錯誤"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_NAT_CONNECTION_TO_TARGET_LOST
 msgid "Could Not Connect"
-msgstr "無法連接"
+msgstr "無法連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_NAT_PUNCHTHROUGH_FAILED
 msgid "Could Not Connect"
-msgstr "無法連接"
+msgstr "無法連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_NOT_CONNECTED
 msgid "Could Not Connect"
-msgstr "無法連接"
+msgstr "無法連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_NAT_TARGET_UNRESPONSIVE
 msgid "Could Not Connect"
-msgstr "無法連接"
+msgstr "無法連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_NO_FREE_INCOMING_CONNECTIONS
 msgid "Server Full"
@@ -97328,11 +97328,11 @@ msgstr "無效的用戶端令牌"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
 msgid "Could Not Connect"
-msgstr "無法連接"
+msgstr "無法連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_NOT_ON_WORKSHOP
 msgid "Disconnected Due To Missing Mods"
-msgstr "缺少mod-斷開連接"
+msgstr "缺少mod-斷開連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_ACCESS_DENIED
 msgid "Disconnected Due To Missing Mods"
@@ -97340,11 +97340,11 @@ msgstr "缺少Mod斷開"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_FAILURE
 msgid "Disconnected Due To Missing Mods"
-msgstr "缺少mod-斷開連接"
+msgstr "缺少mod-斷開連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.SERVER_MODS_WORKSHOP_VERSION_MISMATCH
 msgid "Disconnected Due To Missing Mods"
-msgstr "缺少mod-斷開連接"
+msgstr "缺少mod-斷開連結"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.VERSION_HANDSHAKE_FAILED
 msgid "Version Mismatch"
@@ -97388,7 +97388,7 @@ msgstr "看起來這是你第一次玩饑荒聯機版。請點擊下面創建\n�
 
 #: STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY2
 msgid "Account creation will temporarily minimize your game and open your web browser.\nIf this doesn't work, try enabling your Steam overlay."
-msgstr "註冊賬號將最小化你的遊戲並開啟你的網頁瀏\n覽器。如果失敗，請嘗試使你的Steam界\n面（Steam overlay，快捷鍵T\nAB+SHIFT）正常工作。"
+msgstr "註冊帳戶將最小化你的遊戲並開啟你的網頁瀏\n覽器。如果失敗，請嘗試使你的Steam界\n面（Steam overlay，快捷鍵T\nAB+SHIFT）正常工作。"
 
 #: STRINGS.UI.NOAUTHENTICATIONSCREEN.BODY2_FAILEDEMAIL
 msgid "Trying again will temporarily minimize your game and open your web browser."
@@ -97424,7 +97424,7 @@ msgstr "%s被禁止加入這個房間。"
 
 #: STRINGS.UI.NOTIFICATION.CONNECTING
 msgid "Connecting"
-msgstr "連接"
+msgstr "連結"
 
 #: STRINGS.UI.NOTIFICATION.CURRENTLY_SPEAKING
 msgid "Currently Speaking..."
@@ -97452,7 +97452,7 @@ msgstr "斷開"
 
 #: STRINGS.UI.NOTIFICATION.DISCONNECT_KB
 msgid ") to Disconnect"
-msgstr "斷開連接"
+msgstr "斷開連結"
 
 #: STRINGS.UI.NOTIFICATION.INITIALIZING_SERVER
 msgid "Initializing Server"
@@ -97628,7 +97628,7 @@ msgstr "請求登入"
 
 #: STRINGS.UI.OPTIONS.FULLSCREEN
 msgid "Fullscreen:"
-msgstr "全屏幕"
+msgstr "全螢幕"
 
 #: STRINGS.UI.OPTIONS.FX
 msgid "Sound FX Volume:"
@@ -97636,15 +97636,15 @@ msgstr "特效"
 
 #: STRINGS.UI.OPTIONS.HUDSIZE
 msgid "HUD Size:"
-msgstr "界面尺寸"
+msgstr "介面尺寸"
 
 #: STRINGS.UI.OPTIONS.INPUT
 msgid "Input Device:"
-msgstr "輸入設備"
+msgstr "輸入裝置"
 
 #: STRINGS.UI.OPTIONS.KLEI_ID_PREFIX
 msgid "Klei ID: "
-msgstr "Klei賬號："
+msgstr "Klei帳戶："
 
 #: STRINGS.UI.OPTIONS.LANGUAGES
 msgid "Languages"
@@ -97712,7 +97712,7 @@ msgstr "回到遊戲"
 
 #: STRINGS.UI.OPTIONS.SCREENSHAKE
 msgid "Screen Shake:"
-msgstr "屏幕抖動"
+msgstr "螢幕抖動"
 
 #: STRINGS.UI.OPTIONS.SETTINGS
 msgid "Settings"
@@ -97752,7 +97752,7 @@ msgstr "查看更多選項"
 
 #: STRINGS.UI.OPTIONS.TOOLTIP_SETTINGS
 msgid "Modify features of the game and user interface"
-msgstr "修改遊戲功能和用戶界面"
+msgstr "修改遊戲功能和用戶介面"
 
 #: STRINGS.UI.OPTIONS.VIBRATION
 msgid "Vibration:"
@@ -97800,7 +97800,7 @@ msgstr "遊戲仍在繼續"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITBODY
 msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
-msgstr "你確定要關閉房間？\n如果你這樣做，所有玩家都會斷開連接。"
+msgstr "你確定要關閉房間？\n如果你這樣做，所有玩家都會斷開連結。"
 
 #: STRINGS.UI.PAUSEMENU.HOSTQUITTITLE
 msgid "Shut Down Server"
@@ -98076,7 +98076,7 @@ msgstr "我的藏品"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
 msgid "View missed connections and revisit past lives"
-msgstr "查看曾經嘗試過的連接，重溫過去的生活"
+msgstr "查看曾經嘗試過的連結，重溫過去的生活"
 
 #: STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
 msgid "Open chests to receive new curios"
@@ -98140,15 +98140,15 @@ msgstr "出現了一些錯誤當試圖直接加入伺服器的時候\n。"
 
 #: STRINGS.UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME
 msgid "Your server will not be joinable until the name or description has been changed. Repeated violations will result in a permanent ban."
-msgstr "你的世界無法連接，除非你更改名稱或描述。\n多次重複操作將導致永久封禁。"
+msgstr "你的世界無法連結，除非你更改名稱或描述。\n多次重複操作將導致永久封禁。"
 
 #: STRINGS.UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_DESC
 msgid "Your server will not be joinable until the description has been changed. Repeated violations will result in a permanent ban."
-msgstr "你的世界無法連接，除非你更改描述。\n多次重複操作將導致永久封禁。"
+msgstr "你的世界無法連結，除非你更改描述。\n多次重複操作將導致永久封禁。"
 
 #: STRINGS.UI.POPUPDIALOG.BODY.SERVER_ERROR_BANNED_GAME_NAME
 msgid "Your server will not be joinable until the name has been changed. Repeated violations will result in a permanent ban."
-msgstr "你的世界無法連接，除非你更改名稱。\n多次重複操作將導致永久封禁。"
+msgstr "你的世界無法連結，除非你更改名稱。\n多次重複操作將導致永久封禁。"
 
 #: STRINGS.UI.POPUPDIALOG.OK
 msgid "OK"
@@ -98276,7 +98276,7 @@ msgstr "尋找伺服器"
 
 #: STRINGS.UI.QUICKJOINSCREEN.CONNECTING_TO_SERVER
 msgid "Connecting to Server: {server}"
-msgstr "連接到伺服器：{server}"
+msgstr "連結到伺服器：{server}"
 
 #: STRINGS.UI.QUICKJOINSCREEN.JOIN_BTN
 msgid "Join"
@@ -98504,7 +98504,7 @@ msgstr "取消"
 
 #: STRINGS.UI.REDEEMDIALOG.FAILED_TO_CONTACT
 msgid "Sorry, it looks like the server's not answering right now. Please try again later."
-msgstr "對不起，看上去是伺服器未響應。請稍後再試\n。"
+msgstr "對不起，看上去是伺服器沒有回應。請稍後再試\n。"
 
 #: STRINGS.UI.REDEEMDIALOG.INVALID_CODE
 msgid "That code wasn't quite right. Please try again."
@@ -98528,7 +98528,7 @@ msgstr "添加%s"
 
 #: STRINGS.UI.SANDBOXMENU.ADDLEVEL_WARNING
 msgid "This requires running multiple servers at the same time.\nIs your computer up to the task?"
-msgstr "這需要同時運行多個服務端。\n你的計算機能夠完成任務嗎？"
+msgstr "這需要同時運行多個伺服端。\n你的電腦能夠完成任務嗎？"
 
 #: STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.1
 msgid "A Cold Reception"
@@ -98568,7 +98568,7 @@ msgstr "秋或春"
 
 #: STRINGS.UI.SANDBOXMENU.BRANCHINGANY
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.SANDBOXMENU.BRANCHINGLEAST
 msgid "Least"
@@ -98656,7 +98656,7 @@ msgstr "秋季"
 
 #: STRINGS.UI.SANDBOXMENU.DEFAULTSTART
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.SANDBOXMENU.DISABLEDLEVEL
 msgid "No %s"
@@ -98760,7 +98760,7 @@ msgstr "從不"
 
 #: STRINGS.UI.SANDBOXMENU.LOOPRANDOM
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.SANDBOXMENU.MAINMENU
 msgid "Cancel"
@@ -98796,7 +98796,7 @@ msgstr "額外內容"
 
 #: STRINGS.UI.SANDBOXMENU.PS4_SLIDESMALL
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.SANDBOXMENU.PS4_SLIDESMEDIUM
 msgid "Big"
@@ -98856,7 +98856,7 @@ msgstr "複雜"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEDEFAULT
 msgid "Default"
-msgstr "默認"
+msgstr "預設"
 
 #: STRINGS.UI.SANDBOXMENU.SLIDEFAST
 msgid "Fast"
@@ -99524,11 +99524,11 @@ msgstr "的世界」沒有描述。"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX
 msgid "Use of user-generated media is not allowed for your account.\nOnline players will see your server name as \""
-msgstr "您的賬號不允許使用用戶創建的文件。\n在線玩家將看到您的伺服器的名稱是「"
+msgstr "您的帳戶不允許使用用戶創建的文件。\n在線玩家將看到您的伺服器的名稱是「"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.UGC_BLOCKED_DESCRIPTION_PREFIX_SPLITSCREEN
 msgid "Use of user-generated media is not allowed for the signed in accounts.\nOnline players will see your server name as \""
-msgstr "登入的賬號不允許使用用戶創建的文件。\n在線玩家將看到您的伺服器的名稱是「"
+msgstr "登入的帳戶不允許使用用戶創建的文件。\n在線玩家將看到您的伺服器的名稱是「"
 
 #: STRINGS.UI.SERVERCREATIONSCREEN.VIEWWORLD
 msgid "View World"
@@ -99856,7 +99856,7 @@ msgstr "沒有標籤"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.NO_CONNECTION
 msgid "Not Connected"
-msgstr "未連接"
+msgstr "未連結"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER
 msgid "Network Error"
@@ -99864,7 +99864,7 @@ msgstr "網路錯誤"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.NO_CONNECTION_TO_MASTER_SERVER_DESC
 msgid "Failed to connect to the master server.\nPlease check your network connection."
-msgstr "無法連接主機。\n請檢查您的網路連接。"
+msgstr "無法連結主機。\n請檢查您的網路連結。"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.NO_DESC
 msgid "[No Description]"
@@ -100056,7 +100056,7 @@ msgstr "不再顯示"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.SORTING_TYPES.PING
 msgid "Best Connection"
-msgstr "連接速度"
+msgstr "連結速度"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.SORTING_TYPES.PLAYERCOUNT
 msgid "Most Active Players"
@@ -100216,11 +100216,11 @@ msgstr "無"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_BODY
 msgid "You are now in offline mode.\nYour item collection is not available in offline mode.\nPlease check your connection and log in again."
-msgstr "您正處於離線模式。\n您的藏品無法在離線模式中使用。\n請檢查您的網路連接並重新登入。"
+msgstr "您正處於離線模式。\n您的藏品無法在離線模式中使用。\n請檢查您的網路連結並重新登入。"
 
 #: STRINGS.UI.SKINSSCREEN.NOW_OFFLINE_TITLE
 msgid "Network Connection Lost"
-msgstr "失去網路連接"
+msgstr "失去網路連結"
 
 #: STRINGS.UI.SKINSSCREEN.NO_ITEMS
 msgid "Start playing to earn items!"
@@ -101176,7 +101176,7 @@ msgstr "勝利！"
 
 #: STRINGS.UI.WXPLOBBYPANEL.LEADERBOARD_ERROR
 msgid "Unable to connect to leaderboard server."
-msgstr "無法連接到排行榜伺服器。"
+msgstr "無法連結到排行榜伺服器。"
 
 #: STRINGS.UI.WXPLOBBYPANEL.LEVEL_UP
 msgid "LEVEL UP!"
@@ -101344,11 +101344,11 @@ msgstr "勝利"
 
 #: STRINGS.UI.XB1_USER_DIALOG.CONTROLLER_2_DISCONNECTED
 msgid "Player 2's controller disconnected"
-msgstr "玩家2的控制器斷開連接"
+msgstr "玩家2的控制器斷開連結"
 
 #: STRINGS.UI.XB1_USER_DIALOG.MAIN_CONTROLLER_DISCONNECTED
 msgid "Main controller disconnected."
-msgstr "主控制器斷開連接"
+msgstr "主控制器斷開連結"
 
 #: STRINGS.UI.XB1_USER_DIALOG.PRESS_A_ON_NEW
 msgid "Press A on a new one to continue."
@@ -101356,7 +101356,7 @@ msgstr "在新控制器上按A繼續遊戲。"
 
 #: STRINGS.UI.XB1_USER_DIALOG.PRESS_A_TO_SWAP_USER
 msgid "Press A to connect as the main user."
-msgstr "按A以作為主用戶連接。"
+msgstr "按A以作為主用戶連結。"
 
 #: STRINGS.UI.XB1_USER_DIALOG.SIGN_IN
 msgid "Sign In"
@@ -102828,7 +102828,7 @@ msgstr "一種樸素的穿鞋方式。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.feet_wx78_wip
 msgid "Archaic foundational apparatuses."
-msgstr "陳舊的基礎設備。"
+msgstr "陳舊的基礎裝置。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
 msgid "The spikes on these cuffs look scary, but they're actually quite soft."
@@ -102904,7 +102904,7 @@ msgstr "將你的頭像設定為萬聖節生命樹。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_mad_science
 msgid "Set your profile icon to the apparatus of mad science."
-msgstr "將你的頭像設定為瘋狂的科學設備。"
+msgstr "將你的頭像設定為瘋狂的科學裝置。"
 
 #: STRINGS.SKIN_DESCRIPTIONS.profileflair_potion_sanity
 msgid "Set your profile icon to the entirely rational Sensible Potion."
@@ -108896,7 +108896,7 @@ msgstr "好幾十人為此受傷，哈哈"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.SCULPTURE_BISHOPBODY.UNCOVERED
 msgid "DETACHED HEADS UPSET THE FLESHLINGS. HA HA"
-msgstr "未連接的頭部會讓那些肉塊生物難過。哈哈"
+msgstr "未連結的頭部會讓那些肉塊生物難過。哈哈"
 
 #: STRINGS.CHARACTERS.WX78.DESCRIBE.TRINKET_35
 msgid "THE CONTENTS PROBABLY KILLED A HUMAN. HA HA"
@@ -109964,7 +109964,7 @@ msgstr "啟用動態內容"
 
 #: STRINGS.UI.NETWORKDISCONNECT.BODY.E_DELETED
 msgid "Your account has been marked for deletion and cannot be used anymore."
-msgstr "你的賬號已登記刪除，將不能再使用。"
+msgstr "你的帳戶已登記刪除，將不能再使用。"
 
 #: STRINGS.UI.NETWORKDISCONNECT.TITLE.E_DELETED
 msgid "Account Deleted"
@@ -121403,7 +121403,7 @@ msgstr "廚師袋"
 
 #: STRINGS.NAMES.SPICE_CHILI
 msgid "Chili Flakes"
-msgstr "辣椒面"
+msgstr "辣椒麵"
 
 #: STRINGS.NAMES.SPICE_CHILI_FOOD
 msgid "Spicy {food}"
